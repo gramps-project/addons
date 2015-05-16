@@ -1,6 +1,6 @@
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportation des extensions Gedcom (GED2)',"v":'1.0.14',"g":'4.2',"d":'Extensions du format courant Gedcom.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.3',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
-{"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.1',"g":'4.2',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
+{"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.2',"g":'4.2',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.23',"g":'4.2',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Export Django',"v":'1.0.28',"g":'4.2',"d":'Django est un environnement internet fonctionnant avec une base de données configurée',"z":'Django.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
