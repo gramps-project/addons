@@ -3,6 +3,7 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.2',"g":'4.2',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.23',"g":'4.2',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Django Export',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.11',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django Įkėlimas',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.27',"g":'4.2',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
