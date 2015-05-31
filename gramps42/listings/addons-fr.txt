@@ -4,6 +4,7 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.23',"g":'4.2',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.28',"g":'4.2',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Export Django',"v":'1.0.28',"g":'4.2',"d":'Django est un environnement internet fonctionnant avec une base de données configurée',"z":'Django.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.11',"g":'4.2',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.0.29',"g":'4.2',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Import Django',"v":'1.0.28',"g":'4.2',"d":'Django est un environnement internet fonctionnant avec une base de données configurée',"z":'Django.addon.tgz'}
@@ -51,7 +52,7 @@
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.2',"g":'4.2',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.31',"g":'4.2',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.25',"g":'4.2',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
-{"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.6',"g":'4.2',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.7',"g":'4.2',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.0.25',"g":'4.2',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.24',"g":'4.2',"d":'Affiche toutes les lignes de descendants d\'un ancêtre donné à un descendant choisi dans un format textuel.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.14',"g":'4.2',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}

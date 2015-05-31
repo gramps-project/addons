@@ -4,6 +4,7 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.23',"g":'4.2',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.28',"g":'4.2',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Django Export',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.11',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.29',"g":'4.2',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django Import',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
@@ -51,7 +52,7 @@
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.2',"g":'4.2',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.31',"g":'4.2',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.25',"g":'4.2',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
-{"t":'Report',"i":'FamilyTree',"n":'Family Tree',"v":'4.2.6',"g":'4.2',"d":'Produces a graphical family tree.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'FamilyTree',"n":'Family Tree',"v":'4.2.7',"g":'4.2',"d":'Produces a graphical family tree.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Last Change Report',"v":'0.0.25',"g":'4.2',"d":'Report of the last records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.24',"g":'4.2',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.14',"g":'4.2',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
