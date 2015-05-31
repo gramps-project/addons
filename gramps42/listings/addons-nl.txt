@@ -2,8 +2,10 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.3',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.2',"g":'4.2',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Ruwe export',"v":'1.0.23',"g":'4.2',"d":'Dit is een ruwe \'python object\'-dump',"z":'ExportRaw.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'\'Sqlite\'-export',"v":'1.0.28',"g":'4.2',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Django-export',"v":'1.0.28',"g":'4.2',"d":'Django is een webstructuur die draait op een geconfigureerd gegevensbestand',"z":'Django.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.0.29',"g":'4.2',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django-import',"v":'1.0.28',"g":'4.2',"d":'Django is een webstructuur die draait op een geconfigureerd gegevensbestand',"z":'Django.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.0.27',"g":'4.2',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django-import',"v":'1.0.27',"g":'4.2',"d":'Django is een webstructuur die draait op een geconfigureerd gegevensbestand',"z":'Django.addon.tgz'}
