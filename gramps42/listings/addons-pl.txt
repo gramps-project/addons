@@ -5,6 +5,7 @@
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.28',"g":'4.2',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Django Export',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.11',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Query Gramplet',"n":'Query Gramplet',"v":'1.0.22',"g":'4.2',"d":'Gramplet for running SQL-like queries',"z":'Query.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.29',"g":'4.2',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django Import',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
@@ -44,7 +45,7 @@
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.21',"g":'4.2',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Descendant Count',"v":'1.0.22',"g":'4.2',"d":'Display descendant counts for each person.',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Number of descendants',"v":'3.4.20',"g":'4.2',"d":'Shows the number of descendants of the current person',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.21',"g":'4.2',"d":'Quick view for SQL-like running queries',"z":'Query.addon.tgz'}
+{"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.22',"g":'4.2',"d":'Quick view for SQL-like running queries',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Wszystkie imiona wszystkich osób',"v":'1.0.19',"g":'4.2',"d":'Display all names of all people',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Oś czasu',"v":'1.0.22',"g":'4.2',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.2',"g":'4.2',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
