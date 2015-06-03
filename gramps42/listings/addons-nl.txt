@@ -6,7 +6,7 @@
 {"t":'Exporter',"i":'export_django',"n":'Django-export',"v":'1.0.28',"g":'4.2',"d":'Django is een webstructuur die draait op een geconfigureerd gegevensbestand',"z":'Django.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagsgramplet',"v":'1.0.26',"g":'4.2',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Census Gramplet',"n":'Volkstelling-gramplet',"v":'1.0.29',"g":'4.2',"d":'Gramplet interface for census data',"z":'Census.addon.tgz'}
-{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Klembordgramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet om gegevens te groeperen',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Klembordgramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet om gegevens te groeperen',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Klokgramplet',"v":'0.0.21',"g":'4.2',"d":'Gramplet om de grafische mogelijkheden van \'Cairo\' te tonen',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gegevensingave-gramplet',"v":'1.0.31',"g":'4.2',"d":'Gramplet om gegevens snel in te voeren',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'\'Verre relaties\'-gramplet',"v":'1.0.24',"g":'4.2',"d":'Gramplet die de verre relatie tussen twee de actieve en de thuispersoon toont',"z":'DeepConnectionsGramplet.addon.tgz'}

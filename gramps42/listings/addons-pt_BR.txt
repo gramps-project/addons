@@ -6,7 +6,7 @@
 {"t":'Exporter',"i":'export_django',"n":'Django Export',"v":'1.0.28',"g":'4.2',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Gramplet de aniversários',"v":'1.0.26',"g":'4.2',"d":'Gramplet que mostra os aniversários das pessoas vivas',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Census Gramplet',"n":'Census Gramplet',"v":'1.0.29',"g":'4.2',"d":'Gramplet interface for census data',"z":'Census.addon.tgz'}
-{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet de área de transferência',"v":'1.0.25',"g":'4.2',"d":'Gramplet para agrupamento de itens',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet de área de transferência',"v":'1.0.26',"g":'4.2',"d":'Gramplet para agrupamento de itens',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet de relógio',"v":'0.0.21',"g":'4.2',"d":'Gramplet para demonstração de gráficos Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.31',"g":'4.2',"d":'Gramplet para rápida inserção de dados',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet de relação detalhada',"v":'1.0.24',"g":'4.2',"d":'Gramplet que mostra uma relação detalhada entre a pessoa ativa e a inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
