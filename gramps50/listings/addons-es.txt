@@ -1,1 +1,1 @@
-{"t":'Database',"i":'dbapi',"n":'DB-API 2.0',"v":'1.0.4',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
+{"t":'Database',"i":'dbapi',"n":'DB-API 2.0',"v":'1.0.5',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
