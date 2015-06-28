@@ -15,7 +15,6 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bild Exif Metadaten bearbeiten',"v":'1.5.7',"g":'5.0',"d":'Gramplet zum ansehen, bearbeiten und speichern von Exif Metadaten',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Erweiterte Familienattribute',"v":'1.0.18',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Familie',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.18',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Face Detection',"n":'Gesichtserkennung',"v":'1.0.17',"g":'5.0',"d":'Gramplet zur Erkennung und Zuordnung von Gesichtern',"z":'FaceDetection.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Schlagzeilen Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.24',"g":'5.0',"d":'Gramplet zum Textimport',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Letzte Änderung Gramplet',"v":'0.0.26',"g":'5.0',"d":'Listet die letzten zehn geänderten Personendatensätze',"z":'LastChange.addon.tgz'}
@@ -25,9 +24,7 @@
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.12',"g":'5.0',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.21',"g":'5.0',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Query Gramplet',"n":'Query Gramplet',"v":'1.0.23',"g":'5.0',"d":'Gramplet for running SQL-like queries',"z":'SearchGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Query Gramplet',"n":'Abfrage Gramplet',"v":'1.0.23',"g":'5.0',"d":'Gramplet zum Ausführen SQL-ähnlicher Abfragen',"z":'Query.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte Gramplet',"v":'1.0.22',"g":'5.0',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.8',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.36',"g":'5.0',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.45',"g":'5.0',"d":'Dynamischer Beziehungengraph',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'htmlview',"n":'Html View',"v":'1.0.1',"g":'5.0',"d":'A view showing html pages embedded in Gramps',"z":'HtmlView.addon.tgz'}
@@ -44,7 +41,6 @@
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Anzahl der Nachkommen',"v":'1.0.23',"g":'5.0',"d":'Zeigt die Anzahl der Nachkommen für jede Person.',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Anzahl der Nachkommen',"v":'3.4.21',"g":'5.0',"d":'Zeigt die Anzahl der Nachkommen der aktuellen Person an',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.23',"g":'5.0',"d":'Quick view for SQL-like running queries',"z":'SearchGramplet.addon.tgz'}
-{"t":'Quickreport',"i":'Query Quickview',"n":'Abfrage Schnellansicht',"v":'1.0.23',"g":'5.0',"d":'Schnellansicht für SQL-ähnlich laufende Abfragen',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.20',"g":'5.0',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.23',"g":'5.0',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.3',"g":'5.0',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
