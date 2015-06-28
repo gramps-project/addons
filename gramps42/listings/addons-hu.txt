@@ -14,7 +14,6 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'A kép Exif metaadatainak szerkesztése',"v":'1.5.6',"g":'4.2',"d":'Kép Exif metaadatokat mutató, szerkesztő és mentő gramplet',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Face Detection',"n":'Face Detection',"v":'1.0.16',"g":'4.2',"d":'Gramplet for detecting and assigning faces',"z":'FaceDetection.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Headline News Gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.23',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.25',"g":'4.2',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
@@ -23,9 +22,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.6',"g":'4.2',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.11',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.20',"g":'4.2',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Query Gramplet',"n":'Query Gramplet',"v":'1.0.22',"g":'4.2',"d":'Gramplet for running SQL-like queries',"z":'Query.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.21',"g":'4.2',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.7',"g":'4.2',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.35',"g":'4.2',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graph View',"v":'1.0.44',"g":'4.2',"d":'Dynamic graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.3',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
@@ -40,7 +37,6 @@
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.21',"g":'4.2',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Descendant Count',"v":'1.0.22',"g":'4.2',"d":'Display descendant counts for each person.',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Number of descendants',"v":'3.4.20',"g":'4.2',"d":'Shows the number of descendants of the current person',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.22',"g":'4.2',"d":'Quick view for SQL-like running queries',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'All Names of All People',"v":'1.0.19',"g":'4.2',"d":'Display all names of all people',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Timeline',"v":'1.0.22',"g":'4.2',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.2',"g":'4.2',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
