@@ -1,1 +1,2 @@
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Urklippsgramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet för gruppering av poster',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Arkivplatsrapportalternativ',"v":'0.3.17',"g":'4.2',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}

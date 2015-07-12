@@ -50,7 +50,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Blitz Liste',"v":'1.0.14',"g":'4.2',"d":'Erstellt eine Blitz Liste',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Ahnentafelgrafik',"v":'1.0.25',"g":'4.2',"d":'Alternative Version zur traditionellen Ahnentafelgrafik.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.1',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.16',"g":'4.2',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.17',"g":'4.2',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.16',"g":'4.2',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.21',"g":'4.2',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'census_report',"n":'Zensusbericht',"v":'1.0.29',"g":'4.2',"d":'Bericht der Zensusereignise für eine Person.',"z":'Census.addon.tgz'}
