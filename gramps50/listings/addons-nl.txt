@@ -54,7 +54,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.15',"g":'5.0',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Stamboomgrafiek',"v":'1.0.26',"g":'5.0',"d":'Alternatieve versie van de traditionele stamboomgrafiek',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'5.0',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Bibliothekenverslag',"v":'1.1.17',"g":'5.0',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.19',"g":'5.0',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.17',"g":'5.0',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'\'Nog te doen\'-verslag',"v":'1.2.22',"g":'5.0',"d":'Een lijst van opmerkingen met een bepaalde aanduiding wordt aangemaakt, samen met de gegevens waarnaar verwezen wordt, de persoon, familie, gegeven, enz. .',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'census_report',"n":'Volkstellingsverslag',"v":'1.0.30',"g":'5.0',"d":'Verslag van de volkstellinggebeurtenissen van een persoon.',"z":'Census.addon.tgz'}

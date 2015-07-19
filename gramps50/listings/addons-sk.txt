@@ -54,7 +54,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.15',"g":'5.0',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.26',"g":'5.0',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'5.0',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Správa o archívoch',"v":'1.1.17',"g":'5.0',"d":'Poskytuje textovú správu o archívoch',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.19',"g":'5.0',"d":'Poskytuje textovú správu o archívoch',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.17',"g":'5.0',"d":'Poskytuje textovú správu o archívoch',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Todo Report',"v":'1.2.22',"g":'5.0',"d":'Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'census_report',"n":'Census Report',"v":'1.0.30',"g":'5.0',"d":'Report of census events for a person.',"z":'Census.addon.tgz'}

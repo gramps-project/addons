@@ -54,7 +54,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.15',"g":'5.0',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Arbre graphique',"v":'1.0.26',"g":'5.0',"d":'Version alternative de l\'arbre graphique traditionnel.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Rapport Tout sur la personne',"v":'1.0.2',"g":'5.0',"d":'Produit un rapport contenant tout sur la personne active',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Rapport des dépôts',"v":'1.1.17',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.19',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.17',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Rapport À Faire',"v":'1.2.22',"g":'5.0',"d":'Produit une liste de toutes les notes avec une étiquette donnée ainsi que les enregistrements qui les référencent, l\'individu, la famille, l\'événement, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'census_report',"n":'Rapport de recensement',"v":'1.0.30',"g":'5.0',"d":'Les événements recensement de l\'individu.',"z":'Census.addon.tgz'}
