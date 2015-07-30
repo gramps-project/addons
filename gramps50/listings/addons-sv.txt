@@ -10,6 +10,7 @@
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Urklippsgramplet',"v":'1.0.26',"g":'5.0',"d":'Gramplet för gruppering av poster',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Klock-Gramplet',"v":'0.0.22',"g":'5.0',"d":'Gramplet for demonstrating Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet för datainmatning',"v":'1.0.32',"g":'5.0',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.1',"g":'5.0',"d":'',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet för långa släktskap',"v":'1.0.25',"g":'5.0',"d":'Gramplet visande ett lång släktskap mellan aktiv och hem person',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Gramplet för räkning av ättlingar',"v":'1.0.24',"g":'5.0',"d":'Gramplet for showing people and descendant counts',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigera bilds Exif-metadata',"v":'1.5.7',"g":'5.0',"d":'Gramplet för att se, redigera och spara bilds Exif-metadata',"z":'EditExifMetadata.addon.tgz'}
