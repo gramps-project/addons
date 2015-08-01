@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Clipboard Gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet for grouping items',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Clock Gramplet',"v":'0.0.21',"g":'4.2',"d":'Gramplet for demonstrating Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Data Entry Gramplet',"v":'1.0.31',"g":'4.2',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'4.2',"d":'',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'4.2',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Deep Connections Gramplet',"v":'1.0.24',"g":'4.2',"d":'Gramplet showing a deep relationship between active and home people',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Descendant Count Gramplet',"v":'1.0.23',"g":'4.2',"d":'Gramplet for showing people and descendant counts',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Modifica i metadati Exif dell\'immagine',"v":'1.5.6',"g":'4.2',"d":'Gramplet per visualizzare, modificare e salvare i metadati Exif di un\'immagine',"z":'EditExifMetadata.addon.tgz'}
