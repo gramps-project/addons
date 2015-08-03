@@ -16,7 +16,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'\'Belangrijkste nieuws\'-gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Import Gramplet',"n":'Import-gramplet',"v":'1.0.23',"g":'4.2',"d":'Gramplet om tekst te importeren',"z":'ImportGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Import Gramplet',"n":'Import-gramplet',"v":'1.0.24',"g":'4.2',"d":'Gramplet om tekst te importeren',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'\'Laatste-wijziging\'-gramplet',"v":'0.0.25',"g":'4.2',"d":'De tien laatst gewijzigde persoonsgegevens worden gelijst',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.18',"g":'4.2',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Opmerkingen-gramplet',"v":'1.0.23',"g":'4.2',"d":'Gramplet om de opmerkingen van de actieve persoon te bewerken',"z":'NoteGramplet.addon.tgz'}
