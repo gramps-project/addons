@@ -7,7 +7,7 @@
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.27',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Export Django',"v":'1.0.29',"g":'5.0',"d":'Django est un environnement internet fonctionnant avec une base de données configurée',"z":'Django.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Gramplet Anniversaires',"v":'1.0.27',"g":'5.0',"d":'Ce Gramplet affiche les anniversaires des personnes en vie',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Census Gramplet',"n":'Gramplet Recensement',"v":'1.0.30',"g":'5.0',"d":'Gramplet servant d\'interface aux données de recensement',"z":'Census.addon.tgz'}
+{"t":'Gramplet',"i":'Census Gramplet',"n":'Gramplet Recensement',"v":'1.0.31',"g":'5.0',"d":'Gramplet servant d\'interface aux données de recensement',"z":'Census.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet Presse-papiers',"v":'1.0.26',"g":'5.0',"d":'Gramplet pour regrouper des articles',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet Horloge',"v":'0.0.22',"g":'5.0',"d":'Gramplet pour démontrer les graphiques Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet Formulaire',"v":'1.0.32',"g":'5.0',"d":'Gramplet pour une saisie rapide des données',"z":'DataEntryGramplet.addon.tgz'}
@@ -60,7 +60,7 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.19',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.17',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Rapport À Faire',"v":'1.2.22',"g":'5.0',"d":'Produit une liste de toutes les notes avec une étiquette donnée ainsi que les enregistrements qui les référencent, l\'individu, la famille, l\'événement, etc.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'census_report',"n":'Rapport de recensement',"v":'1.0.30',"g":'5.0',"d":'Les événements recensement de l\'individu.',"z":'Census.addon.tgz'}
+{"t":'Report',"i":'census_report',"n":'Rapport de recensement',"v":'1.0.31',"g":'5.0',"d":'Les événements recensement de l\'individu.',"z":'Census.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Ancestral Collapsible Tree',"v":'1.0.17',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.17',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.17',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
