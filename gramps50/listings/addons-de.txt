@@ -1,7 +1,7 @@
 {"t":'Database',"i":'dbapi',"n":'DB-API 2.0 Database Backend',"v":'1.0.27',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
 {"t":'Database',"i":'djangodb',"n":'Django Database Backend',"v":'1.0.3',"g":'5.0',"d":'Django Object Relational Model Database Backend',"z":'DjangoBackend.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.15',"g":'5.0',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
-{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.4',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.5',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.3',"g":'5.0',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Rohdaten Export',"v":'1.0.24',"g":'5.0',"d":'Dies ist eine Rohdaten Pythonobjekt Ausgabe',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.27',"g":'5.0',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
@@ -30,7 +30,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.9',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.36',"g":'5.0',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.49',"g":'5.0',"d":'Dynamischer Beziehungengraph',"z":'GraphView.addon.tgz'}
-{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.4',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.5',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.28',"g":'5.0',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django Import',"v":'1.0.29',"g":'5.0',"d":'Django ist ein Web Programmgerüst das auf einer konfigurierten Datenbank arbeitet',"z":'Django.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.32',"g":'5.0',"d":'Erstellt Datendatei für GoogleEarth und öffnet sie',"z":'GoogleEarthWriteKML.addon.tgz'}
