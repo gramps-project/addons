@@ -1,5 +1,5 @@
-{"t":'Database',"i":'dbapi',"n":'DB-API 2.0 Database Backend',"v":'1.0.27',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
-{"t":'Database',"i":'djangodb',"n":'Django Database Backend',"v":'1.0.3',"g":'5.0',"d":'Django Object Relational Model Database Backend',"z":'DjangoBackend.addon.tgz'}
+{"t":'Database',"i":'dbapi',"n":'DB-API 2.0 Database Backend',"v":'1.0.28',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
+{"t":'Database',"i":'djangodb',"n":'Django Database Backend',"v":'1.0.4',"g":'5.0',"d":'Django Object Relational Model Database Backend',"z":'DjangoBackend.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.15',"g":'5.0',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.5',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.3',"g":'5.0',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
@@ -20,7 +20,7 @@
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Schlagzeilen Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.26',"g":'5.0',"d":'Gramplet zum Textimport',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Letzte Änderung Gramplet',"v":'0.0.26',"g":'5.0',"d":'Listet die letzten zehn geänderten Personendatensätze',"z":'LastChange.addon.tgz'}
-{"t":'Gramplet',"i":'MediaBrowser',"n":'Medienbrowser',"v":'1.0.19',"g":'5.0',"d":'Gramplet zeigt Details einer Person',"z":'MediaBrowser.addon.tgz'}
+{"t":'Gramplet',"i":'MediaBrowser',"n":'Medienbrowser',"v":'1.0.20',"g":'5.0',"d":'Gramplet zeigt Details einer Person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notiz Gramplet',"v":'1.0.24',"g":'5.0',"d":'Gramplet zum bearbeiten der Notizen der aktiven Person',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Beteiligte',"v":'1.0.7',"g":'5.0',"d":'Gramplet zeigt die Beteiligten eines Ereignis',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.12',"g":'5.0',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
