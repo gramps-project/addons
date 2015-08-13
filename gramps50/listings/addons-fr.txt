@@ -33,7 +33,7 @@
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.5',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.0.28',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Import Django',"v":'1.0.29',"g":'5.0',"d":'Django est un environnement internet fonctionnant avec une base de données configurée',"z":'Django.addon.tgz'}
-{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.33',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
+{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.34',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.17',"g":'5.0',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.23',"g":'5.0',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Ensemble de liens internet anglo-saxons',"v":'1.0.30',"g":'5.0',"d":'Collection de sites internet pour le Royaume-uni (nécessite libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
