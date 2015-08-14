@@ -27,9 +27,9 @@
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet Python',"v":'1.0.21',"g":'5.0',"d":'Un interpréteur python interactif',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Query Gramplet',"n":'Query Gramplet',"v":'1.0.23',"g":'5.0',"d":'Gramplet for running SQL-like queries',"z":'SearchGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Gramplet Parentés',"v":'1.0.22',"g":'5.0',"d":'Gramplet affichant les parentés dans une relation',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.9',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.36',"g":'5.0',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.49',"g":'5.0',"d":'Graphique dynamique des relations',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.10',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.37',"g":'5.0',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.50',"g":'5.0',"d":'Graphique dynamique des relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.5',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.0.28',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Import Django',"v":'1.0.29',"g":'5.0',"d":'Django est un environnement internet fonctionnant avec une base de données configurée',"z":'Django.addon.tgz'}
@@ -45,9 +45,9 @@
 {"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.23',"g":'5.0',"d":'Quick view for SQL-like running queries',"z":'SearchGramplet.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Tous les noms pour tous les individus',"v":'1.0.20',"g":'5.0',"d":'Affiche tous les noms de tous les individus',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Graphique temporel',"v":'1.0.23',"g":'5.0',"d":'Affiche les événements d\'une personne tout au long de sa vie',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.5',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.6',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.6',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.33',"g":'5.0',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.34',"g":'5.0',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.26',"g":'5.0',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.8',"g":'5.0',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.0.26',"g":'5.0',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
@@ -71,4 +71,4 @@
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.20',"g":'5.0',"d":'Fusionne les objets principaux via la ligne de commande',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Télécharge des objets media depuis internet',"v":'1.0.2',"g":'5.0',"d":'Cet outil télécharge des fichiers depuis internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Vérification des media',"v":'1.0.8',"g":'5.0',"d":'Vérifier si l\'objet medium est présent avec le bon chemin ',"z":'MediaVerify.addon.tgz'}
-{"t":'Tool',"i":'thumbgen',"n":'Générateur de miniature',"v":'1.0.16',"g":'5.0',"d":'Génère des miniatures de nos fichiers media',"z":'ThumbnailGenerator.addon.tgz'}
+{"t":'Tool',"i":'thumbgen',"n":'Générateur de miniature',"v":'1.0.17',"g":'5.0',"d":'Génère des miniatures de nos fichiers media',"z":'ThumbnailGenerator.addon.tgz'}
