@@ -57,7 +57,7 @@
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.8',"g":'4.2',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.23',"g":'4.2',"d":'Generates a web (XHTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attach Source',"v":'0.0.25',"g":'4.2',"d":'Attaches a shared source to multiple objects.',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.27',"g":'4.2',"d":'Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.',"z":'PlaceCompletion.addon.tgz'}
+{"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.28',"g":'4.2',"d":'Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.20',"g":'4.2',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcular Dates Estimades',"v":'0.90.21',"g":'4.2',"d":'Calcula les dates estimades de naixement i defunció.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Fix Capitalization of Given Names',"v":'1.0.23',"g":'4.2',"d":'Searches the entire database and attempts to fix capitalization of the given names.',"z":'ChangeGivenNames.addon.tgz'}
