@@ -1,4 +1,4 @@
-{"t":'Database',"i":'dbapi',"n":'DB-API 2.0 Database Backend',"v":'1.0.30',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
+{"t":'Database',"i":'dbapi',"n":'DB-API 2.0 Database Backend',"v":'1.0.31',"g":'5.0',"d":'DB-API 2.0 Database Backend',"z":'DBAPIBackend.addon.tgz'}
 {"t":'Database',"i":'djangodb',"n":'Django Database Backend',"v":'1.0.10',"g":'5.0',"d":'Django Object Relational Model Database Backend',"z":'DjangoBackend.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Export GEDCOM Extensions (GED2)',"v":'1.0.15',"g":'5.0',"d":'Extensions to the common GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.5',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
