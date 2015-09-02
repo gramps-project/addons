@@ -34,10 +34,10 @@
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.28',"g":'5.0',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Importer',"i":'import_django',"n":'Django Import',"v":'1.0.29',"g":'5.0',"d":'Django is a web framework working on a configured database',"z":'Django.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.34',"g":'5.0',"d":'Creates data file for GoogleEarth and opens it',"z":'GoogleEarthWriteKML.addon.tgz'}
-{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Pacote de conexão Web para DE',"v":'0.0.17',"g":'5.0',"d":'Coleção de páginas Web para DE (precisa do libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.23',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Pacote de conexão Web para DE',"v":'0.0.18',"g":'5.0',"d":'Coleção de páginas Web para DE (precisa do libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.24',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.31',"g":'5.0',"d":'Collection of Web sites for the UK (requires libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.32',"g":'5.0',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.33',"g":'5.0',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.22',"g":'5.0',"d":'Provides a library for generic access to the database and gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.22',"g":'5.0',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Contagem de descendentes',"v":'1.0.23',"g":'5.0',"d":'Mostra a quantidade de descendentes de cada pessoa',"z":'DescendantCount.addon.tgz'}
