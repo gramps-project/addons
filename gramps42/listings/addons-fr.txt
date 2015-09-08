@@ -63,5 +63,5 @@
 {"t":'Tool',"i":'chgivenname',"n":'Réparer la casse des prénoms',"v":'1.0.23',"g":'4.2',"d":'Recherche dans toute la base de données et essaye de corriger la casse des prénoms.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.19',"g":'4.2',"d":'Fusionne les objets principaux via la ligne de commande',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Télécharge des objets media depuis internet',"v":'1.0.1',"g":'4.2',"d":'Cet outil télécharge des fichiers depuis internet',"z":'DownloadMedia.addon.tgz'}
-{"t":'Tool',"i":'mediaverify',"n":'Vérification des media',"v":'1.0.7',"g":'4.2',"d":'Vérifier si l\'objet medium est présent avec le bon chemin ',"z":'MediaVerify.addon.tgz'}
+{"t":'Tool',"i":'mediaverify',"n":'Vérification des media',"v":'1.0.8',"g":'4.2',"d":'Vérifier si l\'objet medium est présent avec le bon chemin ',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Générateur de miniature',"v":'1.0.15',"g":'4.2',"d":'Génère des miniatures de nos fichiers media',"z":'ThumbnailGenerator.addon.tgz'}
