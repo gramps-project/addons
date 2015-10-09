@@ -1,6 +1,7 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.7',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Gramplet',"i":'Census Gramplet',"n":'Census Gramplet',"v":'1.0.30',"g":'4.2',"d":'Gramplet interface for census data',"z":'Census.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Urklippsgramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet för gruppering av poster',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet för datainmatning',"v":'1.0.32',"g":'4.2',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'4.2',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet för långa släktskap',"v":'1.0.25',"g":'4.2',"d":'Gramplet visande ett lång släktskap mellan aktiv och hem person',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
