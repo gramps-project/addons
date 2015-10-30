@@ -5,7 +5,6 @@
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.28',"g":'4.2',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Exporter',"i":'export_django',"n":'Django Export',"v":'1.0.28',"g":'4.2',"d":'Django ist ein Web Programmgerüst das auf einer konfigurierten Datenbank arbeitet',"z":'Django.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Geburtstags Gramplet',"v":'1.0.26',"g":'4.2',"d":'ein Gramplet welches die Geburtstage von lebenden Personen zeigt',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Census Gramplet',"n":'Zensus Gramplet',"v":'1.0.30',"g":'4.2',"d":'Gramplet Schnittstelle für Zensusdaten',"z":'Census.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Zwischenablage Gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet zum gruppieren von Elementen',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhren Gramplet',"v":'0.0.21',"g":'4.2',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.32',"g":'4.2',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
@@ -52,7 +51,6 @@
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.18',"g":'4.2',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.21',"g":'4.2',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'census_report',"n":'Zensusbericht',"v":'1.0.30',"g":'4.2',"d":'Bericht der Zensusereignise für eine Person.',"z":'Census.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.16',"g":'4.2',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Datenbankunterschiede Bericht',"v":'1.0.8',"g":'4.2',"d":'Vergleicht eine externe Datenbank mit der aktuell geöffneten.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.23',"g":'4.2',"d":'Erstellt eine Web (XHTML) Seite mit einer Grafischen Darstellung von Ahnen/ Nachkommen (SVG) auf der Details über Personen durch Mausereignisse sichtbar werden.',"z":'DenominoViso.addon.tgz'}

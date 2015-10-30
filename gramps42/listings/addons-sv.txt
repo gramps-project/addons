@@ -1,5 +1,4 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.7',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
-{"t":'Gramplet',"i":'Census Gramplet',"n":'Census Gramplet',"v":'1.0.30',"g":'4.2',"d":'Gramplet interface for census data',"z":'Census.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Urklippsgramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet för gruppering av poster',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet för datainmatning',"v":'1.0.32',"g":'4.2',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'4.2',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
@@ -14,7 +13,6 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.40',"g":'4.2',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Arkivplatsrapportalternativ',"v":'0.3.18',"g":'4.2',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'census_report',"n":'Folkräkningsrapport',"v":'1.0.30',"g":'4.2',"d":'Rapport över folkräkningshändelser för en person',"z":'Census.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Platskomplettering',"v":'0.0.28',"g":'4.2',"d":'Lämnar en bläddringsbar lista på valda platser, med möjlighet att komplettera/avsöka/sätta attributfältet.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ordna stavning av förnamn',"v":'1.0.24',"g":'4.2',"d":'Söker igenom hela databasen och försöker ordna stavning av förnamnen',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.8',"g":'4.2',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}
