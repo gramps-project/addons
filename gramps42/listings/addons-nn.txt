@@ -14,6 +14,7 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Rediger Exif Metadata for bilete',"v":'1.5.6',"g":'4.2',"d":'Smågramps for å sjå, redigera og lagra Exif metadata for bilete',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
+{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.0","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Headline News Gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.25',"g":'4.2',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
