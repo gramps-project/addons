@@ -11,7 +11,7 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'4.2',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Connexions approfondies',"v":'1.0.25',"g":'4.2',"d":'Gramplet affichant les relations étroites entre la souche et les autres individus',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Gramplet Calcul de descendants',"v":'1.0.23',"g":'4.2',"d":'Gramplet pour afficher les individus et le nombre de leurs descendants',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Éditer les métadonnées Exif de l\'image',"v":'1.5.6',"g":'4.2',"d":'Gramplet pour voir, éditer, et enregistrer les métadonnées Exif de l\'image',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Éditer les métadonnées Exif de l\'image',"v":'1.5.7',"g":'4.2',"d":'Gramplet pour voir, éditer, et enregistrer les métadonnées Exif de l\'image',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Attributs étendus de la famille',"v":'1.0.17',"g":'4.2',"d":'Gramplet affichant les attributs d\'une famille',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Attributs étendus de l\'individu',"v":'1.0.17',"g":'4.2',"d":'Gramplet affichant les attributs d\'un individu',"z":'ExtendedAttributes.addon.tgz'}
 {"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.0","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}

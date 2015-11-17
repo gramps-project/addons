@@ -3,6 +3,7 @@
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet för datainmatning',"v":'1.0.32',"g":'4.2',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'4.2',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet för långa släktskap',"v":'1.0.25',"g":'4.2',"d":'Gramplet visande ett lång släktskap mellan aktiv och hem person',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigera bilds Exif-metadata',"v":'1.5.7',"g":'4.2',"d":'Gramplet för att se, redigera och spara bilds Exif-metadata',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.12',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.50',"g":'4.2',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
