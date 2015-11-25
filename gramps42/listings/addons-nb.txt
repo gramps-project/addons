@@ -14,7 +14,10 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigere Metadata for bilde',"v":'1.5.7',"g":'4.2',"d":'Smågramps for å vise, redigere og lagre Exif-metadata for bilder',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.0","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
+<<<<<<< HEAD
+{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.1","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
+=======
+>>>>>>> parent of 8d6731c... Add new Form gramplet
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Siste nyheter Smågramps',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.25',"g":'4.2',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
