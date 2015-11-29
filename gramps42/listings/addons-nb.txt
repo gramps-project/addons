@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 <<<<<<< HEAD
-{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.1","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
+{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.2","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
 =======
 >>>>>>> parent of 8d6731c... Add new Form gramplet
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Siste nyheter Smågramps',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
