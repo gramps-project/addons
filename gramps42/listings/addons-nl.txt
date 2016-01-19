@@ -14,10 +14,7 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Exif-metagegevens aanpassen',"v":'1.5.7',"g":'4.2',"d":'Een gramplet om de Exif-beeldmetagegevens te zien, aan te passen of op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
-<<<<<<< HEAD
 {"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.2","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
-=======
->>>>>>> parent of 8d6731c... Add new Form gramplet
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'\'Belangrijkste nieuws\'-gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import-gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet om tekst te importeren',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'\'Laatste-wijziging\'-gramplet',"v":'0.0.25',"g":'4.2',"d":'De tien laatst gewijzigde persoonsgegevens worden gelijst',"z":'LastChange.addon.tgz'}
