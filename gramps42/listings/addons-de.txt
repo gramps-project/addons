@@ -14,12 +14,14 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bild Exif Metadaten bearbeiten',"v":'1.5.7',"g":'4.2',"d":'Gramplet zum ansehen, bearbeiten und speichern von Exif Metadaten',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Erweiterte Familienattribute',"v":'1.0.17',"g":'4.2',"d":'Gramplet zeigt die Attribute einer Familie',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.17',"g":'4.2',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.2","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
+{"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.4',"g":'4.2',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
+{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.3","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Schlagzeilen Gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet zum Textimport',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Letzte Änderung Gramplet',"v":'0.0.25',"g":'4.2',"d":'Listet die letzten zehn geänderten Personendatensätze',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Medienbrowser',"v":'1.0.18',"g":'4.2',"d":'Gramplet zeigt Details einer Person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notiz Gramplet',"v":'1.0.23',"g":'4.2',"d":'Gramplet zum bearbeiten der Notizen der aktiven Person',"z":'NoteGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.4',"g":'4.2',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Beteiligte',"v":'1.0.6',"g":'4.2',"d":'Gramplet zeigt die Beteiligten eines Ereignis',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.12',"g":'4.2',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.20',"g":'4.2',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
