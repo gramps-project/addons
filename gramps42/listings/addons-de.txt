@@ -65,4 +65,5 @@
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.19',"g":'4.2',"d":'Primäre Objekte über die Kommandozeile zusammenfassen.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.2',"g":'4.2',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.9',"g":'4.2',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
+{"t":'Tool',"i":'notecleanup',"n":'Note Cleanup',"v":'1.0.2',"g":'4.2',"d":'Clean up Notes that contain HTML markup',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniaturbild Generator',"v":'1.0.15',"g":'4.2',"d":'Erstellt Miniaturbilder für Mediendateien',"z":'ThumbnailGenerator.addon.tgz'}
