@@ -40,7 +40,7 @@
 {"t":'Quickreport',"i":'Query Quickview',"n":'Abfrage Schnellansicht',"v":'1.0.24',"g":'5.0',"d":'Schnellansicht für SQL-ähnlich laufende Abfragen',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.20',"g":'5.0',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.23',"g":'5.0',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.0.7',"g":'5.0',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.0.8',"g":'5.0',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.6',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamische Website',"v":'0.0.44',"g":'5.0',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familienblatt',"v":'3.4.28',"g":'5.0',"d":'Erstellt ein Familienblatt, das vollständige Informationen über eine Person und ihre Partner und Kinder enthält.',"z":'FamilySheet.addon.tgz'}
