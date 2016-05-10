@@ -21,9 +21,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.8',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.13',"g":'5.0',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet Python',"v":'1.0.21',"g":'5.0',"d":'Un interpréteur python interactif',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Query Gramplet',"n":'Gramplet Requête',"v":'1.0.24',"g":'5.0',"d":'Gramplet pour des requêtes SQL-like',"z":'Query.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Gramplet Parentés',"v":'1.0.22',"g":'5.0',"d":'Gramplet affichant les parentés dans une relation',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.11',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.38',"g":'5.0',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.55',"g":'5.0',"d":'Graphique dynamique des relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.5',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
@@ -37,10 +35,9 @@
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.24',"g":'5.0',"d":'Bibliothèque pour les collections de liens internet',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Calcul des descendants',"v":'1.0.23',"g":'5.0',"d":'Affiche le total des descendants pour chaque individu',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Nombre de descendants',"v":'3.4.21',"g":'5.0',"d":'Affiche le nombre de descendants de l\'individu actif',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'Query Quickview',"n":'Rapport express Requête',"v":'1.0.24',"g":'5.0',"d":'Rapport express pour du SQL-like fonctionnant avec requêtes',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Tous les noms pour tous les individus',"v":'1.0.20',"g":'5.0',"d":'Affiche tous les noms de tous les individus',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Graphique temporel',"v":'1.0.23',"g":'5.0',"d":'Affiche les événements d\'une personne tout au long de sa vie',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.6',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.8',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.6',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.44',"g":'5.0',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.28',"g":'5.0',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
