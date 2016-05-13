@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Attributs étendus de l\'individu',"v":'1.0.18',"g":'5.0',"d":'Gramplet affichant les attributs d\'un individu',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Gramplet Résumé',"v":'1.0.30',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Gramplet Importation',"v":'1.0.26',"g":'5.0',"d":'Gramplet pour importer du texte',"z":'ImportGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Gramplet Dernières modifications',"v":'0.0.27',"g":'5.0',"d":'Liste les dix derniers individus modifiés',"z":'LastChange.addon.tgz'}
+{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Gramplet Dernières modifications',"v":'0.0.28',"g":'5.0',"d":'Liste les dix derniers individus modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Navigateur Media',"v":'1.0.20',"g":'5.0',"d":'Gramplet affichant les détails de l\'individu',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Gramplet Note',"v":'1.0.24',"g":'5.0',"d":'Gramplet pour l\'édition des notes de l\'individu actif',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.8',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
@@ -42,7 +42,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.44',"g":'5.0',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.28',"g":'5.0',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.9',"g":'5.0',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.0.27',"g":'5.0',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
+{"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.0.28',"g":'5.0',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.25',"g":'5.0',"d":'Affiche toutes les lignes de descendants d\'un ancêtre donné à un descendant choisi dans un format textuel.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.16',"g":'5.0',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Arbre graphique',"v":'1.0.28',"g":'5.0',"d":'Version alternative de l\'arbre graphique traditionnel.',"z":'PedigreeChart.addon.tgz'}

@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.18',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Schlagzeilen Gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.26',"g":'5.0',"d":'Gramplet zum Textimport',"z":'ImportGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Letzte Änderung Gramplet',"v":'0.0.27',"g":'5.0',"d":'Listet die letzten zehn geänderten Personendatensätze',"z":'LastChange.addon.tgz'}
+{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Letzte Änderung Gramplet',"v":'0.0.28',"g":'5.0',"d":'Listet die letzten zehn geänderten Personendatensätze',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Medienbrowser',"v":'1.0.20',"g":'5.0',"d":'Gramplet zeigt Details einer Person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notiz Gramplet',"v":'1.0.24',"g":'5.0',"d":'Gramplet zum bearbeiten der Notizen der aktiven Person',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Beteiligte',"v":'1.0.8',"g":'5.0',"d":'Gramplet zeigt die Beteiligten eines Ereignis',"z":'Participants.addon.tgz'}
@@ -42,7 +42,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamische Website',"v":'0.0.44',"g":'5.0',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familienblatt',"v":'3.4.28',"g":'5.0',"d":'Erstellt ein Familienblatt, das vollständige Informationen über eine Person und ihre Partner und Kinder enthält.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stammbaum',"v":'4.2.9',"g":'5.0',"d":'Erzeugt einen grafischen Stammbaum.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'LastChangeReport',"n":'Letzte Änderungen Bericht',"v":'0.0.27',"g":'5.0',"d":'Bericht der letzten Datensätze die geändert wurden',"z":'LastChange.addon.tgz'}
+{"t":'Report',"i":'LastChangeReport',"n":'Letzte Änderungen Bericht',"v":'0.0.28',"g":'5.0',"d":'Bericht der letzten Datensätze die geändert wurden',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Nachkommen Linien Bericht',"v":'1.1.25',"g":'5.0',"d":'Druckt alle Nachkommenlinien von einem gegebenen Vorfahren zu einem gegebenen Nachkommen in Textform.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Blitz Liste',"v":'1.0.16',"g":'5.0',"d":'Erstellt eine Blitz Liste',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Ahnentafelgrafik',"v":'1.0.28',"g":'5.0',"d":'Alternative Version zur traditionellen Ahnentafelgrafik.',"z":'PedigreeChart.addon.tgz'}
