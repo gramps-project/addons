@@ -17,6 +17,7 @@
 {"t":'Report',"i":'PedigreeChart',"n":'Antavla',"v":'1.0.26',"g":'4.2',"d":'Antavlealternativ',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Arkivplatsrapportalternativ',"v":'0.3.22',"g":'4.2',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'TodoReport',"n":'Todo Report',"v":'1.2.22',"g":'4.2',"d":'Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Platskomplettering',"v":'0.0.28',"g":'4.2',"d":'Lämnar en bläddringsbar lista på valda platser, med möjlighet att komplettera/avsöka/sätta attributfältet.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ordna stavning av förnamn',"v":'1.0.24',"g":'4.2',"d":'Söker igenom hela databasen och försöker ordna stavning av förnamnen',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.2',"g":'4.2',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
