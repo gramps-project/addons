@@ -20,6 +20,7 @@
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.25',"g":'4.2',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.18',"g":'4.2',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notat Smågramps',"v":'1.0.23',"g":'4.2',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'4.2',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.4',"g":'4.2',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.6',"g":'4.2',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.12',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
