@@ -67,6 +67,7 @@
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschatte datums berekenen',"v":'0.90.22',"g":'5.0',"d":'Geschatte datums voor geboorte en overlijden berekenen.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Fix Capitalization of Given Names',"v":'1.0.24',"g":'5.0',"d":'Searches the entire database and attempts to fix capitalization of the given names.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.20',"g":'5.0',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'deterministicid',"n":'Deterministic ID',"v":'1.0.1',"g":'5.0',"d":'Set/reset Gramps to use a Deterministic ID',"z":'DetId.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.3',"g":'5.0',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.12',"g":'5.0',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Note Cleanup',"v":'1.0.2',"g":'5.0',"d":'Clean up Notes that contain HTML markup',"z":'NoteCleanup.addon.tgz'}
