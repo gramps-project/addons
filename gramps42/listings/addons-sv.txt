@@ -1,4 +1,5 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.7',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.27',"g":'4.2',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Urklippsgramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet för gruppering av poster',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet för datainmatning',"v":'1.0.32',"g":'4.2',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'4.2',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
@@ -11,6 +12,7 @@
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.22',"g":'4.2',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.51',"g":'4.2',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.7',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.28',"g":'4.2',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.30',"g":'4.2',"d":'Collection of Web sites for the UK (requires libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Ättlingsräknare',"v":'1.0.23',"g":'4.2',"d":'Visa antal ättlingar för varje person',"z":'DescendantCount.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.6',"g":'4.2',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
