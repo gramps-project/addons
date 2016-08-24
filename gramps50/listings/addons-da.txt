@@ -13,7 +13,7 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigér billedets Exif-metadata',"v":'1.5.9',"g":'5.0',"d":'Gramplet til at vise, redigere og gemme et billedes Exif-metadata',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Face Detection',"n":'Face Detection',"v":'1.0.17',"g":'5.0',"d":'Gramplet for detecting and assigning faces',"z":'FaceDetection.addon.tgz'}
+{"t":'Gramplet',"i":'Face Detection',"n":'Face Detection',"v":'1.0.18',"g":'5.0',"d":'Gramplet for detecting and assigning faces',"z":'FaceDetection.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Headline News Gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.26',"g":'5.0',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.28',"g":'5.0',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
