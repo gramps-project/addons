@@ -10,7 +10,7 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet de relação detalhada',"v":'1.0.26',"g":'5.0',"d":'Gramplet que mostra uma relação detalhada entre a pessoa ativa e a inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Gramplet para contagem de descendentes',"v":'1.0.25',"g":'5.0',"d":'Gramplet para mostrar a quantidade de pessoas e descendentes',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Editar metadados EXIF da imagem',"v":'1.5.8',"g":'5.0',"d":'Gramplet para exibir, editar e salvar os metadados EXIF das imagens',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Editar metadados EXIF da imagem',"v":'1.5.9',"g":'5.0',"d":'Gramplet para exibir, editar e salvar os metadados EXIF das imagens',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Face Detection',"n":'Face Detection',"v":'1.0.17',"g":'5.0',"d":'Gramplet for detecting and assigning faces',"z":'FaceDetection.addon.tgz'}
