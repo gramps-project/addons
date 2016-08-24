@@ -27,7 +27,7 @@
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python-gramplet',"v":'1.0.20',"g":'4.2',"d":'Interactieve Python-interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Aanverwanten-gramplet',"v":'1.0.22',"g":'4.2',"d":'Gramplet toont de verwanten in een relatie',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdslijnstamboom',"v":'0.1.35',"g":'4.2',"d":'Dit scherm toont een tijdslijnstamboom met voorouders en nakomelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.50',"g":'4.2',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.51',"g":'4.2',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.7',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.0.29',"g":'4.2',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.31',"g":'4.2',"d":'Gegevensbestand voor \'GoogleEarth\' aanmaken en openen.',"z":'GoogleEarthWriteKML.addon.tgz'}
