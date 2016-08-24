@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gegevensingave-gramplet',"v":'1.0.33',"g":'5.0',"d":'Gramplet om gegevens snel in te voeren',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'\'Verre relaties\'-gramplet',"v":'1.0.26',"g":'5.0',"d":'Gramplet die de verre relatie tussen twee de actieve en de thuispersoon toont',"z":'DeepConnectionsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'\'Afstammelingen telling\'-gramplet',"v":'1.0.24',"g":'5.0',"d":'Gramplet om personen en afstammelingentelling te tonen',"z":'DescendantCount.addon.tgz'}
+{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'\'Afstammelingen telling\'-gramplet',"v":'1.0.25',"g":'5.0',"d":'Gramplet om personen en afstammelingentelling te tonen',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Exif-metagegevens aanpassen',"v":'1.5.8',"g":'5.0',"d":'Een gramplet om de Exif-beeldmetagegevens te zien, aan te passen of op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
@@ -37,7 +37,7 @@
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'V.S. Web Connect Pack',"v":'1.0.34',"g":'5.0',"d":'Verzameling van websites voor \'VS\' (libwebconnect is nodig)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.22',"g":'5.0',"d":'Een bibliotheek voor algemene toegang tot het gegevensbestand en \'gen.lib\'.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.24',"g":'5.0',"d":'Bibliotheek voor \'webstek\'-verzamelingen',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Afstammelingen tellen',"v":'1.0.23',"g":'5.0',"d":'Het aantal afstammelingen voor elke persoon tonen.',"z":'DescendantCount.addon.tgz'}
+{"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Afstammelingen tellen',"v":'1.0.24',"g":'5.0',"d":'Het aantal afstammelingen voor elke persoon tonen.',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Aantal afstammelingen',"v":'3.4.21',"g":'5.0',"d":'Aantal afstammelingen van de actieve persoon wordt getoond',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'Query Quickview',"n":'Snelscherm voor zoeken',"v":'1.0.24',"g":'5.0',"d":'Snelscherm om \'sql\'-achtige zoekopdrachten in te geven',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle namen van alle personen',"v":'1.0.20',"g":'5.0',"d":'De namen van alle personen tonen',"z":'AllNamesQuickview.addon.tgz'}

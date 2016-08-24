@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.33',"g":'5.0',"d":'Gramplet para rápida inserção de dados',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet de relação detalhada',"v":'1.0.26',"g":'5.0',"d":'Gramplet que mostra uma relação detalhada entre a pessoa ativa e a inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Gramplet para contagem de descendentes',"v":'1.0.24',"g":'5.0',"d":'Gramplet para mostrar a quantidade de pessoas e descendentes',"z":'DescendantCount.addon.tgz'}
+{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Gramplet para contagem de descendentes',"v":'1.0.25',"g":'5.0',"d":'Gramplet para mostrar a quantidade de pessoas e descendentes',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Editar metadados EXIF da imagem',"v":'1.5.8',"g":'5.0',"d":'Gramplet para exibir, editar e salvar os metadados EXIF das imagens',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.18',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
@@ -37,7 +37,7 @@
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.34',"g":'5.0',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.22',"g":'5.0',"d":'Provides a library for generic access to the database and gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.24',"g":'5.0',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Contagem de descendentes',"v":'1.0.23',"g":'5.0',"d":'Mostra a quantidade de descendentes de cada pessoa',"z":'DescendantCount.addon.tgz'}
+{"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Contagem de descendentes',"v":'1.0.24',"g":'5.0',"d":'Mostra a quantidade de descendentes de cada pessoa',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Number of descendants',"v":'3.4.21',"g":'5.0',"d":'Shows the number of descendants of the current person',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.24',"g":'5.0',"d":'Quick view for SQL-like running queries',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Todos os nomes de todas as pessoas',"v":'1.0.20',"g":'5.0',"d":'Exibe todos os nomes de todas as pessoas',"z":'AllNamesQuickview.addon.tgz'}
