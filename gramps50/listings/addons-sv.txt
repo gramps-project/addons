@@ -27,7 +27,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.12',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.1',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Antavla med tidslinje',"v":'0.1.39',"g":'5.0',"d":'Vyn visar en tidslinje med anor och ättlingar för den valda personen',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.64',"g":'5.0',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.66',"g":'5.0',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'htmlview',"n":'Html View',"v":'1.0.2',"g":'5.0',"d":'A view showing html pages embedded in Gramps',"z":'HtmlView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.6',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.29',"g":'5.0',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
