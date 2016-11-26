@@ -1,5 +1,5 @@
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Export GEDCOM Extensions (GED2)',"v":'1.0.16',"g":'5.0',"d":'Extensions to the common GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
-{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.7',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.8',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.3',"g":'5.0',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.24',"g":'5.0',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.29',"g":'5.0',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
@@ -29,7 +29,7 @@
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.40',"g":'5.0',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graph View',"v":'1.0.69',"g":'5.0',"d":'Dynamic graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'htmlview',"n":'Html View',"v":'1.0.3',"g":'5.0',"d":'A view showing html pages embedded in Gramps',"z":'HtmlView.addon.tgz'}
-{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.7',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.8',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.30',"g":'5.0',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.35',"g":'5.0',"d":'Creates data file for GoogleEarth and opens it',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.18',"g":'5.0',"d":'Collection of Web sites for the DE (requires libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
