@@ -14,7 +14,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.17',"g":'4.2',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.4',"g":'4.2',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
-{"t":"Gramplet","i":"Form Gramplet","n":"Form Gramplet","v":"2.0.3","g":"4.2","d":"Gramplet interface for Forms","z":"Form.addon.tgz"}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.4',"g":'4.2',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'\'Belangrijkste nieuws\'-gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import-gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet om tekst te importeren',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'\'Laatste-wijziging\'-gramplet',"v":'0.0.25',"g":'4.2',"d":'De tien laatst gewijzigde persoonsgegevens worden gelijst',"z":'LastChange.addon.tgz'}
