@@ -4,7 +4,7 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.25',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.30',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Gramplet Anniversaires',"v":'1.0.27',"g":'5.0',"d":'Ce Gramplet affiche les anniversaires des personnes en vie',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet Presse-papiers',"v":'1.0.29',"g":'5.0',"d":'Gramplet pour regrouper des articles',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet Presse-papiers',"v":'1.0.30',"g":'5.0',"d":'Gramplet pour regrouper des articles',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet Horloge',"v":'0.0.22',"g":'5.0',"d":'Gramplet pour démontrer les graphiques Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet Formulaire',"v":'1.0.33',"g":'5.0',"d":'Gramplet pour une saisie rapide des données',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
