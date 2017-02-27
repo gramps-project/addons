@@ -1,7 +1,7 @@
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportation des extensions Gedcom (GED2)',"v":'1.0.16',"g":'5.0',"d":'Extensions du format courant Gedcom.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.9',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.4',"g":'5.0',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
-{"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.25',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
+{"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.26',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.30',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Gramplet Anniversaires',"v":'1.0.27',"g":'5.0',"d":'Ce Gramplet affiche les anniversaires des personnes en vie',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet Presse-papiers',"v":'1.0.30',"g":'5.0',"d":'Gramplet pour regrouper des articles',"z":'ClipboardGramplet.addon.tgz'}

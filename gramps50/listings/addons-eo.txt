@@ -1,0 +1,1 @@
+{"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.26',"g":'5.0',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
