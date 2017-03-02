@@ -1,1 +1,2 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.26',"g":'5.0',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.22',"g":'5.0',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
