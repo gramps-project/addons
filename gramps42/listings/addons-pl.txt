@@ -63,7 +63,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.21',"g":'4.2',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sort Children in Birth order',"v":'0.0.2',"g":'4.2',"d":'Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Obliczanie dat szacunkowych',"v":'0.90.21',"g":'4.2',"d":'Wylicza szacunkowe daty urodzenia i zgonu.',"z":'CalculateEstimatedDates.addon.tgz'}
-{"t":'Tool',"i":'chgivenname',"n":'Fix Capitalization of Given Names',"v":'1.0.24',"g":'4.2',"d":'Searches the entire database and attempts to fix capitalization of the given names.',"z":'ChangeGivenNames.addon.tgz'}
+{"t":'Tool',"i":'chgivenname',"n":'Fix Capitalization of Given Names',"v":'1.0.25',"g":'4.2',"d":'Searches the entire database and attempts to fix capitalization of the given names.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.19',"g":'4.2',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.2',"g":'4.2',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.10',"g":'4.2',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}
