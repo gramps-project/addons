@@ -1,4 +1,7 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.26',"g":'5.0',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.3',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graph View',"v":'1.0.71',"g":'5.0',"d":'Dynamic graph of relations',"z":'GraphView.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.62',"g":'5.0',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.22',"g":'5.0',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.14',"g":'5.0',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}
+{"t":'Tool',"i":'notecleanup',"n":'Note Cleanup',"v":'1.0.3',"g":'5.0',"d":'Clean up Notes that contain HTML markup',"z":'NoteCleanup.addon.tgz'}
