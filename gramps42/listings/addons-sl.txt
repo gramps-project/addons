@@ -18,7 +18,7 @@
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.3',"g":'4.2',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Headline News Gramplet',"v":'1.0.26',"g":'4.2',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.25',"g":'4.2',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
+{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.0.26',"g":'4.2',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.18',"g":'4.2',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Note Gramplet',"v":'1.0.23',"g":'4.2',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'4.2',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
@@ -47,7 +47,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.61',"g":'4.2',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.26',"g":'4.2',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Family Tree',"v":'4.2.8',"g":'4.2',"d":'Produces a graphical family tree.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'LastChangeReport',"n":'Last Change Report',"v":'0.0.25',"g":'4.2',"d":'Report of the last records that have been changed',"z":'LastChange.addon.tgz'}
+{"t":'Report',"i":'LastChangeReport',"n":'Last Change Report',"v":'0.0.26',"g":'4.2',"d":'Report of the last records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.24',"g":'4.2',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.14',"g":'4.2',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.26',"g":'4.2',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}

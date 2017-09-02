@@ -9,6 +9,7 @@
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.8',"g":'4.2',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.3',"g":'4.2',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Gramplet med de senaste ändringarna',"v":'0.0.26',"g":'4.2',"d":'Lista de tio personposterna, som har ändrats',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'4.2',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.12',"g":'4.2',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.22',"g":'4.2',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
@@ -23,6 +24,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.61',"g":'4.2',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.26',"g":'4.2',"d":'Skapar ett familjeark visande all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.8',"g":'4.2',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'LastChangeReport',"n":'Rapport över senaste ändringar',"v":'0.0.26',"g":'4.2',"d":'Rapport över de poster, som har ändrats senast',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Antavla',"v":'1.0.26',"g":'4.2',"d":'Antavlealternativ',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Arkivplatsrapportalternativ',"v":'0.3.22',"g":'4.2',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}
