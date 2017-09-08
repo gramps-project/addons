@@ -28,7 +28,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.14',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.4',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdslijnstamboom',"v":'0.1.43',"g":'5.1',"d":'Dit scherm toont een tijdslijnstamboom met voorouders en nakomelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.72',"g":'5.1',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.73',"g":'5.1',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.10',"g":'5.1',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.0.32',"g":'5.1',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.36',"g":'5.1',"d":'Gegevensbestand voor \'GoogleEarth\' aanmaken en openen.',"z":'GoogleEarthWriteKML.addon.tgz'}
