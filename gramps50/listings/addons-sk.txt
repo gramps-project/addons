@@ -64,6 +64,7 @@
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.11',"g":'5.0',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.28',"g":'5.0',"d":'Generates a web (XHTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.8',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attach Source',"v":'0.0.26',"g":'5.0',"d":'Attaches a shared source to multiple objects.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.29',"g":'5.0',"d":'Poskytuje zoznam vybraných miest ktorý je možné prezerať s možnosťou doplňovať/triediť/nastaviť atribúty polí',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.22',"g":'5.0',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
