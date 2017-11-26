@@ -18,6 +18,7 @@
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.7',"g":'4.2',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.28',"g":'4.2',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.30',"g":'4.2',"d":'Collection of Web sites for the UK (requires libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'hassourcefilter',"n":'Source matching parameters',"v":'0.0.1',"g":'4.2',"d":'Matches Sources with values containing the chosen parameters',"z":'HasSourceFilter.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Ättlingsräknare',"v":'1.0.23',"g":'4.2',"d":'Visa antal ättlingar för varje person',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.1',"g":'4.2',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.6',"g":'4.2',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
