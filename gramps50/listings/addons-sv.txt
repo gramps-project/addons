@@ -13,7 +13,6 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigera bilds Exif-metadata',"v":'1.5.10',"g":'5.0',"d":'Gramplet för att se, redigera och spara bilds Exif-metadata',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.21',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.21',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Face Detection',"n":'Face Detection',"v":'1.0.19',"g":'5.0',"d":'Gramplet for detecting and assigning faces',"z":'FaceDetection.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.5',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Nyhetsrubriker med Gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
@@ -23,7 +22,6 @@
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.8',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.19',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet med Python',"v":'1.0.22',"g":'5.0',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Query Gramplet',"n":'Query Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet for running SQL-like queries',"z":'Query.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.23',"g":'5.0',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.13',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.3',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
@@ -41,7 +39,6 @@
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.24',"g":'5.0',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Ättlingsräknare',"v":'1.0.24',"g":'5.0',"d":'Visa antal ättlingar för varje person',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Antal ättlingar',"v":'3.4.21',"g":'5.0',"d":'Visar antal ättlingar till aktuell person',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'Query Quickview',"n":'Query Quickview',"v":'1.0.27',"g":'5.0',"d":'Quick view for SQL-like running queries',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Samtliga namn för alla personer',"v":'1.0.20',"g":'5.0',"d":'Visa samtliga namn för alla personer',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.2',"g":'5.0',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tidslinje',"v":'1.0.23',"g":'5.0',"d":'Visar händelser för en person på en tidslinje',"z":'TimelineQuickview.addon.tgz'}

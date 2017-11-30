@@ -13,7 +13,6 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bild Exif Metadaten bearbeiten',"v":'1.5.10',"g":'5.0',"d":'Gramplet zum ansehen, bearbeiten und speichern von Exif Metadaten',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Erweiterte Familienattribute',"v":'1.0.21',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Familie',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.21',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Face Detection',"n":'Gesichtserkennung',"v":'1.0.19',"g":'5.0',"d":'Gramplet zur Erkennung und Zuordnung von Gesichtern',"z":'FaceDetection.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.5',"g":'5.0',"d":'Gramplet um Orte aus der GOV Datenbank zu holen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Schlagzeilen Gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet zum Textimport',"z":'ImportGramplet.addon.tgz'}
@@ -23,7 +22,6 @@
 {"t":'Gramplet',"i":'Participants',"n":'Beteiligte',"v":'1.0.8',"g":'5.0',"d":'Gramplet zeigt die Beteiligten eines Ereignis',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.19',"g":'5.0',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.22',"g":'5.0',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Query Gramplet',"n":'Abfrage Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet zum Ausführen SQL-ähnlicher Abfragen',"z":'Query.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte Gramplet',"v":'1.0.23',"g":'5.0',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.13',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.3',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
@@ -41,7 +39,6 @@
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.24',"g":'5.0',"d":'Bibliothek für Webseitensammlungen',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Anzahl der Nachkommen',"v":'1.0.24',"g":'5.0',"d":'Zeigt die Anzahl der Nachkommen für jede Person.',"z":'DescendantCount.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Anzahl der Nachkommen',"v":'3.4.21',"g":'5.0',"d":'Zeigt die Anzahl der Nachkommen der aktuellen Person an',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'Query Quickview',"n":'Abfrage Schnellansicht',"v":'1.0.27',"g":'5.0',"d":'Schnellansicht für SQL-ähnlich laufende Abfragen',"z":'Query.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.20',"g":'5.0',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.2',"g":'5.0',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.23',"g":'5.0',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
