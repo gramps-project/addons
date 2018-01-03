@@ -3,7 +3,7 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.2',"g":'4.2',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.23',"g":'4.2',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.27',"g":'4.2',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
-{"t":'Gramplet',"i":'Birthdays',"n":'Gramplet de aniversários',"v":'1.0.26',"g":'4.2',"d":'Gramplet que mostra os aniversários das pessoas vivas',"z":'BirthdaysGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Birthdays',"n":'Gramplet de aniversários',"v":'1.0.27',"g":'4.2',"d":'Gramplet que mostra os aniversários das pessoas vivas',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Gramplet de área de transferência',"v":'1.0.29',"g":'4.2',"d":'Gramplet para agrupamento de itens',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet de relógio',"v":'0.0.21',"g":'4.2',"d":'Gramplet para demonstração de gráficos Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.32',"g":'4.2',"d":'Gramplet para rápida inserção de dados',"z":'DataEntryGramplet.addon.tgz'}
