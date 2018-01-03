@@ -69,7 +69,7 @@
 {"t":'Tool',"i":'birthorder',"n":'Sort Children in Birth order',"v":'0.0.4',"g":'5.1',"d":'Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Изчисляване на приблизителните дати',"v":'0.90.23',"g":'5.1',"d":'Изчисляване на приблизителните дати за раждане и смърт.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Fix Capitalization of Given Names',"v":'1.0.25',"g":'5.1',"d":'Searches the entire database and attempts to fix capitalization of the given names.',"z":'ChangeGivenNames.addon.tgz'}
-{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.23',"g":'5.1',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.24',"g":'5.1',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'deterministicid',"n":'Deterministic ID',"v":'1.0.2',"g":'5.1',"d":'Set/reset Gramps to use a Deterministic ID',"z":'DetId.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.5',"g":'5.1',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.2',"g":'5.1',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
