@@ -26,7 +26,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.16',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.3',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdslijnstamboom',"v":'0.1.43',"g":'5.0',"d":'Dit scherm toont een tijdslijnstamboom met voorouders en nakomelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.74',"g":'5.0',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.75',"g":'5.0',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.9',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.0.31',"g":'5.0',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.35',"g":'5.0',"d":'Gegevensbestand voor \'GoogleEarth\' aanmaken en openen.',"z":'GoogleEarthWriteKML.addon.tgz'}
@@ -56,6 +56,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Bibliothekenverslag',"v":'1.1.20',"g":'5.0',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.20',"g":'5.0',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'\'Nog te doen\'-verslag',"v":'1.2.25',"g":'5.0',"d":'Een lijst van opmerkingen met een bepaalde aanduiding wordt aangemaakt, samen met de gegevens waarnaar verwezen wordt, de persoon, familie, gegeven, enz. .',"z":'ToDoReport.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.10',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Report',"i":'sandclock_tree',"n":'Sandclock Tree',"v":'1.0.1',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Ancestral Collapsible Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
