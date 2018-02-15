@@ -29,7 +29,7 @@
 {"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.75',"g":'5.0',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.9',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.31',"g":'5.0',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
-{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.35',"g":'5.0',"d":'Skapar datafil för GoogleEarth och öppnar den',"z":'GoogleEarthWriteKML.addon.tgz'}
+{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.36',"g":'5.0',"d":'Skapar datafil för GoogleEarth och öppnar den',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.18',"g":'5.0',"d":'Collection of Web sites for the DE (requires libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.24',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Plugin Manager Enhanced',"v":'1.0.6',"g":'5.0',"d":'An Addon/Plugin Manager with several additional capabilities',"z":'PluginManager.addon.tgz'}
