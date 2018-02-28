@@ -5,7 +5,7 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Ruwe export',"v":'1.0.26',"g":'5.0',"d":'Dit is een ruwe \'python object\'-dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'\'Sqlite\'-export',"v":'1.0.30',"g":'5.0',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagsgramplet',"v":'1.0.28',"g":'5.0',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Klembordgramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet om gegevens te groeperen',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clipboard Gramplet',"n":'Klembordgramplet',"v":'1.0.31',"g":'5.0',"d":'Gramplet om gegevens te groeperen',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Klokgramplet',"v":'0.0.22',"g":'5.0',"d":'Gramplet om de grafische mogelijkheden van \'Cairo\' te tonen',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gegevensingave-gramplet',"v":'1.0.34',"g":'5.0',"d":'Gramplet om gegevens snel in te voeren',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
