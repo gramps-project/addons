@@ -57,6 +57,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Rapport des dépôts',"v":'1.1.20',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.20',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Rapport À Faire',"v":'1.2.25',"g":'5.0',"d":'Produit une liste de toutes les notes avec une étiquette donnée ainsi que les enregistrements qui les référencent, l\'individu, la famille, l\'événement, etc.',"z":'ToDoReport.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.11',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Report',"i":'sandclock_tree',"n":'Sandclock Tree',"v":'1.0.2',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.10',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Report',"i":'sandclock_tree',"n":'Sandclock Tree',"v":'1.0.1',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
