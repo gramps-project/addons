@@ -1,3 +1,4 @@
+{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Export GEDCOM Extensions (GED2)',"v":'1.0.15',"g":'4.2',"d":'Extensions to the common GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.7',"g":'4.2',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.27',"g":'4.2',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Födelsedags-Gramplet',"v":'1.0.27',"g":'4.2',"d":'en Gramplet, som visar födelsedagarna för levande personer',"z":'BirthdaysGramplet.addon.tgz'}
