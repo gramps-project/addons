@@ -11,7 +11,6 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'\'Verre relaties\'-gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet die de verre relatie tussen twee de actieve en de thuispersoon toont',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'\'Afstammelingen telling\'-gramplet',"v":'2.0.1',"g":'5.0',"d":'Gramplet om personen en afstammelingentelling te tonen',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Exif-metagegevens aanpassen',"v":'1.5.10',"g":'5.0',"d":'Een gramplet om de Exif-beeldmetagegevens te zien, aan te passen of op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.21',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.21',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.11',"g":'5.0',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
