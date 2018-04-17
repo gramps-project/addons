@@ -5,8 +5,8 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.26',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.30',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Gramplet Anniversaires',"v":'1.0.29',"g":'5.0',"d":'Ce Gramplet affiche les anniversaires des personnes en vie',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet Horloge',"v":'0.0.22',"g":'5.0',"d":'Gramplet pour démontrer les graphiques Cairo',"z":'ClockGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Collections Clipboard',"v":'1.0.32',"g":'5.0',"d":'Gramplet for grouping collections of items to aid in data entry.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet Horloge',"v":'0.0.23',"g":'5.0',"d":'Gramplet pour démontrer les graphiques Cairo',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Collections Clipboard',"v":'1.0.33',"g":'5.0',"d":'Gramplet for grouping collections of items to aid in data entry.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet Formulaire',"v":'1.0.34',"g":'5.0',"d":'Gramplet pour une saisie rapide des données',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Connexions approfondies',"v":'1.0.27',"g":'5.0',"d":'Gramplet affichant les relations étroites entre la souche et les autres individus',"z":'DeepConnectionsGramplet.addon.tgz'}
@@ -56,7 +56,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Rapport des dépôts',"v":'1.1.20',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.20',"g":'5.0',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Rapport À Faire',"v":'1.2.25',"g":'5.0',"d":'Produit une liste de toutes les notes avec une étiquette donnée ainsi que les enregistrements qui les référencent, l\'individu, la famille, l\'événement, etc.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Ancestral Collapsible Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.20',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Rapport des différences dans la base de données',"v":'1.0.11',"g":'5.0',"d":'Compare une base de données externe avec la base actuelle.',"z":'Differences.addon.tgz'}
@@ -70,7 +70,7 @@
 {"t":'Tool',"i":'birthorder',"n":'Trier les enfants dans l\'ordre des naissances',"v":'0.0.5',"g":'5.0',"d":'Regarde les familles, cherche des enfants qui ne sont pas dans l\'ordre des naissances. L\'utilisateur peut accepter des suggestions individuelles pour corriger, modifier l\'ordre de naissance manuellement, accepter toutes les familles qui ont tous les enfants avec des dates de naissance appropriées ou accepter tout.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcul des dates estimées',"v":'0.90.24',"g":'5.0',"d":'Calcul des dates estimées pour les naissances et décès.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Réparer la casse des prénoms',"v":'1.0.26',"g":'5.0',"d":'Recherche dans toute la base de données et essaye de corriger la casse des prénoms.',"z":'ChangeGivenNames.addon.tgz'}
-{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.24',"g":'5.0',"d":'Fusionne les objets principaux via la ligne de commande',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.25',"g":'5.0',"d":'Fusionne les objets principaux via la ligne de commande',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Télécharge des objets media depuis internet',"v":'1.0.4',"g":'5.0',"d":'Cet outil télécharge des fichiers depuis internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.1',"g":'5.0',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Outil d\'importation et de fusion',"v":'0.0.4',"g":'5.0',"d":'Compare une base de données Gramps XML avec celle actuelle et permet de fusionner les différences.',"z":'ImportMerge.addon.tgz'}
