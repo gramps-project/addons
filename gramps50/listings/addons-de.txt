@@ -7,9 +7,9 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Geburtstags Gramplet',"v":'1.0.29',"g":'5.0',"d":'ein Gramplet welches die Geburtstage von lebenden Personen zeigt',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhren Gramplet',"v":'0.0.23',"g":'5.0',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Sammlungen Zwischenablage',"v":'1.0.33',"g":'5.0',"d":'Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterstützung bei der Dateneingabe.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.34',"g":'5.0',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.2',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Tief gehende Beziehungen Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.35',"g":'5.0',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Datums Rechner',"v":'0.0.3',"g":'5.0',"d":'Nützlich für mathematische Datumsberechnungen',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Tief gehende Beziehungen Gramplet',"v":'1.0.29',"g":'5.0',"d":'Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Anzahl der Nachkommen Gramplet',"v":'2.0.1',"g":'5.0',"d":'Gramplet zum zeigen der Personen und der Anzahl ihrer Nachkommen',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Erweiterte Familienattribute',"v":'1.0.21',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Familie',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.21',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
@@ -56,11 +56,11 @@
 {"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.20',"g":'5.0',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.20',"g":'5.0',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.25',"g":'5.0',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Nachkommenbaum eingerückt',"v":'1.0.20',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Nachkommenbaum eingerückt',"v":'1.0.21',"g":'5.0',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Nachkommen (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Datenbankunterschiede Bericht',"v":'1.0.11',"g":'5.0',"d":'Vergleicht eine externe Datenbank mit der aktuell geöffneten.',"z":'Differences.addon.tgz'}
-{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.28',"g":'5.0',"d":'Erstellt eine Web (XHTML) Seite mit einer Grafischen Darstellung von Ahnen/ Nachkommen (SVG) auf der Details über Personen durch Mausereignisse sichtbar werden.',"z":'DenominoViso.addon.tgz'}
+{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.29',"g":'5.0',"d":'Erstellt eine Web (XHTML) Seite mit einer Grafischen Darstellung von Ahnen/ Nachkommen (SVG) auf der Details über Personen durch Mausereignisse sichtbar werden.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.3',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.11',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Quelle hinzufügen',"v":'0.0.27',"g":'5.0',"d":'Fügt verteilte Quellen mehreren Objekten hinzu.',"z":'AttachSourceTool.addon.tgz'}
