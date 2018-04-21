@@ -31,7 +31,7 @@
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.9',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.31',"g":'5.0',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.38',"g":'5.0',"d":'Erstellt Datendatei für GoogleEarth und öffnet sie',"z":'GoogleEarthWriteKML.addon.tgz'}
-{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.18',"g":'5.0',"d":'Sammlung von Webseiten für DE (benötigt libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.19',"g":'5.0',"d":'Sammlung von Webseiten für DE (benötigt libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Verknüpfungspaket',"v":'1.0.24',"g":'5.0',"d":'Sammlung von Webseiten für FR (benötigt libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Zusatzmodulverwaltung Verbessert',"v":'1.0.9',"g":'5.0',"d":'Zusatzmodulverwaltung mit mehreren zusätzlichen Funktionen',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.31',"g":'5.0',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
@@ -60,7 +60,7 @@
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Nachkommenbaum eingerückt',"v":'1.0.21',"g":'5.0',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Nachkommen (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'database-differences-report',"n":'Datenbankunterschiede Bericht',"v":'1.0.11',"g":'5.0',"d":'Vergleicht eine externe Datenbank mit der aktuell geöffneten.',"z":'Differences.addon.tgz'}
+{"t":'Report',"i":'database-differences-report',"n":'Datenbankunterschiede Bericht',"v":'1.0.12',"g":'5.0',"d":'Vergleicht eine externe Datenbank mit der aktuell geöffneten.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.29',"g":'5.0',"d":'Erstellt eine Web (XHTML) Seite mit einer Grafischen Darstellung von Ahnen/ Nachkommen (SVG) auf der Details über Personen durch Mausereignisse sichtbar werden.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.3',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.11',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
@@ -72,7 +72,7 @@
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschätzte Daten berechnen',"v":'0.90.24',"g":'5.0',"d":'Berechnet geschätzte Daten für Geburt und Tod.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Großschreibung von Vornamen korrigieren',"v":'1.0.26',"g":'5.0',"d":'Durchsucht die gesamte Datenbank und versucht Großschreibung von Vornamen zu korrigieren.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.25',"g":'5.0',"d":'Primäre Objekte über die Kommandozeile zusammenfassen.',"z":'CliMerge.addon.tgz'}
-{"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.4',"g":'5.0',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
+{"t":'Tool',"i":'downloadmedia',"n":'Laden Sie Mediendateien aus dem Internet herunter',"v":'1.0.5',"g":'5.0',"d":'Dieses Werkzeug lädt Mediendateien aus dem Internet herunter',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.1',"g":'5.0',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import and Merge tool',"v":'0.0.4',"g":'5.0',"d":'Compares a Gramps XML database with the current one, and allows merging of the differences.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.14',"g":'5.0',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
