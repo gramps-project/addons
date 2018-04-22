@@ -43,8 +43,8 @@
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.21',"g":'5.0',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biographie',"v":'1.0.3',"g":'5.0',"d":'Zeigen eine Textbiographie an',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.23',"g":'5.0',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.0.12',"g":'5.0',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Ausführliches Nachkommenbuch',"v":'1.1.9',"g":'5.0',"d":'Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere ausführliche Nachkommenberichte.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.0.11',"g":'5.0',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.8',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamische Website',"v":'0.0.68',"g":'5.0',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familienblatt',"v":'3.4.32',"g":'5.0',"d":'Erstellt ein Familienblatt, das vollständige Informationen über eine Person und ihre Partner und Kinder enthält.',"z":'FamilySheet.addon.tgz'}

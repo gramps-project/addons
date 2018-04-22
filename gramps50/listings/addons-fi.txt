@@ -43,8 +43,8 @@
 {"t":'Quickreport',"i":'allnames',"n":'All Names of All People',"v":'1.0.21',"g":'5.0',"d":'Display all names of all people',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.3',"g":'5.0',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Timeline',"v":'1.0.23',"g":'5.0',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.12',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.9',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.11',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.8',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynaaminen-nettisivusto',"v":'0.0.68',"g":'5.0',"d":'Tuottaa dynaamiset verkkosivut tietokannasta',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.32',"g":'5.0',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
