@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.1',"g":'5.0',"d":'PostgreSQL Database',"z":'PostgreSQL.addon.tgz'}
-{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Export GEDCOM Extensions (GED2)',"v":'1.0.19',"g":'5.0',"d":'Extensions to the common GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
+{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Export GEDCOM Extensions (GED2)',"v":'1.0.20',"g":'5.0',"d":'Extensions to the common GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.9',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.5',"g":'5.0',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Ruwe export',"v":'1.0.27',"g":'5.0',"d":'Dit is een ruwe \'python object\'-dump',"z":'ExportRaw.addon.tgz'}
@@ -14,8 +14,8 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.22',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.21',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Face Detection',"n":'Face Detection',"v":'1.0.20',"g":'5.0',"d":'Gramplet for detecting and assigning faces',"z":'FaceDetection.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.11',"g":'5.0',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.5',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.12',"g":'5.0',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.6',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'\'Belangrijkste nieuws\'-gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import-gramplet',"v":'1.0.28',"g":'5.0',"d":'Gramplet om tekst te importeren',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'\'Laatste-wijziging\'-gramplet',"v":'0.1.1',"g":'5.0',"d":'De tien laatst gewijzigde persoonsgegevens worden gelijst',"z":'LastChange.addon.tgz'}
@@ -31,9 +31,9 @@
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.79',"g":'5.0',"d":'Dynamische grafiek van de relaties',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.9',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.0.31',"g":'5.0',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
-{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.38',"g":'5.0',"d":'Gegevensbestand voor \'GoogleEarth\' aanmaken en openen.',"z":'GoogleEarthWriteKML.addon.tgz'}
+{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.39',"g":'5.0',"d":'Gegevensbestand voor \'GoogleEarth\' aanmaken en openen.',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.19',"g":'5.0',"d":'Collection of Web sites for the DE (requires libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.24',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.25',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Plugin Manager Enhanced',"v":'1.0.9',"g":'5.0',"d":'An Addon/Plugin Manager with several additional capabilities',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'V.K. Web Connect Pack',"v":'1.0.31',"g":'5.0',"d":'Verzameling van websites voor \'VK\' (libwebconnect is nodig)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'V.S. Web Connect Pack',"v":'1.0.34',"g":'5.0',"d":'Verzameling van websites voor \'VS\' (libwebconnect is nodig)',"z":'USWebConnectPack.addon.tgz'}
@@ -49,7 +49,7 @@
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.8',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.70',"g":'5.0',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familiepagina',"v":'3.4.33',"g":'5.0',"d":'Een familiepagina die de volledige informatie over een persoon en zijn/haar partners en kinderen, toont.',"z":'FamilySheet.addon.tgz'}
-{"t":'Report',"i":'FamilyTree',"n":'Familiestamboom',"v":'4.2.11',"g":'5.0',"d":'Grafische familiestamboom wordt aangemaakt.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'FamilyTree',"n":'Familiestamboom',"v":'4.2.12',"g":'5.0',"d":'Grafische familiestamboom wordt aangemaakt.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Verslag laatste wijziging',"v":'0.1.1',"g":'5.0',"d":'Verslag van de laatst gewijzigde gegevens',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.25',"g":'5.0',"d":'Alle afstammelingslijnen van een bepaalde voorouder tot een bepaalde afstammeling worden in tekst afgedrukt.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.16',"g":'5.0',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
@@ -63,7 +63,7 @@
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.12',"g":'5.0',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.29',"g":'5.0',"d":'Een \'xhtml\'-webpagina met een grafische voorstelling van de voorouders/afstammelingen (svg) wordt aangemaakt. Individuele details worden door muisacties zichtbaar. ',"z":'DenominoViso.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.3',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.4',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.11',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Bron toevoegen',"v":'0.0.27',"g":'5.0',"d":'Een gedeelde bron aan verschillende objecten toevoegen.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatie vervolledigen',"v":'0.0.30',"g":'5.0',"d":'Een lijst van geselecteerde locaties, met de mogelijkheid om/de kenmerkenvelden de vervolledigen/bekijken/veranderen.',"z":'PlaceCompletion.addon.tgz'}
