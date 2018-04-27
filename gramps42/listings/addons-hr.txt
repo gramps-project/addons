@@ -51,7 +51,7 @@
 {"t":'Report',"i":'FamilyTree',"n":'Family Tree',"v":'4.2.8',"g":'4.2',"d":'Produces a graphical family tree.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Last Change Report',"v":'0.1.2',"g":'4.2',"d":'Report of the last records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.24',"g":'4.2',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
-{"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.14',"g":'4.2',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
+{"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.15',"g":'4.2',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.26',"g":'4.2',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.22',"g":'4.2',"d":'Proizvodi tekstualno izvješće o spremištima',"z":'RepositoriesReport.addon.tgz'}

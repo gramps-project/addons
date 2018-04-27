@@ -51,7 +51,7 @@
 {"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.8',"g":'4.2',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.1.2',"g":'4.2',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.24',"g":'4.2',"d":'Affiche toutes les lignes de descendants d\'un ancêtre donné à un descendant choisi dans un format textuel.',"z":'LinesOfDescendency.addon.tgz'}
-{"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.14',"g":'4.2',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}
+{"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.15',"g":'4.2',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Arbre graphique',"v":'1.0.26',"g":'4.2',"d":'Version alternative de l\'arbre graphique traditionnel.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Rapport Tout sur la personne',"v":'1.0.2',"g":'4.2',"d":'Produit un rapport contenant tout sur la personne active',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.22',"g":'4.2',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
