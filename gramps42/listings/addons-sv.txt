@@ -29,7 +29,7 @@
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.27',"g":'4.2',"d":'Skapar ett familjeark visande all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.8',"g":'4.2',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport över senaste ändringar',"v":'0.1.2',"g":'4.2',"d":'Rapport över de poster, som har ändrats senast',"z":'LastChange.addon.tgz'}
-{"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.15',"g":'4.2',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
+{"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.16',"g":'4.2',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Antavla',"v":'1.0.26',"g":'4.2',"d":'Antavlealternativ',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.2',"g":'4.2',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Arkivplatsrapportalternativ',"v":'0.3.22',"g":'4.2',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}
