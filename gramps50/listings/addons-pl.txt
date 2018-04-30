@@ -64,7 +64,7 @@
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.12',"g":'5.0',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.29',"g":'5.0',"d":'Generuje stronę (XHTML) z geograficzną reprezentacją przodków/potomków (SVG) gdzie szczegóły danej osoby są widoczne po najechaniu na nią myszką.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.4',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.11',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.12',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attach Source',"v":'0.0.27',"g":'5.0',"d":'Attaches a shared source to multiple objects.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.30',"g":'5.0',"d":'Zapewnia przeglądalną listę wybranych miejsc, z możliwością uzupełnienia/parsowania/ustawienia pól atrybutów.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.22',"g":'5.0',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
