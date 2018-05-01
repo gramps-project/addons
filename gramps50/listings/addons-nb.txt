@@ -74,7 +74,7 @@
 {"t":'Tool',"i":'calculateestimateddates',"n":'Beregne estimerte datoer',"v":'0.90.24',"g":'5.0',"d":'Beregner estimerte datoer for fødsel og død.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Fix Capitalization of Given Names',"v":'1.0.26',"g":'5.0',"d":'Searches the entire database and attempts to fix capitalization of the given names.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.25',"g":'5.0',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
-{"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.5',"g":'5.0',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
+{"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.6',"g":'5.0',"d":'This tool downloads media files form the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.2',"g":'5.0',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import and Merge tool',"v":'0.0.5',"g":'5.0',"d":'Compares a Gramps XML database with the current one, and allows merging of the differences.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.15',"g":'5.0',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}

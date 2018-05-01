@@ -74,7 +74,7 @@
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschätzte Daten berechnen',"v":'0.90.24',"g":'5.0',"d":'Berechnet geschätzte Daten für Geburt und Tod.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Großschreibung von Vornamen korrigieren',"v":'1.0.26',"g":'5.0',"d":'Durchsucht die gesamte Datenbank und versucht Großschreibung von Vornamen zu korrigieren.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.25',"g":'5.0',"d":'Primäre Objekte über die Kommandozeile zusammenfassen.',"z":'CliMerge.addon.tgz'}
-{"t":'Tool',"i":'downloadmedia',"n":'Laden Sie Mediendateien aus dem Internet herunter',"v":'1.0.5',"g":'5.0',"d":'Dieses Werkzeug lädt Mediendateien aus dem Internet herunter',"z":'DownloadMedia.addon.tgz'}
+{"t":'Tool',"i":'downloadmedia',"n":'Laden Sie Mediendateien aus dem Internet herunter',"v":'1.0.6',"g":'5.0',"d":'Dieses Werkzeug lädt Mediendateien aus dem Internet herunter',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrahiere Ortsdaten aus Ortstitel',"v":'1.0.2',"g":'5.0',"d":'Versuche, Stadt und Bundesland/Provinz von einem Ortstitel zu extrahieren',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import und Zusammenführungswerkzeug',"v":'0.0.5',"g":'5.0',"d":'Vergleicht eine Gramps XML Datenbank mit der aktuellen und ermöglicht das Zusammenführen der Unterschiede.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.15',"g":'5.0',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
