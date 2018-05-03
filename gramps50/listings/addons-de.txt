@@ -37,8 +37,8 @@
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.19',"g":'5.0',"d":'Sammlung von Webseiten für DE (benötigt libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Verknüpfungspaket',"v":'1.0.25',"g":'5.0',"d":'Sammlung von Webseiten für FR (benötigt libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Zusatzmodulverwaltung Verbessert',"v":'1.0.10',"g":'5.0',"d":'Zusatzmodulverwaltung mit mehreren zusätzlichen Funktionen',"z":'PluginManager.addon.tgz'}
-{"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.31',"g":'5.0',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Verknüpfungspaket',"v":'1.0.34',"g":'5.0',"d":'Sammlung von Webseiten für US (benötigt libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.32',"g":'5.0',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Verknüpfungspaket',"v":'1.0.35',"g":'5.0',"d":'Sammlung von Webseiten für US (benötigt libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.23',"g":'5.0',"d":'Liefert eine Bibliothek zum generischen Zugriff auf die Datenbank und gen.lib',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.25',"g":'5.0',"d":'Bibliothek für Webseitensammlungen',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'Descendant Count Quickview',"n":'Anzahl der Nachkommen',"v":'1.0.24',"g":'5.0',"d":'Zeigt die Anzahl der Nachkommen für jede Person.',"z":'DescendantCount.addon.tgz'}
@@ -60,7 +60,7 @@
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonAlles Bericht',"v":'1.0.7',"g":'5.0',"d":'Erstellt einen Bericht der alles über die aktive Person enthält',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.21',"g":'5.0',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.20',"g":'5.0',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.25',"g":'5.0',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
+{"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.26',"g":'5.0',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Nachkommenbaum eingerückt',"v":'1.0.21',"g":'5.0',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Nachkommen (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
