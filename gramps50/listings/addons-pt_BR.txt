@@ -51,7 +51,7 @@
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.9',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.8',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.71',"g":'5.0',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
-{"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.33',"g":'5.0',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
+{"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.34',"g":'5.0',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Árvore genealógica',"v":'4.2.12',"g":'5.0',"d":'Gera uma árvore genealógica gráfica',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Last Change Report',"v":'0.1.1',"g":'5.0',"d":'Report of the last records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.26',"g":'5.0',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
