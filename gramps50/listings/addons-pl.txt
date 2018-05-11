@@ -47,6 +47,7 @@
 {"t":'Quickreport',"i":'allnames',"n":'Wszystkie imiona wszystkich osób',"v":'1.0.21',"g":'5.0',"d":'Display all names of all people',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.3',"g":'5.0',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Oś czasu',"v":'1.0.24',"g":'5.0',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
+{"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.9',"g":'5.0',"d":'Report on the filling of the tree',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.12',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.9',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.8',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
