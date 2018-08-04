@@ -7,7 +7,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Geburtstags Gramplet',"v":'1.0.30',"g":'5.0',"d":'ein Gramplet welches die Geburtstage von lebenden Personen zeigt',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhren Gramplet',"v":'0.0.23',"g":'5.0',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Sammlungen Zwischenablage',"v":'1.0.33',"g":'5.0',"d":'Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterstützung bei der Dateneingabe.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.35',"g":'5.0',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.36',"g":'5.0',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datums Rechner',"v":'0.0.3',"g":'5.0',"d":'Nützlich für mathematische Datumsberechnungen',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Tief gehende Beziehungen Gramplet',"v":'1.0.29',"g":'5.0',"d":'Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Anzahl der Nachkommen Gramplet',"v":'2.0.2',"g":'5.0',"d":'Gramplet zum zeigen der Personen und der Anzahl ihrer Nachkommen',"z":'DescendantCount.addon.tgz'}
