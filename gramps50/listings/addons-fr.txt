@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Collections Clipboard',"v":'1.0.33',"g":'5.0',"d":'Gramplet for grouping collections of items to aid in data entry.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet Formulaire',"v":'1.0.36',"g":'5.0',"d":'Gramplet pour une saisie rapide des données',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Connexions approfondies',"v":'1.0.29',"g":'5.0',"d":'Gramplet affichant les relations étroites entre la souche et les autres individus',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Connexions approfondies',"v":'1.0.30',"g":'5.0',"d":'Gramplet affichant les relations étroites entre la souche et les autres individus',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Gramplet Calcul de descendants',"v":'2.0.2',"g":'5.0',"d":'Gramplet pour afficher les individus et le nombre de leurs descendants',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Attributs étendus de l\'individu',"v":'1.0.22',"g":'5.0',"d":'Gramplet affichant les attributs d\'un individu',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet formulaires',"v":'2.0.12',"g":'5.0',"d":'Interface gramplet pour les formulaires',"z":'Form.addon.tgz'}
@@ -20,7 +20,7 @@
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Navigateur Media',"v":'1.0.24',"g":'5.0',"d":'Gramplet affichant les détails de l\'individu',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Gramplet Note',"v":'1.0.27',"g":'5.0',"d":'Gramplet pour l\'édition des notes de l\'individu actif',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.20',"g":'5.0',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.21',"g":'5.0',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.11',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet Python',"v":'1.0.23',"g":'5.0',"d":'Un interpréteur python interactif',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Gramplet Parentés',"v":'1.0.24',"g":'5.0',"d":'Gramplet affichant les parentés dans une relation',"z":'RelatedRelativesGramplet.addon.tgz'}
@@ -58,7 +58,6 @@
 {"t":'Report',"i":'TodoReport',"n":'Rapport À Faire',"v":'1.2.26',"g":'5.0',"d":'Produit une liste de toutes les notes avec une étiquette donnée ainsi que les enregistrements qui les référencent, l\'individu, la famille, l\'événement, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.21',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.19',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Rapport des différences dans la base de données',"v":'1.0.12',"g":'5.0',"d":'Compare une base de données externe avec la base actuelle.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.29',"g":'5.0',"d":'Génère une page internet (XHTML) avec une représentation graphique des ascendants/descendants (SVG) dont les détails des individus deviennent visibles avec les actions de la souris.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.4',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}

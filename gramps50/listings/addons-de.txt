@@ -9,10 +9,9 @@
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Sammlungen Zwischenablage',"v":'1.0.33',"g":'5.0',"d":'Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterstützung bei der Dateneingabe.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.36',"g":'5.0',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datums Rechner',"v":'0.0.3',"g":'5.0',"d":'Nützlich für mathematische Datumsberechnungen',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Tief gehende Beziehungen Gramplet',"v":'1.0.29',"g":'5.0',"d":'Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Tief gehende Beziehungen Gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Anzahl der Nachkommen Gramplet',"v":'2.0.2',"g":'5.0',"d":'Gramplet zum zeigen der Personen und der Anzahl ihrer Nachkommen',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.22',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.21',"g":'5.0',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Formular Gramplet',"v":'2.0.12',"g":'5.0',"d":'Gramplet Schnittstelle für Formulare',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.5',"g":'5.0',"d":'Gramplet um Orte aus der GOV Datenbank zu holen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Schlagzeilen Gramplet',"v":'1.0.31',"g":'5.0',"d":'Gramplet das die neuesten Gramps Nachrichten zeigt',"z":'HeadlineNewsGramplet.addon.tgz'}
@@ -21,7 +20,7 @@
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Medienbrowser',"v":'1.0.24',"g":'5.0',"d":'Gramplet zeigt Details einer Person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notiz Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet zum bearbeiten der Notizen der aktiven Person',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Beteiligte',"v":'1.0.9',"g":'5.0',"d":'Gramplet zeigt die Beteiligten eines Ereignis',"z":'Participants.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.20',"g":'5.0',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.21',"g":'5.0',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Voraussetzungen Prüfer',"v":'0.8.11',"g":'5.0',"d":'Voraussetzungen Prüfer Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.23',"g":'5.0',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte Gramplet',"v":'1.0.24',"g":'5.0',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
@@ -56,7 +55,6 @@
 {"t":'Report',"i":'PedigreeChart',"n":'Ahnentafelgrafik',"v":'1.0.29',"g":'5.0',"d":'Alternative Version zur traditionellen Ahnentafelgrafik.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonAlles Bericht',"v":'1.0.7',"g":'5.0',"d":'Erstellt einen Bericht der alles über die aktive Person enthält',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.21',"g":'5.0',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.20',"g":'5.0',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Quellen und Fundstellenbericht',"v":'1.0.2',"g":'5.0',"d":'Liefert einen Bericht mit den Notizen (Zitaten) sortiert nach Quelle und Fundstellen',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.26',"g":'5.0',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Nachkommenbaum eingerückt',"v":'1.0.21',"g":'5.0',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Nachkommen (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
