@@ -44,7 +44,7 @@
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.3',"g":'5.0',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tidslinje',"v":'1.0.24',"g":'5.0',"d":'Visar händelser för en person på en tidslinje',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Anors fyllnadsgrad',"v":'1.0.9',"g":'5.0',"d":'Rapport över ifyllnad av släktträd',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.13',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.14',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.9',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.71',"g":'5.0',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.34',"g":'5.0',"d":'Skapar ett familjeark visande all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
