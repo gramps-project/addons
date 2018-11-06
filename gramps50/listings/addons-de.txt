@@ -43,12 +43,12 @@
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Anzahl der Nachkommen',"v":'3.4.23',"g":'5.0',"d":'Zeigt die Anzahl der Nachkommen der aktuellen Person an',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.21',"g":'5.0',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biographie',"v":'1.0.3',"g":'5.0',"d":'Zeigen eine Textbiographie an',"z":'BiographyQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.24',"g":'5.0',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.25',"g":'5.0',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'VorfahrenFüllung',"v":'1.0.9',"g":'5.0',"d":'Bericht zum Füllstand des Baumes',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Nachkommenbuch',"v":'1.1.10',"g":'5.0',"d":'Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere Nachkommenberichte.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.0.15',"g":'5.0',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Ausführliches Nachkommenbuch',"v":'1.1.10',"g":'5.0',"d":'Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere ausführliche Nachkommenberichte.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamische Website',"v":'0.0.72',"g":'5.0',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamische Website',"v":'0.0.73',"g":'5.0',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familienblatt',"v":'3.4.34',"g":'5.0',"d":'Erstellt ein Familienblatt, das vollständige Informationen über eine Person und ihre Partner und Kinder enthält.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stammbaum',"v":'4.2.12',"g":'5.0',"d":'Erzeugt einen grafischen Stammbaum.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Letzte Änderungen Bericht',"v":'0.1.1',"g":'5.0',"d":'Bericht der letzten Datensätze die geändert wurden',"z":'LastChange.addon.tgz'}
@@ -81,6 +81,7 @@
 {"t":'Tool',"i":'downloadmedia',"n":'Laden Sie Mediendateien aus dem Internet herunter',"v":'1.0.6',"g":'5.0',"d":'Dieses Werkzeug lädt Mediendateien aus dem Internet herunter',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrahiere Ortsdaten aus Ortstitel',"v":'1.0.3',"g":'5.0',"d":'Versuche, Stadt und Bundesland/Provinz von einem Ortstitel zu extrahieren',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import und Zusammenführungswerkzeug',"v":'0.0.8',"g":'5.0',"d":'Vergleicht eine Gramps XML Datenbank mit der aktuellen und ermöglicht das Zusammenführen der Unterschiede.',"z":'ImportMerge.addon.tgz'}
+{"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0',"g":'5.0',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.16',"g":'5.0',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Notiz Bereinigung',"v":'1.0.5',"g":'5.0',"d":'Bereinigt Notizen, die HTML-Markup enthalten',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniaturbild Generator',"v":'1.0.19',"g":'5.0',"d":'Erstellt Miniaturbilder für Mediendateien',"z":'ThumbnailGenerator.addon.tgz'}
