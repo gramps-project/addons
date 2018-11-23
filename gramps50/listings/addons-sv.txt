@@ -21,7 +21,7 @@
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.24',"g":'5.0',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Gramplet för notis',"v":'1.0.27',"g":'5.0',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.22',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.23',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.4',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.13',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet med Python',"v":'1.0.23',"g":'5.0',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
@@ -29,7 +29,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.19',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.6',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Antavla med tidslinje',"v":'0.1.47',"g":'5.0',"d":'Vyn visar en tidslinje med anor och ättlingar för den valda personen',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.84',"g":'5.0',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.85',"g":'5.0',"d":'Levande släktskapsdiagram',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.11',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.32',"g":'5.0',"d":'SQLite är ett vanligt lokal databasformat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.40',"g":'5.0',"d":'Skapar datafil för GoogleEarth och öppnar den',"z":'GoogleEarthWriteKML.addon.tgz'}
