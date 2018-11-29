@@ -4,28 +4,31 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.6',"g":'5.0',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.27',"g":'5.0',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.31',"g":'5.0',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
-{"t":'Gramplet',"i":'Birthdays',"n":'Birthdays Gramplet',"v":'1.0.30',"g":'5.0',"d":'a gramplet that displays the birthdays of the living people',"z":'BirthdaysGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Birthdays',"n":'Bursdager',"v":'1.0.31',"g":'5.0',"d":'en gramplet som viser bursdager for levende personer',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Smågramps for klokke',"v":'0.0.23',"g":'5.0',"d":'Gramplet for demonstrating Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Collections Clipboard',"v":'1.0.33',"g":'5.0',"d":'Gramplet for grouping collections of items to aid in data entry.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Data Entry Gramplet',"v":'1.0.37',"g":'5.0',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Data Entry Gramplet',"v":'1.0.38',"g":'5.0',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.3',"g":'5.0',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Deep Connections Gramplet',"v":'1.0.30',"g":'5.0',"d":'Gramplet showing a deep relationship between active and home people',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Descendant Count Gramplet',"v":'2.0.2',"g":'5.0',"d":'Gramplet for showing people and descendant counts',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.23',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.23',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
+{"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.5',"g":'5.0',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.13',"g":'5.0',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.6',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Siste nyheter Smågramps',"v":'1.0.32',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.1',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.29',"g":'5.0',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change Gramplet',"v":'0.1.1',"g":'5.0',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.24',"g":'5.0',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notat Smågramps',"v":'1.0.27',"g":'5.0',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
+{"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.5',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.24',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.4',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.15',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python smågramps',"v":'1.0.23',"g":'5.0',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.24',"g":'5.0',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.25',"g":'5.0',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.19',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.6',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.47',"g":'5.0',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
@@ -46,7 +49,7 @@
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tidslinje',"v":'1.0.25',"g":'5.0',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.9',"g":'5.0',"d":'Report on the filling of the tree',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.10',"g":'5.0',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.15',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.16',"g":'5.0',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.10',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.74',"g":'5.0',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.34',"g":'5.0',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
@@ -56,8 +59,8 @@
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.18',"g":'5.0',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.29',"g":'5.0',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.7',"g":'5.0',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Oppbevaringsstedsrapport',"v":'1.1.21',"g":'5.0',"d":'Lager en tekstbasert rapport over oppbevaringssteder',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.21',"g":'5.0',"d":'Lager en tekstbasert rapport over oppbevaringssteder',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Oppbevaringsstedsrapport',"v":'1.1.22',"g":'5.0',"d":'Lager en tekstbasert rapport over oppbevaringssteder',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.22',"g":'5.0',"d":'Lager en tekstbasert rapport over oppbevaringssteder',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.1',"g":'5.0',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Todo Report',"v":'1.2.26',"g":'5.0',"d":'Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Ancestral Collapsible Tree',"v":'1.0.21',"g":'5.0',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
@@ -65,6 +68,7 @@
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.21',"g":'5.0',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.13',"g":'5.0',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.31',"g":'5.0',"d":'Generates a web (XHTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
+{"t":'Report',"i":'det_descendant_report_i',"n":'Detailed Descendant Report With All Images',"v":'1.0.1',"g":'5.0',"d":'Produces a detailed descendant report with all images and optional todo list.',"z":'DetDescendantReport-images.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Ancestor Tree',"v":'1.0.4',"g":'5.0',"d":'Ancestor tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Descendant Tree',"v":'1.0.4',"g":'5.0',"d":'Descendant tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.4',"g":'5.0',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
