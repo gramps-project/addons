@@ -1,9 +1,9 @@
-{"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.3',"g":'5.0',"d":'PostgreSQL Database',"z":'PostgreSQL.addon.tgz'}
+{"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.4',"g":'5.0',"d":'База данных PostgreSQL',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Экспорт в GEDCOM (GED2)',"v":'1.0.21',"g":'5.0',"d":'Дополнения для обычного формата GEDCOM.',"z":'GedcomExtensions.addon.tgz'}
-{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.11',"g":'5.0',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'JSON Export',"n":'Экспорт JSON',"v":'1.0.12',"g":'5.0',"d":'Предоставляет экспорт в JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Экспорт в Prolog',"v":'1.0.7',"g":'5.0',"d":'Экспорт данных в формат Prolog',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.28',"g":'5.0',"d":'Получения данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
-{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.31',"g":'5.0',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.0.32',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Дни рождения',"v":'1.0.32',"g":'5.0',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Грамплет Часы',"v":'0.0.24',"g":'5.0',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.34',"g":'5.0',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
@@ -13,56 +13,56 @@
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.3',"g":'5.0',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Расширенные атрибуты для семьи',"v":'1.0.24',"g":'5.0',"d":'Показывает атрибуты для выбранной семьи',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Расширенные атрибуты для лиц',"v":'1.0.24',"g":'5.0',"d":'Показывает атрибуты для выбранного лица',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.6',"g":'5.0',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
+{"t":'Gramplet',"i":'Family Overview',"n":'Обзор по семье',"v":'1.0.7',"g":'5.0',"d":'Отображает события связаные с семьёй',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Формы',"v":'2.0.15',"g":'5.0',"d":'Интерфейс для форм',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.6',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'Headline News Gramplet',"n":'Headline News Gramplet',"v":'1.0.32',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.7',"g":'5.0',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'Headline News Gramplet',"n":'Новости Gramps',"v":'1.0.33',"g":'5.0',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.1',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.29',"g":'5.0',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Import Gramplet',"n":'Импорт текста',"v":'1.0.30',"g":'5.0',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Последние изменения',"v":'0.1.1',"g":'5.0',"d":'Показывает последние десять лиц в которые вносились изменения',"z":'LastChange.addon.tgz'}
-{"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.24',"g":'5.0',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
-{"t":'Gramplet',"i":'Note Gramplet',"n":'Note Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
-{"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.6',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
+{"t":'Gramplet',"i":'MediaBrowser',"n":'Просмотр альбома',"v":'1.0.25',"g":'5.0',"d":'Показывает подробности о лице',"z":'MediaBrowser.addon.tgz'}
+{"t":'Gramplet',"i":'Note Gramplet',"n":'Заметки',"v":'1.0.28',"g":'5.0',"d":'Предназначен для редактирования заметок о человеке',"z":'NoteGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Participants',"n":'Участники',"v":'1.0.10',"g":'5.0',"d":'Показывает участников события',"z":'Participants.addon.tgz'}
+{"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.7',"g":'5.0',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.24',"g":'5.0',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.4',"g":'5.0',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.15',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.23',"g":'5.0',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.25',"g":'5.0',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.19',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.6',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.47',"g":'5.0',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Граф отношений',"v":'1.0.85',"g":'5.0',"d":'Динамический граф отношений',"z":'GraphView.addon.tgz'}
-{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.11',"g":'5.0',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
-{"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.32',"g":'5.0',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
-{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.40',"g":'5.0',"d":'Creates data file for GoogleEarth and opens it',"z":'GoogleEarthWriteKML.addon.tgz'}
+{"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.5',"g":'5.0',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.16',"g":'5.0',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.24',"g":'5.0',"d":'Интарактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.26',"g":'5.0',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
+{"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.20',"g":'5.0',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.7',"g":'5.0',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.48',"g":'5.0',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Граф отношений',"v":'1.0.86',"g":'5.0',"d":'Динамический граф отношений',"z":'GraphView.addon.tgz'}
+{"t":'Importer',"i":'JSON Import',"n":'Импорт JSON',"v":'1.0.12',"g":'5.0',"d":'Предоставляет импорт JSON',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'Импорт SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
+{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.41',"g":'5.0',"d":'Создаёт данные для GoogleEarth и открывает их',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Набор DE Web Connect',"v":'0.0.20',"g":'5.0',"d":'Колекция веб-сайтов для DE (требуется libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Набор FR Web Connect',"v":'1.0.26',"g":'5.0',"d":'Набор веб-сайтов для FR (требуется libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.11',"g":'5.0',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
-{"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.32',"g":'5.0',"d":'Collection of Web sites for the UK (requires libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.35',"g":'5.0',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.23',"g":'5.0',"d":'Provides a library for generic access to the database and gen.lib.',"z":'libaccess.addon.tgz'}
-{"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.25',"g":'5.0',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Number of descendants',"v":'3.4.23',"g":'5.0',"d":'Shows the number of descendants of the current person',"z":'NumberOfDescendantsQuickview.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.12',"g":'5.0',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Набор UK Web Connect',"v":'1.0.33',"g":'5.0',"d":'Набор веб-сайтов для UK (требуется libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Набор US Web Connect',"v":'1.0.36',"g":'5.0',"d":'Набор веб-сайтов для US (требуется libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.24',"g":'5.0',"d":'Предоставляет библиотеку для доступа к базе данных и gen.lib.',"z":'libaccess.addon.tgz'}
+{"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.26',"g":'5.0',"d":'Библиотека для поддержки коллекций веб-сайтов',"z":'libwebconnect.addon.tgz'}
+{"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Количество потомков',"v":'3.4.24',"g":'5.0',"d":'Показывает количество потомков для выбранного лица',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Все имена всех людей',"v":'1.0.22',"g":'5.0',"d":'Показывает все имена всех людей',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Биография',"v":'1.0.4',"g":'5.0',"d":'Отображает биографию в текстовом виде',"z":'BiographyQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'timelinequickview',"n":'Timeline',"v":'1.0.25',"g":'5.0',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'timelinequickview',"n":'Временная диаграмма',"v":'1.0.26',"g":'5.0',"d":'Отображает события лица на временной диаграмме',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.10',"g":'5.0',"d":'Отчёт о заполнении древа',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Книга о потомках',"v":'1.1.11',"g":'5.0',"d":'Создаёт различные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Линии потомков',"v":'1.0.17',"g":'5.0',"d":'Создаёт линии потомков для лица',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Линии потомков',"v":'1.0.18',"g":'5.0',"d":'Создаёт линии потомков для лица',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Подробная книга о потомках',"v":'1.1.11',"g":'5.0',"d":'Создаёт различные подробные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Динамический веб отчёт',"v":'0.0.75',"g":'5.0',"d":'Формирует динамические веб страницы из базы данных',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Семейные страницы',"v":'3.4.35',"g":'5.0',"d":'Создаёт семейную страницу со всей информацией о лице, его родителях и детях.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Семейное древо',"v":'4.2.13',"g":'5.0',"d":'Создаёт графическое представление семейного древа.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.1',"g":'5.0',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}
-{"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.26',"g":'5.0',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
-{"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.18',"g":'5.0',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
-{"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.29',"g":'5.0',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.7',"g":'5.0',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Repositories Report',"v":'1.1.22',"g":'5.0',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.22',"g":'5.0',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.1',"g":'5.0',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
-{"t":'Report',"i":'TodoReport',"n":'Todo Report',"v":'1.2.26',"g":'5.0',"d":'Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.',"z":'ToDoReport.addon.tgz'}
+{"t":'Report',"i":'LinesOfDescendency',"n":'Линии родства',"v":'1.1.27',"g":'5.0',"d":'Создаёт линии родства между указанными предком и потомком в виде текста.',"z":'LinesOfDescendency.addon.tgz'}
+{"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.19',"g":'5.0',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
+{"t":'Report',"i":'PedigreeChart',"n":'Родословная',"v":'1.0.30',"g":'5.0',"d":'Альтернативная версия традиционного представления родословной.',"z":'PedigreeChart.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Всё о человеке',"v":'1.0.8',"g":'5.0',"d":'Предоставляет отчёт содержащий все данные об активном лице',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.23',"g":'5.0',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Параметы отчета о хранилищах',"v":'0.3.23',"g":'5.0',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'SourcesCitationsReport',"n":'Источники и цитаты',"v":'3.6.2',"g":'5.0',"d":'Создаёт отчёт об источниках и цитатах с заметками',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'TodoReport',"n":'Отчёт по задачам',"v":'1.2.27',"g":'5.0',"d":'Предоставляет список всех заметок с указанныой меткой по всем записям на которые они ссылаются (лицо, семья, событие, др.)',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Древо предков (D3)',"v":'1.0.22',"g":'5.0',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде сворачиваемого древа при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Круговая диаграмма предков',"v":'1.0.22',"g":'5.0',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде круговой диаграммы при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Древо потомков с отступами',"v":'1.0.22',"g":'5.0',"d":'Создаёт веб-станицу с графическим отображением потомков (SVG) представленном в виде сворачиваемого древа с отступами при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
@@ -73,10 +73,10 @@
 {"t":'Report',"i":'gt_descendant',"n":'Древо потомков',"v":'1.0.5',"g":'5.0',"d":'Древо потомков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.5',"g":'5.0',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.5',"g":'5.0',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.13',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.14',"g":'5.0',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.28',"g":'5.0',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.32',"g":'5.0',"d":'Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.',"z":'PlaceCompletion.addon.tgz'}
-{"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.23',"g":'5.0',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
+{"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.33',"g":'5.0',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
+{"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.24',"g":'5.0',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.0.5',"g":'5.0',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Сортировка детей в порядке рождения',"v":'0.0.6',"g":'5.0',"d":'Просматривает семьи и ищет детей, которые указаны не в порядке рождения. Пользователь принять предложения частично, редактировать порядок вручную, принять изменения для семей с детьми с корректными датами или принять всё.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Расчёт предположительных дат',"v":'0.90.26',"g":'5.0',"d":'Расчитывает предположитльные даты для рождения и смерти.',"z":'CalculateEstimatedDates.addon.tgz'}
@@ -84,8 +84,8 @@
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.26',"g":'5.0',"d":'Объединение основных объектов из командной строки.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Загрузка документов из интернет',"v":'1.0.7',"g":'5.0',"d":'Интрумент для загрузки документов из сети интернет',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Извлечение данных о месте из названия',"v":'1.0.4',"g":'5.0',"d":'Пробует извлечь названия города, штата, области и т.д. из названия места',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'import_merge',"n":'Импорт и слияние',"v":'0.0.8',"g":'5.0',"d":'Сравнивает базу данных (Gramps XML) с текущим древом и предоставляет возможность слияния изменений.',"z":'ImportMerge.addon.tgz'}
-{"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0',"g":'5.0',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
-{"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.16',"g":'5.0',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}
-{"t":'Tool',"i":'notecleanup',"n":'Note Cleanup',"v":'1.0.5',"g":'5.0',"d":'Clean up Notes that contain HTML markup',"z":'NoteCleanup.addon.tgz'}
-{"t":'Tool',"i":'thumbgen',"n":'Thumbnail Generator',"v":'1.0.19',"g":'5.0',"d":'Generates thumbnails for media files',"z":'ThumbnailGenerator.addon.tgz'}
+{"t":'Tool',"i":'import_merge',"n":'Импорт и слияние',"v":'0.0.9',"g":'5.0',"d":'Сравнивает базу данных (Gramps XML) с текущим древом и предоставляет возможность слияния изменений.',"z":'ImportMerge.addon.tgz'}
+{"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.1',"g":'5.0',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
+{"t":'Tool',"i":'mediaverify',"n":'Проверка документов',"v":'1.0.17',"g":'5.0',"d":'Проверяет, что документы присутствуют по указанному пути',"z":'MediaVerify.addon.tgz'}
+{"t":'Tool',"i":'notecleanup',"n":'Чистка заметок',"v":'1.0.6',"g":'5.0',"d":'Производит очистку заметок содержащих HTML разметку',"z":'NoteCleanup.addon.tgz'}
+{"t":'Tool',"i":'thumbgen',"n":'Генератор миниатюр',"v":'1.0.20',"g":'5.0',"d":'Создание миниатюр для документов',"z":'ThumbnailGenerator.addon.tgz'}
