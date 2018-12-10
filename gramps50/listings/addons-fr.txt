@@ -35,10 +35,10 @@
 {"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.86',"g":'5.0',"d":'Graphique dynamique des relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.12',"g":'5.0',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
-{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.41',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
+{"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.42',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.20',"g":'5.0',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.26',"g":'5.0',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.12',"g":'5.0',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.13',"g":'5.0',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Ensemble de liens internet anglo-saxons',"v":'1.0.33',"g":'5.0',"d":'Collection de sites internet pour le Royaume-uni (nécessite libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Ensemble de liens internet US',"v":'1.0.36',"g":'5.0',"d":'Collection de sites internet pour les États-Unis (nécessite libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.24',"g":'5.0',"d":'Fournit une bibliothèque pour un accès générique à la base de données et gen.lib.',"z":'libaccess.addon.tgz'}
@@ -49,7 +49,7 @@
 {"t":'Quickreport',"i":'timelinequickview',"n":'Graphique temporel',"v":'1.0.26',"g":'5.0',"d":'Affiche les événements d\'une personne tout au long de sa vie',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Remplissage de l\'arbre',"v":'1.0.10',"g":'5.0',"d":'Rapport sur le remplissage de l\'arbre.',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.11',"g":'5.0',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.18',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.19',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.11',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.75',"g":'5.0',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.35',"g":'5.0',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
