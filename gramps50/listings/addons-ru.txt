@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.7',"g":'5.0',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.24',"g":'5.0',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.5',"g":'5.0',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.16',"g":'5.0',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.17',"g":'5.0',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.24',"g":'5.0',"d":'Интарактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.26',"g":'5.0',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.20',"g":'5.0',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
@@ -69,10 +69,11 @@
 {"t":'Report',"i":'database-differences-report',"n":'Отчёт об отличиях в базе данных',"v":'1.0.15',"g":'5.0',"d":'Сравнивает внешнюю базу данных с текущей.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.32',"g":'5.0',"d":'Создаёт веб-страницы (XHTML) с графическим представлением предков/потомков (SVG), где дополнительная информация выводится при помощи мыши.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Подробный отчёт о потомках со всеми изображениями',"v":'1.0.3',"g":'5.0',"d":'Создаёт подробный отчёт о предках со всеми изображениями и возможным списком задач.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'gt_ancestor',"n":'Древо предков',"v":'1.0.5',"g":'5.0',"d":'Древо предков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_descendant',"n":'Древо потомков',"v":'1.0.5',"g":'5.0',"d":'Древо потомков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.5',"g":'5.0',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.5',"g":'5.0',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_ancestor',"n":'Древо предков',"v":'1.0.6',"g":'5.0',"d":'Древо предков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_descendant',"n":'Древо потомков',"v":'1.0.6',"g":'5.0',"d":'Древо потомков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.6',"g":'5.0',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.6',"g":'5.0',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.6',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.14',"g":'5.0',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.28',"g":'5.0',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.33',"g":'5.0',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
