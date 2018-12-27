@@ -25,7 +25,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.10',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.7',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.24',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.5',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
+{"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.6',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.17',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.24',"g":'5.0',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.26',"g":'5.0',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
@@ -39,7 +39,7 @@
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.20',"g":'5.0',"d":'Collection of Web sites for the DE (requires libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.26',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Plugin Manager Enhanced',"v":'1.0.15',"g":'5.0',"d":'An Addon/Plugin Manager with several additional capabilities',"z":'PluginManager.addon.tgz'}
-{"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.2',"g":'5.0',"d":'This addon causes Gramps to restart on the same view and object
+{"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.3',"g":'5.0',"d":'This addon causes Gramps to restart on the same view and object
 where Gramps was previously closed.  It adds no new menus or
 Gramplets, but allows the last six objects visited to be found via the
 \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
