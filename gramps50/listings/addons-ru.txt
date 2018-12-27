@@ -38,7 +38,11 @@
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.42',"g":'5.0',"d":'Создаёт данные для GoogleEarth и открывает их',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Набор DE Web Connect',"v":'0.0.20',"g":'5.0',"d":'Колекция веб-сайтов для DE (требуется libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Набор FR Web Connect',"v":'1.0.26',"g":'5.0',"d":'Набор веб-сайтов для FR (требуется libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.14',"g":'5.0',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.15',"g":'5.0',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.2',"g":'5.0',"d":'This addon causes Gramps to restart on the same view and object
+where Gramps was previously closed.  It adds no new menus or
+Gramplets, but allows the last six objects visited to be found via the
+\'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Набор UK Web Connect',"v":'1.0.33',"g":'5.0',"d":'Набор веб-сайтов для UK (требуется libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Набор US Web Connect',"v":'1.0.36',"g":'5.0',"d":'Набор веб-сайтов для US (требуется libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.24',"g":'5.0',"d":'Предоставляет библиотеку для доступа к базе данных и gen.lib.',"z":'libaccess.addon.tgz'}
@@ -69,11 +73,11 @@
 {"t":'Report',"i":'database-differences-report',"n":'Отчёт об отличиях в базе данных',"v":'1.0.15',"g":'5.0',"d":'Сравнивает внешнюю базу данных с текущей.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.32',"g":'5.0',"d":'Создаёт веб-страницы (XHTML) с графическим представлением предков/потомков (SVG), где дополнительная информация выводится при помощи мыши.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Подробный отчёт о потомках со всеми изображениями',"v":'1.0.3',"g":'5.0',"d":'Создаёт подробный отчёт о предках со всеми изображениями и возможным списком задач.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'gt_ancestor',"n":'Древо предков',"v":'1.0.6',"g":'5.0',"d":'Древо предков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_descendant',"n":'Древо потомков',"v":'1.0.6',"g":'5.0',"d":'Древо потомков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.6',"g":'5.0',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.6',"g":'5.0',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.6',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_ancestor',"n":'Древо предков',"v":'1.0.7',"g":'5.0',"d":'Древо предков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_descendant',"n":'Древо потомков',"v":'1.0.7',"g":'5.0',"d":'Древо потомков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.7',"g":'5.0',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.7',"g":'5.0',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock_family',"n":'Древо для семьи в виде песочных часов',"v":'1.0.7',"g":'5.0',"d":'Древо для семьи в виде песочных часов (использует LaTeX genealogytree)',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.14',"g":'5.0',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.28',"g":'5.0',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.33',"g":'5.0',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}

@@ -38,7 +38,11 @@
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.42',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.20',"g":'5.0',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.26',"g":'5.0',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.14',"g":'5.0',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.15',"g":'5.0',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.2',"g":'5.0',"d":'This addon causes Gramps to restart on the same view and object
+where Gramps was previously closed.  It adds no new menus or
+Gramplets, but allows the last six objects visited to be found via the
+\'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Ensemble de liens internet anglo-saxons',"v":'1.0.33',"g":'5.0',"d":'Collection de sites internet pour le Royaume-uni (nécessite libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Ensemble de liens internet US',"v":'1.0.36',"g":'5.0',"d":'Collection de sites internet pour les États-Unis (nécessite libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.24',"g":'5.0',"d":'Fournit une bibliothèque pour un accès générique à la base de données et gen.lib.',"z":'libaccess.addon.tgz'}
@@ -69,11 +73,11 @@
 {"t":'Report',"i":'database-differences-report',"n":'Rapport des différences dans la base de données',"v":'1.0.15',"g":'5.0',"d":'Compare une base de données externe avec la base actuelle.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.32',"g":'5.0',"d":'Génère une page internet (XHTML) avec une représentation graphique des ascendants/descendants (SVG) dont les détails des individus deviennent visibles avec les actions de la souris.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detailed Descendant Report With All Images',"v":'1.0.3',"g":'5.0',"d":'Produces a detailed descendant report with all images and optional todo list.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'gt_ancestor',"n":'Ancestor Tree',"v":'1.0.6',"g":'5.0',"d":'Ancestor tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_descendant',"n":'Descendant Tree',"v":'1.0.6',"g":'5.0',"d":'Descendant tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.6',"g":'5.0',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.6',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.6',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_ancestor',"n":'Ancestor Tree',"v":'1.0.7',"g":'5.0',"d":'Ancestor tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_descendant',"n":'Descendant Tree',"v":'1.0.7',"g":'5.0',"d":'Descendant tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.7',"g":'5.0',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.7',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.7',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Graphique réseau',"v":'0.0.14',"g":'5.0',"d":'Génère un graphique du réseau familial.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attacher une source',"v":'0.0.28',"g":'5.0',"d":'Attache une source partagée à des objets multiples',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.33',"g":'5.0',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
