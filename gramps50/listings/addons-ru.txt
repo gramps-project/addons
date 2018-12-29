@@ -5,7 +5,7 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.28',"g":'5.0',"d":'Получения данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.0.32',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Дни рождения',"v":'1.0.32',"g":'5.0',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Грамплет Часы',"v":'0.0.24',"g":'5.0',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Грамплет Часы',"v":'0.0.25',"g":'5.0',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.34',"g":'5.0',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Ввод данных',"v":'1.0.39',"g":'5.0',"d":'Грамплет для быстрого ввода данных',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.4',"g":'5.0',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
@@ -29,9 +29,9 @@
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.17',"g":'5.0',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.24',"g":'5.0',"d":'Интарактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.26',"g":'5.0',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.20',"g":'5.0',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.7',"g":'5.0',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.48',"g":'5.0',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.21',"g":'5.0',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.8',"g":'5.0',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.49',"g":'5.0',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Граф отношений',"v":'1.0.86',"g":'5.0',"d":'Динамический граф отношений',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Импорт JSON',"v":'1.0.12',"g":'5.0',"d":'Предоставляет импорт JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Импорт SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
