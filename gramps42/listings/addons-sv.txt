@@ -10,7 +10,7 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigera bilds Exif-metadata',"v":'1.5.7',"g":'4.2',"d":'Gramplet för att se, redigera och spara bilds Exif-metadata',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.10',"g":'4.2',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV Gramplet',"v":'1.0.4',"g":'4.2',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.3',"g":'4.2',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.5',"g":'4.2',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.25',"g":'4.2',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Gramplet med de senaste ändringarna',"v":'0.1.2',"g":'4.2',"d":'Lista de tio personposterna, som har ändrats',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.9',"g":'4.2',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
