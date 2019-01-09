@@ -2,7 +2,7 @@
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportation des extensions Gedcom (GED2)',"v":'1.0.21',"g":'5.0',"d":'Extensions du format courant Gedcom.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'Exportation JSON',"v":'1.0.12',"g":'5.0',"d":'Ceci est une exportation JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Exportation Prolog',"v":'1.0.7',"g":'5.0',"d":'Exporte les données vers un format Prolog',"z":'ExportProlog.addon.tgz'}
-{"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.28',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
+{"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.29',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.32',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Gramplet Anniversaires',"v":'1.0.32',"g":'5.0',"d":'Ce Gramplet affiche les anniversaires des personnes en vie',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Gramplet Horloge',"v":'0.0.25',"g":'5.0',"d":'Gramplet pour démontrer les graphiques Cairo',"z":'ClockGramplet.addon.tgz'}
@@ -14,7 +14,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Attributs étendus de la famille',"v":'1.0.24',"g":'5.0',"d":'Gramplet affichant les attributs d\'une famille',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Attributs étendus de l\'individu',"v":'1.0.24',"g":'5.0',"d":'Gramplet affichant les attributs d\'un individu',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.7',"g":'5.0',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet formulaires',"v":'2.0.15',"g":'5.0',"d":'Interface gramplet pour les formulaires',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet formulaires',"v":'2.0.16',"g":'5.0',"d":'Interface gramplet pour les formulaires',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.7',"g":'5.0',"d":'Gramplet pour trouver des lieux depuis la base de données GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Gramplet Résumé',"v":'1.0.33',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.1',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -27,16 +27,16 @@
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.24',"g":'5.0',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Nettoyage des lieux',"v":'1.0.6',"g":'5.0',"d":'Le Gramplet "Nettoyage des lieux" aide à fusionner des lieux, ainsi qu\'à compléter des emplacements à partir de la base de données Web GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.18',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet Python',"v":'1.0.24',"g":'5.0',"d":'Un interpréteur python interactif',"z":'PythonGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet Python',"v":'1.0.25',"g":'5.0',"d":'Un interpréteur python interactif',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Gramplet Parentés',"v":'1.0.26',"g":'5.0',"d":'Gramplet affichant les parentés dans une relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.21',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.8',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.49',"g":'5.0',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.86',"g":'5.0',"d":'Graphique dynamique des relations',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.87',"g":'5.0',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.12',"g":'5.0',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.42',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
-{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.20',"g":'5.0',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.21',"g":'5.0',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.26',"g":'5.0',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.16',"g":'5.0',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.6',"g":'5.0',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
@@ -50,7 +50,7 @@
 {"t":'Quickreport',"i":'timelinequickview',"n":'Graphique temporel',"v":'1.0.26',"g":'5.0',"d":'Affiche les événements d\'une personne tout au long de sa vie',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Remplissage de l\'arbre',"v":'1.0.10',"g":'5.0',"d":'Rapport sur le remplissage de l\'arbre.',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.11',"g":'5.0',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.19',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.20',"g":'5.0',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.11',"g":'5.0',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.76',"g":'5.0',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.35',"g":'5.0',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
@@ -80,12 +80,12 @@
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.33',"g":'5.0',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Définir un attribut',"v":'0.0.24',"g":'5.0',"d":'Définir une valeur à un attribut.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.0.5',"g":'5.0',"d":'Va regarder les données \'Association\' des individus',"z":'AssociationsTool.addon.tgz'}
-{"t":'Tool',"i":'birthorder',"n":'Trier les enfants dans l\'ordre des naissances',"v":'0.0.6',"g":'5.0',"d":'Regarde les familles, cherche des enfants qui ne sont pas dans l\'ordre des naissances. L\'utilisateur peut accepter des suggestions individuelles pour corriger, modifier l\'ordre de naissance manuellement, accepter toutes les familles qui ont tous les enfants avec des dates de naissance appropriées ou accepter tout.',"z":'BirthOrder.addon.tgz'}
-{"t":'Tool',"i":'calculateestimateddates',"n":'Calcul des dates estimées',"v":'0.90.26',"g":'5.0',"d":'Calcul des dates estimées pour les naissances et décès.',"z":'CalculateEstimatedDates.addon.tgz'}
+{"t":'Tool',"i":'birthorder',"n":'Trier les enfants dans l\'ordre des naissances',"v":'0.0.7',"g":'5.0',"d":'Regarde les familles, cherche des enfants qui ne sont pas dans l\'ordre des naissances. L\'utilisateur peut accepter des suggestions individuelles pour corriger, modifier l\'ordre de naissance manuellement, accepter toutes les familles qui ont tous les enfants avec des dates de naissance appropriées ou accepter tout.',"z":'BirthOrder.addon.tgz'}
+{"t":'Tool',"i":'calculateestimateddates',"n":'Calcul des dates estimées',"v":'0.90.27',"g":'5.0',"d":'Calcul des dates estimées pour les naissances et décès.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Réparer la casse des prénoms',"v":'1.0.27',"g":'5.0',"d":'Recherche dans toute la base de données et essaye de corriger la casse des prénoms.',"z":'ChangeGivenNames.addon.tgz'}
-{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.26',"g":'5.0',"d":'Fusionne les objets principaux via la ligne de commande',"z":'CliMerge.addon.tgz'}
-{"t":'Tool',"i":'downloadmedia',"n":'Télécharge des objets media depuis internet',"v":'1.0.7',"g":'5.0',"d":'Cet outil télécharge des fichiers depuis internet',"z":'DownloadMedia.addon.tgz'}
-{"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.4',"g":'5.0',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.27',"g":'5.0',"d":'Fusionne les objets principaux via la ligne de commande',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'downloadmedia',"n":'Télécharge des objets media depuis internet',"v":'1.0.8',"g":'5.0',"d":'Cet outil télécharge des fichiers depuis internet',"z":'DownloadMedia.addon.tgz'}
+{"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.5',"g":'5.0',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Outil d\'importation et de fusion',"v":'0.0.9',"g":'5.0',"d":'Compare une base de données Gramps XML avec celle actuelle et permet de fusionner les différences.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.1',"g":'5.0',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Vérification des media',"v":'1.0.17',"g":'5.0',"d":'Vérifier si l\'objet medium est présent avec le bon chemin ',"z":'MediaVerify.addon.tgz'}
