@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet formulaires',"v":'2.0.16',"g":'5.0',"d":'Interface gramplet pour les formulaires',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.7',"g":'5.0',"d":'Gramplet pour trouver des lieux depuis la base de données GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Gramplet Résumé',"v":'1.0.33',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.1',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.2',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Gramplet Importation',"v":'1.0.30',"g":'5.0',"d":'Gramplet pour importer du texte',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Gramplet Dernières modifications',"v":'0.1.1',"g":'5.0',"d":'Liste les dix derniers individus modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Navigateur Media',"v":'1.0.25',"g":'5.0',"d":'Gramplet affichant les détails de l\'individu',"z":'MediaBrowser.addon.tgz'}

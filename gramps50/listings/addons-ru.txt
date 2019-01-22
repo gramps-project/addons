@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Формы',"v":'2.0.16',"g":'5.0',"d":'Интерфейс для форм',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.7',"g":'5.0',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Новости Gramps',"v":'1.0.33',"g":'5.0',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.1',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.2',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Импорт текста',"v":'1.0.30',"g":'5.0',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Последние изменения',"v":'0.1.1',"g":'5.0',"d":'Показывает последние десять лиц в которые вносились изменения',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Просмотр альбома',"v":'1.0.25',"g":'5.0',"d":'Показывает подробности о лице',"z":'MediaBrowser.addon.tgz'}
