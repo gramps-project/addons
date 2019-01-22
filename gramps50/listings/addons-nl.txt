@@ -70,11 +70,11 @@
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.15',"g":'5.0',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.32',"g":'5.0',"d":'Een \'xhtml\'-webpagina met een grafische voorstelling van de voorouders/afstammelingen (svg) wordt aangemaakt. Individuele details worden door muisacties zichtbaar. ',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detailed Descendant Report With All Images',"v":'1.0.3',"g":'5.0',"d":'Produces a detailed descendant report with all images and optional todo list.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'gt_ancestor',"n":'Ancestor Tree',"v":'1.0.7',"g":'5.0',"d":'Ancestor tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_descendant',"n":'Descendant Tree',"v":'1.0.7',"g":'5.0',"d":'Descendant tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.7',"g":'5.0',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.7',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.7',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_ancestor',"n":'Ancestor Tree',"v":'1.0.8',"g":'5.0',"d":'Ancestor tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_descendant',"n":'Descendant Tree',"v":'1.0.8',"g":'5.0',"d":'Descendant tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.8',"g":'5.0',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.8',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.8',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.14',"g":'5.0',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Bron toevoegen',"v":'0.0.28',"g":'5.0',"d":'Een gedeelde bron aan verschillende objecten toevoegen.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatie vervolledigen',"v":'0.0.33',"g":'5.0',"d":'Een lijst van geselecteerde locaties, met de mogelijkheid om/de kenmerkenvelden de vervolledigen/bekijken/veranderen.',"z":'PlaceCompletion.addon.tgz'}
