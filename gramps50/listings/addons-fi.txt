@@ -40,7 +40,7 @@
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.27',"g":'5.0',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Laajennusten parannettu hallinta',"v":'1.0.18',"g":'5.0',"d":'Lisäosien/Laajennusten hallinta, jolla on useita lisäominaisuuksia',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.7',"g":'5.0',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Teeman asetukset',"v":'0.0.0',"g":'5.0',"d":'Lisäys asetuksiin yksinkertaisen teeman ja fontin säätämiseksi. Erityisen hyödyllinen Windows-käyttäjille.',"z":'Themes.addon.tgz'}
+{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Teeman asetukset',"v":'0.0.2',"g":'5.0',"d":'Lisäys asetuksiin yksinkertaisen teeman ja fontin säätämiseksi. Erityisen hyödyllinen Windows-käyttäjille.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.34',"g":'5.0',"d":'Nettisivustojen kokoelma UK (vaatii libwebconnectin)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.37',"g":'5.0',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.25',"g":'5.0',"d":'Provides a library for generic access to the database and gen.lib.',"z":'libaccess.addon.tgz'}
