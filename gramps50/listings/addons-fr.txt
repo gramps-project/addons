@@ -1,6 +1,6 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.4',"g":'5.0',"d":'PostgreSQL Database',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportation des extensions Gedcom (GED2)',"v":'1.0.22',"g":'5.0',"d":'Extensions du format courant Gedcom.',"z":'GedcomExtensions.addon.tgz'}
-{"t":'Exporter',"i":'JSON Export',"n":'Exportation JSON',"v":'1.0.13',"g":'5.0',"d":'Ceci est une exportation JSON',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'JSON Export',"n":'Exportation JSON',"v":'1.0.14',"g":'5.0',"d":'Ceci est une exportation JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Exportation Prolog',"v":'1.0.8',"g":'5.0',"d":'Exporte les données vers un format Prolog',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Export brut',"v":'1.0.30',"g":'5.0',"d":'Ceci est une image brute d\'objet python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportation SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
@@ -33,7 +33,7 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.9',"g":'5.0',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.51',"g":'5.0',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.90',"g":'5.0',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
-{"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.13',"g":'5.0',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.14',"g":'5.0',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.0.34',"g":'5.0',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.43',"g":'5.0',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.22',"g":'5.0',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}

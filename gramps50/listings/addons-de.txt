@@ -1,6 +1,6 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.4',"g":'5.0',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.22',"g":'5.0',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
-{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.13',"g":'5.0',"d":'Dies ist ein JSON Export',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.14',"g":'5.0',"d":'Dies ist ein JSON Export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.8',"g":'5.0',"d":'Exportiert Daten in ein Prolog-Faktenformat',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Rohdaten Export',"v":'1.0.30',"g":'5.0',"d":'Dies ist eine Rohdaten Pythonobjekt Ausgabe',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.33',"g":'5.0',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
@@ -33,7 +33,7 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Diagramm',"v":'1.0.9',"g":'5.0',"d":'Die Ansicht zeigt eine Quilt-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.51',"g":'5.0',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.90',"g":'5.0',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
-{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.13',"g":'5.0',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.14',"g":'5.0',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.34',"g":'5.0',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.43',"g":'5.0',"d":'Erstellt Datendatei für GoogleEarth und öffnet sie',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.22',"g":'5.0',"d":'Sammlung von Webseiten für DE (benötigt libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}

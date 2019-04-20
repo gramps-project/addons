@@ -1,6 +1,6 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.4',"g":'5.0',"d":'База данных PostgreSQL',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Экспорт в GEDCOM (GED2)',"v":'1.0.22',"g":'5.0',"d":'Дополнения для обычного формата GEDCOM.',"z":'GedcomExtensions.addon.tgz'}
-{"t":'Exporter',"i":'JSON Export',"n":'Экспорт JSON',"v":'1.0.13',"g":'5.0',"d":'Предоставляет экспорт в JSON',"z":'JSON.addon.tgz'}
+{"t":'Exporter',"i":'JSON Export',"n":'Экспорт JSON',"v":'1.0.14',"g":'5.0',"d":'Предоставляет экспорт в JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Экспорт в Prolog',"v":'1.0.8',"g":'5.0',"d":'Экспорт данных в формат Prolog',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.30',"g":'5.0',"d":'Получение данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
@@ -33,7 +33,7 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.9',"g":'5.0',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.51',"g":'5.0',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Граф отношений',"v":'1.0.90',"g":'5.0',"d":'Динамический и интерактивный граф отношений',"z":'GraphView.addon.tgz'}
-{"t":'Importer',"i":'JSON Import',"n":'Импорт JSON',"v":'1.0.13',"g":'5.0',"d":'Предоставляет импорт JSON',"z":'JSON.addon.tgz'}
+{"t":'Importer',"i":'JSON Import',"n":'Импорт JSON',"v":'1.0.14',"g":'5.0',"d":'Предоставляет импорт JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Импорт SQLite',"v":'1.0.34',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.43',"g":'5.0',"d":'Создаёт данные для GoogleEarth и открывает их',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Набор DE Web Connect',"v":'0.0.22',"g":'5.0',"d":'Набор веб-сайтов для DE (требуется libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
