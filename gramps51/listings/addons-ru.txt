@@ -16,6 +16,7 @@
 {"t":'Gramplet',"i":'Family Overview',"n":'Обзор по семье',"v":'1.0.9',"g":'5.0',"d":'Отображает события связаные с семьёй',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Формы',"v":'2.0.18',"g":'5.1',"d":'Интерфейс для форм',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.9',"g":'5.1',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet GEPS045',"n":'GetGOV_GEPS045',"v":'1.1.1',"g":'5.1',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV_GEPS045.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Новости Gramps',"v":'1.0.35',"g":'5.1',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.4',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Импорт текста',"v":'1.0.32',"g":'5.1',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
