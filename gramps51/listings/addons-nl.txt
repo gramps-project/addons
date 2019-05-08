@@ -16,7 +16,7 @@
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.18',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.9',"g":'5.1',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet GEPS045',"n":'GetGOV_GEPS045',"v":'1.1.1',"g":'5.1',"d":'Gramplet to get places from the GOV database',"z":'GetGOV_GEPS045.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet GEPS045',"n":'GetGOV_GEPS045',"v":'1.1.2',"g":'5.1',"d":'Gramplet to get places from the GOV database',"z":'GetGOV_GEPS045.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'\'Belangrijkste nieuws\'-gramplet',"v":'1.0.35',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.4',"g":'5.0',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import-gramplet',"v":'1.0.32',"g":'5.1',"d":'Gramplet om tekst te importeren',"z":'ImportGramplet.addon.tgz'}
