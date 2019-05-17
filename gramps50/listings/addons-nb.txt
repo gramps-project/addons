@@ -13,7 +13,7 @@
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Descendant Count Gramplet',"v":'2.0.4',"g":'5.0',"d":'Gramplet for showing people and descendant counts',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.25',"g":'5.0',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.25',"g":'5.0',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.8',"g":'5.0',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
+{"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.17',"g":'5.0',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.9',"g":'5.0',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News Gramplet',"n":'Siste nyheter Smågramps',"v":'1.0.34',"g":'5.0',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
@@ -23,7 +23,7 @@
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Media Browser',"v":'1.0.26',"g":'5.0',"d":'Gramplet showing details of a person',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notat Smågramps',"v":'1.0.29',"g":'5.0',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.11',"g":'5.0',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
-{"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.8',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
+{"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.25',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.7',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.18',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
