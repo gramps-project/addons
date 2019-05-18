@@ -27,6 +27,7 @@
 {"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.26',"g":'5.1',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.8',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
+{"t":'Gramplet',"i":'PlaceCleanup_GEPS045',"n":'Place Cleanup GEPS_045',"v":'1.1.1',"g":'5.1',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup_GEPS045.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.19',"g":'5.1',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Gramplet',"v":'1.0.27',"g":'5.1',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.28',"g":'5.1',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
