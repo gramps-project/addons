@@ -33,9 +33,9 @@
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.28',"g":'5.1',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.1',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Sukupuu',"v":'0.0.23',"g":'5.1',"d":'Näkymä näyttää valitulle henkilölle tilaa säästävän sukupuun',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.10',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Aikajana sukupuu',"v":'0.1.52',"g":'5.1',"d":'Näkymä näyttää valitun henkilön esivanhempien ja jälkeläisten sukupuun aikajanalla',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Kaavionäkymä',"v":'1.0.90',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.11',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Aikajana sukupuu',"v":'0.1.53',"g":'5.1',"d":'Näkymä näyttää valitun henkilön esivanhempien ja jälkeläisten sukupuun aikajanalla',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Kaavionäkymä',"v":'1.0.91',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.14',"g":'5.1',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.0.35',"g":'5.1',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.44',"g":'5.1',"d":'Luo GoogleEarth tiedostoa ja avaa sen',"z":'GoogleEarthWriteKML.addon.tgz'}
