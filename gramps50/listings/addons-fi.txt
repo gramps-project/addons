@@ -78,6 +78,7 @@
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.8',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Nettikaavio',"v":'0.0.14',"g":'5.0',"d":'Tuota perheiden nettikaavio.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attach Source',"v":'0.0.29',"g":'5.0',"d":'Attaches a shared source to multiple objects.',"z":'AttachSourceTool.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.1',"g":'5.0',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.34',"g":'5.0',"d":'Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.25',"g":'5.0',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.0.5',"g":'5.0',"d":'Will check the data on Association for people.',"z":'AssociationsTool.addon.tgz'}

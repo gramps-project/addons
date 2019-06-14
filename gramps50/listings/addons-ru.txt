@@ -78,6 +78,7 @@
 {"t":'Report',"i":'gt_sandclock_family',"n":'Древо для семьи в виде песочных часов',"v":'1.0.8',"g":'5.0',"d":'Древо для семьи в виде песочных часов (использует LaTeX genealogytree)',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.14',"g":'5.0',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.29',"g":'5.0',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.1',"g":'5.0',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.34',"g":'5.0',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.25',"g":'5.0',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.0.5',"g":'5.0',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}

@@ -78,6 +78,7 @@
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.8',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Graphique réseau',"v":'0.0.14',"g":'5.0',"d":'Génère un graphique du réseau familial.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attacher une source',"v":'0.0.29',"g":'5.0',"d":'Attache une source partagée à des objets multiples',"z":'AttachSourceTool.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.1',"g":'5.0',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.34',"g":'5.0',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Définir un attribut',"v":'0.0.25',"g":'5.0',"d":'Définir une valeur à un attribut.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.0.5',"g":'5.0',"d":'Va regarder les données \'Association\' des individus',"z":'AssociationsTool.addon.tgz'}
