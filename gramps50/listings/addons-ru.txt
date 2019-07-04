@@ -4,7 +4,7 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Экспорт в Prolog',"v":'1.0.8',"g":'5.0',"d":'Экспорт данных в формат Prolog',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.30',"g":'5.0',"d":'Получение данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.0.33',"g":'5.0',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
-{"t":'Gramplet',"i":'Birthdays',"n":'Дни рождения',"v":'1.0.33',"g":'5.0',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Birthdays',"n":'Дни рождения',"v":'1.1.1',"g":'5.0',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Грамплет Часы',"v":'0.0.25',"g":'5.0',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.35',"g":'5.0',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Ввод данных',"v":'1.0.40',"g":'5.0',"d":'Грамплет для быстрого ввода данных',"z":'DataEntryGramplet.addon.tgz'}
