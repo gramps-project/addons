@@ -80,6 +80,7 @@
 {"t":'Tool',"i":'AttachSource',"n":'Quelle hinzufügen',"v":'0.0.29',"g":'5.0',"d":'Fügt verteilte Quellen mehreren Objekten hinzu.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.1',"g":'5.0',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.34',"g":'5.0',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
+{"t":'Tool',"i":'RemoveTagTool',"n":'Remove Tag Tool',"v":'1.0.1',"g":'5.0',"d":'Remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.25',"g":'5.0',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Zuordnungsdaten überprüfen',"v":'1.0.5',"g":'5.0',"d":'Überprüft die Daten auf Zuordnungen für Personen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sortiert Kinder in Geburtsreihenfolge',"v":'0.0.7',"g":'5.0',"d":'Geht durch die Familien und schaut nach Kindern, die sich nicht in der Geburtsreihenfolge befinden. Der Anwender kann einzelne Vorschläge zum manuellen Korrigieren/Bearbeiten der Geburtsreihenfolge übernehmen., alle Familien mit korreckter Geburtsreihenfolge oder alle Familien übernehmen.',"z":'BirthOrder.addon.tgz'}
