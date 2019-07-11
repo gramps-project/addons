@@ -54,7 +54,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Libro discendenza',"v":'1.1.15',"g":'5.1',"d":'Fornisce uno o più resoconti dei discendenti basati sulla richiesta indicata.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.22',"g":'5.1',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Libro discendenza dettagliato',"v":'1.1.15',"g":'5.1',"d":'Produce uno o più resoconti dettagliati dei discendenti basati sulla richiesta indicata.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.78',"g":'5.1',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.79',"g":'5.1',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.37',"g":'5.1',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Albero genealogico',"v":'4.2.16',"g":'5.1',"d":'Genera un albero genealogico grafico',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Last Change Report',"v":'0.1.3',"g":'5.1',"d":'Report of the last records that have been changed',"z":'LastChange.addon.tgz'}
