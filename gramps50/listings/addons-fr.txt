@@ -76,7 +76,7 @@
 {"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.8',"g":'5.0',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.8',"g":'5.0',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.8',"g":'5.0',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Graphique réseau',"v":'0.0.15',"g":'5.0',"d":'Génère un graphique du réseau familial.',"z":'NetworkChart.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Graphique réseau',"v":'0.0.16',"g":'5.0',"d":'Génère un graphique du réseau familial.',"z":'NetworkChart.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attacher une source',"v":'0.0.29',"g":'5.0',"d":'Attache une source partagée à des objets multiples',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.1',"g":'5.0',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.34',"g":'5.0',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
