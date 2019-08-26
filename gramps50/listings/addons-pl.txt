@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.9',"g":'5.0',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.25',"g":'5.0',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.7',"g":'5.0',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.18',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.19',"g":'5.0',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet konsoli Pythona',"v":'1.0.26',"g":'5.0',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives Gramplet',"v":'1.0.27',"g":'5.0',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.22',"g":'5.0',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
