@@ -11,6 +11,7 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.6',"g":'5.1',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Подробные связи',"v":'1.0.33',"g":'5.1',"d":'Показывает связь между активным и базовым лицом',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.5',"g":'5.1',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Редактировать метаданные (EXIF) изображения',"v":'2.0.1',"g":'5.1',"d":'Грамплет для просмотра, редакции, и записи метаданных (в формате Exif) изображения',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Расширенные атрибуты для семьи',"v":'1.0.26',"g":'5.1',"d":'Показывает атрибуты для выбранной семьи',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Расширенные атрибуты для лиц',"v":'1.0.26',"g":'5.1',"d":'Показывает атрибуты для выбранного лица',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Обзор по семье',"v":'1.0.10',"g":'5.1',"d":'Отображает события связаные с семьёй',"z":'Overview.addon.tgz'}
@@ -26,7 +27,7 @@
 {"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.10',"g":'5.1',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.26',"g":'5.1',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.9',"g":'5.1',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.20',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.21',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.27',"g":'5.1',"d":'Интерактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.28',"g":'5.1',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.1',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
