@@ -1,8 +1,8 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.6',"g":'5.1',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.23',"g":'5.1',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.15',"g":'5.1',"d":'Dies ist ein JSON Export',"z":'JSON.addon.tgz'}
-{"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.9',"g":'5.1',"d":'Exportiert Daten in ein Prolog-Faktenformat',"z":'ExportProlog.addon.tgz'}
-{"t":'Exporter',"i":'Raw Export',"n":'Rohdaten Export',"v":'1.0.31',"g":'5.1',"d":'Dies ist eine Rohdaten Pythonobjekt Ausgabe',"z":'ExportRaw.addon.tgz'}
+{"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.10',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
+{"t":'Exporter',"i":'Raw Export',"n":'Rohdaten Export',"v":'1.0.32',"g":'5.1',"d":'Dies ist eine Rohdaten Pythonobjekt Ausgabe',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.34',"g":'5.1',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Geburtstags Gramplet',"v":'1.1.2',"g":'5.1',"d":'ein Gramplet welches die Geburtstage von lebenden Personen zeigt',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhren Gramplet',"v":'0.0.26',"g":'5.1',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}

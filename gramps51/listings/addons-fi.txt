@@ -1,8 +1,8 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.6',"g":'5.1',"d":'PostgreSQL Database',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Laajennettu GEDCOM vienti (GED2)',"v":'1.0.23',"g":'5.1',"d":'Laajennukset yleiseen GEDCOM muotoon.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.15',"g":'5.1',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
-{"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.9',"g":'5.1',"d":'Exports data into a Prolog fact format',"z":'ExportProlog.addon.tgz'}
-{"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.31',"g":'5.1',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
+{"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.10',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
+{"t":'Exporter',"i":'Raw Export',"n":'Raw Export',"v":'1.0.32',"g":'5.1',"d":'This is a raw python object dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.0.34',"g":'5.1',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Syntymäpäivät',"v":'1.1.2',"g":'5.1',"d":'Gramplet, joka näyttää elävien ihmisten syntymä päivät ja iät',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Clock Gramplet',"v":'0.0.26',"g":'5.1',"d":'Gramplet for demonstrating Cairo graphics',"z":'ClockGramplet.addon.tgz'}
