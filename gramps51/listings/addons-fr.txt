@@ -34,13 +34,13 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.24',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.12',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.54',"g":'5.1',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.96',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.97',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.15',"g":'5.1',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.1.1',"g":'5.1',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.44',"g":'5.1',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.23',"g":'5.1',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.28',"g":'5.1',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.20',"g":'5.1',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.21',"g":'5.1',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.10',"g":'5.1',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Préférences de thème',"v":'0.0.3',"g":'5.1',"d":'Un ajout aux préférences pour un simple ajustement de thème et de police. Particulièrement utile pour les utilisateurs Windows.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Ensemble de liens internet anglo-saxons',"v":'1.0.35',"g":'5.1',"d":'Collection de sites internet pour le Royaume-uni (nécessite libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
