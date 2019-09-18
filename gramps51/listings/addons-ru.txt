@@ -61,6 +61,7 @@
 {"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.3',"g":'5.1',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Линии родства',"v":'1.1.28',"g":'5.1',"d":'Создаёт линии родства между указанными предком и потомком в виде текста.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.21',"g":'5.1',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
+{"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.0.1',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Родословная',"v":'1.0.32',"g":'5.1',"d":'Альтернативная версия традиционного представления родословной.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Всё о человеке',"v":'1.0.10',"g":'5.1',"d":'Предоставляет отчёт содержащий все данные об активном лице',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.25',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
