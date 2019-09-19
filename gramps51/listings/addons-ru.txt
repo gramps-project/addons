@@ -16,7 +16,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Расширенные атрибуты для лиц',"v":'1.0.26',"g":'5.1',"d":'Показывает атрибуты для выбранного лица',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Обзор по семье',"v":'1.0.10',"g":'5.1',"d":'Отображает события связаные с семьёй',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Формы',"v":'2.0.18',"g":'5.1',"d":'Интерфейс для форм',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.10',"g":'5.1',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.11',"g":'5.1',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Последние новости',"v":'1.0.37',"g":'5.1',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.5',"g":'5.1',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Импорт текста',"v":'1.0.32',"g":'5.1',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
@@ -25,7 +25,7 @@
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Заметки',"v":'1.0.31',"g":'5.1',"d":'Предназначен для редактирования заметок о человеке',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Участники',"v":'1.0.12',"g":'5.1',"d":'Показывает участников события',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.10',"g":'5.1',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.26',"g":'5.1',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.27',"g":'5.1',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.9',"g":'5.1',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.24',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.27',"g":'5.1',"d":'Интерактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}

@@ -16,7 +16,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.26',"g":'5.1',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.10',"g":'5.1',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.18',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.10',"g":'5.1',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.11',"g":'5.1',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nyhetsrubriker',"v":'1.0.37',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.5',"g":'5.1',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Gramplet',"v":'1.0.32',"g":'5.1',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
@@ -25,7 +25,7 @@
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Gramplet för notis',"v":'1.0.31',"g":'5.1',"d":'Gramplet for editing active person\'s notes',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.12',"g":'5.1',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.10',"g":'5.1',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.26',"g":'5.1',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Photo Tagging',"v":'1.0.27',"g":'5.1',"d":'Gramplet for tagging people in photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Place Cleanup',"v":'1.0.9',"g":'5.1',"d":'Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.24',"g":'5.1',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Gramplet med Python',"v":'1.0.27',"g":'5.1',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
