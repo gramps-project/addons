@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Collections Clipboard',"v":'1.0.36',"g":'5.1',"d":'Gramplet for grouping collections of items to aid in data entry.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Data Entry Gramplet',"v":'1.0.41',"g":'5.1',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.6',"g":'5.1',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Deep Connections Gramplet',"v":'1.0.33',"g":'5.1',"d":'Gramplet showing a deep relationship between active and home people',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Deep Connections Gramplet',"v":'1.0.34',"g":'5.1',"d":'Gramplet showing a deep relationship between active and home people',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Descendant Count Gramplet',"v":'2.0.5',"g":'5.1',"d":'Gramplet for showing people and descendant counts',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Redigere Metadata for bilde',"v":'2.0.2',"g":'5.1',"d":'Smågramps for å vise, redigere og lagre Exif-metadata for bilder',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.26',"g":'5.1',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
