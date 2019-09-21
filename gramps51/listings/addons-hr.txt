@@ -14,7 +14,7 @@
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi slikovne Exif metapodatke',"v":'2.0.3',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.27',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Proširena svojstva osobe',"v":'1.0.27',"g":'5.1',"d":'Gramplet prikazuje svojstva osobe',"z":'ExtendedAttributes.addon.tgz'}
-{"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.11',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
+{"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.12',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.19',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.12',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.38',"g":'5.1',"d":'Gramplet za pirkaz nojnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
@@ -24,7 +24,7 @@
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Preglednik za medije',"v":'1.0.28',"g":'5.1',"d":'Gramplet prikazuje detalje osobe',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Zabilješke – Gramplet',"v":'1.0.32',"g":'5.1',"d":'Gramplet za urećivanje zabilježaka aktivne osobe',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Sudionici',"v":'1.0.13',"g":'5.1',"d":'Gramplet prikazuje sudionike jedong događaja',"z":'Participants.addon.tgz'}
-{"t":'Gramplet',"i":'Person Overview',"n":'Pregled osobe',"v":'1.0.11',"g":'5.1',"d":'Gramplet za prikaz događaja osobe',"z":'Overview.addon.tgz'}
+{"t":'Gramplet',"i":'Person Overview',"n":'Pregled osobe',"v":'1.0.12',"g":'5.1',"d":'Gramplet za prikaz događaja osobe',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Označivanje slika',"v":'1.0.28',"g":'5.1',"d":'Gramplet za označivanje osoba u slikama',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Sređivanje mjesta',"v":'1.0.10',"g":'5.1',"d":'Gramplet pomaže sjediniti mjesta, kao i popuniti mjesta uz pomoć GeoNames web baze podataka',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Provjera preduvjeta',"v":'0.8.25',"g":'5.1',"d":'Gramplet za provjeru preduvjeta',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
