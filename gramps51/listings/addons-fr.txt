@@ -56,7 +56,7 @@
 {"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.0.23',"g":'5.1',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.16',"g":'5.1',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.80',"g":'5.1',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
-{"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.38',"g":'5.1',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
+{"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.39',"g":'5.1',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.17',"g":'5.1',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.1.4',"g":'5.1',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.29',"g":'5.1',"d":'Affiche toutes les lignes de descendants d\'un ancêtre donné à un descendant choisi dans un format textuel.',"z":'LinesOfDescendency.addon.tgz'}
@@ -87,7 +87,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Définir un attribut',"v":'0.0.27',"g":'5.1',"d":'Définir une valeur à un attribut.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.1',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.0.1',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.0.7',"g":'5.1',"d":'Va regarder les données \'Association\' des individus',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.1.1',"g":'5.1',"d":'Va regarder les données \'Association\' des individus',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Trier les enfants dans l\'ordre des naissances',"v":'0.0.9',"g":'5.1',"d":'Regarde les familles, cherche des enfants qui ne sont pas dans l\'ordre des naissances. L\'utilisateur peut accepter des suggestions individuelles pour corriger, modifier l\'ordre de naissance manuellement, accepter toutes les familles qui ont tous les enfants avec des dates de naissance appropriées ou accepter tout.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcul des dates estimées',"v":'0.90.30',"g":'5.1',"d":'Calcul des dates estimées pour les naissances et décès.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Réparer la casse des prénoms',"v":'1.0.30',"g":'5.1',"d":'Recherche dans toute la base de données et essaye de corriger la casse des prénoms.',"z":'ChangeGivenNames.addon.tgz'}

@@ -56,7 +56,7 @@
 {"t":'Report',"i":'Descendants Lines',"n":'Линии потомков',"v":'1.0.23',"g":'5.1',"d":'Создаёт линии потомков для лица',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Подробная книга о потомках',"v":'1.1.16',"g":'5.1',"d":'Создаёт различные подробные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Динамический веб отчёт',"v":'0.0.80',"g":'5.1',"d":'Формирует динамические веб страницы из базы данных',"z":'DynamicWeb.addon.tgz'}
-{"t":'Report',"i":'FamilySheet',"n":'Семейные страницы',"v":'3.4.38',"g":'5.1',"d":'Создаёт семейную страницу со всей информацией о лице, его родителях и детях.',"z":'FamilySheet.addon.tgz'}
+{"t":'Report',"i":'FamilySheet',"n":'Семейные страницы',"v":'3.4.39',"g":'5.1',"d":'Создаёт семейную страницу со всей информацией о лице, его родителях и детях.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Семейное древо',"v":'4.2.17',"g":'5.1',"d":'Создаёт графическое представление семейного древа.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.4',"g":'5.1',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Линии родства',"v":'1.1.29',"g":'5.1',"d":'Создаёт линии родства между указанными предком и потомком в виде текста.',"z":'LinesOfDescendency.addon.tgz'}
@@ -87,7 +87,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.27',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.1',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.0.1',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.0.7',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.1.1',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Сортировка детей в порядке рождения',"v":'0.0.9',"g":'5.1',"d":'Просматривает семьи и ищет детей, которые указаны не в порядке рождения. Пользователь может принять предложения частично, редактировать порядок вручную, принять изменения для семей с корректными датами или принять всё.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Расчёт предположительных дат',"v":'0.90.30',"g":'5.1',"d":'Расчитывает предположитльные даты для рождения и смерти.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Исправление регистра в именах',"v":'1.0.30',"g":'5.1',"d":'Просматривает всю базу данных и пытается исправить регистр в именах.',"z":'ChangeGivenNames.addon.tgz'}
