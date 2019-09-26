@@ -40,7 +40,7 @@
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.45',"g":'5.1',"d":'Stvara datoteku s podacima potrebnima za GoogleEarth, te je otvara',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect zbirka',"v":'0.0.24',"g":'5.1',"d":'Zbirka web stranica za Njemačku (zahtijeva libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.29',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.22',"g":'5.1',"d":'Upravljač za dodatke, s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.23',"g":'5.1',"d":'Upravljač za dodatke, s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Pokreni tamo gdje si stao/la',"v":'0.0.11',"g":'5.1',"d":'S ovim dodatkom Gramps se pokreće u istom pogledu i na istom objektu, koji su bili aktivni prilikom zadnjeg izlaska. Ne dodaje nove izbornike niti Gramplete, ali omogućuje prikaz zadnjih šest korištenih objekata u izborniku „Idi”.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme preferences',"v":'0.0.3',"g":'5.1',"d":'An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect zbirka',"v":'1.0.36',"g":'5.1',"d":'Zbirka web stranica za Ujedinjeno Kraljevstvo (zahtijeva libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
