@@ -7,7 +7,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Дни рождения',"v":'1.1.4',"g":'5.1',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Грамплет Часы',"v":'0.0.27',"g":'5.1',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.37',"g":'5.1',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Ввод данных',"v":'1.0.42',"g":'5.1',"d":'Грамплет для быстрого ввода данных',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Ввод данных',"v":'1.0.43',"g":'5.1',"d":'Грамплет для быстрого ввода данных',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.7',"g":'5.1',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Подробные связи',"v":'1.0.35',"g":'5.1',"d":'Показывает связь между активным и базовым лицом',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.6',"g":'5.1',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
