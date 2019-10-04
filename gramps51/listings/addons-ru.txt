@@ -63,7 +63,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.22',"g":'5.1',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.0.1',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Родословная',"v":'1.0.33',"g":'5.1',"d":'Альтернативная версия традиционного представления родословной.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'Всё о человеке',"v":'1.0.11',"g":'5.1',"d":'Предоставляет отчёт содержащий все данные об активном лице',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Всё о человеке',"v":'1.0.12',"g":'5.1',"d":'Предоставляет отчёт содержащий все данные об активном лице',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.26',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Параметы отчета о хранилищах',"v":'0.3.26',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Источники и цитаты',"v":'3.6.5',"g":'5.1',"d":'Создаёт отчёт об источниках и цитатах с заметками',"z":'SourcesCitationsReport.addon.tgz'}
