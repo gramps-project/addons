@@ -33,7 +33,7 @@
 {"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.2',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.25',"g":'5.1',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.13',"g":'5.1',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.55',"g":'5.1',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.56',"g":'5.1',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Граф отношений',"v":'1.0.105',"g":'5.1',"d":'Динамический и интерактивный граф отношений',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Импорт JSON',"v":'1.0.16',"g":'5.1',"d":'Предоставляет импорт JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Импорт SQLite',"v":'1.1.2',"g":'5.1',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
