@@ -34,7 +34,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.25',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.13',"g":'5.1',"d":'Prikazuje dijagram obiteljskog stabla u obliku popluna',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.56',"g":'5.1',"d":'Prikazuje kronologiju predaka, s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Dijagram srodstva',"v":'1.0.105',"g":'5.1',"d":'Dinamičan i interaktivan dijagram srodstva',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Dijagram srodstva',"v":'1.0.106',"g":'5.1',"d":'Dinamičan i interaktivan dijagram srodstva',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON uvoz',"v":'1.0.16',"g":'5.1',"d":'Ovo je JSON uvoz',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite uvoz',"v":'1.1.2',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.45',"g":'5.1',"d":'Stvara datoteku s podacima potrebnima za GoogleEarth, te je otvara',"z":'GoogleEarthWriteKML.addon.tgz'}
