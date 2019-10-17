@@ -42,7 +42,7 @@
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.29',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.23',"g":'5.1',"d":'Upravljač za dodatke, s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Pokreni tamo gdje si stao/la',"v":'0.0.11',"g":'5.1',"d":'S ovim dodatkom Gramps se pokreće u istom pogledu i na istom objektu, koji su bili aktivni prilikom zadnjeg izlaska. Ne dodaje nove izbornike niti Gramplete, ali omogućuje prikaz zadnjih šest korištenih objekata u izborniku „Idi”.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme preferences',"v":'0.0.3',"g":'5.1',"d":'An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.',"z":'Themes.addon.tgz'}
+{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme preferences',"v":'0.0.4',"g":'5.1',"d":'An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect zbirka',"v":'1.0.36',"g":'5.1',"d":'Zbirka web stranica za Ujedinjeno Kraljevstvo (zahtijeva libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'SAD Web Connect zbirka',"v":'1.0.39',"g":'5.1',"d":'Zbirka web stranica za SAD (zahtijeva libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.27',"g":'5.1',"d":'Dostavlja biblioteku za opći pristup bazi podataka i gen.lib.',"z":'libaccess.addon.tgz'}
