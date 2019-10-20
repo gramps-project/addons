@@ -4,13 +4,13 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Экспорт в Prolog',"v":'1.0.11',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.33',"g":'5.1',"d":'Получение данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.1.2',"g":'5.1',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
-{"t":'Gramplet',"i":'Birthdays',"n":'Дни рождения',"v":'1.1.4',"g":'5.1',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Грамплет Часы',"v":'0.0.27',"g":'5.1',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Birthdays',"n":'Birthdays',"v":'1.1.5',"g":'5.1',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Часы',"v":'0.0.28',"g":'5.1',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.37',"g":'5.1',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Ввод данных',"v":'1.0.43',"g":'5.1',"d":'Грамплет для быстрого ввода данных',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.7',"g":'5.1',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Подробные связи',"v":'1.0.35',"g":'5.1',"d":'Показывает связь между активным и базовым лицом',"z":'DeepConnectionsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.6',"g":'5.1',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
+{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.7',"g":'5.1',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Редактировать метаданные (EXIF) изображения',"v":'2.0.3',"g":'5.1',"d":'Грамплет для просмотра, редакции, и записи метаданных (в формате Exif) изображения',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Расширенные атрибуты для семьи',"v":'1.0.27',"g":'5.1',"d":'Показывает атрибуты для выбранной семьи',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Расширенные атрибуты для лиц',"v":'1.0.27',"g":'5.1',"d":'Показывает атрибуты для выбранного лица',"z":'ExtendedAttributes.addon.tgz'}
@@ -19,8 +19,8 @@
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.12',"g":'5.1',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Последние новости',"v":'1.0.38',"g":'5.1',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.6',"g":'5.1',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Import Gramplet',"n":'Импорт текста',"v":'1.0.33',"g":'5.1',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Последние изменения',"v":'0.1.4',"g":'5.1',"d":'Показывает последние десять лиц в которые вносились изменения',"z":'LastChange.addon.tgz'}
+{"t":'Gramplet',"i":'Import Gramplet',"n":'Import Text',"v":'1.0.34',"g":'5.1',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change',"v":'0.1.5',"g":'5.1',"d":'Показывает последние десять лиц в которые вносились изменения',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Просмотр альбома',"v":'1.0.28',"g":'5.1',"d":'Показывает подробности о лице',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Заметки',"v":'1.0.32',"g":'5.1',"d":'Предназначен для редактирования заметок о человеке',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Участники',"v":'1.0.13',"g":'5.1',"d":'Показывает участников события',"z":'Participants.addon.tgz'}
@@ -28,8 +28,8 @@
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.29',"g":'5.1',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.11',"g":'5.1',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.25',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.28',"g":'5.1',"d":'Интерактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.29',"g":'5.1',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Python Gramplet',"n":'Python Shell',"v":'1.0.29',"g":'5.1',"d":'Интерактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.30',"g":'5.1',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.2',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.25',"g":'5.1',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.13',"g":'5.1',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
@@ -58,7 +58,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Динамический веб отчёт',"v":'0.0.80',"g":'5.1',"d":'Формирует динамические веб страницы из базы данных',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Семейные страницы',"v":'3.4.39',"g":'5.1',"d":'Создаёт семейную страницу со всей информацией о лице, его родителях и детях.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Семейное древо',"v":'4.2.17',"g":'5.1',"d":'Создаёт графическое представление семейного древа.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.4',"g":'5.1',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}
+{"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.5',"g":'5.1',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Линии родства',"v":'1.1.29',"g":'5.1',"d":'Создаёт линии родства между указанными предком и потомком в виде текста.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.22',"g":'5.1',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.0.1',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}

@@ -4,13 +4,13 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Izvoz u Prolog',"v":'1.0.11',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Izvoz u Raw format',"v":'1.0.33',"g":'5.1',"d":'Ovo je neobrađeni izvadak python objekata',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite izvoz',"v":'1.1.2',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
-{"t":'Gramplet',"i":'Birthdays',"n":'Rođendani – Gramplet',"v":'1.1.4',"g":'5.1',"d":'gramplet prikazuje rođendane živih osoba',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat – Gramplet',"v":'0.0.27',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Birthdays',"n":'Birthdays',"v":'1.1.5',"g":'5.1',"d":'gramplet prikazuje rođendane živih osoba',"z":'BirthdaysGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.28',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.37',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Unos podataka – Gramplet',"v":'1.0.43',"g":'5.1',"d":'Gramplet za brzi unos podataka: %s',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.7',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Daleka veza – Gramplet',"v":'1.0.35',"g":'5.1',"d":'Gramplet prikazuje daleku vezu između aktivne i glavne osobe',"z":'DeepConnectionsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Broj potomaka – Gramplet',"v":'2.0.6',"g":'5.1',"d":'Gramplet prikazuje broj osoba i potomaka',"z":'DescendantCount.addon.tgz'}
+{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Broj potomaka',"v":'2.0.7',"g":'5.1',"d":'Gramplet prikazuje broj osoba i potomaka',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi slikovne Exif metapodatke',"v":'2.0.3',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.27',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Proširena svojstva osobe',"v":'1.0.27',"g":'5.1',"d":'Gramplet prikazuje svojstva osobe',"z":'ExtendedAttributes.addon.tgz'}
@@ -19,8 +19,8 @@
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.12',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.38',"g":'5.1',"d":'Gramplet za pirkaz nojnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Kronologija stana/kuće',"v":'1.0.6',"g":'5.1',"d":'Kronološki popis stanovnika na adresi',"z":'HouseTimelineGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Import Gramplet',"n":'Uvoz – Gramplet',"v":'1.0.33',"g":'5.1',"d":'Gramplet za uvoz teksta',"z":'ImportGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Zadnje promjene – Gramplet',"v":'0.1.4',"g":'5.1',"d":'Stvori popis zadnjih deset promjena u zapisima za osobu',"z":'LastChange.addon.tgz'}
+{"t":'Gramplet',"i":'Import Gramplet',"n":'Import Text',"v":'1.0.34',"g":'5.1',"d":'Gramplet za uvoz teksta',"z":'ImportGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change',"v":'0.1.5',"g":'5.1',"d":'Stvori popis zadnjih deset promjena u zapisima za osobu',"z":'LastChange.addon.tgz'}
 {"t":'Gramplet',"i":'MediaBrowser',"n":'Preglednik za medije',"v":'1.0.28',"g":'5.1',"d":'Gramplet prikazuje detalje osobe',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Zabilješke – Gramplet',"v":'1.0.32',"g":'5.1',"d":'Gramplet za urećivanje zabilježaka aktivne osobe',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Sudionici',"v":'1.0.13',"g":'5.1',"d":'Gramplet prikazuje sudionike jedong događaja',"z":'Participants.addon.tgz'}
@@ -28,8 +28,8 @@
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Označivanje slika',"v":'1.0.29',"g":'5.1',"d":'Gramplet za označivanje osoba u slikama',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Sređivanje mjesta',"v":'1.0.11',"g":'5.1',"d":'Gramplet pomaže sjediniti mjesta, kao i popuniti mjesta uz pomoć GeoNames web baze podataka',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Provjera preduvjeta',"v":'0.8.25',"g":'5.1',"d":'Gramplet za provjeru preduvjeta',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Python Gramplet',"n":'Python – Gramplet',"v":'1.0.28',"g":'5.1',"d":'Interaktivan Python interpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Srodstva srodnika – Gramplet',"v":'1.0.29',"g":'5.1',"d":'Gramplet prikazuje vrste srodstva za srodnike',"z":'RelatedRelativesGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Python Gramplet',"n":'Python konzola',"v":'1.0.29',"g":'5.1',"d":'Interaktivan Python interpreter',"z":'PythonGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Srodstva srodnika',"v":'1.0.30',"g":'5.1',"d":'Gramplet prikazuje vrste srodstva za srodnike',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Ovaj dan u povijesti obitelji',"v":'1.0.2',"g":'5.1',"d":'Podešavajući program za prikaz povezanih događaja u tvojem rodoslovu, koji odgovaraju današnjem danu i mjesecu.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.25',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.13',"g":'5.1',"d":'Prikazuje dijagram obiteljskog stabla u obliku popluna',"z":'QuiltView.addon.tgz'}
@@ -58,7 +58,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.80',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.39',"g":'5.1',"d":'Stvara obiteljski list sa cjelovitim informacijama o osobi i njenim roditeljima i djecom.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.17',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjim promjenama',"v":'0.1.4',"g":'5.1',"d":'Izvještaj o zadnjim zapisima koji su promijenjeni',"z":'LastChange.addon.tgz'}
+{"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjim promjenama',"v":'0.1.5',"g":'5.1',"d":'Izvještaj o zadnjim zapisima koji su promijenjeni',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Izvještaj o liniji potomstva',"v":'1.1.29',"g":'5.1',"d":'Ispisuje sve linije potomstva zadanog pretka do zadanog potomka u tekstualnom obliku.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Brzi popis',"v":'1.0.22',"g":'5.1',"d":'Stvara brzi popis',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.0.1',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
