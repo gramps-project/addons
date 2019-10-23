@@ -87,7 +87,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.27',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.1',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.0.1',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.3',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.4',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.9',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.30',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ispravi početna slova imena',"v":'1.0.30',"g":'5.1',"d":'Pretražuje cijelu bazu podataka i pokušava ispraviti početna slova imena.',"z":'ChangeGivenNames.addon.tgz'}
