@@ -55,7 +55,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.16',"g":'5.1',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.0.23',"g":'5.1',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.16',"g":'5.1',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.80',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.81',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.40',"g":'5.1',"d":'Skapar ett familjeark visande all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.17',"g":'5.1',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport över senaste ändringar',"v":'0.1.6',"g":'5.1',"d":'Rapport över de poster, som har ändrats senast',"z":'LastChange.addon.tgz'}
@@ -80,9 +80,9 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.11',"g":'5.1',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.11',"g":'5.1',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.17',"g":'5.1',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.2',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.3',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Koppla källa',"v":'0.0.31',"g":'5.1',"d":'Kopplar en delad källa till flera objekt.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.4',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Platskomplettering',"v":'0.0.36',"g":'5.1',"d":'Lämnar en bläddringsbar lista på valda platser, med möjlighet att komplettera/avsöka/sätta attributfältet.',"z":'PlaceCompletion.addon.tgz'}
@@ -90,7 +90,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Sätt attribut',"v":'0.0.27',"g":'5.1',"d":'Sätt ett attribut till ett givet värde.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.2',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.0.2',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.1.5',"g":'5.1',"d":'Will check the data on Association for people.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.1.0',"g":'5.1',"d":'Will check the data on Association for people.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sort Children in Birth order',"v":'0.0.9',"g":'5.1',"d":'Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Beräknade uppskattade datum',"v":'0.90.30',"g":'5.1',"d":'Beräkna uppskattningar av datum för födelse och död.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ordna stavning av förnamn',"v":'1.0.30',"g":'5.1',"d":'Söker igenom hela databasen och försöker ordna stavning av förnamnen',"z":'ChangeGivenNames.addon.tgz'}
