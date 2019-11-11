@@ -8,7 +8,7 @@
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.29',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.37',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Unos podataka',"v":'1.0.44',"g":'5.1',"d":'Gramplet za brzi unos podataka',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.8',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.7',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Daleka veza – Gramplet',"v":'1.0.35',"g":'5.1',"d":'Gramplet prikazuje daleku vezu između aktivne i glavne osobe',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Broj potomaka',"v":'2.0.8',"g":'5.1',"d":'Gramplet za prikaz broja osoba i potomaka',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi Exif metapodatke slike',"v":'2.0.4',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka slike',"z":'EditExifMetadata.addon.tgz'}
@@ -80,9 +80,9 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Stablo u obliku pješčanog sata',"v":'1.0.11',"g":'5.1',"d":'Stablo u obliku pješčanog sata, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Stablo u obliku pješčanog sata za obitelj',"v":'1.0.11',"g":'5.1',"d":'Stablo u obliku pješčanog sata za obitelj, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Mrežni dijagram',"v":'0.0.17',"g":'5.1',"d":'Stvara mrežni dijagram obitelji.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.3',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.2',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Dodaj izvor',"v":'0.0.31',"g":'5.1',"d":'Dodaje dijeljeni izvor objektima.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Generator avatara',"v":'1.0.4',"g":'5.1',"d":'Alat za dodavanje avatara rodoslovu',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Upotpunjavanje mjesta',"v":'0.0.36',"g":'5.1',"d":'Dostavlja popis odabranih mjesta, s mogućnošću upotpunjavanja, analiziranja i određivanja polja svojstava.',"z":'PlaceCompletion.addon.tgz'}
@@ -90,7 +90,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.27',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Postavi privatnost',"v":'1.0.2',"g":'5.1',"d":'Postavi sve objekte zadnjih <number> godina kao privatne.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.0.2',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.0',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.5',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.9',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.30',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ispravi početna slova imena',"v":'1.0.30',"g":'5.1',"d":'Pretražuje cijelu bazu podataka i pokušava ispraviti početna slova imena.',"z":'ChangeGivenNames.addon.tgz'}

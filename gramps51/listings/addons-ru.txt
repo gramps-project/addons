@@ -8,7 +8,7 @@
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Часы',"v":'0.0.29',"g":'5.1',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.37',"g":'5.1',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Ввод данных',"v":'1.0.44',"g":'5.1',"d":'Грамплет для быстрого ввода данных',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.8',"g":'5.1',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.7',"g":'5.1',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Подробные связи',"v":'1.0.35',"g":'5.1',"d":'Показывает связь между активным и базовым лицом',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.8',"g":'5.1',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Редактировать метаданные (EXIF) изображения',"v":'2.0.4',"g":'5.1',"d":'Грамплет для просмотра, редакции, и записи метаданных (в формате Exif) изображения',"z":'EditExifMetadata.addon.tgz'}
@@ -80,9 +80,9 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.11',"g":'5.1',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Древо для семьи в виде песочных часов',"v":'1.0.11',"g":'5.1',"d":'Древо для семьи в виде песочных часов (использует LaTeX genealogytree)',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.17',"g":'5.1',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.3',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.2',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.31',"g":'5.1',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.4',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.36',"g":'5.1',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
@@ -90,7 +90,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.27',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.2',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.0.2',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.1.0',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.1.5',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Сортировка детей в порядке рождения',"v":'0.0.9',"g":'5.1',"d":'Просматривает семьи и ищет детей, которые указаны не в порядке рождения. Пользователь может принять предложения частично, редактировать порядок вручную, принять изменения для семей с корректными датами или принять всё.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Расчёт предположительных дат',"v":'0.90.30',"g":'5.1',"d":'Расчитывает предположитльные даты для рождения и смерти.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Исправление регистра в именах',"v":'1.0.30',"g":'5.1',"d":'Просматривает всю базу данных и пытается исправить регистр в именах.',"z":'ChangeGivenNames.addon.tgz'}

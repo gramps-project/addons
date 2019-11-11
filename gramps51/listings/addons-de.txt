@@ -8,7 +8,7 @@
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhr',"v":'0.0.29',"g":'5.1',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Sammlungen Zwischenablage',"v":'1.0.37',"g":'5.1',"d":'Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterstützung bei der Dateneingabe.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.44',"g":'5.1',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Datums Rechner',"v":'0.0.8',"g":'5.1',"d":'Nützlich für mathematische Datumsberechnungen',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Datums Rechner',"v":'0.0.7',"g":'5.1',"d":'Nützlich für mathematische Datumsberechnungen',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Tief gehende Beziehungen Gramplet',"v":'1.0.35',"g":'5.1',"d":'Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Anzahl der Nachkommen',"v":'2.0.8',"g":'5.1',"d":'Gramplet zum zeigen der Personen und der Anzahl ihrer Nachkommen',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bild Exif Metadaten bearbeiten',"v":'2.0.4',"g":'5.1',"d":'Gramplet zum ansehen, bearbeiten und speichern von Exif Metadaten',"z":'EditExifMetadata.addon.tgz'}
@@ -80,9 +80,9 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Sanduhrbaum',"v":'1.0.11',"g":'5.1',"d":'Sanduhrbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.11',"g":'5.1',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Netzwerkgrafik',"v":'0.0.17',"g":'5.1',"d":'Erstellt eine Familiennetzwerkgrafik.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.3',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.2',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Quelle hinzufügen',"v":'0.0.31',"g":'5.1',"d":'Fügt verteilte Quellen mehreren Objekten hinzu.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.4',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.36',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
@@ -90,7 +90,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.27',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Daten als privat markieren',"v":'1.0.2',"g":'5.1',"d":'All Objekte der letzten <number> Jahre als privat markieren.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktiver Stammbaum',"v":'1.0.2',"g":'5.1',"d":'Öffnet einen interaktiven Baum im Browser',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Verbindungsdaten überprüfen',"v":'1.1.0',"g":'5.1',"d":'Überprüft die Verbindungsdaten für Personen.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Verbindungsdaten überprüfen',"v":'1.1.5',"g":'5.1',"d":'Überprüft die Verbindungsdaten für Personen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sortiert Kinder in Geburtsreihenfolge',"v":'0.0.9',"g":'5.1',"d":'Geht durch die Familien und schaut nach Kindern, die sich nicht in der Geburtsreihenfolge befinden. Der Anwender kann einzelne Vorschläge zum manuellen Korrigieren/Bearbeiten der Geburtsreihenfolge übernehmen., alle Familien mit korreckter Geburtsreihenfolge oder alle Familien übernehmen.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschätzte Daten berechnen',"v":'0.90.30',"g":'5.1',"d":'Berechnet geschätzte Daten für Geburt und Tod.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Großschreibung von Vornamen korrigieren',"v":'1.0.30',"g":'5.1',"d":'Durchsucht die gesamte Datenbank und versucht Großschreibung von Vornamen zu korrigieren.',"z":'ChangeGivenNames.addon.tgz'}
