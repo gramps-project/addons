@@ -79,7 +79,7 @@
 {"t":'Report',"i":'gt_grandparent',"n":'Stablo djedova i baka',"v":'1.0.11',"g":'5.1',"d":'Stablo djedova i baka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Stablo u obliku pješčanog sata',"v":'1.0.11',"g":'5.1',"d":'Stablo u obliku pješčanog sata, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Stablo u obliku pješčanog sata za obitelj',"v":'1.0.11',"g":'5.1',"d":'Stablo u obliku pješčanog sata za obitelj, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Mrežni dijagram',"v":'0.0.17',"g":'5.1',"d":'Stvara mrežni dijagram obitelji.',"z":'NetworkChart.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Mrežni dijagram',"v":'0.0.18',"g":'5.1',"d":'Stvara mrežni dijagram obitelji.',"z":'NetworkChart.addon.tgz'}
 {"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.2',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
