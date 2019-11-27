@@ -34,12 +34,12 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.25',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.13',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.57',"g":'5.1',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.107',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.108',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.16',"g":'5.1',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importation SQLite',"v":'1.1.2',"g":'5.1',"d":'SQLite est un format courant de base de données locale',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.45',"g":'5.1',"d":'Créé un fichier de données pouvant être ouvert dans GoogleEarth',"z":'GoogleEarthWriteKML.addon.tgz'}
-{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.24',"g":'5.1',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.29',"g":'5.1',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Ensemble de liens internet allemands',"v":'0.0.25',"g":'5.1',"d":'Collection de sites internet pour l\'Allemagne (nécessite libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Ensemble de liens internet francophones',"v":'1.0.30',"g":'5.1',"d":'Collection de sites internet pour les francophones (nécessite libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Gestionnaire de greffons - Amélioré',"v":'1.0.24',"g":'5.1',"d":'Gestionnaire de greffons avec plusieurs fonctionnalités supplémentaires',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.12',"g":'5.1',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Préférences de thème',"v":'0.0.6',"g":'5.1',"d":'Un ajout aux préférences pour un simple ajustement de thème et de police. Particulièrement utile pour les utilisateurs Windows.',"z":'Themes.addon.tgz'}
@@ -61,7 +61,7 @@
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.1.6',"g":'5.1',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.29',"g":'5.1',"d":'Affiche toutes les lignes de descendants d\'un ancêtre donné à un descendant choisi dans un format textuel.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.22',"g":'5.1',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}
-{"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.0.2',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
+{"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.1.1',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Arbre graphique',"v":'1.0.33',"g":'5.1',"d":'Version alternative de l\'arbre graphique traditionnel.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Rapport Tout sur la personne',"v":'1.0.13',"g":'5.1',"d":'Produit un rapport contenant tout sur la personne active',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Rapport des dépôts',"v":'1.1.26',"g":'5.1',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
@@ -80,9 +80,10 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.11',"g":'5.1',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.11',"g":'5.1',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Graphique réseau',"v":'0.0.18',"g":'5.1',"d":'Génère un graphique du réseau familial.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.2',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.2',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.3',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.3',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'People related to <filter>',"v":'1.0.1',"g":'5.1',"d":'Matches people who are related to anybody matched by a person filter',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attacher une source',"v":'0.0.31',"g":'5.1',"d":'Attache une source partagée à des objets multiples',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.4',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.36',"g":'5.1',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
