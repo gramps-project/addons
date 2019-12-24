@@ -39,7 +39,7 @@
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite uvoz',"v":'1.1.2',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.45',"g":'5.1',"d":'Stvara datoteku s podacima potrebnima za GoogleEarth, te je otvara',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect zbirka',"v":'0.0.25',"g":'5.1',"d":'Zbirka web stranica za Njemačku (zahtijeva libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.30',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.31',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.24',"g":'5.1',"d":'Upravljač za dodatke s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Pokreni Gramps na istom mjestu',"v":'0.0.12',"g":'5.1',"d":'S ovim dodatkom se Gramps pokreće u istom pogledu i na istom objektu, koji su bili aktivni prilikom zadnjeg izlaska iz programa. Ne dodaje nove izbornike niti Gramplete, ali omogućuje prikaz zadnjih šest korištenih objekata u izborniku „Idi”.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Postavke za dizajn sučelja',"v":'0.0.6',"g":'5.1',"d":'Dodatak u postavkama za jednostavno podešavanje dizajna sučelja i fontova. Naročito korisno za korisnike Windows sustava.',"z":'Themes.addon.tgz'}
@@ -74,11 +74,11 @@
 {"t":'Report',"i":'database-differences-report',"n":'Izvještaj o razlikama između baza podataka',"v":'1.0.18',"g":'5.1',"d":'Uspoređuje vanjsku bazu podataka s trenutačnom.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.38',"g":'5.1',"d":'Stvara web stranicu (XHTML) s grafičkim prikazom predaka/potomaka (SVG), u kojemu se detalji prikazuju prilikom prelaženja mišem preko pojedinca.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaljni izvještaj o potomcima sa svim slikama',"v":'1.0.6',"g":'5.1',"d":'Stvara detaljan izvještaj o potomcima sa svim slikama, te opcionalno s popisom zadataka.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'gt_ancestor',"n":'Stablo predaka',"v":'1.0.11',"g":'5.1',"d":'Stablo predaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_descendant',"n":'Stablo potomaka',"v":'1.0.11',"g":'5.1',"d":'Stablo potomaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_grandparent',"n":'Stablo djedova i baka',"v":'1.0.11',"g":'5.1',"d":'Stablo djedova i baka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock',"n":'Stablo u obliku pješčanog sata',"v":'1.0.11',"g":'5.1',"d":'Stablo u obliku pješčanog sata, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'gt_sandclock_family',"n":'Stablo u obliku pješčanog sata za obitelj',"v":'1.0.11',"g":'5.1',"d":'Stablo u obliku pješčanog sata za obitelj, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_ancestor',"n":'Stablo predaka',"v":'1.0.12',"g":'5.1',"d":'Stablo predaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_descendant',"n":'Stablo potomaka',"v":'1.0.12',"g":'5.1',"d":'Stablo potomaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_grandparent',"n":'Stablo djedova i baka',"v":'1.0.12',"g":'5.1',"d":'Stablo djedova i baka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock',"n":'Stablo u obliku pješčanog sata',"v":'1.0.12',"g":'5.1',"d":'Stablo u obliku pješčanog sata, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
+{"t":'Report',"i":'gt_sandclock_family',"n":'Stablo u obliku pješčanog sata za obitelj',"v":'1.0.12',"g":'5.1',"d":'Stablo u obliku pješčanog sata za obitelj, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Mrežni dijagram',"v":'0.0.18',"g":'5.1',"d":'Stvara mrežni dijagram obitelji.',"z":'NetworkChart.addon.tgz'}
 {"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.5',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.5',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
@@ -93,7 +93,7 @@
 {"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.0.2',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.5',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.9',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
-{"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.30',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}
+{"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.31',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ispravi početna slova imena',"v":'1.0.30',"g":'5.1',"d":'Pretražuje cijelu bazu podataka i pokušava ispraviti početna slova imena.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Sjedini naredbenim retkom',"v":'1.0.30',"g":'5.1',"d":'Sjedini primarne objekte upotrebom naredbenog retka.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Preuzimanje medijskih datoteka iz interneta',"v":'1.0.11',"g":'5.1',"d":'Ovaj alat preuzima medijske datoteke iz interneta',"z":'DownloadMedia.addon.tgz'}
@@ -103,3 +103,4 @@
 {"t":'Tool',"i":'mediaverify',"n":'Provjera medija',"v":'1.0.20',"g":'5.1',"d":'Provjeri ispravnost staza medija',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Čišćenje zabilježaka',"v":'1.0.10',"g":'5.1',"d":'Počisti zabilješke, koje sadrže HTML oznake',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Generator sličica',"v":'1.0.23',"g":'5.1',"d":'Stvara sličice za medijske datoteke',"z":'ThumbnailGenerator.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.1',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
