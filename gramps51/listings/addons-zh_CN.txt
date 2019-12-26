@@ -103,4 +103,4 @@
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.20',"g":'5.1',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Note Cleanup',"v":'1.0.10',"g":'5.1',"d":'Clean up Notes that contain HTML markup',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Thumbnail Generator',"v":'1.0.23',"g":'5.1',"d":'Generates thumbnails for media files',"z":'ThumbnailGenerator.addon.tgz'}
-{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.1',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.2',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
