@@ -103,4 +103,4 @@
 {"t":'Tool',"i":'mediaverify',"n":'Provjera medija',"v":'1.0.20',"g":'5.1',"d":'Provjeri ispravnost staza medija',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Čišćenje zabilježaka',"v":'1.0.10',"g":'5.1',"d":'Počisti zabilješke, koje sadrže HTML oznake',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Generator sličica',"v":'1.0.23',"g":'5.1',"d":'Stvara sličice za medijske datoteke',"z":'ThumbnailGenerator.addon.tgz'}
-{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.2',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.3',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
