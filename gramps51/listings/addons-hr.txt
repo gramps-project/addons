@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.27',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Proširena svojstva osobe',"v":'1.0.27',"g":'5.1',"d":'Gramplet prikazuje svojstva osobe',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.12',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.19',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.20',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.12',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.39',"g":'5.1',"d":'Gramplet za pirkaz nojnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Kronologija stana/kuće',"v":'1.0.6',"g":'5.1',"d":'Kronološki popis stanovnika na adresi',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -53,9 +53,9 @@
 {"t":'Quickreport',"i":'timelinequickview',"n":'Kronologija',"v":'1.0.29',"g":'5.1',"d":'Prikazuje događaje osobe kronološki',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Popunjenost stabla',"v":'1.0.13',"g":'5.1',"d":'Izvještaj o popunjenosti stabla',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.17',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Linije potomaka',"v":'1.0.24',"g":'5.1',"d":'Stvara linije potomaka za jednu osobu',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Linije potomaka',"v":'1.1.1',"g":'5.1',"d":'Stvara linije potomaka za jednu osobu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.17',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.82',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.83',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.40',"g":'5.1',"d":'Stvara obiteljski list sa cjelovitim informacijama o osobi i njenim roditeljima i djecom.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.17',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjoj promjeni',"v":'0.1.6',"g":'5.1',"d":'Izvještaj o zadnjim zapisima koji su promijenjeni',"z":'LastChange.addon.tgz'}
@@ -80,10 +80,12 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Stablo u obliku pješčanog sata',"v":'1.0.12',"g":'5.1',"d":'Stablo u obliku pješčanog sata, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Stablo u obliku pješčanog sata za obitelj',"v":'1.0.12',"g":'5.1',"d":'Stablo u obliku pješčanog sata za obitelj, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Mrežni dijagram',"v":'0.0.18',"g":'5.1',"d":'Stvara mrežni dijagram obitelji.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.5',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.5',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.5',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'People related to <filter>',"v":'1.0.3',"g":'5.1',"d":'Matches people who are related to anybody matched by a person filter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.6',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.6',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.6',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'People related to <filter>',"v":'1.0.4',"g":'5.1',"d":'Matches people who are related to anybody matched by a person filter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'People who are part of families matching <filter>',"v":'1.0.1',"g":'5.1',"d":'People who are part of families matching <filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Families matching <event filter>',"v":'1.0.1',"g":'5.1',"d":'Matches families that are matched by an event filter',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Dodaj izvor',"v":'0.0.31',"g":'5.1',"d":'Dodaje dijeljeni izvor objektima.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Generator avatara',"v":'1.0.4',"g":'5.1',"d":'Alat za dodavanje avatara rodoslovu',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Upotpunjavanje mjesta',"v":'0.0.36',"g":'5.1',"d":'Dostavlja popis odabranih mjesta, s mogućnošću upotpunjavanja, analiziranja i određivanja polja svojstava.',"z":'PlaceCompletion.addon.tgz'}
