@@ -81,7 +81,7 @@
 {"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.12',"g":'5.1',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.12',"g":'5.1',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Древо для семьи в виде песочных часов',"v":'1.0.12',"g":'5.1',"d":'Древо для семьи в виде песочных часов (использует LaTeX genealogytree)',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.19',"g":'5.1',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
+{"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.20',"g":'5.1',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
 {"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.7',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.7',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasSourceParameter',"n":'Source matching parameters',"v":'0.0.7',"g":'5.1',"d":'Matches Sources with values containing the chosen parameters',"z":'FilterRules.addon.tgz'}
