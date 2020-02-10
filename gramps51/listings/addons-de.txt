@@ -93,7 +93,7 @@
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.4',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.36',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Markierung entfernen',"v":'1.0.3',"g":'5.1',"d":'Eine Markierung aus Gruppen von Menschen, Ereignissen, usw. entfernen',"z":'RemoveTagTool.addon.tgz'}
-{"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.28',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
+{"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.29',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Daten als privat markieren',"v":'1.0.2',"g":'5.1',"d":'All Objekte der letzten <number> Jahre als privat markieren.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktiver Stammbaum',"v":'1.0.2',"g":'5.1',"d":'Öffnet einen interaktiven Baum im Browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Verbindungsdaten überprüfen',"v":'1.1.5',"g":'5.1',"d":'Überprüft die Verbindungsdaten für Personen.',"z":'AssociationsTool.addon.tgz'}
