@@ -42,6 +42,7 @@
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.45',"g":'5.1',"d":'Creates data file for GoogleEarth and opens it',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.25',"g":'5.1',"d":'Collection of Web sites for the DE (requires libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.31',"g":'5.1',"d":'Collection of Web sites for the FR (requires libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.1',"g":'5.1',"d":'Collection of Web sites for the Netherlands (requires libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Plugin Manager Enhanced',"v":'1.0.24',"g":'5.1',"d":'An Addon/Plugin Manager with several additional capabilities',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.12',"g":'5.1',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme preferences',"v":'0.0.6',"g":'5.1',"d":'An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.',"z":'Themes.addon.tgz'}
