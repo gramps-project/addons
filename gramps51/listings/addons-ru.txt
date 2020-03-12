@@ -108,6 +108,6 @@
 {"t":'Tool',"i":'import_merge',"n":'Импорт и слияние',"v":'0.0.15',"g":'5.1',"d":'Сравнивает базу данных (Gramps XML) с текущим древом и предоставляет возможность слияния изменений.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.5',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Проверка документов',"v":'1.0.20',"g":'5.1',"d":'Проверяет, что документы присутствуют по указанному пути',"z":'MediaVerify.addon.tgz'}
-{"t":'Tool',"i":'notecleanup',"n":'Чистка заметок',"v":'1.0.10',"g":'5.1',"d":'Производит очистку заметок содержащих HTML разметку',"z":'NoteCleanup.addon.tgz'}
+{"t":'Tool',"i":'notecleanup',"n":'Чистка заметок',"v":'1.0.11',"g":'5.1',"d":'Производит очистку заметок содержащих HTML разметку',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Генератор миниатюр',"v":'1.0.23',"g":'5.1',"d":'Создание миниатюр для документов',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.3',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
