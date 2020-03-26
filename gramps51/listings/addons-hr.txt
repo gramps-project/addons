@@ -108,6 +108,6 @@
 {"t":'Tool',"i":'import_merge',"n":'Alat za uvoz i sjedinjavanje',"v":'0.0.15',"g":'5.1',"d":'Uspoređuje Gramps XML bazu podataka s trenutačnom i dozvoljava njihovo sjedinjenje.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.5',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Provjera medija',"v":'1.0.20',"g":'5.1',"d":'Provjeri ispravnost staza medija',"z":'MediaVerify.addon.tgz'}
-{"t":'Tool',"i":'notecleanup',"n":'Čišćenje zabilježaka',"v":'1.0.11',"g":'5.1',"d":'Počisti zabilješke, koje sadrže HTML oznake',"z":'NoteCleanup.addon.tgz'}
+{"t":'Tool',"i":'notecleanup',"n":'Čišćenje zabilježaka',"v":'1.0.12',"g":'5.1',"d":'Počisti zabilješke, koje sadrže HTML oznake',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Generator sličica',"v":'1.0.23',"g":'5.1',"d":'Stvara sličice za medijske datoteke',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.3',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}

@@ -108,6 +108,6 @@
 {"t":'Tool',"i":'import_merge',"n":'Import und Zusammenführungswerkzeug',"v":'0.0.15',"g":'5.1',"d":'Vergleicht eine Gramps XML Datenbank mit der aktuellen und ermöglicht das Zusammenführen der Unterschiede.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.5',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.20',"g":'5.1',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
-{"t":'Tool',"i":'notecleanup',"n":'Notiz Bereinigung',"v":'1.0.11',"g":'5.1',"d":'Bereinigt Notizen, die HTML-Markup enthalten',"z":'NoteCleanup.addon.tgz'}
+{"t":'Tool',"i":'notecleanup',"n":'Notiz Bereinigung',"v":'1.0.12',"g":'5.1',"d":'Bereinigt Notizen, die HTML-Markup enthalten',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniaturbild Generator',"v":'1.0.23',"g":'5.1',"d":'Erstellt Miniaturbilder für Mediendateien',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.3',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
