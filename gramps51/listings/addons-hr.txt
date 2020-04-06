@@ -97,7 +97,7 @@
 {"t":'Tool',"i":'RemoveTagTool',"n":'Ukloni etiketu',"v":'1.0.3',"g":'5.1',"d":'Ukloni etiketu iz grupa osoba, događaja, itd.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.29',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Postavi privatnost',"v":'1.0.2',"g":'5.1',"d":'Postavi sve objekte zadnjih <number> godina kao privatne.',"z":'SetPrivacyTool.addon.tgz'}
-{"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.1.1',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
+{"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.1.2',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.5',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.9',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.31',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}

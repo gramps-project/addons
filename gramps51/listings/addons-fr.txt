@@ -97,7 +97,7 @@
 {"t":'Tool',"i":'RemoveTagTool',"n":'Remove Tag Tool',"v":'1.0.3',"g":'5.1',"d":'Remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Définir un attribut',"v":'0.0.29',"g":'5.1',"d":'Définir une valeur à un attribut.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.2',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
-{"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.1',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
+{"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.2',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.1.5',"g":'5.1',"d":'Va regarder les données \'Association\' des individus',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Trier les enfants dans l\'ordre des naissances',"v":'0.0.9',"g":'5.1',"d":'Regarde les familles, cherche des enfants qui ne sont pas dans l\'ordre des naissances. L\'utilisateur peut accepter des suggestions individuelles pour corriger, modifier l\'ordre de naissance manuellement, accepter toutes les familles qui ont tous les enfants avec des dates de naissance appropriées ou accepter tout.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcul des dates estimées',"v":'0.90.31',"g":'5.1',"d":'Calcul des dates estimées pour les naissances et décès.',"z":'CalculateEstimatedDates.addon.tgz'}
