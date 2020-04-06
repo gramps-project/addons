@@ -55,7 +55,7 @@
 {"t":'Quickreport',"i":'allnames',"n":'Alle namen van alle personen',"v":'1.0.25',"g":'5.1',"d":'De namen van alle personen tonen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.7',"g":'5.1',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tijdlijn',"v":'1.0.29',"g":'5.1',"d":'Gebeurtenissen van een persoon worden op een tijdslijn getoond',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.13',"g":'5.1',"d":'Report on the filling of the tree',"z":'AncestorFill.addon.tgz'}
+{"t":'Report',"i":'AncestorFill',"n":'Vooroudertelling',"v":'1.0.14',"g":'5.1',"d":'Verslag van de bezetting van de stamboom',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.18',"g":'5.1',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Afstammelingslijnen',"v":'1.1.3',"g":'5.1',"d":'Produceert afstammelingslijnen van een persoon',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.18',"g":'5.1',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
@@ -65,7 +65,7 @@
 {"t":'Report',"i":'LastChangeReport',"n":'Verslag laatste wijziging',"v":'0.1.6',"g":'5.1',"d":'Verslag van de laatst gewijzigde gegevens',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.29',"g":'5.1',"d":'Alle afstammelingslijnen van een bepaalde voorouder tot een bepaalde afstammeling worden in tekst afgedrukt.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.22',"g":'5.1',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
-{"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.1.1',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
+{"t":'Report',"i":'MediaReport',"n":'Media Rapport',"v":'1.1.2',"g":'5.1',"d":'Genereert rapport inclusief afbeeldingen, afbeeldingsgegevens en notities.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Stamboomgrafiek',"v":'1.0.33',"g":'5.1',"d":'Alternatieve versie van de traditionele stamboomgrafiek',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.13',"g":'5.1',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Bibliothekenverslag',"v":'1.1.26',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
