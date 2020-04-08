@@ -84,13 +84,14 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.14',"g":'5.1',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.14',"g":'5.1',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Nettikaavio',"v":'0.0.21',"g":'5.1',"d":'Tuota perheiden nettikaavio.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Perheet, joiden tapahtumissa on valittu rooli',"v":'0.0.8',"g":'5.1',"d":'Poimii perheet, joiden tapahtumissa on valittu rooli',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'Henkilöt, joiden tapahtumissa on valittu rooli',"v":'0.0.8',"g":'5.1',"d":'Poimii henkilöt, joiden tapahtumissa on valittu rooli',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Lähteet valitulla arvolla',"v":'0.0.8',"g":'5.1',"d":'Poimii lähteet, jotka sisältävät valitun arvon',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Henkilöt, jotka liittyvät <suotimeen>',"v":'1.0.6',"g":'5.1',"d":'Poimii henkilöt, jotka ovat liitetty johonkin henkilösuotimen poimimista henkilöistä',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'People who are part of families matching <filter>',"v":'1.0.3',"g":'5.1',"d":'People who are part of families matching <filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'degreesofseparation',"n":'People separated less than <N> degrees of <person>',"v":'1.0.2',"g":'5.1',"d":'Filter rule that matches relatives by degrees of separation',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Families matching <event filter>',"v":'1.0.3',"g":'5.1',"d":'Matches families that are matched by an event filter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Perheet, joiden tapahtumissa on valittu rooli',"v":'0.0.9',"g":'5.1',"d":'Poimii perheet, joiden tapahtumissa on valittu rooli',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'Henkilöt, joiden tapahtumissa on valittu rooli',"v":'0.0.9',"g":'5.1',"d":'Poimii henkilöt, joiden tapahtumissa on valittu rooli',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Lähteet valitulla arvolla',"v":'0.0.9',"g":'5.1',"d":'Poimii lähteet, jotka sisältävät valitun arvon',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Henkilöt, jotka liittyvät <suotimeen>',"v":'1.0.7',"g":'5.1',"d":'Poimii henkilöt, jotka ovat liitetty johonkin henkilösuotimen poimimista henkilöistä',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'People who are part of families matching <filter>',"v":'1.0.4',"g":'5.1',"d":'People who are part of families matching <filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'degreesofseparation',"n":'People separated less than <N> degrees of <person>',"v":'1.0.3',"g":'5.1',"d":'Filter rule that matches relatives by degrees of separation',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Families matching <event filter>',"v":'1.0.4',"g":'5.1',"d":'Matches families that are matched by an event filter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Events of families matching a <family filter>',"v":'1.0.1',"g":'5.1',"d":'Events of families matching a <family filter>',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attach Source',"v":'0.0.32',"g":'5.1',"d":'Attaches a shared source to multiple objects.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.5',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.37',"g":'5.1',"d":'Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.',"z":'PlaceCompletion.addon.tgz'}
