@@ -94,6 +94,7 @@
 {"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Events of families matching a <family filter>',"v":'1.0.1',"g":'5.1',"d":'Events of families matching a <family filter>',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Dodaj izvor',"v":'0.0.32',"g":'5.1',"d":'Dodaje dijeljeni izvor objektima.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Generator avatara',"v":'1.0.5',"g":'5.1',"d":'Alat za dodavanje avatara rodoslovu',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.1',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Upotpunjavanje mjesta',"v":'0.0.37',"g":'5.1',"d":'Dostavlja popis odabranih mjesta, s mogućnošću upotpunjavanja, analiziranja i određivanja polja svojstava.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Ukloni etiketu',"v":'1.0.4',"g":'5.1',"d":'Ukloni etiketu iz grupa osoba, događaja, itd.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.30',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}

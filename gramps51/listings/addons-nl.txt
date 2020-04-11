@@ -94,6 +94,7 @@
 {"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Events of families matching a <family filter>',"v":'1.0.1',"g":'5.1',"d":'Events of families matching a <family filter>',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Bron toevoegen',"v":'0.0.32',"g":'5.1',"d":'Een gedeelde bron aan verschillende objecten toevoegen.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.5',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.1',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatie vervolledigen',"v":'0.0.37',"g":'5.1',"d":'Een lijst van geselecteerde locaties, met de mogelijkheid om/de kenmerkenvelden de vervolledigen/bekijken/veranderen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Remove Tag Tool',"v":'1.0.4',"g":'5.1',"d":'Remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Kenmerk vastleggen',"v":'0.0.30',"g":'5.1',"d":'Een kenmerk een bepaalde waarde toekennen.',"z":'SetAttributeTool.addon.tgz'}

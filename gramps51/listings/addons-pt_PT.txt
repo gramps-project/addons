@@ -94,6 +94,7 @@
 {"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Events of families matching a <family filter>',"v":'1.0.1',"g":'5.1',"d":'Events of families matching a <family filter>',"z":'FilterRules.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Anexar fonte',"v":'0.0.32',"g":'5.1',"d":'Anexa uma fonte partilhada a múltiplos objectos.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Ferramenta de geração de avatar',"v":'1.0.5',"g":'5.1',"d":'Uma ferramenta para adicionar avatares à sua árvore genealógica',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.1',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Conclusão de locais',"v":'0.0.37',"g":'5.1',"d":'Fornece uma lista navegável de locais seleccionados, com a possibilidade de concluir/analisar/definir os atributos.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Ferramenta Remover etiqueta',"v":'1.0.4',"g":'5.1',"d":'Remover uma etiqueta de um grupo de indivíduos, eventos, etc..',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Definir atributo',"v":'0.0.30',"g":'5.1',"d":'Definir um atributo num dado valor.',"z":'SetAttributeTool.addon.tgz'}
