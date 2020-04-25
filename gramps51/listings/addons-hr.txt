@@ -107,7 +107,7 @@
 {"t":'Tool',"i":'chgivenname',"n":'Ispravi početna slova imena',"v":'1.0.31',"g":'5.1',"d":'Pretražuje cijelu bazu podataka i pokušava ispraviti početna slova imena.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Sjedini naredbenim retkom',"v":'1.0.31',"g":'5.1',"d":'Sjedini primarne objekte upotrebom naredbenog retka.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Preuzimanje medijskih datoteka iz interneta',"v":'1.0.12',"g":'5.1',"d":'Ovaj alat preuzima medijske datoteke iz interneta',"z":'DownloadMedia.addon.tgz'}
-{"t":'Tool',"i":'excity',"n":'Izdvajanje podataka mjesta iz imena mjesta',"v":'1.0.8',"g":'5.1',"d":'Pokušava izdvojiti grad i državu/pokrajinu iz imena mjesta',"z":'ExtractCity.addon.tgz'}
+{"t":'Tool',"i":'excity',"n":'Izdvajanje podataka mjesta iz imena mjesta',"v":'1.0.9',"g":'5.1',"d":'Pokušava izdvojiti grad i državu/pokrajinu iz imena mjesta',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Alat za uvoz i sjedinjavanje',"v":'0.0.16',"g":'5.1',"d":'Uspoređuje Gramps XML bazu podataka s trenutačnom i dozvoljava njihovo sjedinjenje.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.6',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Provjera medija',"v":'1.0.21',"g":'5.1',"d":'Provjeri ispravnost staza medija',"z":'MediaVerify.addon.tgz'}
