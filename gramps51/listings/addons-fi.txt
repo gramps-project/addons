@@ -89,10 +89,18 @@
 {"t":'Rule',"i":'HasPersonEventRole',"n":'Henkilöt, joiden tapahtumissa on valittu rooli',"v":'0.0.10',"g":'5.1',"d":'Poimii henkilöt, joiden tapahtumissa on valittu rooli',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasSourceParameter',"n":'Lähteet valitulla arvolla',"v":'0.0.10',"g":'5.1',"d":'Poimii lähteet, jotka sisältävät valitun arvon',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Henkilöt, jotka liittyvät <suotimeen>',"v":'1.0.8',"g":'5.1',"d":'Poimii henkilöt, jotka ovat liitetty johonkin henkilösuotimen poimimista henkilöistä',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilineal progenitrix of <person>',"v":'1.0.1',"g":'5.1',"d":'Matches the earliest recorded matrilineal ancestor mother.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilineal progenitor of <person>',"v":'1.0.1',"g":'5.1',"d":'Matches the earliest recorded patrilineal ancestor father.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'People who are part of families matching <filter>',"v":'1.0.5',"g":'5.1',"d":'People who are part of families matching <filter>',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'degreesofseparation',"n":'People separated less than <N> degrees of <person>',"v":'1.0.4',"g":'5.1',"d":'Filter rule that matches relatives by degrees of separation',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Families matching <event filter>',"v":'1.0.5',"g":'5.1',"d":'Matches families that are matched by an event filter',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Events of families matching a <family filter>',"v":'1.0.2',"g":'5.1',"d":'Events of families matching a <family filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'mtinheritance',"n":'Mitochondrial inheritance of <person>',"v":'1.0.1',"g":'5.1',"d":'Matches recorded descendants of person following mitochondrial inheritance patterns.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitochondrial inheritance of <filter>',"v":'1.0.1',"g":'5.1',"d":'Matches recorded descendants of a filter result following mitochondrial inheritance patterns.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'xchromancestors',"n":'X-chromosomal ancestors of <person>',"v":'1.0.1',"g":'5.1',"d":'Matches ancestors of <person> following a X-chromosomal inheritance pattern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomal descendants of <person>',"v":'1.0.1',"g":'5.1',"d":'Matches descendants of <person> following a X-chromosomal inheritance pattern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritance',"n":'Y-chromsomal inheritance of <person>',"v":'1.0.1',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromsomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromsomal inheritance of <filter>',"v":'1.0.1',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromsomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attach Source',"v":'0.0.32',"g":'5.1',"d":'Attaches a shared source to multiple objects.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.6',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.2',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
