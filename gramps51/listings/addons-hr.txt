@@ -51,7 +51,7 @@
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'SAD Web Connect zbirka',"v":'1.0.40',"g":'5.1',"d":'Zbirka web stranica za SAD (zahtijeva libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Dostavlja biblioteku za opći pristup bazi podataka i gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Biblitoteka za zbirke web stranica',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.2',"g":'5.1',"d":'Shows the number of ancestores of the current person.',"z":'NumberOfAncestorsQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Broj potomaka',"v":'3.4.28',"g":'5.1',"d":'Prikazuje broj potomaka trenutačno odabrane osobe',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Sva imena svih osoba',"v":'1.0.26',"g":'5.1',"d":'Prikaži sva imena svih osoba',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografija',"v":'1.0.8',"g":'5.1',"d":'Prikaži tekstualnu biografiju',"z":'BiographyQuickview.addon.tgz'}

@@ -51,7 +51,7 @@
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Набор US Web Connect',"v":'1.0.40',"g":'5.1',"d":'Набор веб-сайтов для US (требуется libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Предоставляет библиотеку для доступа к базе данных и gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Библиотека для поддержки коллекций веб-сайтов',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Количество предков',"v":'1.0.2',"g":'5.1',"d":'Показывает количество предков для текущего лица.',"z":'NumberOfAncestorsQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Количество предков',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Количество потомков',"v":'3.4.28',"g":'5.1',"d":'Показывает количество потомков для выбранного лица',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Все имена всех людей',"v":'1.0.26',"g":'5.1',"d":'Показывает все имена всех людей',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Биография',"v":'1.0.8',"g":'5.1',"d":'Отображает биографию в текстовом виде',"z":'BiographyQuickview.addon.tgz'}

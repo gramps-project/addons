@@ -51,7 +51,7 @@
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Verknüpfungspaket',"v":'1.0.40',"g":'5.1',"d":'Sammlung von Webseiten für US (benötigt libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Liefert eine Bibliothek zum generischen Zugriff auf die Datenbank und gen.lib',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Bibliothek für Webseitensammlungen',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.2',"g":'5.1',"d":'Shows the number of ancestores of the current person.',"z":'NumberOfAncestorsQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Anzahl der Nachkommen',"v":'3.4.28',"g":'5.1',"d":'Zeigt die Anzahl der Nachkommen der aktuellen Person an',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.26',"g":'5.1',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biographie',"v":'1.0.8',"g":'5.1',"d":'Zeigen eine Textbiographie an',"z":'BiographyQuickview.addon.tgz'}

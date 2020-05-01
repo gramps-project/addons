@@ -51,7 +51,7 @@
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.40',"g":'5.1',"d":'Colecção de páginas web para US (requer libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Fornece uma biblioteca para aceder à base de dados e gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Biblioteca para colecções em páginas web',"z":'libwebconnect.addon.tgz'}
-{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.2',"g":'5.1',"d":'Shows the number of ancestores of the current person.',"z":'NumberOfAncestorsQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Número de descendentes',"v":'3.4.28',"g":'5.1',"d":'Mostra o número de descendentes do indivíduo activo',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Todos os nomes de todos os indivíduos',"v":'1.0.26',"g":'5.1',"d":'Mostrar todos os nomes de todos os indivíduos',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografia',"v":'1.0.8',"g":'5.1',"d":'Mostrar uma biografia em texto',"z":'BiographyQuickview.addon.tgz'}
