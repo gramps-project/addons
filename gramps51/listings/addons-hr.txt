@@ -5,11 +5,11 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Raw izvoz',"v":'1.0.35',"g":'5.1',"d":'Ovo je neobrađeni izvadak python objekata',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite izvoz',"v":'1.1.3',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Rođendani',"v":'1.1.8',"g":'5.1',"d":'gramplet prikazuje rođendane živih osoba',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.30',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.38',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Unos podataka',"v":'1.0.45',"g":'5.1',"d":'Gramplet za brzi unos podataka',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.10',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Daleka veza – Gramplet',"v":'1.0.36',"g":'5.1',"d":'Gramplet prikazuje daleku vezu između aktivne i glavne osobe',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.31',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.39',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Unos podataka',"v":'1.0.46',"g":'5.1',"d":'Gramplet za brzi unos podataka',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.11',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Daleka veza – Gramplet',"v":'1.0.37',"g":'5.1',"d":'Gramplet prikazuje daleku vezu između aktivne i glavne osobe',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Broj potomaka',"v":'2.0.9',"g":'5.1',"d":'Gramplet za prikaz broja osoba i potomaka',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi Exif metapodatke slike',"v":'2.0.5',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka slike',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.28',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
@@ -41,7 +41,7 @@
 {"t":'Importer',"i":'JSON Import',"n":'JSON uvoz',"v":'1.0.17',"g":'5.1',"d":'Ovo je JSON uvoz',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite uvoz',"v":'1.1.3',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.46',"g":'5.1',"d":'Stvara datoteku s podacima potrebnima za GoogleEarth, te je otvara',"z":'GoogleEarthWriteKML.addon.tgz'}
-{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect zbirka',"v":'0.0.26',"g":'5.1',"d":'Zbirka web stranica za Njemačku (zahtijeva libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect zbirka',"v":'0.0.27',"g":'5.1',"d":'Zbirka web stranica za Njemačku (zahtijeva libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.33',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.3',"g":'5.1',"d":'Collection of Web sites for the Netherlands (requires libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.25',"g":'5.1',"d":'Upravljač za dodatke s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
@@ -73,9 +73,9 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Opcije za izvještaj o spremištima',"v":'0.3.27',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Izvještaj o izvorima i citatima',"v":'3.6.6',"g":'5.1',"d":'Stvara izvještaj o izvorima i citatima, zajedno sa zabilješkama',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Izvještaj o zadacima',"v":'1.2.31',"g":'5.1',"d":'Stvara popis svih zabilježaka sa zadanom etiketom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, događaj, itd.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Sklopivo stablo predaka',"v":'1.0.26',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom predaka (SVG), prikazanih sklopivim stablastim oblikom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralfanchart',"n":'Lepezasti dijagram predaka',"v":'1.0.26',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih lepezasti dijagramom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Uvučeno stablo potomaka',"v":'1.0.26',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih padajućim izbornikom stablastog oblika s uvlakama, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Sklopivo stablo predaka',"v":'1.0.27',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom predaka (SVG), prikazanih sklopivim stablastim oblikom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralfanchart',"n":'Lepezasti dijagram predaka',"v":'1.0.27',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih lepezasti dijagramom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Uvučeno stablo potomaka',"v":'1.0.27',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih padajućim izbornikom stablastog oblika s uvlakama, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Izvještaj o razlikama između baza podataka',"v":'1.0.19',"g":'5.1',"d":'Uspoređuje vanjsku bazu podataka s trenutačnom.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaljni izvještaj o potomcima sa svim slikama',"v":'1.0.7',"g":'5.1',"d":'Stvara detaljan izvještaj o potomcima sa svim slikama, te opcionalno s popisom zadataka.',"z":'DetDescendantReport-images.addon.tgz'}
@@ -113,7 +113,7 @@
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.11',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.33',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Ispravi početna slova imena',"v":'1.0.32',"g":'5.1',"d":'Pretražuje cijelu bazu podataka i pokušava ispraviti početna slova imena.',"z":'ChangeGivenNames.addon.tgz'}
-{"t":'Tool',"i":'climerge',"n":'Sjedini naredbenim retkom',"v":'1.0.31',"g":'5.1',"d":'Sjedini primarne objekte upotrebom naredbenog retka.',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'Sjedini naredbenim retkom',"v":'1.0.32',"g":'5.1',"d":'Sjedini primarne objekte upotrebom naredbenog retka.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Preuzimanje medijskih datoteka iz interneta',"v":'1.0.12',"g":'5.1',"d":'Ovaj alat preuzima medijske datoteke iz interneta',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Izdvajanje podataka mjesta iz imena mjesta',"v":'1.0.9',"g":'5.1',"d":'Pokušava izdvojiti grad i državu/pokrajinu iz imena mjesta',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Alat za uvoz i sjedinjavanje',"v":'0.0.16',"g":'5.1',"d":'Uspoređuje Gramps XML bazu podataka s trenutačnom i dozvoljava njihovo sjedinjenje.',"z":'ImportMerge.addon.tgz'}

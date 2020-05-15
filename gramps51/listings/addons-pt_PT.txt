@@ -5,11 +5,11 @@
 {"t":'Exporter',"i":'Raw Export',"n":'Exportação em bruto',"v":'1.0.35',"g":'5.1',"d":'Este é um despejo de objectos python em bruto',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'Exportação SQLite',"v":'1.1.3',"g":'5.1',"d":'SQLite é um formato de base de dados comum',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Aniversários',"v":'1.1.8',"g":'5.1',"d":'um gramplet que mostra os aniversários de indivíduos vivos',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Relógio',"v":'0.0.30',"g":'5.1',"d":'Gramplet para demonstrar os gráficos Cairo',"z":'ClockGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Área de transferência de colecções',"v":'1.0.38',"g":'5.1',"d":'Gramplet para agrupar colecções de itens e ajudar a inserir dados.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.45',"g":'5.1',"d":'Gramplet de inserção rápida de dados',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Calculadora de datas',"v":'0.0.10',"g":'5.1',"d":'Gramplet útil para cálculos matemáticos com datas',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Ligações profundas',"v":'1.0.36',"g":'5.1',"d":'Gramplet que mostra um parentesco profundo entre o indivíduo activo e o indivíduo inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Relógio',"v":'0.0.31',"g":'5.1',"d":'Gramplet para demonstrar os gráficos Cairo',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Área de transferência de colecções',"v":'1.0.39',"g":'5.1',"d":'Gramplet para agrupar colecções de itens e ajudar a inserir dados.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.46',"g":'5.1',"d":'Gramplet de inserção rápida de dados',"z":'DataEntryGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Calculadora de datas',"v":'0.0.11',"g":'5.1',"d":'Gramplet útil para cálculos matemáticos com datas',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Ligações profundas',"v":'1.0.37',"g":'5.1',"d":'Gramplet que mostra um parentesco profundo entre o indivíduo activo e o indivíduo inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Total de descendentes',"v":'2.0.9',"g":'5.1',"d":'Gramplet para mostrar indivíduos e totais de descendentes',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Editar meta-dados Exif da imagem',"v":'2.0.5',"g":'5.1',"d":'Gramplet para ver editar e gravar meta-dados Exif duma imagem',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Atributos familiares estendidos',"v":'1.0.28',"g":'5.1',"d":'Gramplet que mostra os atributos de uma família',"z":'ExtendedAttributes.addon.tgz'}
@@ -41,7 +41,7 @@
 {"t":'Importer',"i":'JSON Import',"n":'Importação JSON',"v":'1.0.17',"g":'5.1',"d":'Esta é uma importação JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importação SQLite',"v":'1.1.3',"g":'5.1',"d":'SQLite é um formato de base de dados comum',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.46',"g":'5.1',"d":'Cria um ficheiro de dados para o GoogleEarth e abre-o',"z":'GoogleEarthWriteKML.addon.tgz'}
-{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.26',"g":'5.1',"d":'Colecção de páginas web para DE (requer libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.27',"g":'5.1',"d":'Colecção de páginas web para DE (requer libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.33',"g":'5.1',"d":'Colecção de páginas web para FR (requer libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.3',"g":'5.1',"d":'Collection of Web sites for the Netherlands (requires libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Gestor de extensões melhorado',"v":'1.0.25',"g":'5.1',"d":'Um gestor de extensões com várias capacidades melhoradas',"z":'PluginManager.addon.tgz'}
@@ -73,9 +73,9 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Opções do relatório de repositórios',"v":'0.3.27',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Relatório de fontes e citações',"v":'3.6.6',"g":'5.1',"d":'Fornece um relatório de fontes e citações com notas',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Agenda',"v":'1.2.31',"g":'5.1',"d":'Produz uma lista de todas as notas com uma dada etiqueta juntamente com os registos referenciados, indivíduo, família, evento, etc.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Árvore de ascendentes colapsável',"v":'1.0.26',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como árvore colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.26',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Árvore de descendentes indentada',"v":'1.0.26',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de descendentes (SVG) representada como árvore indentada colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Árvore de ascendentes colapsável',"v":'1.0.27',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como árvore colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.27',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Árvore de descendentes indentada',"v":'1.0.27',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de descendentes (SVG) representada como árvore indentada colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Relatório Diferenças entre bases de dados',"v":'1.0.19',"g":'5.1',"d":'Compara uma base de dados externa com a actual.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Relatório de descendentes detalhado com todas as imagens',"v":'1.0.7',"g":'5.1',"d":'Produz um relatório de descendentes detalhado com todas as imagens e uma lista A fazer opcional.',"z":'DetDescendantReport-images.addon.tgz'}
@@ -113,7 +113,7 @@
 {"t":'Tool',"i":'birthorder',"n":'Ordenar filhos por data de nascimento',"v":'0.0.11',"g":'5.1',"d":'Procura em famílias por filhos que estejam fora da ordem de nascimento. O utilizador pode aceitar sugestões de correcção individuais, editar a ordem de nascimento manualmente, aceitar as famílias que têm os filhos bem ordenados ou aceitar tudo.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcular datas estimadas',"v":'0.90.33',"g":'5.1',"d":'Calcula datas estimadas de nascimento e óbito.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Reparar maiúsculas nos nomes próprios',"v":'1.0.32',"g":'5.1',"d":'Procura na base de dados inteira e tenta reparar maiúsculas nos nomes próprios.',"z":'ChangeGivenNames.addon.tgz'}
-{"t":'Tool',"i":'climerge',"n":'União pela linha de comandos',"v":'1.0.31',"g":'5.1',"d":'Unir objectos primários via linha de comandos.',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'União pela linha de comandos',"v":'1.0.32',"g":'5.1',"d":'Unir objectos primários via linha de comandos.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Transferir multimédia da Internet',"v":'1.0.12',"g":'5.1',"d":'Esta ferramente transfere multimédia da Internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrair dados do local a partir do título',"v":'1.0.9',"g":'5.1',"d":'Tenta extrair a cidade e o distrito de um título de local',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Ferramenta de importação e união',"v":'0.0.16',"g":'5.1',"d":'Compara uma base de dados Gramps XML com a actual e permite unir as diferenças.',"z":'ImportMerge.addon.tgz'}
