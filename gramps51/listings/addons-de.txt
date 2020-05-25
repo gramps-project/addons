@@ -35,7 +35,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Baum Ahnentafel',"v":'0.0.26',"g":'5.1',"d":'Die Ansicht zeigt eine platzsparende Ahnentafel mit Vorfahren der gewählten Person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Diagramm',"v":'1.0.15',"g":'5.1',"d":'Die Ansicht zeigt eine Quilt-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.58',"g":'5.1',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.19',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.20',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.113',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.17',"g":'5.1',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
@@ -44,7 +44,7 @@
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.27',"g":'5.1',"d":'Sammlung von Webseiten für DE (benötigt libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Verknüpfungspaket',"v":'1.0.33',"g":'5.1',"d":'Sammlung von Webseiten für FR (benötigt libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.3',"g":'5.1',"d":'Collection of Web sites for the Netherlands (requires libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Zusatzmodulverwaltung Verbessert',"v":'1.0.25',"g":'5.1',"d":'Zusatzmodulverwaltung mit mehreren zusätzlichen Funktionen',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Zusatzmodulverwaltung Verbessert',"v":'1.0.26',"g":'5.1',"d":'Zusatzmodulverwaltung mit mehreren zusätzlichen Funktionen',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Starten Sie neu, wo Sie zuletzt gearbeitet haben',"v":'0.0.13',"g":'5.1',"d":'Dieses Zusatzmodul bewirkt, dass Gramps in der gleichen Ansicht und dem gleichen Objekt neu startet, in dem Gramps zuvor geschlossen wurde. Es werden keine neuen Menüs oder Gramplets hinzugefügt, sondern die letzten sechs besuchten Objekte werden über das Menü „Gehe zu” gefunden.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme-Einstellungen',"v":'0.0.7',"g":'5.1',"d":'Eine Ergänzung zu den Voreinstellungen für die einfache Anpassung von Design und Schrift. Besonders nützlich für Windows-Benutzer.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.37',"g":'5.1',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}

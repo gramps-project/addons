@@ -35,7 +35,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.26',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.15',"g":'5.1',"d":'Prikazuje dijagram obiteljskog stabla u obliku popluna',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.58',"g":'5.1',"d":'Prikazuje kronologiju predaka s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.19',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.20',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Dijagram srodstva',"v":'1.0.113',"g":'5.1',"d":'Dinamičan i interaktivan dijagram srodstva',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON uvoz',"v":'1.0.17',"g":'5.1',"d":'Ovo je JSON uvoz',"z":'JSON.addon.tgz'}
@@ -44,7 +44,7 @@
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect zbirka',"v":'0.0.27',"g":'5.1',"d":'Zbirka web stranica za Njemačku (zahtijeva libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.33',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.3',"g":'5.1',"d":'Collection of Web sites for the Netherlands (requires libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.25',"g":'5.1',"d":'Upravljač za dodatke s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'PluginManager',"n":'Napredni upravljač za dodatke',"v":'1.0.26',"g":'5.1',"d":'Upravljač za dodatke s nekolicinom dodatnih funkcija',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Pokreni Gramps na istom mjestu',"v":'0.0.13',"g":'5.1',"d":'S ovim dodatkom se Gramps pokreće u istom pogledu i na istom objektu, koji su bili aktivni prilikom zadnjeg izlaska iz programa. Ne dodaje nove izbornike niti Gramplete, ali omogućuje prikaz zadnjih šest korištenih objekata u izborniku „Idi”.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Postavke za dizajn sučelja',"v":'0.0.7',"g":'5.1',"d":'Dodatak u postavkama za jednostavno podešavanje dizajna sučelja i fontova. Naročito korisno za korisnike Windows sustava.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect zbirka',"v":'1.0.37',"g":'5.1',"d":'Zbirka web stranica za Ujedinjeno Kraljevstvo (zahtijeva libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
