@@ -35,7 +35,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.26',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.15',"g":'5.1',"d":'Prikazuje dijagram obiteljskog stabla u obliku popluna',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.58',"g":'5.1',"d":'Prikazuje kronologiju predaka s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.21',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.22',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Dijagram srodstva',"v":'1.0.113',"g":'5.1',"d":'Dinamičan i interaktivan dijagram srodstva',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON uvoz',"v":'1.0.17',"g":'5.1',"d":'Ovo je JSON uvoz',"z":'JSON.addon.tgz'}
@@ -60,7 +60,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.19',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linije potomaka',"v":'1.1.4',"g":'5.1',"d":'Stvara linije potomaka za jednu osobu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.19',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.86',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.87',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.42',"g":'5.1',"d":'Stvara obiteljski list sa cjelovitim informacijama o osobi i njenim roditeljima i djecom.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.18',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjoj promjeni',"v":'0.1.7',"g":'5.1',"d":'Izvještaj o zadnjim zapisima koji su promijenjeni',"z":'LastChange.addon.tgz'}
@@ -73,9 +73,9 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Opcije za izvještaj o spremištima',"v":'0.3.27',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Izvještaj o izvorima i citatima',"v":'3.6.6',"g":'5.1',"d":'Stvara izvještaj o izvorima i citatima, zajedno sa zabilješkama',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Izvještaj o zadacima',"v":'1.2.31',"g":'5.1',"d":'Stvara popis svih zabilježaka sa zadanom etiketom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, događaj, itd.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Sklopivo stablo predaka',"v":'1.0.27',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom predaka (SVG), prikazanih sklopivim stablastim oblikom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralfanchart',"n":'Lepezasti dijagram predaka',"v":'1.0.27',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih lepezasti dijagramom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Uvučeno stablo potomaka',"v":'1.0.27',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih padajućim izbornikom stablastog oblika s uvlakama, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Sklopivo stablo predaka',"v":'1.0.28',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom predaka (SVG), prikazanih sklopivim stablastim oblikom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralfanchart',"n":'Lepezasti dijagram predaka',"v":'1.0.28',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih lepezasti dijagramom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Uvučeno stablo potomaka',"v":'1.0.28',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih padajućim izbornikom stablastog oblika s uvlakama, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Izvještaj o razlikama između baza podataka',"v":'1.0.19',"g":'5.1',"d":'Uspoređuje vanjsku bazu podataka s trenutačnom.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaljni izvještaj o potomcima sa svim slikama',"v":'1.0.7',"g":'5.1',"d":'Stvara detaljan izvještaj o potomcima sa svim slikama, te opcionalno s popisom zadataka.',"z":'DetDescendantReport-images.addon.tgz'}

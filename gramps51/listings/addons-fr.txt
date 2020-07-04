@@ -35,7 +35,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.26',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.15',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Arbre au fil du temps',"v":'0.1.58',"g":'5.1',"d":'Cette vue affiche une ligne temporelle dans l\'arbre avec ascendants et descendants de l\'individu sélectionné',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.21',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.22',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vue Graphique',"v":'1.0.113',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importation JSON',"v":'1.0.17',"g":'5.1',"d":'Ceci est une importation JSON',"z":'JSON.addon.tgz'}
@@ -60,7 +60,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.19',"g":'5.1',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Lignes des descendants',"v":'1.1.4',"g":'5.1',"d":'Produit les lignes de descendants de l\'individu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.19',"g":'5.1',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.86',"g":'5.1',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Rapport Web Dynamique',"v":'0.0.87',"g":'5.1',"d":'Produit des pages web dynamiques pour la base de données',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Résumé familial',"v":'3.4.42',"g":'5.1',"d":'Produit un résumé familial montrant les informations complètes sur l\'individu, ses conjoints et enfants.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Arbre familial',"v":'4.2.18',"g":'5.1',"d":'Produit un arbre familial sous forme graphique.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport Dernières modifications',"v":'0.1.7',"g":'5.1',"d":'Rapport pour les derniers enregistrements modifiés',"z":'LastChange.addon.tgz'}
@@ -73,9 +73,9 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.27',"g":'5.1',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Rapport de sources et citations',"v":'3.6.6',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Rapport À Faire',"v":'1.2.31',"g":'5.1',"d":'Produit une liste de toutes les notes avec une étiquette donnée ainsi que les enregistrements qui les référencent, l\'individu, la famille, l\'événement, etc.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Ancestral Collapsible Tree',"v":'1.0.27',"g":'5.1',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.27',"g":'5.1',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.27',"g":'5.1',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Ancestral Collapsible Tree',"v":'1.0.28',"g":'5.1',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralfanchart',"n":'Ancestral Fan Chart',"v":'1.0.28',"g":'5.1',"d":'Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Descendant Indented Tree',"v":'1.0.28',"g":'5.1',"d":'Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Rapport des différences dans la base de données',"v":'1.0.19',"g":'5.1',"d":'Compare une base de données externe avec la base actuelle.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detailed Descendant Report With All Images',"v":'1.0.7',"g":'5.1',"d":'Produces a detailed descendant report with all images and optional todo list.',"z":'DetDescendantReport-images.addon.tgz'}

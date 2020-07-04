@@ -35,7 +35,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Costados H-Tree',"v":'0.0.26',"g":'5.1',"d":'Mostra um espaço de costados eficiente com os antepassados do indivíduo seleccionado',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Gráfico de retalhos',"v":'1.0.15',"g":'5.1',"d":'Mostra uma vista gráfica da árvore de família',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Cronologia de costados',"v":'0.1.58',"g":'5.1',"d":'Mostra uma cronologia de costados com ascendentes e descendentes do indivíduo seleccionado',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.21',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.22',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vista gráfica',"v":'1.0.113',"g":'5.1',"d":'Gráfico de relações dinâmico e interactivo',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importação JSON',"v":'1.0.17',"g":'5.1',"d":'Esta é uma importação JSON',"z":'JSON.addon.tgz'}
@@ -60,7 +60,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Livro Descendentes',"v":'1.1.19',"g":'5.1',"d":'Produz um ou mais relatórios de descendência baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linhas de descendentes',"v":'1.1.4',"g":'5.1',"d":'Produz linhas de descendentes de um indivíduo',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Livro Descendência detalhada',"v":'1.1.19',"g":'5.1',"d":'Produz um ou mais relatórios de descendência detalhada baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.86',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.87',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Folha familiar',"v":'3.4.42',"g":'5.1',"d":'Produz uma folha familiar mostrando a informação completa sobre um indivíduo, companheiros e filhos.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Árvore de família',"v":'4.2.18',"g":'5.1',"d":'Produz uma árvore de família.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Relatório Últimas alterações',"v":'0.1.7',"g":'5.1',"d":'Relatório dos últimos registos que foram alterados',"z":'LastChange.addon.tgz'}
@@ -73,9 +73,9 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Opções do relatório de repositórios',"v":'0.3.27',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Relatório de fontes e citações',"v":'3.6.6',"g":'5.1',"d":'Fornece um relatório de fontes e citações com notas',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Agenda',"v":'1.2.31',"g":'5.1',"d":'Produz uma lista de todas as notas com uma dada etiqueta juntamente com os registos referenciados, indivíduo, família, evento, etc.',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Árvore de ascendentes colapsável',"v":'1.0.27',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como árvore colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.27',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Árvore de descendentes indentada',"v":'1.0.27',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de descendentes (SVG) representada como árvore indentada colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Árvore de ascendentes colapsável',"v":'1.0.28',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como árvore colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.28',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Árvore de descendentes indentada',"v":'1.0.28',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de descendentes (SVG) representada como árvore indentada colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Relatório Diferenças entre bases de dados',"v":'1.0.19',"g":'5.1',"d":'Compara uma base de dados externa com a actual.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Relatório de descendentes detalhado com todas as imagens',"v":'1.0.7',"g":'5.1',"d":'Produz um relatório de descendentes detalhado com todas as imagens e uma lista A fazer opcional.',"z":'DetDescendantReport-images.addon.tgz'}
