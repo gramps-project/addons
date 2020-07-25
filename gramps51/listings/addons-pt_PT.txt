@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Participantes',"v":'1.0.14',"g":'5.1',"d":'Gramplet que mostra os participantes num evento',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Visão geral do indivíduo',"v":'1.0.13',"g":'5.1',"d":'Gramplet que mostra uma visão geral dos eventos de um dado indivíduo',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Identificar fotografias',"v":'1.0.32',"g":'5.1',"d":'Gramplet para identificar indivíduos em imagens',"z":'PhotoTaggingGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Place Coordinates',"n":'Place Coordinates',"v":'1.1.1',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Place Coordinates',"n":'Place Coordinates',"v":'1.1.2',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Limpeza de locais',"v":'1.0.13',"g":'5.1',"d":'O Gramplet Limpeza de locais ajuda a unir locais, assim como a completar locais a partir da base de dados GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.2',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Verificador de pré-requisitos',"v":'0.8.28',"g":'5.1',"d":'Gramplet verificador de pré-requisitos',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
@@ -37,7 +37,7 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'Gráfico de retalhos',"v":'1.0.15',"g":'5.1',"d":'Mostra uma vista gráfica da árvore de família',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Cronologia de costados',"v":'0.1.58',"g":'5.1',"d":'Mostra uma cronologia de costados com ascendentes e descendentes do indivíduo seleccionado',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.22',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
-{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.1',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.2',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vista gráfica',"v":'1.0.113',"g":'5.1',"d":'Gráfico de relações dinâmico e interactivo',"z":'GraphView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importação JSON',"v":'1.0.17',"g":'5.1',"d":'Esta é uma importação JSON',"z":'JSON.addon.tgz'}
