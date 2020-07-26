@@ -25,7 +25,7 @@
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Gramplet Note',"v":'1.0.34',"g":'5.1',"d":'Gramplet pour l\'édition des notes de l\'individu actif',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participants',"v":'1.0.14',"g":'5.1',"d":'Gramplet showing the participants in an event',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Person Overview',"v":'1.0.13',"g":'5.1',"d":'Gramplet showing an overview of events for a person',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.32',"g":'5.1',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Cartographie photographique',"v":'1.0.33',"g":'5.1',"d":'Gramplet pour définir les individus dans les photos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place Coordinates',"v":'1.1.2',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Nettoyage des lieux',"v":'1.0.13',"g":'5.1',"d":'Le Gramplet "Nettoyage des lieux" aide à fusionner des lieux, ainsi qu\'à compléter des emplacements à partir de la base de données Web GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.2',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}

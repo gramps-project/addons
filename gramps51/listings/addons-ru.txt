@@ -25,7 +25,7 @@
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Заметки',"v":'1.0.34',"g":'5.1',"d":'Предназначен для редактирования заметок о человеке',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Участники',"v":'1.0.14',"g":'5.1',"d":'Показывает участников события',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.13',"g":'5.1',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.32',"g":'5.1',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.33',"g":'5.1',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place Coordinates',"v":'1.1.2',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.13',"g":'5.1',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'Обновление мест',"v":'1.0.2',"g":'5.1',"d":'Грамплет для группового управления местами',"z":'PlaceUpdate.addon.tgz'}
