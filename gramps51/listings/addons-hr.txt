@@ -59,7 +59,7 @@
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Broj potomaka',"v":'3.4.28',"g":'5.1',"d":'Prikazuje broj potomaka trenutačno odabrane osobe',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Sva imena svih osoba',"v":'1.0.27',"g":'5.1',"d":'Prikaži sva imena svih osoba',"z":'AllNamesQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'biographyquickview',"n":'Biografija',"v":'1.0.9',"g":'5.1',"d":'Prikaži tekstualnu biografiju',"z":'BiographyQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'biographyquickview',"n":'Biografija',"v":'1.0.10',"g":'5.1',"d":'Prikaži tekstualnu biografiju',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Kronologija',"v":'1.0.30',"g":'5.1',"d":'Prikazuje događaje osobe kronološki',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Popunjenost stabla',"v":'1.0.16',"g":'5.1',"d":'Izvještaj o popunjenosti stabla',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.20',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
@@ -107,9 +107,9 @@
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomal inheritance of <filter>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Dodaj izvor',"v":'0.0.34',"g":'5.1',"d":'Dodaje dijeljeni izvor objektima.',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'AvatarGenerator',"n":'Generator avatara',"v":'1.0.7',"g":'5.1',"d":'Alat za dodavanje avatara rodoslovu',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Generator avatara',"v":'1.0.8',"g":'5.1',"d":'Alat za dodavanje avatara rodoslovu',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.2',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
-{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.2',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Upotpunjavanje mjesta',"v":'0.0.37',"g":'5.1',"d":'Dostavlja popis odabranih mjesta, s mogućnošću upotpunjavanja, analiziranja i određivanja polja svojstava.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.1',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.30',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}

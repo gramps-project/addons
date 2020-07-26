@@ -59,7 +59,7 @@
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Количество предков',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Количество потомков',"v":'3.4.28',"g":'5.1',"d":'Показывает количество потомков для выбранного лица',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Все имена всех людей',"v":'1.0.27',"g":'5.1',"d":'Показывает все имена всех людей',"z":'AllNamesQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'biographyquickview',"n":'Биография',"v":'1.0.9',"g":'5.1',"d":'Отображает биографию в текстовом виде',"z":'BiographyQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'biographyquickview',"n":'Биография',"v":'1.0.10',"g":'5.1',"d":'Отображает биографию в текстовом виде',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Временная диаграмма',"v":'1.0.30',"g":'5.1',"d":'Отображает события лица на временной диаграмме',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.16',"g":'5.1',"d":'Отчёт о заполнении древа',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Книга о потомках',"v":'1.1.20',"g":'5.1',"d":'Создаёт различные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
@@ -107,9 +107,9 @@
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomal inheritance of <filter>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.34',"g":'5.1',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'AvatarGenerator',"n":'Создание аватар',"v":'1.0.7',"g":'5.1',"d":'Иструмент для создания изображений (аватар) для семейного древа',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Создание аватар',"v":'1.0.8',"g":'5.1',"d":'Иструмент для создания изображений (аватар) для семейного древа',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Редактор описания событий',"v":'1.0.2',"g":'5.1',"d":'Иструмент для поиска и замены строк в описании нескольких событий.',"z":'EventDescriptionEditor.addon.tgz'}
-{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.2',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.37',"g":'5.1',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.1',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.30',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}

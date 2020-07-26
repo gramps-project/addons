@@ -59,7 +59,7 @@
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Nombre de descendants',"v":'3.4.28',"g":'5.1',"d":'Affiche le nombre de descendants de l\'individu actif',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Tous les noms pour tous les individus',"v":'1.0.27',"g":'5.1',"d":'Affiche tous les noms de tous les individus',"z":'AllNamesQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.9',"g":'5.1',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.10',"g":'5.1',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Graphique temporel',"v":'1.0.30',"g":'5.1',"d":'Affiche les événements d\'une personne tout au long de sa vie',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Remplissage de l\'arbre',"v":'1.0.16',"g":'5.1',"d":'Rapport sur le remplissage de l\'arbre.',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.20',"g":'5.1',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
@@ -107,9 +107,9 @@
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomal inheritance of <filter>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Attacher une source',"v":'0.0.34',"g":'5.1',"d":'Attache une source partagée à des objets multiples',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.7',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.8',"g":'5.1',"d":'A tool to add avatar pictures to your family tree',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.2',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
-{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.2',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.37',"g":'5.1',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.1',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Définir un attribut',"v":'0.0.30',"g":'5.1',"d":'Définir une valeur à un attribut.',"z":'SetAttributeTool.addon.tgz'}

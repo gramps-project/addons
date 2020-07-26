@@ -59,7 +59,7 @@
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Aantal afstammelingen',"v":'3.4.28',"g":'5.1',"d":'Aantal afstammelingen van de actieve persoon wordt getoond',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle namen van alle personen',"v":'1.0.27',"g":'5.1',"d":'De namen van alle personen tonen',"z":'AllNamesQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'biographyquickview',"n":'Biografie',"v":'1.0.9',"g":'5.1',"d":'Geef een tekstbiografie weer',"z":'BiographyQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'biographyquickview',"n":'Biografie',"v":'1.0.10',"g":'5.1',"d":'Geef een tekstbiografie weer',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tijdlijn',"v":'1.0.30',"g":'5.1',"d":'Gebeurtenissen van een persoon worden op een tijdslijn getoond',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Vooroudertelling',"v":'1.0.16',"g":'5.1',"d":'Verslag van de bezetting van de stamboom',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.20',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
@@ -107,9 +107,9 @@
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomal inheritance of <filter>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Bron toevoegen',"v":'0.0.34',"g":'5.1',"d":'Koppelt een gedeelde bron aan meerdere objecten.',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.7',"g":'5.1',"d":'Een tool om avatarafbeeldingen toe te voegen aan uw stamboom',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.8',"g":'5.1',"d":'Een tool om avatarafbeeldingen toe te voegen aan uw stamboom',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.2',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
-{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
+{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Familierelaties hulpmiddel',"v":'1.1.2',"g":'5.1',"d":'Het in bulk bewerken van het familierelatie type voor een groep families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatie vervolledigen',"v":'0.0.37',"g":'5.1',"d":'Een lijst van geselecteerde locaties, met de mogelijkheid om/de kenmerkenvelden de vervolledigen/bekijken/veranderen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.1',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Kenmerk vastleggen',"v":'0.0.30',"g":'5.1',"d":'Een kenmerk een bepaalde waarde toekennen.',"z":'SetAttributeTool.addon.tgz'}
