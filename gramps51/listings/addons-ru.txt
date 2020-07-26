@@ -47,6 +47,7 @@
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Набор FR Web Connect',"v":'1.0.33',"g":'5.1',"d":'Набор веб-сайтов для FR (требуется libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.3',"g":'5.1',"d":'Колекция веб-сайтов для Нидерланд (требуется libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.26',"g":'5.1',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
+{"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'Набор RU Web Connect',"v":'1.0.1',"g":'5.1',"d":'Набор веб-сайтов для России (требуется libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Запуск и продолжение работы',"v":'0.0.13',"g":'5.1',"d":'Это дополнение позволяет запускать Gramps в состоянии в котором он был закрыт (вид, объект). Оно не добавляет новых меню или грамплетов, но делает доступными последние шесть объектов истории в меню перехода.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Тематические предпочтения',"v":'0.0.7',"g":'5.1',"d":'Дополнение к настройкам для простой настройки темы и шрифта. Особенно полезно для пользователей Windows.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Набор UK Web Connect',"v":'1.0.37',"g":'5.1',"d":'Набор веб-сайтов для UK (требуется libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
