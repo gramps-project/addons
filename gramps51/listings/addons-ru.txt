@@ -109,6 +109,7 @@
 {"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.33',"g":'5.1',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Создание аватар',"v":'1.0.7',"g":'5.1',"d":'Иструмент для создания изображений (аватар) для семейного древа',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Редактор описания событий',"v":'1.0.2',"g":'5.1',"d":'Иструмент для поиска и замены строк в описании нескольких событий.',"z":'EventDescriptionEditor.addon.tgz'}
+{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.37',"g":'5.1',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.1',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.30',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}

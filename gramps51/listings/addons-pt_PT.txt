@@ -109,6 +109,7 @@
 {"t":'Tool',"i":'AttachSource',"n":'Anexar fonte',"v":'0.0.33',"g":'5.1',"d":'Anexa uma fonte partilhada a múltiplos objectos.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Ferramenta de geração de avatar',"v":'1.0.7',"g":'5.1',"d":'Uma ferramenta para adicionar avatares à sua árvore genealógica',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.2',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
+{"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Conclusão de locais',"v":'0.0.37',"g":'5.1',"d":'Fornece uma lista navegável de locais seleccionados, com a possibilidade de concluir/analisar/definir os atributos.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.1',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Definir atributo',"v":'0.0.30',"g":'5.1',"d":'Definir um atributo num dado valor.',"z":'SetAttributeTool.addon.tgz'}
