@@ -119,7 +119,7 @@
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcular datas estimadas',"v":'0.90.33',"g":'5.1',"d":'Calcula datas estimadas de nascimento e óbito.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Reparar maiúsculas nos nomes próprios',"v":'1.0.32',"g":'5.1',"d":'Procura na base de dados inteira e tenta reparar maiúsculas nos nomes próprios.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'União pela linha de comandos',"v":'1.0.32',"g":'5.1',"d":'Unir objectos primários via linha de comandos.',"z":'CliMerge.addon.tgz'}
-{"t":'Tool',"i":'downloadmedia',"n":'Transferir multimédia da Internet',"v":'1.0.12',"g":'5.1',"d":'Esta ferramente transfere multimédia da Internet',"z":'DownloadMedia.addon.tgz'}
+{"t":'Tool',"i":'downloadmedia',"n":'Transferir multimédia da Internet',"v":'1.0.13',"g":'5.1',"d":'This tool downloads media files from the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrair dados do local a partir do título',"v":'1.0.9',"g":'5.1',"d":'Tenta extrair a cidade e o distrito de um título de local',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Ferramenta de importação e união',"v":'0.0.16',"g":'5.1',"d":'Compara uma base de dados Gramps XML com a actual e permite unir as diferenças.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.6',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
