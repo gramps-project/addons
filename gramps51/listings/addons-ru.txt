@@ -51,25 +51,25 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.26',"g":'5.1',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'Набор RU Web Connect',"v":'1.0.1',"g":'5.1',"d":'Набор веб-сайтов для России (требуется libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Запуск и продолжение работы',"v":'0.0.13',"g":'5.1',"d":'Это дополнение позволяет запускать Gramps в состоянии в котором он был закрыт (вид, объект). Оно не добавляет новых меню или грамплетов, но делает доступными последние шесть объектов истории в меню перехода.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Тематические предпочтения',"v":'0.0.7',"g":'5.1',"d":'Дополнение к настройкам для простой настройки темы и шрифта. Особенно полезно для пользователей Windows.',"z":'Themes.addon.tgz'}
+{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Тематические предпочтения',"v":'0.0.8',"g":'5.1',"d":'Дополнение к настройкам для простой настройки темы и шрифта. Особенно полезно для пользователей Windows.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Набор UK Web Connect',"v":'1.0.37',"g":'5.1',"d":'Набор веб-сайтов для UK (требуется libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Набор US Web Connect',"v":'1.0.40',"g":'5.1',"d":'Набор веб-сайтов для US (требуется libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Предоставляет библиотеку для доступа к базе данных и gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Библиотека для поддержки коллекций веб-сайтов',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Количество предков',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Количество потомков',"v":'3.4.28',"g":'5.1',"d":'Показывает количество потомков для выбранного лица',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'allnames',"n":'Все имена всех людей',"v":'1.0.26',"g":'5.1',"d":'Показывает все имена всех людей',"z":'AllNamesQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'allnames',"n":'Все имена всех людей',"v":'1.0.27',"g":'5.1',"d":'Показывает все имена всех людей',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Биография',"v":'1.0.9',"g":'5.1',"d":'Отображает биографию в текстовом виде',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Временная диаграмма',"v":'1.0.30',"g":'5.1',"d":'Отображает события лица на временной диаграмме',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.15',"g":'5.1',"d":'Отчёт о заполнении древа',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'DescendantBook',"n":'Книга о потомках',"v":'1.1.19',"g":'5.1',"d":'Создаёт различные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.16',"g":'5.1',"d":'Отчёт о заполнении древа',"z":'AncestorFill.addon.tgz'}
+{"t":'Report',"i":'DescendantBook',"n":'Книга о потомках',"v":'1.1.20',"g":'5.1',"d":'Создаёт различные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Линии потомков',"v":'1.1.4',"g":'5.1',"d":'Создаёт линии потомков для лица',"z":'DescendantsLines.addon.tgz'}
-{"t":'Report',"i":'DetailedDescendantBook',"n":'Подробная книга о потомках',"v":'1.1.19',"g":'5.1',"d":'Создаёт различные подробные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DetailedDescendantBook',"n":'Подробная книга о потомках',"v":'1.1.20',"g":'5.1',"d":'Создаёт различные подробные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Динамический веб отчёт',"v":'0.0.87',"g":'5.1',"d":'Формирует динамические веб страницы из базы данных',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Семейные страницы',"v":'3.4.42',"g":'5.1',"d":'Создаёт семейную страницу со всей информацией о лице, его родителях и детях.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Семейное древо',"v":'4.2.18',"g":'5.1',"d":'Создаёт графическое представление семейного древа.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.7',"g":'5.1',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}
-{"t":'Report',"i":'LinesOfDescendency',"n":'Линии родства',"v":'1.1.30',"g":'5.1',"d":'Создаёт линии родства между указанными предком и потомком в виде текста.',"z":'LinesOfDescendency.addon.tgz'}
+{"t":'Report',"i":'LinesOfDescendency',"n":'Линии родства',"v":'1.1.31',"g":'5.1',"d":'Создаёт линии родства между указанными предком и потомком в виде текста.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Liste Eclair',"v":'1.0.23',"g":'5.1',"d":'Produit une liste eclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Медиа отчёт',"v":'1.1.4',"g":'5.1',"d":'Создаёт отчёт включающий изображения, информацию об изображении и его заметках.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Родословная',"v":'1.0.34',"g":'5.1',"d":'Альтернативная версия традиционного представления родословной.',"z":'PedigreeChart.addon.tgz'}
@@ -82,7 +82,7 @@
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Круговая диаграмма предков',"v":'1.0.28',"g":'5.1',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде круговой диаграммы при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Древо потомков с отступами',"v":'1.0.28',"g":'5.1',"d":'Создаёт веб-станицу с графическим отображением потомков (SVG) представленном в виде сворачиваемого древа с отступами при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Отчёт об отличиях в базе данных',"v":'1.0.19',"g":'5.1',"d":'Сравнивает внешнюю базу данных с текущей.',"z":'Differences.addon.tgz'}
-{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
+{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.41',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Подробный отчёт о потомках со всеми изображениями',"v":'1.0.7',"g":'5.1',"d":'Создаёт подробный отчёт о предках со всеми изображениями и возможным списком задач.',"z":'DetDescendantReport-images.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Древо предков',"v":'1.0.14',"g":'5.1',"d":'Древо предков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Древо потомков',"v":'1.0.14',"g":'5.1',"d":'Древо потомков использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
@@ -106,7 +106,7 @@
 {"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomal descendants of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches descendants of <person> following a X-chromosomal inheritance pattern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomal inheritance of <filter>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
-{"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.33',"g":'5.1',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
+{"t":'Tool',"i":'AttachSource',"n":'Указание источника',"v":'0.0.34',"g":'5.1',"d":'Указание ссылок на источники для объектов.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Создание аватар',"v":'1.0.7',"g":'5.1',"d":'Иструмент для создания изображений (аватар) для семейного древа',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Редактор описания событий',"v":'1.0.2',"g":'5.1',"d":'Иструмент для поиска и замены строк в описании нескольких событий.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
@@ -115,7 +115,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.30',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Установка секретности',"v":'1.0.4',"g":'5.1',"d":'Сделать все объекты последних <number> лет личными.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Интерактивное семейное древо',"v":'1.1.4',"g":'5.1',"d":'Открывает интерактивное семеное древо в браузере',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.1.7',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.1.8',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Сортировка детей в порядке рождения',"v":'0.0.11',"g":'5.1',"d":'Просматривает семьи и ищет детей, которые указаны не в порядке рождения. Пользователь может принять предложения частично, редактировать порядок вручную, принять изменения для семей с корректными датами или принять всё.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Расчёт предположительных дат',"v":'0.90.33',"g":'5.1',"d":'Расчитывает предположитльные даты для рождения и смерти.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Исправление регистра в именах',"v":'1.0.32',"g":'5.1',"d":'Просматривает всю базу данных и пытается исправить регистр в именах.',"z":'ChangeGivenNames.addon.tgz'}

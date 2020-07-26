@@ -51,25 +51,25 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Gestor de extensões melhorado',"v":'1.0.26',"g":'5.1',"d":'Um gestor de extensões com várias capacidades melhoradas',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.1',"g":'5.1',"d":'Collection of Web sites for the RU (requires libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Recomeçar o trabalho onde estava',"v":'0.0.13',"g":'5.1',"d":'Esta extensão faz com que o Gramps recomece na mesma vista e objecto em que estava quando fechou o Gramps. Não adiciona menus nem gramplets, mas permite encontrar os últimos seis objectos visitados através do menu Ir.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Preferências do tema',"v":'0.0.7',"g":'5.1',"d":'Uma adição às preferências para ajuste simples de tema e letra. Especialmente útil para utilizadores do Windows.',"z":'Themes.addon.tgz'}
+{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Preferências do tema',"v":'0.0.8',"g":'5.1',"d":'Uma adição às preferências para ajuste simples de tema e letra. Especialmente útil para utilizadores do Windows.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.37',"g":'5.1',"d":'Colecção de páginas web para UK (requer libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.40',"g":'5.1',"d":'Colecção de páginas web para US (requer libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Fornece uma biblioteca para aceder à base de dados e gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Biblioteca para colecções em páginas web',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.3',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Número de descendentes',"v":'3.4.28',"g":'5.1',"d":'Mostra o número de descendentes do indivíduo activo',"z":'NumberOfDescendantsQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'allnames',"n":'Todos os nomes de todos os indivíduos',"v":'1.0.26',"g":'5.1',"d":'Mostrar todos os nomes de todos os indivíduos',"z":'AllNamesQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'allnames',"n":'Todos os nomes de todos os indivíduos',"v":'1.0.27',"g":'5.1',"d":'Mostrar todos os nomes de todos os indivíduos',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografia',"v":'1.0.9',"g":'5.1',"d":'Mostrar uma biografia em texto',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Cronologia',"v":'1.0.30',"g":'5.1',"d":'Mostrar os eventos pessoais numa cronologia',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.15',"g":'5.1',"d":'Relatório do preenchimento da árvore',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'DescendantBook',"n":'Livro Descendentes',"v":'1.1.19',"g":'5.1',"d":'Produz um ou mais relatórios de descendência baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.16',"g":'5.1',"d":'Relatório do preenchimento da árvore',"z":'AncestorFill.addon.tgz'}
+{"t":'Report',"i":'DescendantBook',"n":'Livro Descendentes',"v":'1.1.20',"g":'5.1',"d":'Produz um ou mais relatórios de descendência baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linhas de descendentes',"v":'1.1.4',"g":'5.1',"d":'Produz linhas de descendentes de um indivíduo',"z":'DescendantsLines.addon.tgz'}
-{"t":'Report',"i":'DetailedDescendantBook',"n":'Livro Descendência detalhada',"v":'1.1.19',"g":'5.1',"d":'Produz um ou mais relatórios de descendência detalhada baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DetailedDescendantBook',"n":'Livro Descendência detalhada',"v":'1.1.20',"g":'5.1',"d":'Produz um ou mais relatórios de descendência detalhada baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.87',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Folha familiar',"v":'3.4.42',"g":'5.1',"d":'Produz uma folha familiar mostrando a informação completa sobre um indivíduo, companheiros e filhos.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Árvore de família',"v":'4.2.18',"g":'5.1',"d":'Produz uma árvore de família.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Relatório Últimas alterações',"v":'0.1.7',"g":'5.1',"d":'Relatório dos últimos registos que foram alterados',"z":'LastChange.addon.tgz'}
-{"t":'Report',"i":'LinesOfDescendency',"n":'Linhas de descendência',"v":'1.1.30',"g":'5.1',"d":'Imprime todas as linhas de descendência de um dado ascendente até um dado descendente em texto.',"z":'LinesOfDescendency.addon.tgz'}
+{"t":'Report',"i":'LinesOfDescendency',"n":'Linhas de descendência',"v":'1.1.31',"g":'5.1',"d":'Imprime todas as linhas de descendência de um dado ascendente até um dado descendente em texto.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Lista de correspondências',"v":'1.0.23',"g":'5.1',"d":'Produzir uma lista de correspondências',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Relatório multimédia',"v":'1.1.4',"g":'5.1',"d":'Gera um relatório incluindo imagens, dados das imagens e notas.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Árvore de costados',"v":'1.0.34',"g":'5.1',"d":'Versão alternativa da tradicional árvore de costados.',"z":'PedigreeChart.addon.tgz'}
@@ -82,7 +82,7 @@
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.28',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Árvore de descendentes indentada',"v":'1.0.28',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de descendentes (SVG) representada como árvore indentada colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Relatório Diferenças entre bases de dados',"v":'1.0.19',"g":'5.1',"d":'Compara uma base de dados externa com a actual.',"z":'Differences.addon.tgz'}
-{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.40',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
+{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.41',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Relatório de descendentes detalhado com todas as imagens',"v":'1.0.7',"g":'5.1',"d":'Produz um relatório de descendentes detalhado com todas as imagens e uma lista A fazer opcional.',"z":'DetDescendantReport-images.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Árvore de ascendentes',"v":'1.0.14',"g":'5.1',"d":'Árvore de ascendentes usando LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Árvore de descendentes',"v":'1.0.14',"g":'5.1',"d":'Árvore de descendentes usando LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
@@ -106,7 +106,7 @@
 {"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomal descendants of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches descendants of <person> following a X-chromosomal inheritance pattern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomal inheritance of <filter>',"v":'1.0.2',"g":'5.1',"d":'Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
-{"t":'Tool',"i":'AttachSource',"n":'Anexar fonte',"v":'0.0.33',"g":'5.1',"d":'Anexa uma fonte partilhada a múltiplos objectos.',"z":'AttachSourceTool.addon.tgz'}
+{"t":'Tool',"i":'AttachSource',"n":'Anexar fonte',"v":'0.0.34',"g":'5.1',"d":'Anexa uma fonte partilhada a múltiplos objectos.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Ferramenta de geração de avatar',"v":'1.0.7',"g":'5.1',"d":'Uma ferramenta para adicionar avatares à sua árvore genealógica',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.2',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.1',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
@@ -115,7 +115,7 @@
 {"t":'Tool',"i":'SetAttribute',"n":'Definir atributo',"v":'0.0.30',"g":'5.1',"d":'Definir um atributo num dado valor.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Ferramenta Definir privacidade',"v":'1.0.4',"g":'5.1',"d":'Define todos os objectos dos últimos <número> anos como privados.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Árvore genealógica interactiva',"v":'1.1.4',"g":'5.1',"d":'Abre uma árvore interactiva no navegador',"z":'Topola.addon.tgz'}
-{"t":'Tool',"i":'associationstool',"n":'Verificar dados de associação',"v":'1.1.7',"g":'5.1',"d":'Vai verificar os dados na associação para indivíduos.',"z":'AssociationsTool.addon.tgz'}
+{"t":'Tool',"i":'associationstool',"n":'Verificar dados de associação',"v":'1.1.8',"g":'5.1',"d":'Vai verificar os dados na associação para indivíduos.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Ordenar filhos por data de nascimento',"v":'0.0.11',"g":'5.1',"d":'Procura em famílias por filhos que estejam fora da ordem de nascimento. O utilizador pode aceitar sugestões de correcção individuais, editar a ordem de nascimento manualmente, aceitar as famílias que têm os filhos bem ordenados ou aceitar tudo.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calcular datas estimadas',"v":'0.90.33',"g":'5.1',"d":'Calcula datas estimadas de nascimento e óbito.',"z":'CalculateEstimatedDates.addon.tgz'}
 {"t":'Tool',"i":'chgivenname',"n":'Reparar maiúsculas nos nomes próprios',"v":'1.0.32',"g":'5.1',"d":'Procura na base de dados inteira e tenta reparar maiúsculas nos nomes próprios.',"z":'ChangeGivenNames.addon.tgz'}
