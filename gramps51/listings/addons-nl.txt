@@ -4,13 +4,13 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.13',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Ruwe export',"v":'1.0.35',"g":'5.1',"d":'Dit is een ruwe \'python object\'-dump',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'\'Sqlite\'-export',"v":'1.1.3',"g":'5.1',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
-{"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagen',"v":'1.1.8',"g":'5.1',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Clock Gramplet',"n":'Klok',"v":'0.0.31',"g":'5.1',"d":'Gramplet voor het demonstreren van Cairo graphics',"z":'ClockGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Klembord collecties',"v":'1.0.40',"g":'5.1',"d":'Gramplet voor het groeperen van verzamelingen items om te helpen bij het invoeren van gegevens.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagen',"v":'1.1.9',"g":'5.1',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Clock Gramplet',"n":'Klok',"v":'0.0.32',"g":'5.1',"d":'Gramplet voor het demonstreren van Cairo graphics',"z":'ClockGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Klembord collecties',"v":'1.0.41',"g":'5.1',"d":'Gramplet voor het groeperen van verzamelingen items om te helpen bij het invoeren van gegevens.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gegevensinvoer Gramplet',"v":'1.0.46',"g":'5.1',"d":'Gramplet om snel gegevens in te voeren',"z":'DataEntryGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DateCalculator',"n":'Datum rekenmachine',"v":'0.0.11',"g":'5.1',"d":'Handig voor wiskundige berekeningen met datums',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.37',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Afstammelingen tellen',"v":'2.0.9',"g":'5.1',"d":'Gramplet om personen en afstammelingentelling te tonen',"z":'DescendantCount.addon.tgz'}
+{"t":'Gramplet',"i":'DateCalculator',"n":'Datum rekenmachine',"v":'0.0.12',"g":'5.1',"d":'Handig voor wiskundige berekeningen met datums',"z":'DateCalculator.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.38',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Afstammelingen tellen',"v":'2.0.10',"g":'5.1',"d":'Gramplet om personen en afstammelingentelling te tonen',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Exif-metagegevens aanpassen',"v":'2.0.5',"g":'5.1',"d":'Een gramplet om de Exif-beeldmetagegevens te zien, aan te passen of op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.28',"g":'5.1',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.28',"g":'5.1',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
@@ -36,7 +36,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.26',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.15',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdslijnstamboom',"v":'0.1.58',"g":'5.1',"d":'Dit scherm toont een tijdslijnstamboom met voorouders en nakomelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.22',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.23',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.2',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.4',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekscherm',"v":'1.0.114',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
@@ -62,9 +62,9 @@
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografie',"v":'1.0.10',"g":'5.1',"d":'Geef een tekstbiografie weer',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tijdlijn',"v":'1.0.30',"g":'5.1',"d":'Gebeurtenissen van een persoon worden op een tijdslijn getoond',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Vooroudertelling',"v":'1.0.16',"g":'5.1',"d":'Verslag van de bezetting van de stamboom',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.20',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'Descendants Lines',"n":'Afstammelingslijnen',"v":'1.1.4',"g":'5.1',"d":'Produceert afstammelingslijnen van een persoon',"z":'DescendantsLines.addon.tgz'}
-{"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.20',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.21',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'Descendants Lines',"n":'Afstammelingslijnen',"v":'1.1.5',"g":'5.1',"d":'Produceert afstammelingslijnen van een persoon',"z":'DescendantsLines.addon.tgz'}
+{"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.21',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.87',"g":'5.1',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familieblad',"v":'3.4.42',"g":'5.1',"d":'Toont een familieblad met volledige informatie over een persoon en zijn/haar partners en kinderen.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Familiestamboom',"v":'4.2.18',"g":'5.1',"d":'Grafische familiestamboom wordt aangemaakt.',"z":'FamilyTree.addon.tgz'}
@@ -78,11 +78,11 @@
 {"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.27',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.6',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'\'Nog te doen\'-verslag',"v":'1.2.31',"g":'5.1',"d":'Een lijst van opmerkingen met een bepaalde aanduiding wordt aangemaakt, samen met de gegevens waarnaar verwezen wordt, de persoon, familie, gegeven, enz. .',"z":'ToDoReport.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Inklapbare voorouderboom',"v":'1.0.28',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een inklapbare boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-ancestralfanchart',"n":'Cirkeldiagram voorouders',"v":'1.0.28',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een Cirkeldiagram uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
-{"t":'Report',"i":'d3-descendantindentedtree',"n":'Afstammelingsboom ingesprongen',"v":'1.0.28',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van afstammelingen (SVG) die wordt weergegeven als een inklapbare ingesprongen boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Inklapbare voorouderboom',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een inklapbare boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-ancestralfanchart',"n":'Cirkeldiagram voorouders',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een Cirkeldiagram uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
+{"t":'Report',"i":'d3-descendantindentedtree',"n":'Afstammelingsboom ingesprongen',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van afstammelingen (SVG) die wordt weergegeven als een inklapbare ingesprongen boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Database Differences Report',"v":'1.0.19',"g":'5.1',"d":'Compares an external database with the current one.',"z":'Differences.addon.tgz'}
-{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.41',"g":'5.1',"d":'Genereert een web (HTML) pagina met een grafische weergave van afstammelingen/voorouders (SVG) waar details over individuen zichtbaar worden door muisacties.',"z":'DenominoViso.addon.tgz'}
+{"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.42',"g":'5.1',"d":'Genereert een web (HTML) pagina met een grafische weergave van afstammelingen/voorouders (SVG) waar details over individuen zichtbaar worden door muisacties.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detailed Descendant Report With All Images',"v":'1.0.7',"g":'5.1',"d":'Produces a detailed descendant report with all images and optional todo list.',"z":'DetDescendantReport-images.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Ancestor Tree',"v":'1.0.14',"g":'5.1',"d":'Ancestor tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Descendant Tree',"v":'1.0.14',"g":'5.1',"d":'Descendant tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
@@ -116,10 +116,10 @@
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.4',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.4',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Controleer associatiegegevens',"v":'1.1.8',"g":'5.1',"d":'Controleert de associatiegegevens voor mensen.',"z":'AssociationsTool.addon.tgz'}
-{"t":'Tool',"i":'birthorder',"n":'Sorteer kinderen op volgorde van geboorte',"v":'0.0.11',"g":'5.1',"d":'Onderzoekt gezinnen, op zoek naar kinderen die niet op geboortevolgorde staan.De gebruiker kan individuele suggesties accepteren om handmatig de geboortevolgorde te corrigeren of te bewerken, alle gezinnen waarvan alle kinderen de juiste geboortedatums hebben accepteren, of alles accepteren.',"z":'BirthOrder.addon.tgz'}
-{"t":'Tool',"i":'calculateestimateddates',"n":'Geschatte datums berekenen',"v":'0.90.33',"g":'5.1',"d":'Geschatte datums voor geboorte en overlijden berekenen.',"z":'CalculateEstimatedDates.addon.tgz'}
-{"t":'Tool',"i":'chgivenname',"n":'Hoofdlettergebruik van voornamen corrigeren',"v":'1.0.32',"g":'5.1',"d":'Doorzoekt de hele database en probeert het hoofdlettergebruik van de opgegeven namen te herstellen.',"z":'ChangeGivenNames.addon.tgz'}
-{"t":'Tool',"i":'climerge',"n":'Opdrachtregel samenvoegen',"v":'1.0.32',"g":'5.1',"d":'Voeg primaire objecten samen via de opdrachtregel.',"z":'CliMerge.addon.tgz'}
+{"t":'Tool',"i":'birthorder',"n":'Sorteer kinderen op volgorde van geboorte',"v":'0.0.12',"g":'5.1',"d":'Onderzoekt gezinnen, op zoek naar kinderen die niet op geboortevolgorde staan.De gebruiker kan individuele suggesties accepteren om handmatig de geboortevolgorde te corrigeren of te bewerken, alle gezinnen waarvan alle kinderen de juiste geboortedatums hebben accepteren, of alles accepteren.',"z":'BirthOrder.addon.tgz'}
+{"t":'Tool',"i":'calculateestimateddates',"n":'Geschatte datums berekenen',"v":'0.90.34',"g":'5.1',"d":'Geschatte datums voor geboorte en overlijden berekenen.',"z":'CalculateEstimatedDates.addon.tgz'}
+{"t":'Tool',"i":'chgivenname',"n":'Hoofdlettergebruik van voornamen corrigeren',"v":'1.0.33',"g":'5.1',"d":'Doorzoekt de hele database en probeert het hoofdlettergebruik van de opgegeven namen te herstellen.',"z":'ChangeGivenNames.addon.tgz'}
+{"t":'Tool',"i":'climerge',"n":'Opdrachtregel samenvoegen',"v":'1.0.33',"g":'5.1',"d":'Voeg primaire objecten samen via de opdrachtregel.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.13',"g":'5.1',"d":'This tool downloads media files from the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.9',"g":'5.1',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import and Merge tool',"v":'0.0.16',"g":'5.1',"d":'Compares a Gramps XML database with the current one, and allows merging of the differences.',"z":'ImportMerge.addon.tgz'}
