@@ -3,7 +3,7 @@
 {"t":'Exporter',"i":'JSON Export',"n":'Экспорт JSON',"v":'1.0.18',"g":'5.1',"d":'Предоставляет экспорт в JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Экспорт в Prolog',"v":'1.0.14',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.36',"g":'5.1',"d":'Получение данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
-{"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.1.3',"g":'5.1',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'Экспорт SQLite',"v":'1.1.4',"g":'5.1',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Birthdays',"v":'1.1.9',"g":'5.1',"d":'Грамплет отображающий дни рождения живых людей',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Часы',"v":'0.0.32',"g":'5.1',"d":'Грампет демонстрирующий применение Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Группы в буфере обмена',"v":'1.0.41',"g":'5.1',"d":'Грамплет для формирования групп объектов для помощи при вводе данных.',"z":'ClipboardGramplet.addon.tgz'}
@@ -43,7 +43,7 @@
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.2.2',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.2.2',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Импорт JSON',"v":'1.0.18',"g":'5.1',"d":'Предоставляет импорт JSON',"z":'JSON.addon.tgz'}
-{"t":'Importer',"i":'im_sqlite',"n":'Импорт SQLite',"v":'1.1.3',"g":'5.1',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'Импорт SQLite',"v":'1.1.4',"g":'5.1',"d":'SQLite - обычный формат локальной базы данных',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Создаёт данные для GoogleEarth и открывает их',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'Набор DE Web Connect',"v":'0.0.27',"g":'5.1',"d":'Набор веб-сайтов для DE (требуется libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'Набор FR Web Connect',"v":'1.0.34',"g":'5.1',"d":'Набор веб-сайтов для FR (требуется libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
@@ -51,7 +51,7 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Расширенный менеджер дополнений',"v":'1.0.27',"g":'5.1',"d":'Менеджер дополнений с расширенными возможностями',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'Набор RU Web Connect',"v":'1.0.2',"g":'5.1',"d":'Набор веб-сайтов для России (требуется libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Запуск и продолжение работы',"v":'0.0.14',"g":'5.1',"d":'Это дополнение позволяет запускать Gramps в состоянии в котором он был закрыт (вид, объект). Оно не добавляет новых меню или грамплетов, но делает доступными последние шесть объектов истории в меню перехода.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Тематические предпочтения',"v":'0.0.8',"g":'5.1',"d":'Дополнение к настройкам для простой настройки темы и шрифта. Особенно полезно для пользователей Windows.',"z":'Themes.addon.tgz'}
+{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Тематические предпочтения',"v":'0.0.9',"g":'5.1',"d":'Дополнение к настройкам для простой настройки темы и шрифта. Особенно полезно для пользователей Windows.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'Набор UK Web Connect',"v":'1.0.37',"g":'5.1',"d":'Набор веб-сайтов для UK (требуется libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'Набор US Web Connect',"v":'1.0.41',"g":'5.1',"d":'Набор веб-сайтов для US (требуется libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Предоставляет библиотеку для доступа к базе данных и gen.lib.',"z":'libaccess.addon.tgz'}
@@ -76,7 +76,7 @@
 {"t":'Report',"i":'PersonEverythingReport',"n":'Всё о человеке',"v":'1.0.15',"g":'5.1',"d":'Предоставляет отчёт содержащий все данные об активном лице',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.28',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Параметы отчета о хранилищах',"v":'0.3.28',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'SourcesCitationsReport',"n":'Источники и цитаты',"v":'3.6.6',"g":'5.1',"d":'Создаёт отчёт об источниках и цитатах с заметками',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'SourcesCitationsReport',"n":'Источники и цитаты',"v":'3.6.7',"g":'5.1',"d":'Создаёт отчёт об источниках и цитатах с заметками',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Отчёт по задачам',"v":'1.2.31',"g":'5.1',"d":'Предоставляет список всех заметок с указанныой меткой по всем записям на которые они ссылаются (лицо, семья, событие, др.)',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Древо предков (D3)',"v":'1.0.29',"g":'5.1',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде сворачиваемого древа при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Круговая диаграмма предков',"v":'1.0.29',"g":'5.1',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде круговой диаграммы при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
@@ -112,8 +112,8 @@
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.3',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'PlaceCompletion',"v":'0.0.38',"g":'5.1',"d":'Предоставляет список из выбраных мест, с возможностью дополнить/разобрать/установить атрибуты.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.2',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
-{"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.30',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Установка секретности',"v":'1.0.4',"g":'5.1',"d":'Сделать все объекты последних <number> лет личными.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetAttribute',"n":'Установка атрибутов',"v":'0.0.31',"g":'5.1',"d":'Установливает значения атрибутов.',"z":'SetAttributeTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Установка секретности',"v":'1.0.5',"g":'5.1',"d":'Сделать все объекты последних <number> лет личными.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Интерактивное семейное древо',"v":'1.1.4',"g":'5.1',"d":'Открывает интерактивное семеное древо в браузере',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Проверка связи данных',"v":'1.1.8',"g":'5.1',"d":'Проверка данных на связанность с лицами.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Сортировка детей в порядке рождения',"v":'0.0.12',"g":'5.1',"d":'Просматривает семьи и ищет детей, которые указаны не в порядке рождения. Пользователь может принять предложения частично, редактировать порядок вручную, принять изменения для семей с корректными датами или принять всё.',"z":'BirthOrder.addon.tgz'}
@@ -126,6 +126,6 @@
 {"t":'Tool',"i":'mediamerge',"n":'Объединение документов',"v":'1.0.7',"g":'5.1',"d":'Просматривает базу данных и объединяет документы со ссылкой на один и тотже файл.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Проверка документов',"v":'1.0.22',"g":'5.1',"d":'Проверяет, что документы присутствуют по указанному пути',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Чистка заметок',"v":'1.0.15',"g":'5.1',"d":'Производит очистку заметок содержащих HTML разметку',"z":'NoteCleanup.addon.tgz'}
-{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.2',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
+{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.3',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Генератор миниатюр',"v":'1.0.24',"g":'5.1',"d":'Создание миниатюр для документов',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Очистка типов',"v":'1.0.5',"g":'5.1',"d":'Производит очистку (удаляет) указанные типы',"z":'TypeCleanup.addon.tgz'}

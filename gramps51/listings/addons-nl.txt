@@ -3,7 +3,7 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON export',"v":'1.0.18',"g":'5.1',"d":'Dit is een JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.14',"g":'5.1',"d":'Exporteert gegevens naar een Prolog-feitenopmaak. Gegevens staan in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Ruwe export',"v":'1.0.36',"g":'5.1',"d":'Dit is een onbewerkte python-objectdump',"z":'ExportRaw.addon.tgz'}
-{"t":'Exporter',"i":'ex_sqlite',"n":'\'Sqlite\'-export',"v":'1.1.3',"g":'5.1',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'\'Sqlite\'-export',"v":'1.1.4',"g":'5.1',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagen',"v":'1.1.9',"g":'5.1',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Klok',"v":'0.0.32',"g":'5.1',"d":'Gramplet voor het demonstreren van Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Klembord collecties',"v":'1.0.41',"g":'5.1',"d":'Gramplet voor het groeperen van verzamelingen items om te helpen bij het invoeren van gegevens.',"z":'ClipboardGramplet.addon.tgz'}
@@ -43,7 +43,7 @@
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.2.2',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.2.2',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON import',"v":'1.0.18',"g":'5.1',"d":'Dit is een JSON import',"z":'JSON.addon.tgz'}
-{"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.1.3',"g":'5.1',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'\'Sqlite\'-import',"v":'1.1.4',"g":'5.1',"d":'\'Sqlite\' is een veel gebruikt lokaal gegevensbestandsformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Maakt een gegevensbestand voor GoogleEarth en opent het',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.27',"g":'5.1',"d":'Verzameling van websites voor DE (vereist libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.34',"g":'5.1',"d":'Verzameling van websites voor FR (libwebconnect is nodig)',"z":'FRWebConnectPack.addon.tgz'}
@@ -51,7 +51,7 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Verbeterde uitbreidingenbeheerder',"v":'1.0.27',"g":'5.1',"d":'Een addon-/uitbreidingenbeheerder met verschillende extra mogelijkheden',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.2',"g":'5.1',"d":'Collection of Web sites for the RU (requires libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.14',"g":'5.1',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Thema-voorkeuren',"v":'0.0.8',"g":'5.1',"d":'Een aanvulling op Voorkeuren voor eenvoudige aanpassing van thema en lettertype. Vooral handig voor Windows-gebruikers.',"z":'Themes.addon.tgz'}
+{"t":'Plugin lib',"i":'ThemesPrefs',"n":'Thema-voorkeuren',"v":'0.0.9',"g":'5.1',"d":'Een aanvulling op Voorkeuren voor eenvoudige aanpassing van thema en lettertype. Vooral handig voor Windows-gebruikers.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'V.K. Web Connect Pack',"v":'1.0.37',"g":'5.1',"d":'Verzameling van websites voor \'VK\' (libwebconnect is nodig)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'V.S. Web Connect Pack',"v":'1.0.41',"g":'5.1',"d":'Verzameling van websites voor \'VS\' (libwebconnect is nodig)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Een bibliotheek voor algemene toegang tot het gegevensbestand en \'gen.lib\'.',"z":'libaccess.addon.tgz'}
@@ -76,7 +76,7 @@
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.15',"g":'5.1',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Bibliothekenverslag',"v":'1.1.28',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.28',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.6',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.7',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'\'Nog te doen\'-verslag',"v":'1.2.31',"g":'5.1',"d":'Een lijst van opmerkingen met een bepaalde aanduiding wordt aangemaakt, samen met de gegevens waarnaar verwezen wordt, de persoon, familie, gegeven, enz. .',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Inklapbare voorouderboom',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een inklapbare boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Cirkeldiagram voorouders',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een Cirkeldiagram uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
@@ -112,8 +112,8 @@
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Familierelaties hulpmiddel',"v":'1.1.3',"g":'5.1',"d":'Het in bulk bewerken van het familierelatie type voor een groep families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatie vervolledigen',"v":'0.0.38',"g":'5.1',"d":'Een lijst van geselecteerde locaties, met de mogelijkheid om/de kenmerkenvelden de vervolledigen/bekijken/veranderen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.2',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
-{"t":'Tool',"i":'SetAttribute',"n":'Kenmerk vastleggen',"v":'0.0.30',"g":'5.1',"d":'Een kenmerk een bepaalde waarde toekennen.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.4',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetAttribute',"n":'Kenmerk vastleggen',"v":'0.0.31',"g":'5.1',"d":'Een kenmerk een bepaalde waarde toekennen.',"z":'SetAttributeTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.5',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.4',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Controleer associatiegegevens',"v":'1.1.8',"g":'5.1',"d":'Controleert de associatiegegevens voor mensen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sorteer kinderen op volgorde van geboorte',"v":'0.0.12',"g":'5.1',"d":'Onderzoekt gezinnen, op zoek naar kinderen die niet op geboortevolgorde staan.De gebruiker kan individuele suggesties accepteren om handmatig de geboortevolgorde te corrigeren of te bewerken, alle gezinnen waarvan alle kinderen de juiste geboortedatums hebben accepteren, of alles accepteren.',"z":'BirthOrder.addon.tgz'}
@@ -126,6 +126,6 @@
 {"t":'Tool',"i":'mediamerge',"n":'Media samenvoegen',"v":'1.0.7',"g":'5.1',"d":'Doorzoekt de hele database, zoekend naar media met hetzelfde pad en voegt deze samen.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Mediaverificatie',"v":'1.0.22',"g":'5.1',"d":'Controleer of media aan het juiste pad gekoppeld zijn',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Opmerking opschonen',"v":'1.0.15',"g":'5.1',"d":'Opschonen van opmerkingen die HTML-opmaak bevatten',"z":'NoteCleanup.addon.tgz'}
-{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.2',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
+{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.3',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Thumbnail Generator',"v":'1.0.24',"g":'5.1',"d":'Generates thumbnails for media files',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.5',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
