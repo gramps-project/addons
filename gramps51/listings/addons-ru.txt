@@ -11,7 +11,7 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Калькулятор дат',"v":'0.0.12',"g":'5.1',"d":'Полезен при проведении вычислений с датами',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Подробные связи',"v":'1.0.38',"g":'5.1',"d":'Показывает связь между активным и базовым лицом',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Количество потомков',"v":'2.0.11',"g":'5.1',"d":'Показывает количество потомков',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Редактировать метаданные (EXIF) изображения',"v":'2.0.6',"g":'5.1',"d":'Грамплет для просмотра, редакции, и записи метаданных (в формате Exif) изображения',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Редактировать метаданные (EXIF) изображения',"v":'2.0.8',"g":'5.1',"d":'Грамплет для просмотра, редакции, и записи метаданных (в формате Exif) изображения',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Расширенные атрибуты для семьи',"v":'1.0.29',"g":'5.1',"d":'Показывает атрибуты для выбранной семьи',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Расширенные атрибуты для лиц',"v":'1.0.29',"g":'5.1',"d":'Показывает атрибуты для выбранного лица',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Обзор по семье',"v":'1.0.14',"g":'5.1',"d":'Отображает события связаные с семьёй',"z":'Overview.addon.tgz'}
@@ -65,7 +65,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Книга о потомках',"v":'1.1.22',"g":'5.1',"d":'Создаёт различные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Линии потомков',"v":'1.1.5',"g":'5.1',"d":'Создаёт линии потомков для лица',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Подробная книга о потомках',"v":'1.1.22',"g":'5.1',"d":'Создаёт различные подробные отчёты о предках в зависимости от запроса.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Динамический веб отчёт',"v":'0.0.89',"g":'5.1',"d":'Формирует динамические веб страницы из базы данных',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Динамический веб отчёт',"v":'0.0.90',"g":'5.1',"d":'Формирует динамические веб страницы из базы данных',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Семейные страницы',"v":'3.4.43',"g":'5.1',"d":'Создаёт семейную страницу со всей информацией о лице, его родителях и детях.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Семейное древо',"v":'4.2.19',"g":'5.1',"d":'Создаёт графическое представление семейного древа.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Последние изменения',"v":'0.1.8',"g":'5.1',"d":'Создаёт отчёт о последних изменениях в записях',"z":'LastChange.addon.tgz'}

@@ -11,7 +11,7 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datum rekenmachine',"v":'0.0.12',"g":'5.1',"d":'Handig voor wiskundige berekeningen met datums',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.38',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Afstammelingen tellen',"v":'2.0.11',"g":'5.1',"d":'Gramplet voor het tonen van personen en aantal afstammelingen',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Exif-metagegevens aanpassen',"v":'2.0.6',"g":'5.1',"d":'Een gramplet om de Exif-beeldmetagegevens te zien, aan te passen of op te slaan',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bewerk afbeeldings-Exif-metagegevens',"v":'2.0.8',"g":'5.1',"d":'Gramplet om Exif-metagegevens van afbeeldingen weer te geven, te bewerken en op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Uitgebreide gezinskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een gezin toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Uitgebreide persoonskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een persoon toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Gezinsoverzicht',"v":'1.0.14',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een gezin',"z":'Overview.addon.tgz'}
@@ -65,7 +65,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.22',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Afstammelingslijnen',"v":'1.1.5',"g":'5.1',"d":'Produceert afstammelingslijnen van een persoon',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.22',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.89',"g":'5.1',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamisch webverslag',"v":'0.0.90',"g":'5.1',"d":'Produceert dynamische webpagina\'s voor de database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familieblad',"v":'3.4.43',"g":'5.1',"d":'Toont een familieblad met volledige informatie over een persoon en zijn/haar partners en kinderen.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stamboom',"v":'4.2.19',"g":'5.1',"d":'Produceert een grafische stamboom.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Laatste wijzigingsverslag',"v":'0.1.8',"g":'5.1',"d":'Verslag van de laatste gegevens die gewijzigd zijn',"z":'LastChange.addon.tgz'}

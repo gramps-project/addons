@@ -11,7 +11,7 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.12',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Daleka veza – Gramplet',"v":'1.0.38',"g":'5.1',"d":'Gramplet prikazuje daleku vezu između aktivne i glavne osobe',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Broj potomaka',"v":'2.0.11',"g":'5.1',"d":'Gramplet za prikaz broja osoba i potomaka',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi Exif metapodatke slike',"v":'2.0.6',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka slike',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi Exif metapodatke slike',"v":'2.0.8',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka slike',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.29',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Proširena svojstva osobe',"v":'1.0.29',"g":'5.1',"d":'Gramplet prikazuje svojstva osobe',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.14',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
@@ -65,7 +65,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.22',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linije potomaka',"v":'1.1.5',"g":'5.1',"d":'Stvara linije potomaka za jednu osobu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.22',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.89',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.90',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.43',"g":'5.1',"d":'Stvara obiteljski list sa cjelovitim informacijama o osobi i njenim roditeljima i djecom.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.19',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjoj promjeni',"v":'0.1.8',"g":'5.1',"d":'Izvještaj o zadnjim zapisima koji su promijenjeni',"z":'LastChange.addon.tgz'}
