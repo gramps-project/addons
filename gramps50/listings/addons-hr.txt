@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.5',"g":'5.0',"d":'PostgreSQL baza podataka',"z":'PostgreSQL.addon.tgz'}
-{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Dodaci za GEDCOM izvoz (GED2)',"v":'1.0.23',"g":'5.0',"d":'Dodaci za običan GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
+{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Dodaci za GEDCOM izvoz (GED2)',"v":'1.0.28',"g":'5.1',"d":'Dodaci za običan GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON izvoz',"v":'1.0.15',"g":'5.0',"d":'Ovo je JSON izvoz',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Izvoz u Prolog',"v":'1.0.8',"g":'5.0',"d":'Izvozi podatke u Prolog format',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Izvoz u Raw format',"v":'1.0.30',"g":'5.0',"d":'Ovo je neobrađeni izvadak python objekata',"z":'ExportRaw.addon.tgz'}
