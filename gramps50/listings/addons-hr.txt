@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Person Overview',"n":'Pregled osobe',"v":'1.0.10',"g":'5.0',"d":'Gramplet za prikaz događaja osobe',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Označivanje slika',"v":'1.0.26',"g":'5.0',"d":'Gramplet za označivanje osoba u slikama',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Sređivanje mjesta',"v":'1.0.8',"g":'5.0',"d":'Gramplet pomaže sjediniti mjesta, kao i popuniti mjesta uz pomoć GeoNames web baze podataka',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Provjera preduvjeta',"v":'0.8.21',"g":'5.0',"d":'Gramplet za provjeru preduvjeta',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Provjera preduvjeta',"v":'0.8.30',"g":'5.1',"d":'Gramplet za provjeru preduvjeta',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python – Gramplet',"v":'1.0.27',"g":'5.0',"d":'Interaktivan Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Srodstva srodnika – Gramplet',"v":'1.0.28',"g":'5.0',"d":'Gramplet prikazuje vrste srodstva za srodnike',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.23',"g":'5.0',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
