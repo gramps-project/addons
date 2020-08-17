@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.5',"g":'5.0',"d":'База данных PostgreSQL',"z":'PostgreSQL.addon.tgz'}
-{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Экспорт в GEDCOM (GED2)',"v":'1.0.28',"g":'5.1',"d":'Дополнения для обычного формата GEDCOM.',"z":'GedcomExtensions.addon.tgz'}
+{"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Экспорт в GEDCOM (GED2)',"v":'1.0.23',"g":'5.0',"d":'Дополнения для обычного формата GEDCOM.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'Экспорт JSON',"v":'1.0.15',"g":'5.0',"d":'Предоставляет экспорт в JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Экспорт в Prolog',"v":'1.0.8',"g":'5.0',"d":'Экспорт данных в формат Prolog',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Экспорт в Raw',"v":'1.0.30',"g":'5.0',"d":'Получение данных по объекту в формате python',"z":'ExportRaw.addon.tgz'}
@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.10',"g":'5.0',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Разметка фотографий',"v":'1.0.26',"g":'5.0',"d":'Грамплет предназначен для выделения людей на фотографиях',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.8',"g":'5.0',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.30',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.21',"g":'5.0',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Грамплет Python',"v":'1.0.27',"g":'5.0',"d":'Интерактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.28',"g":'5.0',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.23',"g":'5.0',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
