@@ -11,11 +11,11 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.12',"g":'5.1',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Deep Connections Gramplet',"v":'1.0.38',"g":'5.1',"d":'Gramplet showing a deep relationship between active and home people',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Descendant Count',"v":'2.0.11',"g":'5.1',"d":'Gramplet for showing people and descendant counts',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Edit Image Exif Metadata',"v":'2.0.8',"g":'5.1',"d":'Gramplet to view, edit, and save image Exif metadata',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Edit Image Exif Metadata',"v":'2.0.9',"g":'5.1',"d":'Gramplet to view, edit, and save image Exif metadata',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Extended Family Attributes',"v":'1.0.29',"g":'5.1',"d":'Gramplet showing the attributes of a family',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.29',"g":'5.1',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.14',"g":'5.1',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.24',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.25',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'גטגוב',"v":'1.0.14',"g":'5.1',"d":'גראמפלט לאחזור מקומות ממסד נתונים GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Headline News',"v":'1.0.41',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.9',"g":'5.1',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -32,10 +32,10 @@
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.31',"g":'5.1',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Shell',"v":'1.0.32',"g":'5.1',"d":'Interactive Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives',"v":'1.0.33',"g":'5.1',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.4',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
+{"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.5',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.27',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.16',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.58',"g":'5.1',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.59',"g":'5.1',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.24',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.3',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.5',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.14',"g":'5.1',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'העדפות ערכת נושא',"v":'0.0.9',"g":'5.1',"d":'תוספת למועדפים להתאמת ערכת נושא וגופן פשוטים. שימושי במיוחד עבור משתמשי ווינדווז.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.37',"g":'5.1',"d":'Collection of Web sites for the UK (requires libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.41',"g":'5.1',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.42',"g":'5.1',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Provides a library for generic access to the database and gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Library for web site collections',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.4',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
@@ -62,9 +62,9 @@
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biography',"v":'1.0.10',"g":'5.1',"d":'Display a text biography',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Timeline',"v":'1.0.30',"g":'5.1',"d":'Display a person\'s events on a timeline',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'AncestorFill',"v":'1.0.16',"g":'5.1',"d":'Report on the filling of the tree',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.22',"g":'5.1',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DescendantBook',"n":'Descendant Book',"v":'1.1.23',"g":'5.1',"d":'Produces one or more descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Descendants Lines',"v":'1.1.5',"g":'5.1',"d":'Produces descendants lines of a person',"z":'DescendantsLines.addon.tgz'}
-{"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.22',"g":'5.1',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DetailedDescendantBook',"n":'Detailed Descendant Book',"v":'1.1.23',"g":'5.1',"d":'Produces one or more detailed descendant reports based on a supplied query.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamic Web Report',"v":'0.0.90',"g":'5.1',"d":'Produces dynamic web pages for the database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Family Sheet',"v":'3.4.43',"g":'5.1',"d":'Produces a family sheet showing full information about a person and his/her partners and children.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Family Tree',"v":'4.2.19',"g":'5.1',"d":'Produces a graphical family tree.',"z":'FamilyTree.addon.tgz'}
@@ -114,7 +114,7 @@
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.2',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Set Attribute',"v":'0.0.31',"g":'5.1',"d":'Set an attribute to a given value.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.5',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
-{"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.4',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
+{"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.5',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'בדיקת נתוני שיוכים',"v":'1.1.8',"g":'5.1',"d":'בדיקת המידע לשיוכ‏ים לאנשים.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sort Children in Birth order',"v":'0.0.12',"g":'5.1',"d":'Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Calculate Estimated Dates',"v":'0.90.34',"g":'5.1',"d":'Calculates estimated dates for birth and death.',"z":'CalculateEstimatedDates.addon.tgz'}
@@ -128,4 +128,4 @@
 {"t":'Tool',"i":'notecleanup',"n":'Note Cleanup',"v":'1.0.15',"g":'5.1',"d":'Clean up Notes that contain HTML markup',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.3',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Thumbnail Generator',"v":'1.0.24',"g":'5.1',"d":'Generates thumbnails for media files',"z":'ThumbnailGenerator.addon.tgz'}
-{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.5',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.6',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}

@@ -11,11 +11,11 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datum rekenmachine',"v":'0.0.12',"g":'5.1',"d":'Handig voor wiskundige berekeningen met datums',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.38',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Afstammelingen tellen',"v":'2.0.11',"g":'5.1',"d":'Gramplet voor het tonen van personen en aantal afstammelingen',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bewerk afbeeldings-Exif-metagegevens',"v":'2.0.8',"g":'5.1',"d":'Gramplet om Exif-metagegevens van afbeeldingen weer te geven, te bewerken en op te slaan',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bewerk afbeeldings-Exif-metagegevens',"v":'2.0.9',"g":'5.1',"d":'Gramplet om Exif-metagegevens van afbeeldingen weer te geven, te bewerken en op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Uitgebreide gezinskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een gezin toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Uitgebreide persoonskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een persoon toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Gezinsoverzicht',"v":'1.0.14',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een gezin',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.24',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.25',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.14',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nieuwsoverzicht',"v":'1.0.41',"g":'5.1',"d":'Gramplet met het laatste Gramps-nieuws',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Huistijdlijn',"v":'1.0.9',"g":'5.1',"d":'Geeft de bewoners van een adres per tijdlijn weer',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -32,10 +32,10 @@
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Prerequisites Checker',"v":'0.8.31',"g":'5.1',"d":'Prerequisites Checker Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python-shell',"v":'1.0.32',"g":'5.1',"d":'Interactieve Python-interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verwante partners',"v":'1.0.33',"g":'5.1',"d":'Gramplet toont de verwanten in een relatie',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.4',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
+{"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.5',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Stamboom',"v":'0.0.27',"g":'5.1',"d":'De weergave toont een ruimte-efficiënte kwartierstaat met voorouders van de geselecteerde persoon',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.16',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdslijnstamboom',"v":'0.1.58',"g":'5.1',"d":'Dit scherm toont een tijdslijnstamboom met voorouders en nakomelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdslijnstamboom',"v":'0.1.59',"g":'5.1',"d":'Dit scherm toont een tijdslijnstamboom met voorouders en nakomelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'1.0.24',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.3',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.5',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Restart where you were last working',"v":'0.0.14',"g":'5.1',"d":'This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the \'Go\' menu.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Thema-voorkeuren',"v":'0.0.9',"g":'5.1',"d":'Een aanvulling op Voorkeuren voor eenvoudige aanpassing van thema en lettertype. Vooral handig voor Windows-gebruikers.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'V.K. Web Connect Pack',"v":'1.0.37',"g":'5.1',"d":'Verzameling van websites voor \'VK\' (libwebconnect is nodig)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'V.S. Web Connect Pack',"v":'1.0.41',"g":'5.1',"d":'Verzameling van websites voor \'VS\' (libwebconnect is nodig)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'V.S. Web Connect Pack',"v":'1.0.42',"g":'5.1',"d":'Verzameling van websites voor \'VS\' (libwebconnect is nodig)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Een bibliotheek voor algemene toegang tot het gegevensbestand en \'gen.lib\'.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Bibliotheek voor \'webstek\'-verzamelingen',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.4',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
@@ -62,9 +62,9 @@
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografie',"v":'1.0.10',"g":'5.1',"d":'Geef een tekstbiografie weer',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tijdlijn',"v":'1.0.30',"g":'5.1',"d":'Gebeurtenissen van een persoon worden op een tijdslijn getoond',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Vooroudertelling',"v":'1.0.16',"g":'5.1',"d":'Verslag van de bezetting van de stamboom',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.22',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.23',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Afstammelingslijnen',"v":'1.1.5',"g":'5.1',"d":'Produceert afstammelingslijnen van een persoon',"z":'DescendantsLines.addon.tgz'}
-{"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.22',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.23',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamisch webverslag',"v":'0.0.90',"g":'5.1',"d":'Produceert dynamische webpagina\'s voor de database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familieblad',"v":'3.4.43',"g":'5.1',"d":'Toont een familieblad met volledige informatie over een persoon en zijn/haar partners en kinderen.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stamboom',"v":'4.2.19',"g":'5.1',"d":'Produceert een grafische stamboom.',"z":'FamilyTree.addon.tgz'}
@@ -114,7 +114,7 @@
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.2',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Kenmerk vastleggen',"v":'0.0.31',"g":'5.1',"d":'Een kenmerk een bepaalde waarde toekennen.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.5',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
-{"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.4',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
+{"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.5',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Controleer associatiegegevens',"v":'1.1.8',"g":'5.1',"d":'Controleert de associatiegegevens voor mensen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sorteer kinderen op volgorde van geboorte',"v":'0.0.12',"g":'5.1',"d":'Onderzoekt gezinnen, op zoek naar kinderen die niet op geboortevolgorde staan.De gebruiker kan individuele suggesties accepteren om handmatig de geboortevolgorde te corrigeren of te bewerken, alle gezinnen waarvan alle kinderen de juiste geboortedatums hebben accepteren, of alles accepteren.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschatte datums berekenen',"v":'0.90.34',"g":'5.1',"d":'Geschatte datums voor geboorte en overlijden berekenen.',"z":'CalculateEstimatedDates.addon.tgz'}
@@ -128,4 +128,4 @@
 {"t":'Tool',"i":'notecleanup',"n":'Opmerking opschonen',"v":'1.0.15',"g":'5.1',"d":'Opschonen van opmerkingen die HTML-opmaak bevatten',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.3',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Thumbnail Generator',"v":'1.0.24',"g":'5.1',"d":'Generates thumbnails for media files',"z":'ThumbnailGenerator.addon.tgz'}
-{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.5',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.6',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}

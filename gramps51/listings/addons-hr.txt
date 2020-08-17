@@ -11,11 +11,11 @@
 {"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.12',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Daleka veza – Gramplet',"v":'1.0.38',"g":'5.1',"d":'Gramplet prikazuje daleku vezu između aktivne i glavne osobe',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Broj potomaka',"v":'2.0.11',"g":'5.1',"d":'Gramplet za prikaz broja osoba i potomaka',"z":'DescendantCount.addon.tgz'}
-{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi Exif metapodatke slike',"v":'2.0.8',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka slike',"z":'EditExifMetadata.addon.tgz'}
+{"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Uredi Exif metapodatke slike',"v":'2.0.9',"g":'5.1',"d":'Dodatak za pregled, uređivanje i spremanje Exif metapodataka slike',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.29',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Proširena svojstva osobe',"v":'1.0.29',"g":'5.1',"d":'Gramplet prikazuje svojstva osobe',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.14',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.24',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.25',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.14',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.41',"g":'5.1',"d":'Gramplet za pirkaz nojnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Kronologija stana/kuće',"v":'1.0.9',"g":'5.1',"d":'Kronološki popis stanovnika na adresi',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -32,10 +32,10 @@
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Provjera preduvjeta',"v":'0.8.31',"g":'5.1',"d":'Gramplet za provjeru preduvjeta',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python konzola',"v":'1.0.32',"g":'5.1',"d":'Interaktivni Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Srodstva srodnika',"v":'1.0.33',"g":'5.1',"d":'Gramplet prikazuje vrste srodstva za srodnike',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'This Day in Family History',"n":'Ovaj dan u povijesti obitelji',"v":'1.0.4',"g":'5.1',"d":'Podešavajući program za prikaz povezanih događaja u tvojem rodoslovu, koji odgovaraju današnjem danu i mjesecu.',"z":'ThisDayInFamilyHistory.addon.tgz'}
+{"t":'Gramplet',"i":'This Day in Family History',"n":'Ovaj dan u povijesti obitelji',"v":'1.0.5',"g":'5.1',"d":'Podešavajući program za prikaz povezanih događaja u tvojem rodoslovu, koji odgovaraju današnjem danu i mjesecu.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.27',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.16',"g":'5.1',"d":'Prikazuje dijagram obiteljskog stabla u obliku popluna',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.58',"g":'5.1',"d":'Prikazuje kronologiju predaka s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.59',"g":'5.1',"d":'Prikazuje kronologiju predaka s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.24',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.3',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.5',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Pokreni Gramps na istom mjestu',"v":'0.0.14',"g":'5.1',"d":'S ovim dodatkom se Gramps pokreće u istom pogledu i na istom objektu, koji su bili aktivni prilikom zadnjeg izlaska iz programa. Ne dodaje nove izbornike niti Gramplete, ali omogućuje prikaz zadnjih šest korištenih objekata u izborniku „Idi”.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Postavke za dizajn sučelja',"v":'0.0.9',"g":'5.1',"d":'Dodatak u postavkama za jednostavno podešavanje dizajna sučelja i fontova. Naročito korisno za korisnike Windows sustava.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect zbirka',"v":'1.0.37',"g":'5.1',"d":'Zbirka web stranica za Ujedinjeno Kraljevstvo (zahtijeva libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'SAD Web Connect zbirka',"v":'1.0.41',"g":'5.1',"d":'Zbirka web stranica za SAD (zahtijeva libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'SAD Web Connect zbirka',"v":'1.0.42',"g":'5.1',"d":'Zbirka web stranica za SAD (zahtijeva libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Dostavlja biblioteku za opći pristup bazi podataka i gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Biblitoteka za zbirke web stranica',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.4',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
@@ -62,9 +62,9 @@
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografija',"v":'1.0.10',"g":'5.1',"d":'Prikaži tekstualnu biografiju',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Kronologija',"v":'1.0.30',"g":'5.1',"d":'Prikazuje događaje osobe kronološki',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'Popunjenost stabla',"v":'1.0.16',"g":'5.1',"d":'Izvještaj o popunjenosti stabla',"z":'AncestorFill.addon.tgz'}
-{"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.22',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.23',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linije potomaka',"v":'1.1.5',"g":'5.1',"d":'Stvara linije potomaka za jednu osobu',"z":'DescendantsLines.addon.tgz'}
-{"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.22',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
+{"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.23',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.90',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.43',"g":'5.1',"d":'Stvara obiteljski list sa cjelovitim informacijama o osobi i njenim roditeljima i djecom.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.19',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
@@ -114,7 +114,7 @@
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.2',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.31',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Postavi privatnost',"v":'1.0.5',"g":'5.1',"d":'Postavi sve objekte zadnjih <number> godina kao privatne.',"z":'SetPrivacyTool.addon.tgz'}
-{"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.1.4',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
+{"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.1.5',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.8',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.12',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Procijeni datume',"v":'0.90.34',"g":'5.1',"d":'Procijenjuje datume rođenja i smrti.',"z":'CalculateEstimatedDates.addon.tgz'}
@@ -128,4 +128,4 @@
 {"t":'Tool',"i":'notecleanup',"n":'Čišćenje zabilježaka',"v":'1.0.15',"g":'5.1',"d":'Počisti zabilješke, koje sadrže HTML oznake',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.3',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Generator sličica',"v":'1.0.24',"g":'5.1',"d":'Stvara sličice za medijske datoteke',"z":'ThumbnailGenerator.addon.tgz'}
-{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.5',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.6',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
