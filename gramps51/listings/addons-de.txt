@@ -29,7 +29,7 @@
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Ortskoordinaten',"v":'1.1.3',"g":'5.1',"d":'Gramplet, das das Einstellen der Koordinaten eines Ortes vereinfacht',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Orte Bereinigung',"v":'1.0.14',"g":'5.1',"d":'Orte Bereinigung Gramplet hilft beim Zusammenführen von Orten sowie beim Vervollständigen von Orten aus der GeoNames-Webdatenbank',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'OrtAktualisierung',"v":'1.0.3',"g":'5.1',"d":'Gramplet zum Ändern mehrerer Orte',"z":'PlaceUpdate.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Voraussetzungen Prüfer',"v":'0.8.31',"g":'5.1',"d":'Voraussetzungen Prüfer Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Voraussetzungen Prüfer',"v":'0.8.32',"g":'5.1',"d":'Voraussetzungen Prüfer Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Konsole',"v":'1.0.32',"g":'5.1',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte',"v":'1.0.33',"g":'5.1',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Dieser Tag in der Familiengeschichte',"v":'1.0.5',"g":'5.1',"d":'Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die dem heutigen Tag und Monat entsprechen.',"z":'ThisDayInFamilyHistory.addon.tgz'}
