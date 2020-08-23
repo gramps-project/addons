@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Uitgebreide gezinskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een gezin toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Uitgebreide persoonskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een persoon toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Gezinsoverzicht',"v":'1.0.14',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een gezin',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.25',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.26',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.14',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nieuwsoverzicht',"v":'1.0.41',"g":'5.1',"d":'Gramplet met het laatste Gramps-nieuws',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Huistijdlijn',"v":'1.0.9',"g":'5.1',"d":'Geeft de bewoners van een adres per tijdlijn weer',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -29,7 +29,7 @@
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place Coordinates',"v":'1.1.3',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Plaatsopschoning',"v":'1.0.14',"g":'5.1',"d":'De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.3',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Vereisten controle',"v":'0.8.33',"g":'5.1',"d":'Vereistencontrole gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Vereisten controle',"v":'0.8.34',"g":'5.1',"d":'Vereistencontrole gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python-shell',"v":'1.0.32',"g":'5.1',"d":'Interactieve Python-interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verwante partners',"v":'1.0.33',"g":'5.1',"d":'Gramplet toont de verwanten in een relatie',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.5',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
@@ -73,7 +73,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.24',"g":'5.1',"d":'Produceert een tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Rapport',"v":'1.1.5',"g":'5.1',"d":'Genereert rapport inclusief afbeeldingen, afbeeldingsgegevens en notities.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Kwartierstaatdiagram',"v":'1.0.35',"g":'5.1',"d":'Alternatieve versie van de traditionele kwartierstaat.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.15',"g":'5.1',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Compleet persoonsverslag',"v":'1.0.16',"g":'5.1',"d":'Produceert een verslag met alles over de actieve persoon',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Bibliothekenverslag',"v":'1.1.28',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.28',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.7',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}

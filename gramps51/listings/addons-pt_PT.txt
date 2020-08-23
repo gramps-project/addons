@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Atributos familiares estendidos',"v":'1.0.29',"g":'5.1',"d":'Gramplet que mostra os atributos de uma família',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Atributos pessoais estendidos',"v":'1.0.29',"g":'5.1',"d":'Gramplet que mostra os atributos de um indivíduo',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Visão geral da família',"v":'1.0.14',"g":'5.1',"d":'Gramplet que mostra uma visão geral dos eventos de uma dada família',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.25',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.26',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.14',"g":'5.1',"d":'Gramplet para obter locais da base de dados GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Notícias - cabeçalhos',"v":'1.0.41',"g":'5.1',"d":'Gramplet que mostra as últimas notícias do Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Cronologia de residências',"v":'1.0.9',"g":'5.1',"d":'Lista os residentes de uma morada cronologicamente',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -29,7 +29,7 @@
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place Coordinates',"v":'1.1.3',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Limpeza de locais',"v":'1.0.14',"g":'5.1',"d":'O Gramplet Limpeza de locais ajuda a unir locais, assim como a completar locais a partir da base de dados GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.3',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Verificador de pré-requisitos',"v":'0.8.33',"g":'5.1',"d":'Gramplet verificador de pré-requisitos',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Verificador de pré-requisitos',"v":'0.8.34',"g":'5.1',"d":'Gramplet verificador de pré-requisitos',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Consola Python',"v":'1.0.32',"g":'5.1',"d":'Interpretador Python interactivo',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Parentes relacionados',"v":'1.0.33',"g":'5.1',"d":'Gramplet que mostra parentes numa relação',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Um dia na história familiar',"v":'1.0.5',"g":'5.1',"d":'Um programa configurável que mostra os eventos da sua árvore genealógica interligados com a data de hoje.',"z":'ThisDayInFamilyHistory.addon.tgz'}
@@ -73,7 +73,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Lista de correspondências',"v":'1.0.24',"g":'5.1',"d":'Produzir uma lista de correspondências',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Relatório multimédia',"v":'1.1.5',"g":'5.1',"d":'Gera um relatório incluindo imagens, dados das imagens e notas.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Árvore de costados',"v":'1.0.35',"g":'5.1',"d":'Versão alternativa da tradicional árvore de costados.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'Relatório individual',"v":'1.0.15',"g":'5.1',"d":'Produz um relatório contendo todos os dados sobre o indivíduo activo',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Relatório individual',"v":'1.0.16',"g":'5.1',"d":'Produz um relatório contendo todos os dados sobre o indivíduo activo',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Relatório de repositórios',"v":'1.1.28',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opções do relatório de repositórios',"v":'0.3.28',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Relatório de fontes e citações',"v":'3.6.7',"g":'5.1',"d":'Fornece um relatório de fontes e citações com notas',"z":'SourcesCitationsReport.addon.tgz'}
