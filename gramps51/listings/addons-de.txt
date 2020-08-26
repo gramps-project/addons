@@ -73,7 +73,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Blitz Liste',"v":'1.0.24',"g":'5.1',"d":'Erstellt eine Blitz Liste',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Medienbericht',"v":'1.1.5',"g":'5.1',"d":'Erstellt einen Bericht mit Bildern, Bilddaten und Notizen.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Ahnentafelgrafik',"v":'1.0.35',"g":'5.1',"d":'Alternative Version zur traditionellen Ahnentafelgrafik.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'PersonAlles Bericht',"v":'1.0.16',"g":'5.1',"d":'Erstellt einen Bericht der alles über die aktive Person enthält',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'PersonAlles Bericht',"v":'1.0.17',"g":'5.1',"d":'Erstellt einen Bericht der alles über die aktive Person enthält',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.28',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.28',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Quellen und Fundstellenbericht',"v":'3.6.7',"g":'5.1',"d":'Bietet einen Quelle und einen Fundstellenbericht mit Notizen',"z":'SourcesCitationsReport.addon.tgz'}

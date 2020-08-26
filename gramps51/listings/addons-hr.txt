@@ -73,7 +73,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Brzi popis',"v":'1.0.24',"g":'5.1',"d":'Stvara brzi popis',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Izvještaj o medijima',"v":'1.1.5',"g":'5.1',"d":'Izrađuje izvještaj koji uključuje slike, podatke slika i zabilješke.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Dijagram predaka',"v":'1.0.35',"g":'5.1',"d":'Alternativni prikaz uobičajenog dijagrama predaka.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'Izvještaj o osobi',"v":'1.0.16',"g":'5.1',"d":'Stvara izvještaj sa svim podacima aktivne osobe',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Izvještaj o osobi',"v":'1.0.17',"g":'5.1',"d":'Stvara izvještaj sa svim podacima aktivne osobe',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Izvještaj o spremištima',"v":'1.1.28',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opcije za izvještaj o spremištima',"v":'0.3.28',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Izvještaj o izvorima i citatima',"v":'3.6.7',"g":'5.1',"d":'Stvara izvještaj o izvorima i citatima, zajedno sa zabilješkama',"z":'SourcesCitationsReport.addon.tgz'}

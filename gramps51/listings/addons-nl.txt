@@ -73,7 +73,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.24',"g":'5.1',"d":'Produceert een tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Rapport',"v":'1.1.5',"g":'5.1',"d":'Genereert rapport inclusief afbeeldingen, afbeeldingsgegevens en notities.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Kwartierstaatdiagram',"v":'1.0.35',"g":'5.1',"d":'Alternatieve versie van de traditionele kwartierstaat.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'Compleet persoonsverslag',"v":'1.0.16',"g":'5.1',"d":'Produceert een verslag met alles over de actieve persoon',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Compleet persoonsverslag',"v":'1.0.17',"g":'5.1',"d":'Produceert een verslag met alles over de actieve persoon',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Bibliothekenverslag',"v":'1.1.28',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opties voor het bibliotheekverslag',"v":'0.3.28',"g":'5.1',"d":'Tekstverslag van de bibliotheken wordt opgemaakt',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.7',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}

@@ -73,7 +73,7 @@
 {"t":'Report',"i":'ListeEclair',"n":'Liste Éclair',"v":'1.0.24',"g":'5.1',"d":'Produit une liste éclair',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.1.5',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Arbre graphique',"v":'1.0.35',"g":'5.1',"d":'Version alternative de l\'arbre graphique traditionnel.',"z":'PedigreeChart.addon.tgz'}
-{"t":'Report',"i":'PersonEverythingReport',"n":'Rapport Tout sur la personne',"v":'1.0.16',"g":'5.1',"d":'Produit un rapport contenant tout sur la personne active',"z":'PersonEverything.addon.tgz'}
+{"t":'Report',"i":'PersonEverythingReport',"n":'Rapport Tout sur la personne',"v":'1.0.17',"g":'5.1',"d":'Produit un rapport contenant tout sur la personne active',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Rapport des dépôts',"v":'1.1.28',"g":'5.1',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Rapport des dépôts avec options',"v":'0.3.28',"g":'5.1',"d":'Produit un rapport textuel des dépôts',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Rapport de sources et citations',"v":'3.6.7',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
