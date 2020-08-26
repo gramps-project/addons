@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Participantes',"v":'1.0.15',"g":'5.1',"d":'Gramplet que mostra os participantes num evento',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Visão geral do indivíduo',"v":'1.0.14',"g":'5.1',"d":'Gramplet que mostra uma visão geral dos eventos de um dado indivíduo',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Identificar fotografias',"v":'1.0.34',"g":'5.1',"d":'Gramplet para identificar indivíduos em imagens',"z":'PhotoTaggingGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.9',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.10',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Limpeza de locais',"v":'1.0.14',"g":'5.1',"d":'O Gramplet Limpeza de locais ajuda a unir locais, assim como a completar locais a partir da base de dados GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.3',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Verificador de pré-requisitos',"v":'0.8.34',"g":'5.1',"d":'Gramplet verificador de pré-requisitos',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
@@ -37,11 +37,11 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'Gráfico de retalhos',"v":'1.0.17',"g":'5.1',"d":'Mostra uma vista gráfica da árvore de família',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Cronologia de costados',"v":'0.1.60',"g":'5.1',"d":'Mostra uma cronologia de costados com ascendentes e descendentes do indivíduo seleccionado',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'1.0.25',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
-{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.9',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.10',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.5',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vista gráfica',"v":'1.0.115',"g":'5.1',"d":'Gráfico de relações dinâmico e interactivo',"z":'GraphView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.10',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.10',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.11',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.11',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'Importação JSON',"v":'1.0.18',"g":'5.1',"d":'Esta é uma importação JSON',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'Importação SQLite',"v":'1.1.5',"g":'5.1',"d":'SQLite é um formato de base de dados comum',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Cria um ficheiro de dados para o GoogleEarth e abre-o',"z":'GoogleEarthWriteKML.addon.tgz'}
@@ -76,7 +76,7 @@
 {"t":'Report',"i":'PersonEverythingReport',"n":'Relatório individual',"v":'1.0.17',"g":'5.1',"d":'Produz um relatório contendo todos os dados sobre o indivíduo activo',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Relatório de repositórios',"v":'1.1.29',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opções do relatório de repositórios',"v":'0.3.29',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'SourcesCitationsReport',"n":'Relatório de fontes e citações',"v":'3.6.7',"g":'5.1',"d":'Fornece um relatório de fontes e citações com notas',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'SourcesCitationsReport',"n":'Relatório de fontes e citações',"v":'3.6.8',"g":'5.1',"d":'Fornece um relatório de fontes e citações com notas',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Agenda',"v":'1.2.32',"g":'5.1',"d":'Produz uma lista de todas as notas com uma dada etiqueta juntamente com os registos referenciados, indivíduo, família, evento, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Árvore de ascendentes colapsável',"v":'1.0.29',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como árvore colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.29',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
@@ -111,7 +111,7 @@
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.3',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Family Relationship Tool',"v":'1.1.3',"g":'5.1',"d":'Mass-edit the family relationship type for a group of families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Conclusão de locais',"v":'0.0.39',"g":'5.1',"d":'Fornece uma lista navegável de locais seleccionados, com a possibilidade de concluir/analisar/definir os atributos.',"z":'PlaceCompletion.addon.tgz'}
-{"t":'Tool',"i":'RemoveTagTool',"n":'Adicionar / remover ferramenta de etiqueta',"v":'1.1.3',"g":'5.1',"d":'Adicione ou remova uma etiqueta de grupos de indivíduos, eventos, etc.',"z":'RemoveTagTool.addon.tgz'}
+{"t":'Tool',"i":'RemoveTagTool',"n":'Adicionar / remover ferramenta de etiqueta',"v":'1.1.4',"g":'5.1',"d":'Adicione ou remova uma etiqueta de grupos de indivíduos, eventos, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Definir atributo',"v":'0.0.32',"g":'5.1',"d":'Definir um atributo num dado valor.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Ferramenta Definir privacidade',"v":'1.0.6',"g":'5.1',"d":'Define todos os objectos dos últimos <número> anos como privados.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Árvore genealógica interactiva',"v":'1.1.6',"g":'5.1',"d":'Abre uma árvore interactiva no navegador',"z":'Topola.addon.tgz'}

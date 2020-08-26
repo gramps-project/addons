@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Deelnemers',"v":'1.0.15',"g":'5.1',"d":'Gramplet dat de deelnemers in een gebeurtenis toont',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Persoonsoverzicht',"v":'1.0.14',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een persoon',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Fotolabelling',"v":'1.0.34',"g":'5.1',"d":'Gramplet voor het labellen van mensen op foto\'s',"z":'PhotoTaggingGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.9',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.10',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Plaatsopschoning',"v":'1.0.14',"g":'5.1',"d":'De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.3',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Vereisten controle',"v":'0.8.34',"g":'5.1',"d":'Vereistencontrole gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
@@ -37,11 +37,11 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt-grafiek',"v":'1.0.17',"g":'5.1',"d":'De weergave toont een quiltkaartvisualisatie van een stamboom',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdlijn-kwartierstaat',"v":'0.1.60',"g":'5.1',"d":'De weergave toont een tijdlijn-kwartierstaat met voorouders en afstammelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'1.0.25',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
-{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.9',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.10',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.5',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.115',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.10',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.10',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.11',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.11',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON import',"v":'1.0.18',"g":'5.1',"d":'Dit is een JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite import',"v":'1.1.5',"g":'5.1',"d":'SQLite is een algemeen lokaal databaseformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Maakt een gegevensbestand voor GoogleEarth en opent het',"z":'GoogleEarthWriteKML.addon.tgz'}
@@ -76,7 +76,7 @@
 {"t":'Report',"i":'PersonEverythingReport',"n":'Compleet persoonsverslag',"v":'1.0.17',"g":'5.1',"d":'Produceert een verslag met alles over de actieve persoon',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Bibliotheekverslag',"v":'1.1.29',"g":'5.1',"d":'Produceert een tekstueel bibliotheekverslag',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Verslagopties voor bibliotheken',"v":'0.3.29',"g":'5.1',"d":'Produceert een tekstueel bibliotheekverslag',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.7',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'SourcesCitationsReport',"n":'Bronnen en citatenverslag',"v":'3.6.8',"g":'5.1',"d":'Biedt een bron en citatenverslag met notities',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Takenverslag',"v":'1.2.32',"g":'5.1',"d":'Produceert een lijst van alle notities met een bepaald  label, samen met de gegevens waarnaar het verwijst, de persoon, familie, gebeurtenis, enz.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Inklapbare voorouderboom',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een inklapbare boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Cirkeldiagram voorouders',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een Cirkeldiagram uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
@@ -111,7 +111,7 @@
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Event Description Editor',"v":'1.0.3',"g":'5.1',"d":'A tool to find and replace a string in event description of multiple events.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Familierelaties hulpmiddel',"v":'1.1.3',"g":'5.1',"d":'Het in bulk bewerken van het familierelatie type voor een groep families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatievoltooiing',"v":'0.0.39',"g":'5.1',"d":'Biedt een doorzoekbare lijst van geselecteerde plaatsen, met de mogelijkheid om de kenmerkvelden in te vullen / te ontleden / in te stellen.',"z":'PlaceCompletion.addon.tgz'}
-{"t":'Tool',"i":'RemoveTagTool',"n":'Labels toevoegen/verwijderen',"v":'1.1.3',"g":'5.1',"d":'Voeg een label toe of verwijder deze uit groepen personen, gebeurtenissen, enz.',"z":'RemoveTagTool.addon.tgz'}
+{"t":'Tool',"i":'RemoveTagTool',"n":'Labels toevoegen/verwijderen',"v":'1.1.4',"g":'5.1',"d":'Voeg een label toe of verwijder deze uit groepen personen, gebeurtenissen, enz.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Kenmerk instellen',"v":'0.0.32',"g":'5.1',"d":'Stel een kenmerk in op een bepaalde waarde.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Markeer privé hulpmiddel',"v":'1.0.6',"g":'5.1',"d":'Markeer alle objecten van de afgelopen <aantal> jaren op privé.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactieve stamboom',"v":'1.1.6',"g":'5.1',"d":'Opent een interactieve boom in de browser',"z":'Topola.addon.tgz'}
