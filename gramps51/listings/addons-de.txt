@@ -1,9 +1,9 @@
-{"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.9',"g":'5.1',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
+{"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.10',"g":'5.1',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.29',"g":'5.1',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.18',"g":'5.1',"d":'Dies ist ein JSON Export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.14',"g":'5.1',"d":'Exportiert Daten in ein Prolog-Faktenformat. Daten sind in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Rohdaten Export',"v":'1.0.36',"g":'5.1',"d":'Dies ist eine Rohdaten Pythonobjekt Ausgabe',"z":'ExportRaw.addon.tgz'}
-{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.1.4',"g":'5.1',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite Export',"v":'1.1.5',"g":'5.1',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Geburtstage',"v":'1.1.9',"g":'5.1',"d":'ein Gramplet welches die Geburtstage von lebenden Personen zeigt',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhr',"v":'0.0.32',"g":'5.1',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Sammlungen Zwischenablage',"v":'1.0.41',"g":'5.1',"d":'Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterstützung bei der Dateneingabe.',"z":'ClipboardGramplet.addon.tgz'}
@@ -15,7 +15,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Erweiterte Familienattribute',"v":'1.0.29',"g":'5.1',"d":'Gramplet zeigt die Attribute einer Familie',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.29',"g":'5.1',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Familienübersicht',"v":'1.0.14',"g":'5.1',"d":'Gramplet zeigt eine Übersicht über Ereignisse für eine Familie',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Formular Gramplet',"v":'2.0.26',"g":'5.1',"d":'Gramplet Schnittstelle für Formulare',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Formular Gramplet',"v":'2.0.27',"g":'5.1',"d":'Gramplet Schnittstelle für Formulare',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.14',"g":'5.1',"d":'Gramplet um Orte aus der GOV Datenbank zu holen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Schlagzeilen',"v":'1.0.41',"g":'5.1',"d":'Gramplet das die neuesten Gramps Nachrichten zeigt',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Haus Zeitleiste',"v":'1.0.9',"g":'5.1',"d":'Listet die Bewohner einer Adresse nach Zeitachse auf',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -30,12 +30,12 @@
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Orte Bereinigung',"v":'1.0.14',"g":'5.1',"d":'Orte Bereinigung Gramplet hilft beim Zusammenführen von Orten sowie beim Vervollständigen von Orten aus der GeoNames-Webdatenbank',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'OrtAktualisierung',"v":'1.0.3',"g":'5.1',"d":'Gramplet zum Ändern mehrerer Orte',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Voraussetzungen Prüfer',"v":'0.8.34',"g":'5.1',"d":'Voraussetzungen Prüfer Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Python Gramplet',"n":'Python Konsole',"v":'1.0.32',"g":'5.1',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte',"v":'1.0.33',"g":'5.1',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'This Day in Family History',"n":'Dieser Tag in der Familiengeschichte',"v":'1.0.5',"g":'5.1',"d":'Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die dem heutigen Tag und Monat entsprechen.',"z":'ThisDayInFamilyHistory.addon.tgz'}
+{"t":'Gramplet',"i":'Python Gramplet',"n":'Python Konsole',"v":'1.0.33',"g":'5.1',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte',"v":'1.0.34',"g":'5.1',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'This Day in Family History',"n":'Dieser Tag in der Familiengeschichte',"v":'1.0.6',"g":'5.1',"d":'Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die dem heutigen Tag und Monat entsprechen.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Baum Ahnentafel',"v":'0.0.27',"g":'5.1',"d":'Die Ansicht zeigt eine platzsparende Ahnentafel mit Vorfahren der gewählten Person',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'Steppdeckendiagramm',"v":'1.0.16',"g":'5.1',"d":'Die Ansicht zeigt eine Steppdecken-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
-{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.59',"g":'5.1',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'Steppdeckendiagramm',"v":'1.0.17',"g":'5.1',"d":'Die Ansicht zeigt eine Steppdecken-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.60',"g":'5.1',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'1.0.25',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Ortskoordinaten Gramplet Ansicht',"v":'1.1.9',"g":'5.1',"d":'Ansicht für Ortskoordinaten Gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ahnenkarte',"v":'1.0.5',"g":'5.1',"d":'Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.',"z":'GeoAncestor.addon.tgz'}
@@ -43,24 +43,24 @@
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.10',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.10',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.18',"g":'5.1',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
-{"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.1.4',"g":'5.1',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.1.5',"g":'5.1',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Erstellt Datendatei für GoogleEarth und öffnet sie',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.27',"g":'5.1',"d":'Sammlung von Webseiten für DE (benötigt libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Verknüpfungspaket',"v":'1.0.34',"g":'5.1',"d":'Sammlung von Webseiten für FR (benötigt libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'NL Web Connect Pack',"n":'NL Web Connect Pack',"v":'1.0.4',"g":'5.1',"d":'Sammlung von Websites für die Niederlande (erfordert libwebconnect)',"z":'NLWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'PluginManager',"n":'Zusatzmodulverwaltung Verbessert',"v":'1.0.27',"g":'5.1',"d":'Zusatzmodulverwaltung mit mehreren zusätzlichen Funktionen',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.2',"g":'5.1',"d":'Sammlung von Websites für RU (erfordert libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'RestoreHist',"n":'Starte neu, wo du zuletzt gearbeitet hast',"v":'0.0.14',"g":'5.1',"d":'Dieses Zusatzmodul bewirkt, dass Gramps in der gleichen Ansicht und dem gleichen Objekt neu startet, in dem Gramps zuvor geschlossen wurde. Es werden keine neuen Menüs oder Gramplets hinzugefügt, sondern die letzten sechs besuchten Objekte werden über das Menü „Gehe zu” gefunden.',"z":'RestoreHist.addon.tgz'}
+{"t":'Plugin lib',"i":'RestoreHist',"n":'Starte neu, wo du zuletzt gearbeitet hast',"v":'0.0.15',"g":'5.1',"d":'Dieses Zusatzmodul bewirkt, dass Gramps in der gleichen Ansicht und dem gleichen Objekt neu startet, in dem Gramps zuvor geschlossen wurde. Es werden keine neuen Menüs oder Gramplets hinzugefügt, sondern die letzten sechs besuchten Objekte werden über das Menü „Gehe zu” gefunden.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme-Einstellungen',"v":'0.0.9',"g":'5.1',"d":'Eine Ergänzung zu den Voreinstellungen für die einfache Anpassung von Design und Schrift. Besonders nützlich für Windows-Benutzer.',"z":'Themes.addon.tgz'}
-{"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.37',"g":'5.1',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Verknüpfungspaket',"v":'1.0.42',"g":'5.1',"d":'Sammlung von Webseiten für US (benötigt libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.28',"g":'5.1',"d":'Liefert eine Bibliothek zum generischen Zugriff auf die Datenbank und gen.lib',"z":'libaccess.addon.tgz'}
-{"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.30',"g":'5.1',"d":'Bibliothek für Webseitensammlungen',"z":'libwebconnect.addon.tgz'}
+{"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.38',"g":'5.1',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Verknüpfungspaket',"v":'1.0.43',"g":'5.1',"d":'Sammlung von Webseiten für US (benötigt libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.29',"g":'5.1',"d":'Liefert eine Bibliothek zum generischen Zugriff auf die Datenbank und gen.lib',"z":'libaccess.addon.tgz'}
+{"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.31',"g":'5.1',"d":'Bibliothek für Webseitensammlungen',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Anzahl der Vorfahren',"v":'1.0.4',"g":'5.1',"d":'Zeigt die Anzahl der Vorfahren der aktuellen Person an',"z":'NumberOfAncestorsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfDescendantsQuickview',"n":'Anzahl der Nachkommen',"v":'3.4.29',"g":'5.1',"d":'Zeigt die Anzahl der Nachkommen der aktuellen Person an',"z":'NumberOfDescendantsQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'allnames',"n":'Alle Namen aller Personen',"v":'1.0.28',"g":'5.1',"d":'Zeigt alle Namen aller Personen',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biographie',"v":'1.0.10',"g":'5.1',"d":'Zeigen eine Textbiographie an',"z":'BiographyQuickview.addon.tgz'}
-{"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.30',"g":'5.1',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
+{"t":'Quickreport',"i":'timelinequickview',"n":'Zeitleiste',"v":'1.0.31',"g":'5.1',"d":'Zeigt Ereignisse einer Person auf einer Zeitleiste',"z":'TimelineQuickview.addon.tgz'}
 {"t":'Report',"i":'AncestorFill',"n":'VorfahrenFüllung',"v":'1.0.16',"g":'5.1',"d":'Bericht zum Füllstand des Baumes',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Nachkommenbuch',"v":'1.1.23',"g":'5.1',"d":'Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere Nachkommenberichte.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.1.5',"g":'5.1',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
@@ -74,10 +74,10 @@
 {"t":'Report',"i":'MediaReport',"n":'Medienbericht',"v":'1.1.5',"g":'5.1',"d":'Erstellt einen Bericht mit Bildern, Bilddaten und Notizen.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Ahnentafelgrafik',"v":'1.0.35',"g":'5.1',"d":'Alternative Version zur traditionellen Ahnentafelgrafik.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonAlles Bericht',"v":'1.0.17',"g":'5.1',"d":'Erstellt einen Bericht der alles über die aktive Person enthält',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.28',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.28',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.29',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.29',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Quellen und Fundstellenbericht',"v":'3.6.7',"g":'5.1',"d":'Bietet einen Quelle und einen Fundstellenbericht mit Notizen',"z":'SourcesCitationsReport.addon.tgz'}
-{"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.31',"g":'5.1',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
+{"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.32',"g":'5.1',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Zusammenklappbarer Vorfahrenbaum',"v":'1.0.29',"g":'5.1',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Vorfahren (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Ahnenfächergrafik',"v":'1.0.29',"g":'5.1',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Vorfahren (SVG)dargestellt als Fächergrafik aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Nachkommenbaum eingerückt',"v":'1.0.29',"g":'5.1',"d":'Erzeugt eine Webseite mit einer grafischen Darstellung von Nachkommen (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.',"z":'D3Charts.addon.tgz'}
@@ -110,11 +110,11 @@
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.8',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Ereignisbeschreibungseditor',"v":'1.0.3',"g":'5.1',"d":'Ein Werkzeug zum Suchen und Ersetzen einer Zeichenfolge in der Ereignisbeschreibung mehrerer Ereignisse.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Werkzeug für Familienbeziehungen',"v":'1.1.3',"g":'5.1',"d":'Massen-Bearbeitung des Familienbeziehungstyp für eine Gruppe von Familien.',"z":'FamilyRelationshipTool.addon.tgz'}
-{"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.38',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
-{"t":'Tool',"i":'RemoveTagTool',"n":'Markierungen Hinzufügen/Entfernen Werkzeug',"v":'1.1.2',"g":'5.1',"d":'Hinzufügen oder Entfernen einer Markierung zu Gruppen von Personen, Ereignissen usw.',"z":'RemoveTagTool.addon.tgz'}
-{"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.31',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
+{"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.39',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
+{"t":'Tool',"i":'RemoveTagTool',"n":'Markierungen Hinzufügen/Entfernen Werkzeug',"v":'1.1.3',"g":'5.1',"d":'Hinzufügen oder Entfernen einer Markierung zu Gruppen von Personen, Ereignissen usw.',"z":'RemoveTagTool.addon.tgz'}
+{"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.32',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Datenschutz einstellen Werkzeug',"v":'1.0.5',"g":'5.1',"d":'All Objekte der letzten <number> Jahre als vertraulich markieren.',"z":'SetPrivacyTool.addon.tgz'}
-{"t":'Tool',"i":'Topola',"n":'Interaktiver Stammbaum',"v":'1.1.5',"g":'5.1',"d":'Öffnet einen interaktiven Baum im Browser',"z":'Topola.addon.tgz'}
+{"t":'Tool',"i":'Topola',"n":'Interaktiver Stammbaum',"v":'1.1.6',"g":'5.1',"d":'Öffnet einen interaktiven Baum im Browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Verbindungsdaten überprüfen',"v":'1.1.8',"g":'5.1',"d":'Überprüft die Verbindungsdaten für Personen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sortiert Kinder in Geburtsreihenfolge',"v":'0.0.12',"g":'5.1',"d":'Geht durch die Familien und schaut nach Kindern, die sich nicht in der Geburtsreihenfolge befinden. Der Anwender kann einzelne Vorschläge zum manuellen Korrigieren/Bearbeiten der Geburtsreihenfolge übernehmen, alle Familien mit korrekter Geburtsreihenfolge übernehmen oder alle Familien übernehmen.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschätzte Daten berechnen',"v":'0.90.34',"g":'5.1',"d":'Berechnet geschätzte Daten für Geburt und Tod.',"z":'CalculateEstimatedDates.addon.tgz'}
@@ -127,5 +127,5 @@
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.22',"g":'5.1',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Notiz Bereinigung',"v":'1.0.15',"g":'5.1',"d":'Bereinigt Notizen, die HTML-Markup enthalten',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Zuordnungen synchronisieren',"v":'0.0.3',"g":'5.1',"d":'Durchläuft die Personenliste für alle Zuordnungen, die bidirektional sind, und fügt der zugeordneten Person alle fehlenden hinzu.',"z":'SyncAssociations.addon.tgz'}
-{"t":'Tool',"i":'thumbgen',"n":'Miniaturbild Generator',"v":'1.0.24',"g":'5.1',"d":'Erstellt Miniaturbilder für Mediendateien',"z":'ThumbnailGenerator.addon.tgz'}
-{"t":'Tool',"i":'typecleanup',"n":'Arten Säuberung',"v":'1.0.6',"g":'5.1',"d":'Bereinigt (entfernt) benutzerdefinierte Arten',"z":'TypeCleanup.addon.tgz'}
+{"t":'Tool',"i":'thumbgen',"n":'Miniaturbild Generator',"v":'1.0.25',"g":'5.1',"d":'Erstellt Miniaturbilder für Mediendateien',"z":'ThumbnailGenerator.addon.tgz'}
+{"t":'Tool',"i":'typecleanup',"n":'Arten Säuberung',"v":'1.0.7',"g":'5.1',"d":'Bereinigt (entfernt) benutzerdefinierte Arten',"z":'TypeCleanup.addon.tgz'}
