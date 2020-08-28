@@ -29,7 +29,7 @@
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.10',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Очистка местоположений',"v":'1.0.14',"g":'5.1',"d":'Грамплет помогает при объединении мест, а также дополнении мест с помощью базы данных GeoNames',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'Обновление мест',"v":'1.0.3',"g":'5.1',"d":'Грамплет для группового управления местами',"z":'PlaceUpdate.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.35',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Проверка Gramps',"v":'0.8.36',"g":'5.1',"d":'Грамплет для проверки Gramps',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Shell',"v":'1.0.33',"g":'5.1',"d":'Интерактивный интерпритатор Python',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.34',"g":'5.1',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Этот день в истории семьи',"v":'1.0.7',"g":'5.1',"d":'Настраиваемое дополнение, которое показывает события в Вашем семейном древе совпадающие с текущим днём и месяцем.',"z":'ThisDayInFamilyHistory.addon.tgz'}
