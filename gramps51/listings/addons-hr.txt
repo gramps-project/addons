@@ -28,11 +28,11 @@
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Označivanje slika',"v":'1.0.34',"g":'5.1',"d":'Gramplet za označivanje osoba u slikama',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.10',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Sređivanje mjesta',"v":'1.0.14',"g":'5.1',"d":'Gramplet pomaže sjediniti mjesta, kao i popuniti mjesta uz pomoć GeoNames web baze podataka',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.3',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
+{"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.4',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Provjera preduvjeta',"v":'0.8.36',"g":'5.1',"d":'Gramplet za provjeru preduvjeta',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python konzola',"v":'1.0.33',"g":'5.1',"d":'Interaktivni Python interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Srodstva srodnika',"v":'1.0.34',"g":'5.1',"d":'Gramplet prikazuje vrste srodstva za srodnike',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'This Day in Family History',"n":'Ovaj dan u povijesti obitelji',"v":'1.0.7',"g":'5.1',"d":'Podešavajući program za prikaz povezanih događaja u tvojem rodoslovu, koji odgovaraju današnjem danu i mjesecu.',"z":'ThisDayInFamilyHistory.addon.tgz'}
+{"t":'Gramplet',"i":'This Day in Family History',"n":'Ovaj dan u povijesti obitelji',"v":'1.0.8',"g":'5.1',"d":'Podešavajući program za prikaz povezanih događaja u tvojem rodoslovu, koji odgovaraju današnjem danu i mjesecu.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.27',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.17',"g":'5.1',"d":'Prikazuje dijagram obiteljskog stabla u obliku popluna',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.60',"g":'5.1',"d":'Prikazuje kronologiju predaka s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}

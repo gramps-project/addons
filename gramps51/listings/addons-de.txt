@@ -28,11 +28,11 @@
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.34',"g":'5.1',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Ort und Koordinaten',"v":'1.1.10',"g":'5.1',"d":'Gramplet, das das Einstellen der Koordinaten eines Ortes vereinfacht',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Orte Bereinigung',"v":'1.0.14',"g":'5.1',"d":'Orte Bereinigung Gramplet hilft beim Zusammenführen von Orten sowie beim Vervollständigen von Orten aus der GeoNames-Webdatenbank',"z":'PlaceCleanup.addon.tgz'}
-{"t":'Gramplet',"i":'PlaceUpdate',"n":'OrtAktualisierung',"v":'1.0.3',"g":'5.1',"d":'Gramplet zum Ändern mehrerer Orte',"z":'PlaceUpdate.addon.tgz'}
+{"t":'Gramplet',"i":'PlaceUpdate',"n":'OrtAktualisierung',"v":'1.0.4',"g":'5.1',"d":'Gramplet zum Ändern mehrerer Orte',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Voraussetzungen Prüfer',"v":'0.8.36',"g":'5.1',"d":'Voraussetzungen Prüfer Gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Konsole',"v":'1.0.33',"g":'5.1',"d":'Interaktiver Pythoninterpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte',"v":'1.0.34',"g":'5.1',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'This Day in Family History',"n":'Dieser Tag in der Familiengeschichte',"v":'1.0.7',"g":'5.1',"d":'Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die dem heutigen Tag und Monat entsprechen.',"z":'ThisDayInFamilyHistory.addon.tgz'}
+{"t":'Gramplet',"i":'This Day in Family History',"n":'Dieser Tag in der Familiengeschichte',"v":'1.0.8',"g":'5.1',"d":'Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die dem heutigen Tag und Monat entsprechen.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Baum Ahnentafel',"v":'0.0.27',"g":'5.1',"d":'Die Ansicht zeigt eine platzsparende Ahnentafel mit Vorfahren der gewählten Person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Steppdeckendiagramm',"v":'1.0.17',"g":'5.1',"d":'Die Ansicht zeigt eine Steppdecken-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.60',"g":'5.1',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
