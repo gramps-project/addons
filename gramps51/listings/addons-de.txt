@@ -39,7 +39,7 @@
 {"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'1.0.25',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Ortskoordinaten Gramplet Ansicht',"v":'1.1.12',"g":'5.1',"d":'Ansicht für Ortskoordinaten Gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ahnenkarte',"v":'1.0.5',"g":'5.1',"d":'Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.',"z":'GeoAncestor.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.118',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.119',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.13',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.13',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.18',"g":'5.1',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
