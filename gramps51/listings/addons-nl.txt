@@ -40,8 +40,8 @@
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.12',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.5',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.119',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Levenslijn-voorouderdiagram',"v":'1.3.14',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Levenslijn-afstammelingsdiagram',"v":'1.3.14',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Levenslijn-voorouderdiagram',"v":'1.3.15',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Levenslijn-afstammelingsdiagram',"v":'1.3.15',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON import',"v":'1.0.18',"g":'5.1',"d":'Dit is een JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite import',"v":'1.1.5',"g":'5.1',"d":'SQLite is een algemeen lokaal databaseformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Maakt een gegevensbestand voor GoogleEarth en opent het',"z":'GoogleEarthWriteKML.addon.tgz'}
