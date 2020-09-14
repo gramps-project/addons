@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Participants',"n":'Deelnemers',"v":'1.0.15',"g":'5.1',"d":'Gramplet dat de deelnemers in een gebeurtenis toont',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Persoonsoverzicht',"v":'1.0.14',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een persoon',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Photo Tagging',"n":'Fotolabelling',"v":'1.0.34',"g":'5.1',"d":'Gramplet voor het labellen van mensen op foto\'s',"z":'PhotoTaggingGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'Place Coordinates',"n":'Plaats en coördinaten',"v":'1.1.13',"g":'5.1',"d":'Gramplet die het instellen van de coördinaten van een plaats vereenvoudigt',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.14',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Plaatsopschoning',"v":'1.0.14',"g":'5.1',"d":'De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'Plaatsupdate',"v":'1.0.6',"g":'5.1',"d":'Gramplet om meerdere plaatsen te manipuleren',"z":'PlaceUpdate.addon.tgz'}
 {"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Vereisten controle',"v":'0.8.36',"g":'5.1',"d":'Vereistencontrole gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
@@ -37,7 +37,7 @@
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt-grafiek',"v":'1.0.17',"g":'5.1',"d":'De weergave toont een quiltkaartvisualisatie van een stamboom',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdlijn-kwartierstaat',"v":'0.1.60',"g":'5.1',"d":'De weergave toont een tijdlijn-kwartierstaat met voorouders en afstammelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'1.0.26',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
-{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Plaatscoördinaten grampletweergave',"v":'1.1.13',"g":'5.1',"d":'Weergave van de plaatscoördinatengramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
+{"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.14',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.5',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.119',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Levenslijn-voorouderdiagram',"v":'1.3.15',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
