@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Pokreni Gramps na istom mjestu',"v":'0.0.15',"g":'5.1',"d":'S ovim dodatkom se Gramps pokreće u istom pogledu i na istom objektu, koji su bili aktivni prilikom zadnjeg izlaska iz programa. Ne dodaje nove izbornike niti Gramplete, ali omogućuje prikaz zadnjih šest korištenih objekata u izborniku „Idi”.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Postavke za dizajn sučelja',"v":'0.0.9',"g":'5.1',"d":'Dodatak u postavkama za jednostavno podešavanje dizajna sučelja i fontova. Naročito korisno za korisnike Windows sustava.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect zbirka',"v":'1.0.38',"g":'5.1',"d":'Zbirka web stranica za Ujedinjeno Kraljevstvo (zahtijeva libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'SAD Web Connect zbirka',"v":'1.0.43',"g":'5.1',"d":'Zbirka web stranica za SAD (zahtijeva libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'SAD Web Connect zbirka',"v":'1.0.44',"g":'5.1',"d":'Zbirka web stranica za SAD (zahtijeva libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.29',"g":'5.1',"d":'Dostavlja biblioteku za opći pristup bazi podataka i gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.31',"g":'5.1',"d":'Biblitoteka za zbirke web stranica',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.4',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}

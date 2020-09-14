@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Start opnieuw waar u voor het laatst werkte',"v":'0.0.15',"g":'5.1',"d":'Deze add-on zorgt ervoor dat Gramps herstart op dezelfde weergave en hetzelfde object waar Gramps voorheen werd afgesloten. Het voegt geen nieuwe menu\'s of gramplets toe, maar laat toe om de laatste zes bezochte objecten te vinden via het menu \'Ga naar\'.',"z":'RestoreHist.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Thema-voorkeuren',"v":'0.0.9',"g":'5.1',"d":'Een aanvulling op Voorkeuren voor eenvoudige aanpassing van thema en lettertype. Vooral handig voor Windows-gebruikers.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.38',"g":'5.1',"d":'Verzameling van websites voor het VK (vereist libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
-{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.43',"g":'5.1',"d":'Verzameling van websites voor de VS (vereist libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.44',"g":'5.1',"d":'Verzameling van websites voor de VS (vereist libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'libaccess',"n":'Generic DB Access lib',"v":'1.0.29',"g":'5.1',"d":'Biedt een bibliotheek voor algemene toegang tot de database en gen.lib.',"z":'libaccess.addon.tgz'}
 {"t":'Plugin lib',"i":'libwebconnect',"n":'libwebconnect',"v":'1.0.31',"g":'5.1',"d":'Bibliotheek voor websiteverzamelingen',"z":'libwebconnect.addon.tgz'}
 {"t":'Quickreport',"i":'NumberOfAncestorsQuickview',"n":'Number of ancestors',"v":'1.0.4',"g":'5.1',"d":'Shows the number of ancestors of the current person',"z":'NumberOfAncestorsQuickview.addon.tgz'}
