@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Área de transferência de colecções',"v":'1.0.41',"g":'5.1',"d":'Gramplet para agrupar colecções de itens e ajudar a inserir dados.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.46',"g":'5.1',"d":'Gramplet de inserção rápida de dados',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Calculadora de datas',"v":'0.0.12',"g":'5.1',"d":'Gramplet útil para cálculos matemáticos com datas',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Ligações profundas',"v":'1.0.38',"g":'5.1',"d":'Gramplet que mostra um parentesco profundo entre o indivíduo activo e o indivíduo inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Ligações profundas',"v":'1.0.39',"g":'5.1',"d":'Gramplet que mostra um parentesco profundo entre o indivíduo activo e o indivíduo inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Total de descendentes',"v":'2.0.11',"g":'5.1',"d":'Gramplet para mostrar indivíduos e totais de descendentes',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Editar meta-dados Exif da imagem',"v":'2.0.9',"g":'5.1',"d":'Gramplet para ver editar e gravar meta-dados Exif duma imagem',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Atributos familiares estendidos',"v":'1.0.29',"g":'5.1',"d":'Gramplet que mostra os atributos de uma família',"z":'ExtendedAttributes.addon.tgz'}

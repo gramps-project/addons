@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Klembord collecties',"v":'1.0.41',"g":'5.1',"d":'Gramplet voor het groeperen van verzamelingen items om te helpen bij het invoeren van gegevens.',"z":'ClipboardGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gegevensinvoer Gramplet',"v":'1.0.46',"g":'5.1',"d":'Gramplet om snel gegevens in te voeren',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datum rekenmachine',"v":'0.0.12',"g":'5.1',"d":'Handig voor wiskundige berekeningen met datums',"z":'DateCalculator.addon.tgz'}
-{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.38',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.39',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Descendant Count Gramplet',"n":'Afstammelingen tellen',"v":'2.0.11',"g":'5.1',"d":'Gramplet voor het tonen van personen en aantal afstammelingen',"z":'DescendantCount.addon.tgz'}
 {"t":'Gramplet',"i":'Edit Image Exif Metadata',"n":'Bewerk afbeeldings-Exif-metagegevens',"v":'2.0.9',"g":'5.1',"d":'Gramplet om Exif-metagegevens van afbeeldingen weer te geven, te bewerken en op te slaan',"z":'EditExifMetadata.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Uitgebreide gezinskenmerken',"v":'1.0.29',"g":'5.1',"d":'Gramplet dat de kenmerken van een gezin toont',"z":'ExtendedAttributes.addon.tgz'}
