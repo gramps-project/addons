@@ -21,7 +21,7 @@
 {"t":'Gramplet',"i":'House Timeline',"n":'Жители дома',"v":'1.0.9',"g":'5.1',"d":'Список жителей по адресу на линии времени',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Text',"v":'1.0.37',"g":'5.1',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change',"v":'0.1.8',"g":'5.1',"d":'Показывает последние десять лиц в которые вносились изменения',"z":'LastChange.addon.tgz'}
-{"t":'Gramplet',"i":'MediaBrowser',"n":'Просмотр альбома',"v":'1.0.30',"g":'5.1',"d":'Показывает подробности о лице',"z":'MediaBrowser.addon.tgz'}
+{"t":'Gramplet',"i":'MediaBrowser',"n":'Просмотр альбома',"v":'1.0.31',"g":'5.1',"d":'Показывает подробности о лице',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Заметки',"v":'1.0.35',"g":'5.1',"d":'Предназначен для редактирования заметок о человеке',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Участники',"v":'1.0.15',"g":'5.1',"d":'Показывает участников события',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Обзор по лицу',"v":'1.0.14',"g":'5.1',"d":'Отображает события связаные с человеком',"z":'Overview.addon.tgz'}

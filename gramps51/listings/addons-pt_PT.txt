@@ -21,7 +21,7 @@
 {"t":'Gramplet',"i":'House Timeline',"n":'Cronologia de residências',"v":'1.0.9',"g":'5.1',"d":'Lista os residentes de uma morada cronologicamente',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Importar texto',"v":'1.0.37',"g":'5.1',"d":'Gramplet para importar texto',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Última alteração',"v":'0.1.8',"g":'5.1',"d":'Lista os últimos dez registos individuais que foram alterados',"z":'LastChange.addon.tgz'}
-{"t":'Gramplet',"i":'MediaBrowser',"n":'Navegador de multimédia',"v":'1.0.30',"g":'5.1',"d":'Gramplet que mostra os detalhes de um indivíduo',"z":'MediaBrowser.addon.tgz'}
+{"t":'Gramplet',"i":'MediaBrowser',"n":'Navegador de multimédia',"v":'1.0.31',"g":'5.1',"d":'Gramplet que mostra os detalhes de um indivíduo',"z":'MediaBrowser.addon.tgz'}
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Gramplet Nota',"v":'1.0.35',"g":'5.1',"d":'Gramplet para editar as notas do indivíduo activo',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Participantes',"v":'1.0.15',"g":'5.1',"d":'Gramplet que mostra os participantes num evento',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Visão geral do indivíduo',"v":'1.0.14',"g":'5.1',"d":'Gramplet que mostra uma visão geral dos eventos de um dado indivíduo',"z":'Overview.addon.tgz'}
