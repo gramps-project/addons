@@ -3,7 +3,7 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON izvoz',"v":'1.0.18',"g":'5.1',"d":'Ovo je JSON izvoz',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog izvoz',"v":'1.0.14',"g":'5.1',"d":'Izvozi podatke u Prolog format. Podaci su u Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Raw izvoz',"v":'1.0.36',"g":'5.1',"d":'Ovo je neobrađeni izvadak python objekata',"z":'ExportRaw.addon.tgz'}
-{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite izvoz',"v":'1.1.5',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite izvoz',"v":'1.1.6',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Rođendani',"v":'1.1.9',"g":'5.1',"d":'gramplet prikazuje rođendane živih osoba',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.32',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.41',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
@@ -43,7 +43,7 @@
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.15',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.15',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON uvoz',"v":'1.0.18',"g":'5.1',"d":'Ovo je JSON uvoz',"z":'JSON.addon.tgz'}
-{"t":'Importer',"i":'im_sqlite',"n":'SQLite uvoz',"v":'1.1.5',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'SQLite uvoz',"v":'1.1.6',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Stvara datoteku s podacima potrebnima za GoogleEarth, te je otvara',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect zbirka',"v":'0.0.27',"g":'5.1',"d":'Zbirka web stranica za Njemačku (zahtijeva libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect zbirka',"v":'1.0.34',"g":'5.1',"d":'Zbirka web stranica za Francusku (zahtijeva libwebconnect)',"z":'FRWebConnectPack.addon.tgz'}

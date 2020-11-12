@@ -3,7 +3,7 @@
 {"t":'Exporter',"i":'JSON Export',"n":'JSON export',"v":'1.0.18',"g":'5.1',"d":'Dit is een JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.14',"g":'5.1',"d":'Exporteert gegevens naar een Prolog-feitenopmaak. Gegevens staan in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Ruwe export',"v":'1.0.36',"g":'5.1',"d":'Dit is een onbewerkte python-objectdump',"z":'ExportRaw.addon.tgz'}
-{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite export',"v":'1.1.5',"g":'5.1',"d":'SQLite is een algemeen lokaal databaseformaat',"z":'Sqlite.addon.tgz'}
+{"t":'Exporter',"i":'ex_sqlite',"n":'SQLite export',"v":'1.1.6',"g":'5.1',"d":'SQLite is een algemeen lokaal databaseformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagen',"v":'1.1.9',"g":'5.1',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Klok',"v":'0.0.32',"g":'5.1',"d":'Gramplet voor het demonstreren van Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Klembord collecties',"v":'1.0.41',"g":'5.1',"d":'Gramplet voor het groeperen van verzamelingen items om te helpen bij het invoeren van gegevens.',"z":'ClipboardGramplet.addon.tgz'}
@@ -43,7 +43,7 @@
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Levenslijn-voorouderdiagram',"v":'1.3.15',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Levenslijn-afstammelingsdiagram',"v":'1.3.15',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON import',"v":'1.0.18',"g":'5.1',"d":'Dit is een JSON import',"z":'JSON.addon.tgz'}
-{"t":'Importer',"i":'im_sqlite',"n":'SQLite import',"v":'1.1.5',"g":'5.1',"d":'SQLite is een algemeen lokaal databaseformaat',"z":'Sqlite.addon.tgz'}
+{"t":'Importer',"i":'im_sqlite',"n":'SQLite import',"v":'1.1.6',"g":'5.1',"d":'SQLite is een algemeen lokaal databaseformaat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Maakt een gegevensbestand voor GoogleEarth en opent het',"z":'GoogleEarthWriteKML.addon.tgz'}
 {"t":'Plugin lib',"i":'DE Web Connect Pack',"n":'DE Web Connect Pack',"v":'0.0.27',"g":'5.1',"d":'Verzameling van websites voor DE (vereist libwebconnect)',"z":'DEWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'FR Web Connect Pack',"n":'FR Web Connect Pack',"v":'1.0.34',"g":'5.1',"d":'Verzameling van websites voor FR (libwebconnect is nodig)',"z":'FRWebConnectPack.addon.tgz'}
