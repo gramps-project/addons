@@ -36,7 +36,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.27',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.17',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Antavla med tidslinje',"v":'0.1.61',"g":'5.1',"d":'Vyn visar en tidslinje med anor och ättlingar för den valda personen',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.1',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.2',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.15',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.5',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.120',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}

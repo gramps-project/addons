@@ -36,7 +36,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Baum Ahnentafel',"v":'0.0.27',"g":'5.1',"d":'Die Ansicht zeigt eine platzsparende Ahnentafel mit Vorfahren der gewählten Person',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Steppdeckendiagramm',"v":'1.0.17',"g":'5.1',"d":'Die Ansicht zeigt eine Steppdecken-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.61',"g":'5.1',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'2.0.1',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'2.0.2',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.15',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ahnenkarte',"v":'1.0.5',"g":'5.1',"d":'Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.120',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
