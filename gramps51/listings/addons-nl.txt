@@ -29,14 +29,14 @@
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.15',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Plaatsopschoning',"v":'1.0.14',"g":'5.1',"d":'De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'Plaatsupdate',"v":'1.0.6',"g":'5.1',"d":'Gramplet om meerdere plaatsen te manipuleren',"z":'PlaceUpdate.addon.tgz'}
-{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Vereisten controle',"v":'0.8.36',"g":'5.1',"d":'Vereistencontrole gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Prerequisites Checker Gramplet',"n":'Vereisten controle',"v":'0.8.37',"g":'5.1',"d":'Vereistencontrole gramplet',"z":'PrerequisitesCheckerGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Python Gramplet',"n":'Python Shell',"v":'1.0.33',"g":'5.1',"d":'Interactieve Python-interpreter',"z":'PythonGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Gerelateerde familieleden',"v":'1.0.34',"g":'5.1',"d":'Gramplet toont verwanten in een relatie',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Vandaag in de  familiegeschiedenis',"v":'1.0.9',"g":'5.1',"d":'Een configureerbaar programma dat u de met uw stamboom verbonden gebeurtenissen laat zien die overeenkomen met de dag en maand van vandaag.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Stamboom',"v":'0.0.27',"g":'5.1',"d":'De weergave toont een ruimte-efficiënte kwartierstaat met voorouders van de geselecteerde persoon',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt-grafiek',"v":'1.0.17',"g":'5.1',"d":'De weergave toont een quiltkaartvisualisatie van een stamboom',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdlijn-kwartierstaat',"v":'0.1.61',"g":'5.1',"d":'De weergave toont een tijdlijn-kwartierstaat met voorouders en afstammelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'2.0.2',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'2.0.3',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.15',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.5',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.120',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
