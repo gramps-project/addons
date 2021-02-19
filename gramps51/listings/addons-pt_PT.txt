@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Atributos pessoais estendidos',"v":'1.0.29',"g":'5.1',"d":'Gramplet que mostra os atributos de um indivíduo',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Visão geral da família',"v":'1.0.14',"g":'5.1',"d":'Gramplet que mostra uma visão geral dos eventos de uma dada família',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.29',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.14',"g":'5.1',"d":'Gramplet para obter locais da base de dados GOV',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.15',"g":'5.1',"d":'Gramplet para obter locais da base de dados GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Notícias - cabeçalhos',"v":'1.0.41',"g":'5.1',"d":'Gramplet que mostra as últimas notícias do Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Cronologia de residências',"v":'1.0.9',"g":'5.1',"d":'Lista os residentes de uma morada cronologicamente',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Importar texto',"v":'1.0.37',"g":'5.1',"d":'Gramplet para importar texto',"z":'ImportGramplet.addon.tgz'}
