@@ -69,6 +69,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamischer Webbericht',"v":'0.0.91',"g":'5.1',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familienblatt',"v":'3.4.43',"g":'5.1',"d":'Erstellt ein Familienblatt, das vollständige Informationen über eine Person und ihre Partner und Kinder enthält.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stammbaum',"v":'4.2.19',"g":'5.1',"d":'Erzeugt einen grafischen Stammbaum.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.1',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Letzte Änderungen Bericht',"v":'0.1.8',"g":'5.1',"d":'Bericht der letzten Datensätze die geändert wurden',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Nachkommen Linien Bericht',"v":'1.1.32',"g":'5.1',"d":'Druckt alle Nachkommenlinien von einem gegebenen Vorfahren zu einem gegebenen Nachkommen in Textform.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Blitz Liste',"v":'1.0.24',"g":'5.1',"d":'Erstellt eine Blitz Liste',"z":'ListeEclair.addon.tgz'}

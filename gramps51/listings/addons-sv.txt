@@ -69,6 +69,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.91',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.43',"g":'5.1',"d":'Skapar ett familjeark visande all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.19',"g":'5.1',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.1',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport över senaste ändringar',"v":'0.1.8',"g":'5.1',"d":'Rapport över de poster, som har ändrats senast',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.32',"g":'5.1',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.24',"g":'5.1',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}

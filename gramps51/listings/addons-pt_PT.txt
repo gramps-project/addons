@@ -69,6 +69,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.91',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Folha familiar',"v":'3.4.43',"g":'5.1',"d":'Produz uma folha familiar mostrando a informação completa sobre um indivíduo, companheiros e filhos.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Árvore de família',"v":'4.2.19',"g":'5.1',"d":'Produz uma árvore de família.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.1',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Relatório Últimas alterações',"v":'0.1.8',"g":'5.1',"d":'Relatório dos últimos registos que foram alterados',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Linhas de descendência',"v":'1.1.32',"g":'5.1',"d":'Imprime todas as linhas de descendência de um dado ascendente até um dado descendente em texto.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Lista de correspondências',"v":'1.0.24',"g":'5.1',"d":'Produzir uma lista de correspondências',"z":'ListeEclair.addon.tgz'}

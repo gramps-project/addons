@@ -69,6 +69,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.91',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.43',"g":'5.1',"d":'Stvara obiteljski list sa cjelovitim informacijama o osobi i njenim roditeljima i djecom.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.19',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.1',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjoj promjeni',"v":'0.1.8',"g":'5.1',"d":'Izvještaj o zadnjim zapisima koji su promijenjeni',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Izvještaj o liniji potomstva',"v":'1.1.32',"g":'5.1',"d":'Ispisuje sve linije potomstva zadanog pretka do zadanog potomka u tekstualnom obliku.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Brzi popis',"v":'1.0.24',"g":'5.1',"d":'Stvara brzi popis',"z":'ListeEclair.addon.tgz'}
