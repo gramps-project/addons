@@ -119,7 +119,7 @@
 {"t":'Tool',"i":'PlaceCompletion',"n":'Arrangement des lieux',"v":'0.0.39',"g":'5.1',"d":'Fournit une liste consultable des lieux sélectionnés, avec la possibilité de compléter/analyser/définir les champs de l\'attribut',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Add/Remove Tag Tool',"v":'1.1.4',"g":'5.1',"d":'Add or remove a tag from groups of people, events, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Définir un attribut',"v":'0.0.32',"g":'5.1',"d":'Définir une valeur à un attribut.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.7',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Set Privacy Tool',"v":'1.0.8',"g":'5.1',"d":'Set all objects of the last <number> of years private.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactive Family Tree',"v":'1.1.6',"g":'5.1',"d":'Opens an interactive tree in the browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Check Associations data',"v":'1.1.8',"g":'5.1',"d":'Va regarder les données \'Association\' des individus',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Trier les enfants dans l\'ordre des naissances',"v":'0.0.12',"g":'5.1',"d":'Regarde les familles, cherche des enfants qui ne sont pas dans l\'ordre des naissances. L\'utilisateur peut accepter des suggestions individuelles pour corriger, modifier l\'ordre de naissance manuellement, accepter toutes les familles qui ont tous les enfants avec des dates de naissance appropriées ou accepter tout.',"z":'BirthOrder.addon.tgz'}

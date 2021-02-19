@@ -119,7 +119,7 @@
 {"t":'Tool',"i":'PlaceCompletion',"n":'Upotpunjavanje mjesta',"v":'0.0.39',"g":'5.1',"d":'Dostavlja popis odabranih mjesta, s mogućnošću upotpunjavanja, analiziranja i određivanja polja svojstava.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Alat za dodavanje/uklanjanje etiketu',"v":'1.1.4',"g":'5.1',"d":'Dodavanje ili uklanjanje etiketu iz grupa ljudi, događaja itd.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Postavi svojstvo',"v":'0.0.32',"g":'5.1',"d":'Postavi svojstvo na određenu vrijednost.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Postavi privatnost',"v":'1.0.7',"g":'5.1',"d":'Postavi sve objekte zadnjih <number> godina kao privatne.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Postavi privatnost',"v":'1.0.8',"g":'5.1',"d":'Postavi sve objekte zadnjih <number> godina kao privatne.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktivni rodoslov',"v":'1.1.6',"g":'5.1',"d":'Otvara interaktivno stablo u pregledniku',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Provjeri podatke o vezama',"v":'1.1.8',"g":'5.1',"d":'Provjeravanje podataka o vezama za osobe.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Svrstaj djecu redoslijedom rođenja',"v":'0.0.12',"g":'5.1',"d":'U obiteljima traži djecu, koja nisu svrstana po datumu rođenja. Korisnik može ispraviti redoslijed prihvaćanjem pojedinih prijedloga, može urediti redoslijed rođenja ručno, može prihvatiti sve obitelji s ispravnim redoslijedom datuma rođenja ili može sve prihvatiti.',"z":'BirthOrder.addon.tgz'}
