@@ -84,6 +84,7 @@
 {"t":'Report',"i":'database-differences-report',"n":'Izvještaj o razlikama između baza podataka',"v":'1.0.20',"g":'5.1',"d":'Uspoređuje vanjsku bazu podataka s trenutačnom.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.42',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaljni izvještaj o potomcima sa svim slikama',"v":'1.0.8',"g":'5.1',"d":'Stvara detaljan izvještaj o potomcima sa svim slikama, te opcionalno s popisom zadataka.',"z":'DetDescendantReport-images.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.1',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Stablo predaka',"v":'1.0.15',"g":'5.1',"d":'Stablo predaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Stablo potomaka',"v":'1.0.15',"g":'5.1',"d":'Stablo potomaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Stablo djedova i baka',"v":'1.0.15',"g":'5.1',"d":'Stablo djedova i baka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}

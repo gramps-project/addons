@@ -84,6 +84,7 @@
 {"t":'Report',"i":'database-differences-report',"n":'Datenbankunterschiede Bericht',"v":'1.0.20',"g":'5.1',"d":'Vergleicht eine externe Datenbank mit der aktuell geöffneten.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.42',"g":'5.1',"d":'Erzeugt eine Webseite (HTML) mit einer grafischen Darstellung der Vorfahren /Nachkommen (SVG), bei denen Details über Individuen bei Maus-Ereignissen sichtbar werden.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaillierter Nachkommenbericht mit allen Bildern',"v":'1.0.8',"g":'5.1',"d":'Erstellt einen detaillierten Nachkommenbericht mit allen Bildern und einer optionalen Aufgabenliste.',"z":'DetDescendantReport-images.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.1',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Ahnenbaum',"v":'1.0.15',"g":'5.1',"d":'Ahnenbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Nachkommenbaum',"v":'1.0.15',"g":'5.1',"d":'Nachkommenbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Großelternbaum',"v":'1.0.15',"g":'5.1',"d":'Großelternbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}

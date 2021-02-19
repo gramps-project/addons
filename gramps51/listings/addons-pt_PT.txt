@@ -84,6 +84,7 @@
 {"t":'Report',"i":'database-differences-report',"n":'Relatório Diferenças entre bases de dados',"v":'1.0.20',"g":'5.1',"d":'Compara uma base de dados externa com a actual.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.42',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Relatório de descendentes detalhado com todas as imagens',"v":'1.0.8',"g":'5.1',"d":'Produz um relatório de descendentes detalhado com todas as imagens e uma lista A fazer opcional.',"z":'DetDescendantReport-images.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.1',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Árvore de ascendentes',"v":'1.0.15',"g":'5.1',"d":'Árvore de ascendentes usando LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Árvore de descendentes',"v":'1.0.15',"g":'5.1',"d":'Árvore de descendentes usando LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Árvore de avós',"v":'1.0.15',"g":'5.1',"d":'Árvore de avós usando LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}

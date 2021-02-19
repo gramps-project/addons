@@ -84,6 +84,7 @@
 {"t":'Report',"i":'database-differences-report',"n":'Databaseverschillenverslag',"v":'1.0.20',"g":'5.1',"d":'Vergelijkt een externe database met de huidige.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.42',"g":'5.1',"d":'Genereert een web (HTML) pagina met een grafische weergave van afstammelingen/voorouders (SVG) waar details over individuen zichtbaar worden door muisacties.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Gedetailleerd afstammelingsverslag met alle afbeeldingen',"v":'1.0.8',"g":'5.1',"d":'Produceert een gedetailleerd afstammelingsverslag met alle afbeeldingen en optionele takenlijst.',"z":'DetDescendantReport-images.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.1',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Voorouderboom',"v":'1.0.15',"g":'5.1',"d":'Voorouderboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Afstammelingenboom',"v":'1.0.15',"g":'5.1',"d":'Afstammingsboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Grootouderboom',"v":'1.0.15',"g":'5.1',"d":'Grootouderboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
