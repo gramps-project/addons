@@ -69,7 +69,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamisch webverslag',"v":'0.0.91',"g":'5.1',"d":'Produceert dynamische webpagina\'s voor de database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familieblad',"v":'3.4.43',"g":'5.1',"d":'Toont een familieblad met volledige informatie over een persoon en zijn/haar partners en kinderen.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stamboom',"v":'4.2.19',"g":'5.1',"d":'Produceert een grafische stamboom.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.1',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
+{"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.2',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Laatste wijzigingsverslag',"v":'0.1.8',"g":'5.1',"d":'Verslag van de laatste gegevens die gewijzigd zijn',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Afstammelingslijnenverslag',"v":'1.1.32',"g":'5.1',"d":'Print alle afstammingslijnen van een bepaalde voorouder naar een bepaalde afstammeling in tekst uit.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.24',"g":'5.1',"d":'Produceert een tiny tafel',"z":'ListeEclair.addon.tgz'}
