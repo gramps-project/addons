@@ -41,8 +41,8 @@
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.15',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ahnenkarte',"v":'1.0.5',"g":'5.1',"d":'Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.121',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Lebenslinien Vorfahren Diagramm',"v":'1.3.16',"g":'5.1',"d":'Personen und ihre Beziehung in einem Zeit basierten Diagramm',"z":'LifeLineChartView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Lebenslinien Nachfahren Diagramm',"v":'1.3.16',"g":'5.1',"d":'Personen und ihre Beziehung in einem Zeit basierten Diagramm',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Lebenslinien Vorfahren Diagramm',"v":'1.3.17',"g":'5.1',"d":'Personen und ihre Beziehung in einem Zeit basierten Diagramm',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Lebenslinien Nachfahren Diagramm',"v":'1.3.17',"g":'5.1',"d":'Personen und ihre Beziehung in einem Zeit basierten Diagramm',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.18',"g":'5.1',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.1.6',"g":'5.1',"d":'SQLite ist ein gebräuchliches lokales Datenbankformat',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Erstellt Datendatei für GoogleEarth und öffnet sie',"z":'GoogleEarthWriteKML.addon.tgz'}
