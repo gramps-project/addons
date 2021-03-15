@@ -79,7 +79,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Relatório de repositórios',"v":'1.1.29',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opções do relatório de repositórios',"v":'0.3.29',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Relatório de fontes e citações',"v":'3.6.9',"g":'5.1',"d":'Fornece um relatório de fontes e citações com notas',"z":'SourcesCitationsReport.addon.tgz'}
-{"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.2',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
+{"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.3',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Agenda',"v":'1.2.33',"g":'5.1',"d":'Produz uma lista de todas as notas com uma dada etiqueta juntamente com os registos referenciados, indivíduo, família, evento, etc.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Árvore de ascendentes colapsável',"v":'1.0.29',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como árvore colapsável da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Leque de ascendentes',"v":'1.0.29',"g":'5.1',"d":'Gera uma página web com uma representação gráfica de ascendentes (SVG) representada como leque da biblioteca JavaScript D3 js.',"z":'D3Charts.addon.tgz'}

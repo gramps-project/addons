@@ -79,7 +79,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Bibliotheekverslag',"v":'1.1.29',"g":'5.1',"d":'Produceert een tekstueel bibliotheekverslag',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Verslagopties voor bibliotheken',"v":'0.3.29',"g":'5.1',"d":'Produceert een tekstueel bibliotheekverslag',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Bronnen en citatenverslag',"v":'3.6.9',"g":'5.1',"d":'Biedt een bron en citatenverslag met notities',"z":'SourcesCitationsReport.addon.tgz'}
-{"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.2',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
+{"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.3',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Takenverslag',"v":'1.2.33',"g":'5.1',"d":'Produceert een lijst van alle notities met een bepaald  label, samen met de gegevens waarnaar het verwijst, de persoon, familie, gebeurtenis, enz.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Inklapbare voorouderboom',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een inklapbare boomlay-out uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Cirkeldiagram voorouders',"v":'1.0.29',"g":'5.1',"d":'Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een Cirkeldiagram uit de D3.js JavaScript-bibliotheek.',"z":'D3Charts.addon.tgz'}
