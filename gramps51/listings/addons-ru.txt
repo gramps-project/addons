@@ -79,6 +79,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.29',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Параметы отчета о хранилищах',"v":'0.3.29',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Источники и цитаты',"v":'3.6.9',"g":'5.1',"d":'Создаёт отчёт об источниках и цитатах с заметками',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.2',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Отчёт по задачам',"v":'1.2.33',"g":'5.1',"d":'Предоставляет список всех заметок с указанныой меткой по всем записям на которые они ссылаются (лицо, семья, событие, др.)',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Древо предков (D3)',"v":'1.0.29',"g":'5.1',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде сворачиваемого древа при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Круговая диаграмма предков',"v":'1.0.29',"g":'5.1',"d":'Создаёт веб-станицу с графическим отображением предков (SVG) представленном в виде круговой диаграммы при помощи D3.js JavaScript библиотеки.',"z":'D3Charts.addon.tgz'}

@@ -79,6 +79,7 @@
 {"t":'Report',"i":'Repositories Report',"n":'Izvještaj o spremištima',"v":'1.1.29',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opcije za izvještaj o spremištima',"v":'0.3.29',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Izvještaj o izvorima i citatima',"v":'3.6.9',"g":'5.1',"d":'Stvara izvještaj o izvorima i citatima, zajedno sa zabilješkama',"z":'SourcesCitationsReport.addon.tgz'}
+{"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.2',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Izvještaj o zadacima',"v":'1.2.33',"g":'5.1',"d":'Stvara popis svih zabilježaka sa zadanom etiketom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, događaj, itd.',"z":'ToDoReport.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralcollapsibletree',"n":'Sklopivo stablo predaka',"v":'1.0.29',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom predaka (SVG), prikazanih sklopivim stablastim oblikom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'d3-ancestralfanchart',"n":'Lepezasti dijagram predaka',"v":'1.0.29',"g":'5.1',"d":'Stvara web stranicu s grafičkim prikazom potomaka (SVG), prikazanih lepezasti dijagramom, pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
