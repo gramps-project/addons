@@ -94,20 +94,21 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.15',"g":'5.1',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Древо для семьи в виде песочных часов',"v":'1.0.15',"g":'5.1',"d":'Древо для семьи в виде песочных часов (использует LaTeX genealogytree)',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.23',"g":'5.1',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Семьи с событиями и выбранной ролью',"v":'0.0.13',"g":'5.1',"d":'Выбирает семьи с событиями с указанной ролью',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'Люди с событиями и выбранной ролью',"v":'0.0.13',"g":'5.1',"d":'Выбирает людей с событиями с указанной ролью',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Источник с параметрами',"v":'0.0.13',"g":'5.1',"d":'Выбирает источники содержищие значения указанных параметров',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Люди связанные с <фильтром>',"v":'1.0.11',"g":'5.1',"d":'Выбирает людей связанных с кем-либо из результата фильтра лиц',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Семьи с событиями и выбранной ролью',"v":'0.0.14',"g":'5.1',"d":'Выбирает семьи с событиями с указанной ролью',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'Люди с событиями и выбранной ролью',"v":'0.0.14',"g":'5.1',"d":'Выбирает людей с событиями с указанной ролью',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Источник с параметрами',"v":'0.0.14',"g":'5.1',"d":'Выбирает источники содержищие значения указанных параметров',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Люди связанные с <фильтром>',"v":'1.0.12',"g":'5.1',"d":'Выбирает людей связанных с кем-либо из результата фильтра лиц',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilineal progenitrix of <person>',"v":'1.0.4',"g":'5.1',"d":'Matches the earliest recorded matrilineal ancestor mother.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilineal progenitor of <person>',"v":'1.0.4',"g":'5.1',"d":'Matches the earliest recorded patrilineal ancestor father.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Люди из семьи выбранные <фильтром>',"v":'1.0.8',"g":'5.1',"d":'Люди из семьи выбранные <фильтром>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'ageatdeath',"n":'Filter people by their age at death',"v":'1.0.1',"g":'5.1',"d":'Filter rule that matches people by their age at death',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associations of <person filter>',"v":'1.0.2',"g":'5.1',"d":'Match associations of <person filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'degreesofseparation',"n":'Люди разделённые <N> поколениями с <лицом>',"v":'1.1.1',"g":'5.1',"d":'Фильтр для выбора родственников с учётом поколений',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Семьи подходящие под <фильтр событий>',"v":'1.0.8',"g":'5.1',"d":'Выбирает семьи, которые подходят под фильтр событий.',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'События семей подходящие под <фильтр семей>',"v":'1.0.5',"g":'5.1',"d":'События семей подходящие под <фильтр семей>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Люди из семьи выбранные <фильтром>',"v":'1.0.9',"g":'5.1',"d":'Люди из семьи выбранные <фильтром>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'ageatdeath',"n":'Filter people by their age at death',"v":'1.0.2',"g":'5.1',"d":'Filter rule that matches people by their age at death',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associations of <person filter>',"v":'1.0.3',"g":'5.1',"d":'Match associations of <person filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'degreesofseparation',"n":'Люди разделённые <N> поколениями с <лицом>',"v":'1.1.2',"g":'5.1',"d":'Фильтр для выбора родственников с учётом поколений',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Семьи подходящие под <фильтр событий>',"v":'1.0.9',"g":'5.1',"d":'Выбирает семьи, которые подходят под фильтр событий.',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'События семей подходящие под <фильтр семей>',"v":'1.0.6',"g":'5.1',"d":'События семей подходящие под <фильтр семей>',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'mtinheritance',"n":'Mitochondrial inheritance of <person>',"v":'1.0.4',"g":'5.1',"d":'Matches recorded descendants of person following mitochondrial inheritance patterns.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitochondrial inheritance of <filter>',"v":'1.0.4',"g":'5.1',"d":'Matches recorded descendants of a filter result following mitochondrial inheritance patterns.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'multipleparents',"n":'Multiple Parents Filter',"v":'0.0.1',"g":'5.1',"d":'Multiple Parents Filter',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'xchromancestors',"n":'X-chromosomal ancestors of <person>',"v":'1.0.4',"g":'5.1',"d":'Matches ancestors of <person> following a X-chromosomal inheritance pattern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomal descendants of <person>',"v":'1.0.4',"g":'5.1',"d":'Matches descendants of <person> following a X-chromosomal inheritance pattern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomal inheritance of <person>',"v":'1.0.4',"g":'5.1',"d":'Matches recorded descendants of person following Y-chromosomal inheritance patterns.',"z":'FilterRules2.addon.tgz'}
