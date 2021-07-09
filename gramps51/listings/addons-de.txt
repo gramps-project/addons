@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Notiz Gramplet',"v":'1.0.36',"g":'5.1',"d":'Gramplet zum bearbeiten der Notizen der aktiven Person',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Beteiligte',"v":'1.0.16',"g":'5.1',"d":'Gramplet zeigt die Beteiligten eines Ereignis',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Personenübersicht',"v":'1.0.15',"g":'5.1',"d":'Gramplet zeigt eine Übersicht über Ereignisse für eine Person',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.36',"g":'5.1',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Foto markieren',"v":'1.0.37',"g":'5.1',"d":'Gramplet zum markieren von Personen auf Fotos',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.16',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Orte Bereinigung',"v":'1.0.15',"g":'5.1',"d":'Orte Bereinigung Gramplet hilft beim Zusammenführen von Orten sowie beim Vervollständigen von Orten aus der GeoNames-Webdatenbank',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'OrtAktualisierung',"v":'1.0.7',"g":'5.1',"d":'Gramplet zum Ändern mehrerer Orte',"z":'PlaceUpdate.addon.tgz'}

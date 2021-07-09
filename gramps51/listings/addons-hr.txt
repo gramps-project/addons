@@ -26,7 +26,7 @@
 {"t":'Gramplet',"i":'Note Gramplet',"n":'Zabilješke',"v":'1.0.36',"g":'5.1',"d":'Gramplet za uređivanje zabilježaka aktivne osobe',"z":'NoteGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Participants',"n":'Sudionici',"v":'1.0.16',"g":'5.1',"d":'Gramplet prikazuje sudionike jedong događaja',"z":'Participants.addon.tgz'}
 {"t":'Gramplet',"i":'Person Overview',"n":'Pregled osobe',"v":'1.0.15',"g":'5.1',"d":'Gramplet za prikaz događaja osobe',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Photo Tagging',"n":'Označivanje slika',"v":'1.0.36',"g":'5.1',"d":'Gramplet za označivanje osoba u slikama',"z":'PhotoTaggingGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Photo Tagging',"n":'Označivanje slika',"v":'1.0.37',"g":'5.1',"d":'Gramplet za označivanje osoba u slikama',"z":'PhotoTaggingGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Place Coordinates',"n":'Place and Coordinates',"v":'1.1.16',"g":'5.1',"d":'Gramplet that simplifies setting the coordinates of a place',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceCleanup',"n":'Sređivanje mjesta',"v":'1.0.15',"g":'5.1',"d":'Gramplet pomaže sjediniti mjesta, kao i popuniti mjesta uz pomoć GeoNames web baze podataka',"z":'PlaceCleanup.addon.tgz'}
 {"t":'Gramplet',"i":'PlaceUpdate',"n":'PlaceUpdate',"v":'1.0.7',"g":'5.1',"d":'Gramplet to manipulate multiple places',"z":'PlaceUpdate.addon.tgz'}
