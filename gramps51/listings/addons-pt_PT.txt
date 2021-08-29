@@ -52,6 +52,7 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Gestor de extensões melhorado',"v":'1.0.29',"g":'5.1',"d":'Um gestor de extensões com várias capacidades melhoradas',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.4',"g":'5.1',"d":'Collection of Web sites for the RU (requires libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Recomeçar o trabalho onde estava',"v":'0.0.16',"g":'5.1',"d":'Esta extensão faz com que o Gramps recomece na mesma vista e objecto em que estava quando fechou o Gramps. Não adiciona menus nem gramplets, mas permite encontrar os últimos seis objectos visitados através do menu Ir.',"z":'RestoreHist.addon.tgz'}
+{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.1',"g":'5.1',"d":'Collection of Web sites for Sweden (requires libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Preferências do tema',"v":'0.0.9',"g":'5.1',"d":'Uma adição às preferências para ajuste simples de tema e letra. Especialmente útil para utilizadores do Windows.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.39',"g":'5.1',"d":'Colecção de páginas web para UK (requer libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.45',"g":'5.1',"d":'Colecção de páginas web para US (requer libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
