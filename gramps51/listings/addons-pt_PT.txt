@@ -122,7 +122,7 @@
 {"t":'Tool',"i":'PlaceCompletion',"n":'Conclusão de locais',"v":'0.0.40',"g":'5.1',"d":'Fornece uma lista navegável de locais seleccionados, com a possibilidade de concluir/analisar/definir os atributos.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Adicionar / remover ferramenta de etiqueta',"v":'1.1.6',"g":'5.1',"d":'Adicione ou remova uma etiqueta de grupos de indivíduos, eventos, etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Definir atributo',"v":'0.0.33',"g":'5.1',"d":'Definir um atributo num dado valor.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Ferramenta Definir privacidade',"v":'1.0.10',"g":'5.1',"d":'Define todos os objectos dos últimos <número> anos como privados.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Ferramenta Definir privacidade',"v":'1.0.12',"g":'5.1',"d":'Define todos os objectos dos últimos <número> anos como privados.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Árvore genealógica interactiva',"v":'1.1.7',"g":'5.1',"d":'Abre uma árvore interactiva no navegador',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Verificar dados de associação',"v":'1.1.10',"g":'5.1',"d":'Vai verificar os dados na associação para indivíduos.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Ordenar filhos por data de nascimento',"v":'0.0.14',"g":'5.1',"d":'Procura em famílias por filhos que estejam fora da ordem de nascimento. O utilizador pode aceitar sugestões de correcção individuais, editar a ordem de nascimento manualmente, aceitar as famílias que têm os filhos bem ordenados ou aceitar tudo.',"z":'BirthOrder.addon.tgz'}
