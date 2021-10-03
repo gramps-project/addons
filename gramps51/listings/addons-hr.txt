@@ -95,23 +95,23 @@
 {"t":'Report',"i":'gt_sandclock',"n":'Stablo u obliku pješčanog sata',"v":'1.0.16',"g":'5.1',"d":'Stablo u obliku pješčanog sata, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Stablo u obliku pješčanog sata za obitelj',"v":'1.0.16',"g":'5.1',"d":'Stablo u obliku pješčanog sata za obitelj, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Mrežni dijagram',"v":'0.0.25',"g":'5.1',"d":'Stvara mrežni dijagram obitelji.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.6',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Obitelji s događajima s odabranom ulogom',"v":'0.0.19',"g":'5.1',"d":'Pronalazi obitelji s događajima s odabranom ulogom',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'Osobe s događajima s odabranom ulogom',"v":'0.0.19',"g":'5.1',"d":'Pronalazi osobe s događajima s odabranom ulogom',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Izvor odgovara parametrima',"v":'0.0.19',"g":'5.1',"d":'Pronalazi izvore s vrijednostima koje sadrže odabrane parametre',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Osobe u srodstvu s <filtrom>',"v":'1.0.17',"g":'5.1',"d":'Pronalazi osobe koje su u srodstvu s bilo kojom osobom koja je pronađena pomoću filtra za osobe',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.7',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Obitelji s događajima s odabranom ulogom',"v":'0.0.20',"g":'5.1',"d":'Pronalazi obitelji s događajima s odabranom ulogom',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'Osobe s događajima s odabranom ulogom',"v":'0.0.20',"g":'5.1',"d":'Pronalazi osobe s događajima s odabranom ulogom',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Izvor odgovara parametrima',"v":'0.0.20',"g":'5.1',"d":'Pronalazi izvore s vrijednostima koje sadrže odabrane parametre',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Osobe u srodstvu s <filtrom>',"v":'1.0.18',"g":'5.1',"d":'Pronalazi osobe koje su u srodstvu s bilo kojom osobom koja je pronađena pomoću filtra za osobe',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilinearna pretkinja od <osoba>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi najraniju zapisanu majku matrilinearnih pretkinja.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilinearni predak od <osoba>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi najranijeg zapisanog oca patrilinearnih predaka.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Osobe koje su dio obitelji koje odgovaraju <filtru>',"v":'1.0.14',"g":'5.1',"d":'Osobe koje su dio obitelji koje odgovaraju <filtru>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'ageatdeath',"n":'Filter people by their age at death',"v":'1.0.7',"g":'5.1',"d":'Filter rule that matches people by their age at death',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associations of <person filter>',"v":'1.0.8',"g":'5.1',"d":'Match associations of <person filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'degreesofseparation',"n":'Osobe razdvojene manje od <N> stupnjeva od <osobe>',"v":'1.1.7',"g":'5.1',"d":'Pravilo filtra pronalazi srodnike po stupnjevima razdvajanja',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Obitelji koje odgavaraju <filtru za događaje>',"v":'1.0.14',"g":'5.1',"d":'Pronalazi obitelji koje odgovaraju filtru za događaje',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Događaji obitelji koje odgovaraju <filtru za obitelji>',"v":'1.0.11',"g":'5.1',"d":'Događaji obitelji koje odgovaraju <filtru za obitelji>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Osobe koje su dio obitelji koje odgovaraju <filtru>',"v":'1.0.15',"g":'5.1',"d":'Osobe koje su dio obitelji koje odgovaraju <filtru>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'ageatdeath',"n":'Filter people by their age at death',"v":'1.0.8',"g":'5.1',"d":'Filter rule that matches people by their age at death',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associations of <person filter>',"v":'1.0.9',"g":'5.1',"d":'Match associations of <person filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'degreesofseparation',"n":'Osobe razdvojene manje od <N> stupnjeva od <osobe>',"v":'1.1.8',"g":'5.1',"d":'Pravilo filtra pronalazi srodnike po stupnjevima razdvajanja',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Obitelji koje odgavaraju <filtru za događaje>',"v":'1.0.15',"g":'5.1',"d":'Pronalazi obitelji koje odgovaraju filtru za događaje',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Događaji obitelji koje odgovaraju <filtru za obitelji>',"v":'1.0.12',"g":'5.1',"d":'Događaji obitelji koje odgovaraju <filtru za obitelji>',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'mtinheritance',"n":'Nasljeđivanje mitohondrija od <osoba>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi zapisane potomke osobe, prateći mustre nasljeđivanja mitohondrija.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Nasljeđivanje mitohondrija od <filtar>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi zapisane potomke rezultata filtra, prateći mustre nasljeđivanja mitohondrija.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'multipleparents',"n":'Multiple Parents Filter',"v":'0.0.6',"g":'5.1',"d":'Multiple Parents Filter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.1',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'multipleparents',"n":'Multiple Parents Filter',"v":'0.0.7',"g":'5.1',"d":'Multiple Parents Filter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.2',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'xchromancestors',"n":'X-kromosomski predak od <osoba>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi pretke od <osoba>, prateći mustru nasljeđivanja X-kromosoma.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'xchromdescendants',"n":'X-kromosomski potomak od <osoba>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi potomke od <osoba>, prateći mustru nasljeđivanja X-kromosoma.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritance',"n":'Nasljeđivanje Y-kromosa od <osoba>',"v":'1.0.6',"g":'5.1',"d":'Pronalazi zapisane potomke osobe, prateći mustre nasljeđivanja Y-kromosoma.',"z":'FilterRules2.addon.tgz'}
