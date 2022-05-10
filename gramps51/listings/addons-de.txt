@@ -1,4 +1,4 @@
-{"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.12',"g":'5.1',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
+{"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.31',"g":'5.1',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.19',"g":'5.1',"d":'Dies ist ein JSON Export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exportiert Daten in ein Prolog-Faktenformat. Daten sind in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -117,12 +117,12 @@
 {"t":'Rule',"i":'yinheritance',"n":'Y-chromosomale Vererbung von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen einer Person nach Y-chromosomalen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomale Vererbung von <Filter>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen eines Filterergebnisses nach Y-chromosomalen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Quelle hinzufügen',"v":'0.0.36',"g":'5.1',"d":'Fügt verteilte Quellen mehreren Objekten hinzu.',"z":'AttachSourceTool.addon.tgz'}
-{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.10',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
+{"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.11',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
 {"t":'Tool',"i":'EventDescriptionEditor',"n":'Ereignisbeschreibungseditor',"v":'1.0.9',"g":'5.1',"d":'Ein Werkzeug zum Suchen und Ersetzen einer Zeichenfolge in der Ereignisbeschreibung mehrerer Ereignisse.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Werkzeug für Familienbeziehungen',"v":'1.1.6',"g":'5.1',"d":'Massen-Bearbeitung des Familienbeziehungstyp für eine Gruppe von Familien.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'FixCoords',"n":'Fix Place Coordinates',"v":'1.0.3',"g":'5.1',"d":'Tool to correct the place coordinates for extra spaces or comma characters.',"z":'FixCoords.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.40',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
-{"t":'Tool',"i":'RemoveTagTool',"n":'Markierungen Hinzufügen/Entfernen Werkzeug',"v":'1.1.6',"g":'5.1',"d":'Hinzufügen oder Entfernen einer Markierung zu Gruppen von Personen, Ereignissen usw.',"z":'RemoveTagTool.addon.tgz'}
+{"t":'Tool',"i":'RemoveTagTool',"n":'Markierungen Hinzufügen/Entfernen Werkzeug',"v":'1.1.7',"g":'5.1',"d":'Hinzufügen oder Entfernen einer Markierung zu Gruppen von Personen, Ereignissen usw.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.33',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
 {"t":'Tool',"i":'SetPrivacyTool',"n":'Datenschutz einstellen Werkzeug',"v":'1.0.12',"g":'5.1',"d":'All Objekte der letzten <number> Jahre als vertraulich markieren.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktiver Stammbaum',"v":'1.1.7',"g":'5.1',"d":'Öffnet einen interaktiven Baum im Browser',"z":'Topola.addon.tgz'}
