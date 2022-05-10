@@ -1,4 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL Database',"z":'PostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.1',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportation des extensions Gedcom (GED2)',"v":'1.0.31',"g":'5.1',"d":'Extensions du format courant Gedcom.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'Exportation JSON',"v":'1.0.19',"g":'5.1',"d":'Ceci est une exportation JSON',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Exportation Prolog',"v":'1.0.16',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -137,6 +138,7 @@
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.8',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Vérification des media',"v":'1.0.24',"g":'5.1',"d":'Vérifier si l\'objet medium est présent avec le bon chemin ',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Nettoyage de note',"v":'1.0.18',"g":'5.1',"d":'Nettoyer les notes qui contiennent des balises HTML',"z":'NoteCleanup.addon.tgz'}
+{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.1',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.8',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Générateur de miniature',"v":'1.0.26',"g":'5.1',"d":'Génère des miniatures de nos fichiers media',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.8',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
