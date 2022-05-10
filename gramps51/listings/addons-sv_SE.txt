@@ -67,7 +67,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Ättlingslinjer',"v":'1.1.7',"g":'5.1',"d":'Producerar ättlingslinjer för en person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljerad bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera detaljerade rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.92',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.93',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.46',"g":'5.1',"d":'Skapar ett familjeark som visar all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.21',"g":'5.1',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Färgdiagram',"v":'1.0.4',"g":'5.1',"d":'Skapa en webbrapport med färgdiagram.',"z":'Heatmap.addon.tgz'}

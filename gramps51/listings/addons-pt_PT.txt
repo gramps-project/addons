@@ -67,7 +67,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Livro Descendentes',"v":'1.1.25',"g":'5.1',"d":'Produz um ou mais relatórios de descendência baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linhas de descendentes',"v":'1.1.7',"g":'5.1',"d":'Produz linhas de descendentes de um indivíduo',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Livro Descendência detalhada',"v":'1.1.25',"g":'5.1',"d":'Produz um ou mais relatórios de descendência detalhada baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.92',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.93',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Folha familiar',"v":'3.4.46',"g":'5.1',"d":'Produz uma folha familiar mostrando a informação completa sobre um indivíduo, companheiros e filhos.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Árvore de família',"v":'4.2.21',"g":'5.1',"d":'Produz uma árvore de família.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.4',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
