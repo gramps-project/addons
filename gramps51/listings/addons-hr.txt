@@ -69,7 +69,7 @@
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.25',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dinamični web izvještaj',"v":'0.0.92',"g":'5.1',"d":'Stvara dinamične web stranice za bazu podataka',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Obiteljski list',"v":'3.4.46',"g":'5.1',"d":'Stvara obiteljski list s potpunim podacima osobe, njenim partnerima i djeci.',"z":'FamilySheet.addon.tgz'}
-{"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.20',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'FamilyTree',"n":'Rodoslov',"v":'4.2.21',"g":'5.1',"d":'Izrađuje grafički rodoslov.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.0.4',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Izvještaj o zadnjim promjenama',"v":'0.1.9',"g":'5.1',"d":'Izvještaj o zadnjim promijenjenim zapisima',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Izvještaj o liniji potomstva',"v":'1.1.34',"g":'5.1',"d":'Ispisuje sve linije potomstva zadanog pretka do zadanog potomka u tekstualnom obliku.',"z":'LinesOfDescendency.addon.tgz'}

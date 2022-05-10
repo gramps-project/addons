@@ -69,7 +69,7 @@
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.25',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamisch webverslag',"v":'0.0.92',"g":'5.1',"d":'Produceert dynamische webpagina\'s voor de database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familieblad',"v":'3.4.46',"g":'5.1',"d":'Toont een familieblad met volledige informatie over een persoon en zijn/haar partners en kinderen.',"z":'FamilySheet.addon.tgz'}
-{"t":'Report',"i":'FamilyTree',"n":'Stamboom',"v":'4.2.20',"g":'5.1',"d":'Produceert een grafische stamboom.',"z":'FamilyTree.addon.tgz'}
+{"t":'Report',"i":'FamilyTree',"n":'Stamboom',"v":'4.2.21',"g":'5.1',"d":'Produceert een grafische stamboom.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Warmtebeeld',"v":'1.0.4',"g":'5.1',"d":'Maak een warmtebeeld-webverslag.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Laatste wijzigingsverslag',"v":'0.1.9',"g":'5.1',"d":'Verslag van de laatste gegevens die gewijzigd zijn',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Afstammelingslijnenverslag',"v":'1.1.34',"g":'5.1',"d":'Print alle afstammingslijnen van een bepaalde voorouder naar een bepaalde afstammeling in tekst uit.',"z":'LinesOfDescendency.addon.tgz'}
