@@ -88,7 +88,7 @@
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Indraget träd för ättlingar',"v":'1.0.31',"g":'5.1',"d":'Skapar en webbsida med en grafiskt ättlingatavla (SVG) som ett hopfällbart indraget träd med hjälp av D3,js javaskript-bibliotek.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Rapport för databasskillnader',"v":'1.0.22',"g":'5.1',"d":'Jämför en extern databas med den aktuella.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.43',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
-{"t":'Report',"i":'det_descendant_report_i',"n":'Detaljerad ättlingarapport med alla bilder',"v":'1.0.9',"g":'5.1',"d":'Producerar en detaljerad ättlingarapport med alla bilder och frivillig att-göra-lista.',"z":'DetDescendantReport-images.addon.tgz'}
+{"t":'Report',"i":'det_descendant_report_i',"n":'Detaljerad ättlingarapport med alla bilder',"v":'1.0.10',"g":'5.1',"d":'Producerar en detaljerad ättlingarapport med alla bilder och frivillig att-göra-lista.',"z":'DetDescendantReport-images.addon.tgz'}
 {"t":'Report',"i":'double_cousins',"n":'Dubbelkusiner',"v":'1.0.3',"g":'5.1',"d":'En textrapport som listar dubbelkusiner.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Antavla, traditionell',"v":'1.0.16',"g":'5.1',"d":'Antavla som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Stamtavla',"v":'1.0.16',"g":'5.1',"d":'Stamtavla som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}

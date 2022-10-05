@@ -88,7 +88,7 @@
 {"t":'Report',"i":'d3-descendantindentedtree',"n":'Stablo potomaka s uvlakama',"v":'1.0.31',"g":'5.1',"d":'Stvara web-stranicu s grafičkim prikazom potomaka (SVG) u sklopivom stablastom obliku s uvlakama pomoću D3.js JavaScript biblioteke.',"z":'D3Charts.addon.tgz'}
 {"t":'Report',"i":'database-differences-report',"n":'Izvještaj o razlikama između baza podataka',"v":'1.0.22',"g":'5.1',"d":'Uspoređuje vanjsku bazu podataka s trenutačnom.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.43',"g":'5.1',"d":'Stvara web stranicu (HTML) s grafičkim prikazom predaka/potomaka (SVG), u kojemu se detalji prikazuju prilikom prelaženja mišem preko pojedinca.',"z":'DenominoViso.addon.tgz'}
-{"t":'Report',"i":'det_descendant_report_i',"n":'Detaljni izvještaj o potomcima sa svim slikama',"v":'1.0.9',"g":'5.1',"d":'Stvara detaljan izvještaj o potomcima sa svim slikama, te opcionalno s popisom zadataka.',"z":'DetDescendantReport-images.addon.tgz'}
+{"t":'Report',"i":'det_descendant_report_i',"n":'Detaljni izvještaj o potomcima sa svim slikama',"v":'1.0.10',"g":'5.1',"d":'Stvara detaljan izvještaj o potomcima sa svim slikama, te opcionalno s popisom zadataka.',"z":'DetDescendantReport-images.addon.tgz'}
 {"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.3',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Stablo predaka',"v":'1.0.16',"g":'5.1',"d":'Stablo predaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Stablo potomaka',"v":'1.0.16',"g":'5.1',"d":'Stablo potomaka, koristeći LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
