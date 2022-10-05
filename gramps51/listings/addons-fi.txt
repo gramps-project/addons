@@ -42,8 +42,8 @@
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.7',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Kaavionäkymä',"v":'1.0.130',"g":'5.1',"d":'Dynaaminen ja vuorovaikutteinen suhteiden kuvaaja',"z":'GraphView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.20',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
-{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.20',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line Ancestor Chart',"v":'1.3.21',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
+{"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line Descendant Chart',"v":'1.3.21',"g":'5.1',"d":'Persons and their relation in a time based chart',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.19',"g":'5.1',"d":'This is a JSON import',"z":'JSON.addon.tgz'}
 {"t":'Importer',"i":'im_sqlite',"n":'SQLite Import',"v":'1.1.6',"g":'5.1',"d":'SQLite is a common local database format',"z":'Sqlite.addon.tgz'}
 {"t":'Map service',"i":'GoogleEarth',"n":'GoogleEarth',"v":'1.0.47',"g":'5.1',"d":'Luo GoogleEarth tiedostoa ja avaa sen',"z":'GoogleEarthWriteKML.addon.tgz'}
