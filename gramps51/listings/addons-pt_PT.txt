@@ -38,7 +38,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Costados H-Tree',"v":'0.0.29',"g":'5.1',"d":'Mostra um espaço de costados eficiente com os antepassados do indivíduo seleccionado',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Gráfico de retalhos',"v":'1.0.19',"g":'5.1',"d":'Mostra uma vista gráfica da árvore de família',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Cronologia de costados',"v":'0.1.61',"g":'5.1',"d":'Mostra uma cronologia de costados com ascendentes e descendentes do indivíduo seleccionado',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.6',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.7',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.7',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Vista gráfica',"v":'1.0.130',"g":'5.1',"d":'Gráfico de relações dinâmico e interactivo',"z":'GraphView.addon.tgz'}

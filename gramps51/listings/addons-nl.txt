@@ -38,7 +38,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Stamboom',"v":'0.0.29',"g":'5.1',"d":'De weergave toont een ruimte-efficiënte kwartierstaat met voorouders van de geselecteerde persoon',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Quilt-grafiek',"v":'1.0.19',"g":'5.1',"d":'De weergave toont een quiltkaartvisualisatie van een stamboom',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Tijdlijn-kwartierstaat',"v":'0.1.61',"g":'5.1',"d":'De weergave toont een tijdlijn-kwartierstaat met voorouders en afstammelingen van de geselecteerde persoon',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'2.0.6',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'2.0.7',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.7',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.130',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
