@@ -134,6 +134,7 @@
 {"t":'Tool',"i":'climerge',"n":'União pela linha de comandos',"v":'1.0.35',"g":'5.1',"d":'Unir objectos primários via linha de comandos.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Transferir multimédia da Internet',"v":'1.0.15',"g":'5.1',"d":'Esta ferramente transfere multimédia da Internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrair dados do local a partir do título',"v":'1.0.12',"g":'5.1',"d":'Tenta extrair a cidade e o distrito de um título de local',"z":'ExtractCity.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.2',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Ferramenta de importação e união',"v":'0.0.19',"g":'5.1',"d":'Compara uma base de dados Gramps XML com a actual e permite unir as diferenças.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Unir multimédia',"v":'1.0.8',"g":'5.1',"d":'Procura em toda a base de dados por multimédia que tenha o mesmo caminho e une-a.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Verificar multimédia',"v":'1.0.24',"g":'5.1',"d":'Verifica se a multimédia está presente no caminho correcto',"z":'MediaVerify.addon.tgz'}

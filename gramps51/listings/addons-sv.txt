@@ -134,6 +134,7 @@
 {"t":'Tool',"i":'climerge',"n":'Lägg ihop via kommandoraden',"v":'1.0.35',"g":'5.1',"d":'Lägg ihop primära objekt via kommandoraden.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Ladda ner mediafiler från internet',"v":'1.0.15',"g":'5.1',"d":'Det här verktyget laddar ner mediafiler från internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Hämta uppgifter om platser från deras benämning',"v":'1.0.12',"g":'5.1',"d":'Försök att hämta namn på stad/kommun och län från platsers benämning',"z":'ExtractCity.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.2',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Verktyg för att importera och slå samman',"v":'0.0.19',"g":'5.1',"d":'Jämför en Gramps XML-databas med den aktuella och möjliggör sammanslagning av skillnaderna.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Mediasammanslagning',"v":'1.0.8',"g":'5.1',"d":'Söker igenom hela databasen för att hitta media som har samma sökväg och slår samman dem.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Verifiera media',"v":'1.0.24',"g":'5.1',"d":'Verifiera att media finns i rätt sökväg',"z":'MediaVerify.addon.tgz'}
