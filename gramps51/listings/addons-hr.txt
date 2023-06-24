@@ -64,7 +64,7 @@
 {"t":'Quickreport',"i":'allnames',"n":'Sva imena svih osoba',"v":'1.0.29',"g":'5.1',"d":'Prikaži sva imena svih osoba',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografija',"v":'1.0.12',"g":'5.1',"d":'Prikaži biografiju u tekstualnom obliku',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Kronologija',"v":'1.0.31',"g":'5.1',"d":'Prikazuje događaje osobe kronološki',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'AncestorFill',"n":'Popunjenost predaka',"v":'1.0.17',"g":'5.1',"d":'Izvještaj o popunjenosti rodoslova',"z":'AncestorFill.addon.tgz'}
+{"t":'Report',"i":'AncestorFill',"n":'Popunjenost predaka',"v":'1.0.19',"g":'5.1',"d":'Izvještaj o popunjenosti rodoslova',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Knjiga o potomcima',"v":'1.1.25',"g":'5.1',"d":'Stvara jedan ili više izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linije potomaka',"v":'1.1.7',"g":'5.1',"d":'Stvara linije potomaka za jednu osobu',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljna knjiga o potomcima',"v":'1.1.25',"g":'5.1',"d":'Stvara jedan ili više detaljnih izvještaja o potomcima, na osnovi dostavljenog upita.',"z":'DescendantBooks.addon.tgz'}

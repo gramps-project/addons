@@ -64,7 +64,7 @@
 {"t":'Quickreport',"i":'allnames',"n":'Samtliga namn för alla personer',"v":'1.0.29',"g":'5.1',"d":'Visa samtliga namn för alla personer',"z":'AllNamesQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'biographyquickview',"n":'Biografi',"v":'1.0.12',"g":'5.1',"d":'Visar en biografitext',"z":'BiographyQuickview.addon.tgz'}
 {"t":'Quickreport',"i":'timelinequickview',"n":'Tidslinje',"v":'1.0.31',"g":'5.1',"d":'Visar händelser för en person på en tidslinje',"z":'TimelineQuickview.addon.tgz'}
-{"t":'Report',"i":'AncestorFill',"n":'Anors fyllnadsgrad',"v":'1.0.17',"g":'5.1',"d":'Rapport över ifyllnad av släktträd',"z":'AncestorFill.addon.tgz'}
+{"t":'Report',"i":'AncestorFill',"n":'Anors fyllnadsgrad',"v":'1.0.19',"g":'5.1',"d":'Rapport över ifyllnad av släktträd',"z":'AncestorFill.addon.tgz'}
 {"t":'Report',"i":'DescendantBook',"n":'Bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Ättlingslinjer',"v":'1.1.7',"g":'5.1',"d":'Producerar ättlingslinjer för en person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljerad bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera detaljerade rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
