@@ -8,7 +8,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Verjaardagen',"v":'1.1.11',"g":'5.1',"d":'een gramplet dat de verjaardagen van de nog in leven zijnde personen toont',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Klok',"v":'0.0.32',"g":'5.1',"d":'Gramplet voor het demonstreren van Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Klembord collecties',"v":'1.0.41',"g":'5.1',"d":'Gramplet voor het groeperen van verzamelingen items om te helpen bij het invoeren van gegevens.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA-segmentkaart',"v":'1.1.4',"g":'5.1',"d":'Gramplet dat een overeenkomende DNA-segmentkaart toont',"z":'DNA.addon.tgz'}
+{"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA-segmentkaart',"v":'2.0.1',"g":'5.1',"d":'Gramplet dat een overeenkomende DNA-segmentkaart toont',"z":'DNA.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gegevensinvoer Gramplet',"v":'1.0.46',"g":'5.1',"d":'Gramplet om snel gegevens in te voeren',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datum rekenmachine',"v":'0.0.14',"g":'5.1',"d":'Handig voor wiskundige berekeningen met datums',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Verre verwanten gramplet',"v":'1.0.40',"g":'5.1',"d":'De gramplet toont de relatie tussen de actieve persoon en verre verwanten',"z":'DeepConnectionsGramplet.addon.tgz'}
