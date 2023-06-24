@@ -71,7 +71,7 @@
 {"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.93',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.46',"g":'5.1',"d":'Skapar ett familjeark som visar all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.21',"g":'5.1',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
-{"t":'Report',"i":'Heatmap',"n":'Färgdiagram',"v":'1.0.4',"g":'5.1',"d":'Skapa en webbrapport med färgdiagram.',"z":'Heatmap.addon.tgz'}
+{"t":'Report',"i":'Heatmap',"n":'Färgdiagram',"v":'1.2.2',"g":'5.1',"d":'Skapa en webbrapport med färgdiagram.',"z":'Heatmap.addon.tgz'}
 {"t":'Report',"i":'LastChangeReport',"n":'Rapport över senaste ändringar',"v":'0.1.9',"g":'5.1',"d":'Rapport över de poster, som har ändrats senast',"z":'LastChange.addon.tgz'}
 {"t":'Report',"i":'LinesOfDescendency',"n":'Rapport för ättlingalinjer',"v":'1.1.34',"g":'5.1',"d":'Skriver ut alla ättlingalinjer från en angiven förfader till en angiven ättling som text.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Snabblista',"v":'1.0.25',"g":'5.1',"d":'Skapar en snabblista',"z":'ListeEclair.addon.tgz'}
