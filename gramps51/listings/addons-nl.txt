@@ -140,6 +140,6 @@
 {"t":'Tool',"i":'mediaverify',"n":'Mediaverificatie',"v":'1.0.24',"g":'5.1',"d":'Controleer of media aan het juiste pad gekoppeld zijn',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Opmerking opschonen',"v":'1.0.18',"g":'5.1',"d":'Opschonen van opmerkingen die HTML-opmaak bevatten',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.2',"g":'5.1',"d":'Upload mediabestanden naar S3 (of compatibele) objectgebaseerde opslag via de opdrachtregel.',"z":'S3MediaUploader.addon.tgz'}
-{"t":'Tool',"i":'syncAssociations',"n":'Synchroniseer associaties',"v":'0.0.8',"g":'5.1',"d":'Doorloopt de lijst met personen voor alle associaties die bidirectioneel zijn en voegt alle ontbrekende toe aan de geassocieerde persoon.',"z":'SyncAssociations.addon.tgz'}
+{"t":'Tool',"i":'syncAssociations',"n":'Synchroniseer associaties',"v":'0.0.9',"g":'5.1',"d":'Doorloopt de lijst met personen voor alle associaties die bidirectioneel zijn en voegt alle ontbrekende toe aan de geassocieerde persoon.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniatuurafbeeldingsgenerator',"v":'1.0.26',"g":'5.1',"d":'Genereert miniaturen voor mediabestanden',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type opschonen',"v":'1.0.8',"g":'5.1',"d":'Aangepaste soorten opschonen (verwijderen)',"z":'TypeCleanup.addon.tgz'}

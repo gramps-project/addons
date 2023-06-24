@@ -140,6 +140,6 @@
 {"t":'Tool',"i":'mediaverify',"n":'Vérification des media',"v":'1.0.24',"g":'5.1',"d":'Vérifier si l\'objet medium est présent avec le bon chemin ',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Nettoyage de note',"v":'1.0.18',"g":'5.1',"d":'Nettoyer les notes qui contiennent des balises HTML',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.2',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
-{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.8',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
+{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.9',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Générateur de miniature',"v":'1.0.26',"g":'5.1',"d":'Génère des miniatures de nos fichiers media',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.8',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}
