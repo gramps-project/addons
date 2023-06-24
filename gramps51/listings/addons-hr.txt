@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.16',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.33',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.16',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.42',"g":'5.1',"d":'Gramplet za pirkaz najnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.44',"g":'5.1',"d":'Gramplet za pirkaz najnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Kronologija kuće',"v":'1.0.11',"g":'5.1',"d":'Kronološki popis stanovnika na adresi',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Uvezi tekst',"v":'1.0.38',"g":'5.1',"d":'Gramplet za uvoz teksta',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Zadnja promjena',"v":'0.1.9',"g":'5.1',"d":'Nabroji zadnjih deset promijenjenih zapisa osobe',"z":'LastChange.addon.tgz'}
@@ -36,9 +36,9 @@
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Srodstva srodnika',"v":'1.0.35',"g":'5.1',"d":'Gramplet prikazuje vrste srodstva za srodnike',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Ovaj dan u povijesti obitelji',"v":'1.0.9',"g":'5.1',"d":'Podešavajući program za prikaz povezanih događaja u tvojem rodoslovu, koji odgovaraju današnjem danu i mjesecu.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-stablo predaka',"v":'0.0.29',"g":'5.1',"d":'Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.19',"g":'5.1',"d":'Prikazuje dijagram rodoslova u obliku popluna',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'Poplunasti dijagram',"v":'1.0.20',"g":'5.1',"d":'Prikazuje dijagram rodoslova u obliku popluna',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Kronologija predaka',"v":'0.1.61',"g":'5.1',"d":'Prikazuje kronologiju predaka s precima i potomcima odabrane osobe',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Zajedno',"v":'2.0.7',"g":'5.1',"d":'Prikaz srodstva i događaja za jednu osobu',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Zajedno',"v":'2.0.8',"g":'5.1',"d":'Prikaz srodstva i događaja za jednu osobu',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Karta predaka',"v":'1.0.7',"g":'5.1',"d":'Pogled za prikaz mjesta predaka na karti.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Dijagram srodstva',"v":'1.0.130',"g":'5.1',"d":'Dinamičan i interaktivan dijagram srodstva',"z":'GraphView.addon.tgz'}
@@ -78,8 +78,8 @@
 {"t":'Report',"i":'MediaReport',"n":'Izvještaj o medijima',"v":'1.1.7',"g":'5.1',"d":'Izrađuje izvještaj koji uključuje slike, podatke slika i zabilješke.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Dijagram predaka',"v":'1.0.35',"g":'5.1',"d":'Alternativni prikaz uobičajenog dijagrama predaka.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Izvještaj o osobi',"v":'1.0.19',"g":'5.1',"d":'Stvara izvještaj sa svim podacima aktivne osobe',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Izvještaj o spremištima',"v":'1.1.29',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Opcije za izvještaj o spremištima',"v":'0.3.29',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Izvještaj o spremištima',"v":'1.1.30',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Opcije za izvještaj o spremištima',"v":'0.3.30',"g":'5.1',"d":'Stvara tekstualni izvještaj o spremištima',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Izvještaj o izvorima i citatima',"v":'3.6.10',"g":'5.1',"d":'Stvara izvještaj o izvorima i citatima, zajedno sa zabilješkama',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.4',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Izvještaj o zadacima',"v":'1.2.33',"g":'5.1',"d":'Stvara popis svih zabilježaka sa zadanom etiketom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, događaj, itd.',"z":'ToDoReport.addon.tgz'}

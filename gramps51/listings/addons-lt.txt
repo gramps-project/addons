@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.16',"g":'5.1',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.33',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet to get places from the GOV database',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'Headline News',"n":'Headline News',"v":'1.0.42',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Headline News',"n":'Headline News',"v":'1.0.44',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.11',"g":'5.1',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Text',"v":'1.0.38',"g":'5.1',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change',"v":'0.1.9',"g":'5.1',"d":'List the last ten person records that have been changed',"z":'LastChange.addon.tgz'}
@@ -36,9 +36,9 @@
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Related Relatives',"v":'1.0.35',"g":'5.1',"d":'Gramplet showing relatives in a relation',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'This Day in Family History',"v":'1.0.9',"g":'5.1',"d":'A configurable program that shows you the connected events from your family tree that match today\'s day and month.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Tree Pedigree',"v":'0.0.29',"g":'5.1',"d":'The view shows a space-efficient pedigree with ancestors of the selected person',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.19',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'Quilt Chart',"v":'1.0.20',"g":'5.1',"d":'The view shows a quilt chart visualisation of a family tree',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Timeline Pedigree',"v":'0.1.61',"g":'5.1',"d":'The view shows a timeline pedigree with ancestors and descendants of the selected person',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.7',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.8',"g":'5.1',"d":'A view showing relationships and events for a person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.7',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graph View',"v":'1.0.130',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
@@ -78,8 +78,8 @@
 {"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.1.7',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.35',"g":'5.1',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.19',"g":'5.1',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Repositories Report',"v":'1.1.29',"g":'5.1',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.29',"g":'5.1',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Repositories Report',"v":'1.1.30',"g":'5.1',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.30',"g":'5.1',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Sources and Citations Report',"v":'3.6.10',"g":'5.1',"d":'Provides a source and Citations Report with notes',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.4',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Norėdami atlikti ataskaitą',"v":'1.2.33',"g":'5.1',"d":'Sudaro visų užrašų su duota etikete sąrašą kartu su įrašais, kuriais jis remiasi, asmeniu, šeima, įvykiu ir kt.',"z":'ToDoReport.addon.tgz'}

@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Family Overview',"n":'Familienübersicht',"v":'1.0.16',"g":'5.1',"d":'Gramplet zeigt eine Übersicht über Ereignisse für eine Familie',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Formular Gramplet',"v":'2.0.33',"g":'5.1',"d":'Gramplet Schnittstelle für Formulare',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet um Orte aus der GOV Datenbank zu holen',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'Headline News',"n":'Schlagzeilen',"v":'1.0.42',"g":'5.1',"d":'Gramplet das die neuesten Gramps Nachrichten zeigt',"z":'HeadlineNewsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Headline News',"n":'Schlagzeilen',"v":'1.0.44',"g":'5.1',"d":'Gramplet das die neuesten Gramps Nachrichten zeigt',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Haus Zeitleiste',"v":'1.0.11',"g":'5.1',"d":'Listet die Bewohner einer Adresse nach Zeitachse auf',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Text importieren',"v":'1.0.38',"g":'5.1',"d":'Gramplet zum Textimport',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Letzte Änderung',"v":'0.1.9',"g":'5.1',"d":'Listet die letzten zehn geänderten Personendatensätze',"z":'LastChange.addon.tgz'}
@@ -36,9 +36,9 @@
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Verbundene Verwandte',"v":'1.0.35',"g":'5.1',"d":'Gramplet zeigt die Beziehung zwischen Verwandten',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Dieser Tag in der Familiengeschichte',"v":'1.0.9',"g":'5.1',"d":'Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die dem heutigen Tag und Monat entsprechen.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Baum Ahnentafel',"v":'0.0.29',"g":'5.1',"d":'Die Ansicht zeigt eine platzsparende Ahnentafel mit Vorfahren der gewählten Person',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'Steppdeckendiagramm',"v":'1.0.19',"g":'5.1',"d":'Die Ansicht zeigt eine Steppdecken-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'Steppdeckendiagramm',"v":'1.0.20',"g":'5.1',"d":'Die Ansicht zeigt eine Steppdecken-Diagramm-Visualisierung eines Stammbaums',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Zeitleistestammbaum',"v":'0.1.61',"g":'5.1',"d":'Diese Ansicht zeigt einen Zeitleistenstammbaum mit Vorfahren und Nachkommen der gewählten Person',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'2.0.7',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'2.0.8',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ahnenkarte',"v":'1.0.7',"g":'5.1',"d":'Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.130',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
@@ -78,8 +78,8 @@
 {"t":'Report',"i":'MediaReport',"n":'Medienbericht',"v":'1.1.7',"g":'5.1',"d":'Erstellt einen Bericht mit Bildern, Bilddaten und Notizen.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Ahnentafelgrafik',"v":'1.0.35',"g":'5.1',"d":'Alternative Version zur traditionellen Ahnentafelgrafik.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonAlles Bericht',"v":'1.0.19',"g":'5.1',"d":'Erstellt einen Bericht der alles über die aktive Person enthält',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.29',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.29',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Aufbewahrungsorte Bericht',"v":'1.1.30',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Aufbewahrungsorte Berichtsoptionen',"v":'0.3.30',"g":'5.1',"d":'Erstellt einen schriftlichen Aufbewahrungsorte Bericht',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Quellen und Fundstellenbericht',"v":'3.6.10',"g":'5.1',"d":'Bietet einen Quelle und einen Fundstellenbericht mit Notizen',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.4',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Zu erledigen Bericht',"v":'1.2.33',"g":'5.1',"d":'Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datensätzen auf die sie referenziert, die Person, Familie, Ereignis, usw.',"z":'ToDoReport.addon.tgz'}

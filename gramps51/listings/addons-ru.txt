@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Family Overview',"n":'Обзор по семье',"v":'1.0.16',"g":'5.1',"d":'Отображает события связаные с семьёй',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Формы',"v":'2.0.33',"g":'5.1',"d":'Интерфейс для форм',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Места из GOV',"v":'1.0.16',"g":'5.1',"d":'Грамлет для получения местоположений из базы данных GOV',"z":'GetGOV.addon.tgz'}
-{"t":'Gramplet',"i":'Headline News',"n":'Последние новости',"v":'1.0.42',"g":'5.1',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'Headline News',"n":'Последние новости',"v":'1.0.44',"g":'5.1',"d":'Показывает последние новости Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Жители дома',"v":'1.0.11',"g":'5.1',"d":'Список жителей по адресу на линии времени',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Text',"v":'1.0.38',"g":'5.1',"d":'Грамплет для импорта текста',"z":'ImportGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'LastChangeGramplet',"n":'Last Change',"v":'0.1.9',"g":'5.1',"d":'Показывает последние десять лиц в которые вносились изменения',"z":'LastChange.addon.tgz'}
@@ -36,9 +36,9 @@
 {"t":'Gramplet',"i":'Related Relatives Gramplet',"n":'Родственники в связях',"v":'1.0.35',"g":'5.1',"d":'Отображение родственников в связях',"z":'RelatedRelativesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'This Day in Family History',"n":'Этот день в истории семьи',"v":'1.0.9',"g":'5.1',"d":'Настраиваемое дополнение, которое показывает события в Вашем семейном древе совпадающие с текущим днём и месяцем.',"z":'ThisDayInFamilyHistory.addon.tgz'}
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'Древо H-Tree',"v":'0.0.29',"g":'5.1',"d":'Показывае древо предков с соответствующими отступами для выбранного лица',"z":'HtreePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.19',"g":'5.1',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
+{"t":'Gramps View',"i":'QuiltView',"n":'График Quilt',"v":'1.0.20',"g":'5.1',"d":'Представление семейного древа в виде графика Quilt',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Временная диаграмма',"v":'0.1.61',"g":'5.1',"d":'Вид представляющий временную диаграмму семейного древа с предками и потомками для выбранного лица',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.7',"g":'5.1',"d":'Вид отображающий отношения и события для лица',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Combined',"v":'2.0.8',"g":'5.1',"d":'Вид отображающий отношения и события для лица',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Карта предков',"v":'1.0.7',"g":'5.1',"d":'Вид отображающий местоположения предков на карте.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Граф отношений',"v":'1.0.130',"g":'5.1',"d":'Динамический и интерактивный граф отношений',"z":'GraphView.addon.tgz'}
@@ -78,8 +78,8 @@
 {"t":'Report',"i":'MediaReport',"n":'Медиа отчёт',"v":'1.1.7',"g":'5.1',"d":'Создаёт отчёт включающий изображения, информацию об изображении и его заметках.',"z":'MediaReport.addon.tgz'}
 {"t":'Report',"i":'PedigreeChart',"n":'Родословная',"v":'1.0.35',"g":'5.1',"d":'Альтернативная версия традиционного представления родословной.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Всё о человеке',"v":'1.0.19',"g":'5.1',"d":'Предоставляет отчёт содержащий все данные об активном лице',"z":'PersonEverything.addon.tgz'}
-{"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.29',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
-{"t":'Report',"i":'Repositories Report Options',"n":'Параметы отчета о хранилищах',"v":'0.3.29',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report',"n":'Отчёт о хранилищах',"v":'1.1.30',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
+{"t":'Report',"i":'Repositories Report Options',"n":'Параметы отчета о хранилищах',"v":'0.3.30',"g":'5.1',"d":'Предоставляет текстовый отчёт о хранилищах',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'SourcesCitationsReport',"n":'Источники и цитаты',"v":'3.6.10',"g":'5.1',"d":'Создаёт отчёт об источниках и цитатах с заметками',"z":'SourcesCitationsReport.addon.tgz'}
 {"t":'Report',"i":'TimePedigreeHTML',"n":'Timeline Pedigree Report',"v":'0.0.4',"g":'5.1',"d":'This creates a website showing a pedigree with birthday relation',"z":'TimePedigreeHTML.addon.tgz'}
 {"t":'Report',"i":'TodoReport',"n":'Отчёт по задачам',"v":'1.2.33',"g":'5.1',"d":'Предоставляет список всех заметок с указанныой меткой по всем записям на которые они ссылаются (лицо, семья, событие, др.)',"z":'ToDoReport.addon.tgz'}
