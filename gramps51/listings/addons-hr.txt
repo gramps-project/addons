@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Proširena svojstva obitelji',"v":'1.0.30',"g":'5.1',"d":'Gramplet prikazuje svojstva obitelji',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Proširena svojstva osobe',"v":'1.0.30',"g":'5.1',"d":'Gramplet prikazuje svojstva osobe',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Pregled obitelji',"v":'1.0.16',"g":'5.1',"d":'Gramplet za prikaz događaja obitelji',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.34',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Gramplet za obrazac',"v":'2.0.35',"g":'5.1',"d":'Gramplet sučelje za obrazac',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.16',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Novosti',"v":'1.0.44',"g":'5.1',"d":'Gramplet za pirkaz najnovijih novosti',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Kronologija kuće',"v":'1.0.11',"g":'5.1',"d":'Kronološki popis stanovnika na adresi',"z":'HouseTimelineGramplet.addon.tgz'}

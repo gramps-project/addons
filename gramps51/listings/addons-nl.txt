@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Uitgebreide gezinskenmerken',"v":'1.0.30',"g":'5.1',"d":'Gramplet dat de kenmerken van een gezin toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Uitgebreide persoonskenmerken',"v":'1.0.30',"g":'5.1',"d":'Gramplet dat de kenmerken van een persoon toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Gezinsoverzicht',"v":'1.0.16',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een gezin',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Formulier Gramplet',"v":'2.0.34',"g":'5.1',"d":'Gramplet-interface voor formulieren',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Formulier Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet-interface voor formulieren',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nieuwsoverzicht',"v":'1.0.44',"g":'5.1',"d":'Gramplet met het laatste Gramps-nieuws',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Huistijdlijn',"v":'1.0.11',"g":'5.1',"d":'Geeft de bewoners van een adres per tijdlijn weer',"z":'HouseTimelineGramplet.addon.tgz'}

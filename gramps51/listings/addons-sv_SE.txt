@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Utökade familjeattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en familjs attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Utökade personattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en persons attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Familjeöversikt',"v":'1.0.16',"g":'5.1',"d":'Gramplet som visar en översikt på händelser för en familj',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.34',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet för att hämta platser från GOV-databasen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nyhetsrubriker',"v":'1.0.44',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Hustidslinje',"v":'1.0.11',"g":'5.1',"d":'Listar de boende på en adress efter tidslinjen',"z":'HouseTimelineGramplet.addon.tgz'}
