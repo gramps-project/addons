@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL Datenbank',"z":'PostgreSQL.addon.tgz'}
-{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.1',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.2',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM Export Erweiterungen (GED2)',"v":'1.0.31',"g":'5.1',"d":'Erweiterungen für das bekannte GEDCOM Format',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.19',"g":'5.1',"d":'Dies ist ein JSON Export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exportiert Daten in ein Prolog-Faktenformat. Daten sind in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Erweiterte Familienattribute',"v":'1.0.30',"g":'5.1',"d":'Gramplet zeigt die Attribute einer Familie',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Erweiterte Person Attribute',"v":'1.0.30',"g":'5.1',"d":'Gramplet zeigt die Attribute einer Person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Familienübersicht',"v":'1.0.16',"g":'5.1',"d":'Gramplet zeigt eine Übersicht über Ereignisse für eine Familie',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Formular Gramplet',"v":'2.0.33',"g":'5.1',"d":'Gramplet Schnittstelle für Formulare',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Formular Gramplet',"v":'2.0.34',"g":'5.1',"d":'Gramplet Schnittstelle für Formulare',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet um Orte aus der GOV Datenbank zu holen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Schlagzeilen',"v":'1.0.44',"g":'5.1',"d":'Gramplet das die neuesten Gramps Nachrichten zeigt',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Haus Zeitleiste',"v":'1.0.11',"g":'5.1',"d":'Listet die Bewohner einer Adresse nach Zeitachse auf',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -41,7 +41,7 @@
 {"t":'Gramps View',"i":'combinedview',"n":'Kombiniert',"v":'2.0.8',"g":'5.1',"d":'Eine Ansicht, die Beziehungen und Ereignisse für eine Person zeigt',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ahnenkarte',"v":'1.0.7',"g":'5.1',"d":'Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.',"z":'GeoAncestor.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.130',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Graphenansicht',"v":'1.0.131',"g":'5.1',"d":'Dynamisches und interaktives Diagramm von Beziehungen',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Lebenslinien Vorfahren Diagramm',"v":'1.3.21',"g":'5.1',"d":'Personen und ihre Beziehung in einem Zeit basierten Diagramm',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Lebenslinien Nachfahren Diagramm',"v":'1.3.21',"g":'5.1',"d":'Personen und ihre Beziehung in einem Zeit basierten Diagramm',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON Import',"v":'1.0.19',"g":'5.1',"d":'Dies ist ein JSON Import',"z":'JSON.addon.tgz'}
@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Zusatzmodulverwaltung Verbessert',"v":'1.0.30',"g":'5.1',"d":'Zusatzmodulverwaltung mit mehreren zusätzlichen Funktionen',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.4',"g":'5.1',"d":'Sammlung von Websites für RU (erfordert libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Starte neu, wo du zuletzt gearbeitet hast',"v":'0.0.16',"g":'5.1',"d":'Dieses Zusatzmodul bewirkt, dass Gramps in der gleichen Ansicht und dem gleichen Objekt neu startet, in dem Gramps zuvor geschlossen wurde. Es werden keine neuen Menüs oder Gramplets hinzugefügt, sondern die letzten sechs besuchten Objekte werden über das Menü „Gehe zu” gefunden.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.1',"g":'5.1',"d":'Collection of Web sites for Sweden (requires libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.2',"g":'5.1',"d":'Collection of Web sites for Sweden (requires libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Theme-Einstellungen',"v":'0.0.9',"g":'5.1',"d":'Eine Ergänzung zu den Voreinstellungen für die einfache Anpassung von Design und Schrift. Besonders nützlich für Windows-Benutzer.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Verknüpfungspaket',"v":'1.0.39',"g":'5.1',"d":'Sammlung von Webseiten für UK (benötigt libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Verknüpfungspaket',"v":'1.0.47',"g":'5.1',"d":'Sammlung von Webseiten für US (benötigt libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
@@ -68,7 +68,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Nachkommenbuch',"v":'1.1.25',"g":'5.1',"d":'Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere Nachkommenberichte.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Nachkommen Linien',"v":'1.1.7',"g":'5.1',"d":'Erstellt Nachkommenlinien einer Person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Ausführliches Nachkommenbuch',"v":'1.1.25',"g":'5.1',"d":'Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere ausführliche Nachkommenberichte.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamischer Webbericht',"v":'0.0.93',"g":'5.1',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamischer Webbericht',"v":'0.0.94',"g":'5.1',"d":'Erstellt dynamische Webseiten aus der Datenbank',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familienblatt',"v":'3.4.46',"g":'5.1',"d":'Erstellt ein Familienblatt, das vollständige Informationen über eine Person und ihre Partner und Kinder enthält.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stammbaum',"v":'4.2.21',"g":'5.1',"d":'Erzeugt einen grafischen Stammbaum.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.2.2',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
@@ -89,48 +89,48 @@
 {"t":'Report',"i":'database-differences-report',"n":'Datenbankunterschiede Bericht',"v":'1.0.22',"g":'5.1',"d":'Vergleicht eine externe Datenbank mit der aktuell geöffneten.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.43',"g":'5.1',"d":'Erzeugt eine Webseite (HTML) mit einer grafischen Darstellung der Vorfahren /Nachkommen (SVG), bei denen Details über Individuen bei Maus-Ereignissen sichtbar werden.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaillierter Nachkommenbericht mit allen Bildern',"v":'1.0.10',"g":'5.1',"d":'Erstellt einen detaillierten Nachkommenbericht mit allen Bildern und einer optionalen Aufgabenliste.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.3',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Double Cousins',"v":'1.0.4',"g":'5.1',"d":'A text report listing double cousins.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Ahnenbaum',"v":'1.0.16',"g":'5.1',"d":'Ahnenbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Nachkommenbaum',"v":'1.0.16',"g":'5.1',"d":'Nachkommenbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Großelternbaum',"v":'1.0.16',"g":'5.1',"d":'Großelternbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sanduhrbaum',"v":'1.0.16',"g":'5.1',"d":'Sanduhrbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sanduhrbaum für eine Familie',"v":'1.0.16',"g":'5.1',"d":'Sanduhrbaum für eine Familie verwende LaTex genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Netzwerkgrafik',"v":'0.0.25',"g":'5.1',"d":'Erstellt eine Familiennetzwerkgrafik.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.7',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Familien mit Ereignissen mit einer ausgewählten Rolle',"v":'0.0.20',"g":'5.1',"d":'Entspricht Familien mit einem Ereignis mit einer ausgewählten Rolle',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'Personen mit Ereignissen mit einer ausgewählten Rolle',"v":'0.0.20',"g":'5.1',"d":'Entspricht Personen mit einem Ereignis mit einer ausgewählten Rolle',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Quelle entsprechend Parameter',"v":'0.0.20',"g":'5.1',"d":'Entspricht Quellen mit Werten, die die ausgewählten Parameter enthalten',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Personen, die mit <Filter> verwandt sind',"v":'1.0.18',"g":'5.1',"d":'Entspricht Personen, die mit Personen verwandt sind, die mit einem Personenfilter übereinstimmen',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilineal Vorfahrin von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht der frühesten aufgezeichneten matrilinearen Ahnenmutter.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilinealer Stammvater von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht dem frühesten aufgezeichneten Vater eines patrilinealen Vorfahren.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Personen, die Teil von Familien sind, die mit <filter> übereinstimmen',"v":'1.0.15',"g":'5.1',"d":'Personen, die Teil von Familien sind, die mit <filter> übereinstimmen',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'ageatdeath',"n":'Filter people by their age at death',"v":'1.0.8',"g":'5.1',"d":'Filter rule that matches people by their age at death',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associations of <person filter>',"v":'1.0.9',"g":'5.1',"d":'Match associations of <person filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'degreesofseparation',"n":'Personen trennten sich weniger als <N> Grad von <person>',"v":'1.1.8',"g":'5.1',"d":'Filterregel, die Verwandten nach Trennungsgraden entspricht',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Familien, die mit <Ereignisfilter> übereinstimmen',"v":'1.0.15',"g":'5.1',"d":'Entspricht Familien, die von einem Ereignisfilter abgeglichen werden',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Ereignisse von Familien, die einem <Familienfilter> entsprechen',"v":'1.0.12',"g":'5.1',"d":'Ereignisse von Familien, die einem <Familienfilter> entsprechen',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'mtinheritance',"n":'Mitochondriale Vererbung von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen einer Person nach mitochondrialen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitochondriale Vererbung von <Filter>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen eines Filterergebnisses nach mitochondrialen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'multipleparents',"n":'Multiple Parents Filter',"v":'0.0.7',"g":'5.1',"d":'Multiple Parents Filter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.2',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'xchromancestors',"n":'X-chromosomale Vorfahren von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den Vorfahren von <person> nach einem X-chromosomalen Vererbungsmuster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomale Nachkommen von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht Nachkommen von <Person> nach einem X-chromosomalen Vererbungsmuster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'yinheritance',"n":'Y-chromosomale Vererbung von <Person>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen einer Person nach Y-chromosomalen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomale Vererbung von <Filter>',"v":'1.0.6',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen eines Filterergebnisses nach Y-chromosomalen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.8',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Familien mit Ereignissen mit einer ausgewählten Rolle',"v":'0.0.21',"g":'5.1',"d":'Entspricht Familien mit einem Ereignis mit einer ausgewählten Rolle',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'Personen mit Ereignissen mit einer ausgewählten Rolle',"v":'0.0.21',"g":'5.1',"d":'Entspricht Personen mit einem Ereignis mit einer ausgewählten Rolle',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Quelle entsprechend Parameter',"v":'0.0.21',"g":'5.1',"d":'Entspricht Quellen mit Werten, die die ausgewählten Parameter enthalten',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Personen, die mit <Filter> verwandt sind',"v":'1.0.19',"g":'5.1',"d":'Entspricht Personen, die mit Personen verwandt sind, die mit einem Personenfilter übereinstimmen',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilineal Vorfahrin von <Person>',"v":'1.0.7',"g":'5.1',"d":'Entspricht der frühesten aufgezeichneten matrilinearen Ahnenmutter.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilinealer Stammvater von <Person>',"v":'1.0.7',"g":'5.1',"d":'Entspricht dem frühesten aufgezeichneten Vater eines patrilinealen Vorfahren.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Personen, die Teil von Familien sind, die mit <filter> übereinstimmen',"v":'1.0.16',"g":'5.1',"d":'Personen, die Teil von Familien sind, die mit <filter> übereinstimmen',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'ageatdeath',"n":'Filter people by their age at death',"v":'1.0.9',"g":'5.1',"d":'Filter rule that matches people by their age at death',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associations of <person filter>',"v":'1.0.10',"g":'5.1',"d":'Match associations of <person filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'degreesofseparation',"n":'Personen trennten sich weniger als <N> Grad von <person>',"v":'1.1.9',"g":'5.1',"d":'Filterregel, die Verwandten nach Trennungsgraden entspricht',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Familien, die mit <Ereignisfilter> übereinstimmen',"v":'1.0.16',"g":'5.1',"d":'Entspricht Familien, die von einem Ereignisfilter abgeglichen werden',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Ereignisse von Familien, die einem <Familienfilter> entsprechen',"v":'1.0.13',"g":'5.1',"d":'Ereignisse von Familien, die einem <Familienfilter> entsprechen',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'mtinheritance',"n":'Mitochondriale Vererbung von <Person>',"v":'1.0.7',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen einer Person nach mitochondrialen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitochondriale Vererbung von <Filter>',"v":'1.0.7',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen eines Filterergebnisses nach mitochondrialen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'multipleparents',"n":'Multiple Parents Filter',"v":'0.0.8',"g":'5.1',"d":'Multiple Parents Filter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.3',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'xchromancestors',"n":'X-chromosomale Vorfahren von <Person>',"v":'1.0.7',"g":'5.1',"d":'Entspricht den Vorfahren von <person> nach einem X-chromosomalen Vererbungsmuster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomale Nachkommen von <Person>',"v":'1.0.7',"g":'5.1',"d":'Entspricht Nachkommen von <Person> nach einem X-chromosomalen Vererbungsmuster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritance',"n":'Y-chromosomale Vererbung von <Person>',"v":'1.0.7',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen einer Person nach Y-chromosomalen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomale Vererbung von <Filter>',"v":'1.0.7',"g":'5.1',"d":'Entspricht den aufgezeichneten Nachkommen eines Filterergebnisses nach Y-chromosomalen Vererbungsmustern.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Quelle hinzufügen',"v":'0.0.36',"g":'5.1',"d":'Fügt verteilte Quellen mehreren Objekten hinzu.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator',"v":'1.0.11',"g":'5.1',"d":'Werkzeug, um Deinem Stammbaum Avatar-Bilder hinzuzufügen',"z":'AvatarGenerator.addon.tgz'}
-{"t":'Tool',"i":'EventDescriptionEditor',"n":'Ereignisbeschreibungseditor',"v":'1.0.9',"g":'5.1',"d":'Ein Werkzeug zum Suchen und Ersetzen einer Zeichenfolge in der Ereignisbeschreibung mehrerer Ereignisse.',"z":'EventDescriptionEditor.addon.tgz'}
+{"t":'Tool',"i":'EventDescriptionEditor',"n":'Ereignisbeschreibungseditor',"v":'1.0.10',"g":'5.1',"d":'Ein Werkzeug zum Suchen und Ersetzen einer Zeichenfolge in der Ereignisbeschreibung mehrerer Ereignisse.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Werkzeug für Familienbeziehungen',"v":'1.1.6',"g":'5.1',"d":'Massen-Bearbeitung des Familienbeziehungstyp für eine Gruppe von Familien.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'FixCoords',"n":'Fix Place Coordinates',"v":'1.0.3',"g":'5.1',"d":'Tool to correct the place coordinates for extra spaces or comma characters.',"z":'FixCoords.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'OrteVervollständigung',"v":'0.0.40',"g":'5.1',"d":'Liefert eine durchsuchbare Liste ausgewählter Orte mit der Möglichkeit die Attributefelder zu vervollständigen/Syntaxanalyse/setzen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Markierungen Hinzufügen/Entfernen Werkzeug',"v":'1.1.7',"g":'5.1',"d":'Hinzufügen oder Entfernen einer Markierung zu Gruppen von Personen, Ereignissen usw.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Attribut setzen',"v":'0.0.33',"g":'5.1',"d":'Setzt ein Attribut auf einen gegebenen Wert.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Datenschutz einstellen Werkzeug',"v":'1.0.12',"g":'5.1',"d":'All Objekte der letzten <number> Jahre als vertraulich markieren.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Datenschutz einstellen Werkzeug',"v":'1.0.13',"g":'5.1',"d":'All Objekte der letzten <number> Jahre als vertraulich markieren.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktiver Stammbaum',"v":'1.1.7',"g":'5.1',"d":'Öffnet einen interaktiven Baum im Browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Verbindungsdaten überprüfen',"v":'1.1.10',"g":'5.1',"d":'Überprüft die Verbindungsdaten für Personen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sortiert Kinder in Geburtsreihenfolge',"v":'0.0.14',"g":'5.1',"d":'Geht durch die Familien und schaut nach Kindern, die sich nicht in der Geburtsreihenfolge befinden. Der Anwender kann einzelne Vorschläge zum manuellen Korrigieren/Bearbeiten der Geburtsreihenfolge übernehmen, alle Familien mit korrekter Geburtsreihenfolge übernehmen oder alle Familien übernehmen.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschätzte Daten berechnen',"v":'0.90.35',"g":'5.1',"d":'Berechnet geschätzte Daten für Geburt und Tod.',"z":'CalculateEstimatedDates.addon.tgz'}
-{"t":'Tool',"i":'chgivenname',"n":'Großschreibung von Vornamen korrigieren',"v":'1.0.34',"g":'5.1',"d":'Durchsucht die gesamte Datenbank und versucht Großschreibung von Vornamen zu korrigieren.',"z":'ChangeGivenNames.addon.tgz'}
+{"t":'Tool',"i":'chgivenname',"n":'Großschreibung von Vornamen korrigieren',"v":'1.0.35',"g":'5.1',"d":'Durchsucht die gesamte Datenbank und versucht Großschreibung von Vornamen zu korrigieren.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Befehlszeilenzusammenführung',"v":'1.0.35',"g":'5.1',"d":'Primäre Objekte über die Kommandozeile zusammenfassen.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Mediendateien aus dem Internet herunterladen',"v":'1.0.15',"g":'5.1',"d":'Dieses Werkzeug lädt Mediendateien aus dem Internet herunter',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrahiere Ortsdaten aus Ortstitel',"v":'1.0.12',"g":'5.1',"d":'Versuche, Stadt und Bundesland/Provinz von einem Ortstitel zu extrahieren',"z":'ExtractCity.addon.tgz'}
@@ -139,7 +139,7 @@
 {"t":'Tool',"i":'mediamerge',"n":'Medien Zusammenführen',"v":'1.0.8',"g":'5.1',"d":'Durchsucht die gesamte Datenbank nach Medien mit demselben Pfad und führt sie zusammen.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.24',"g":'5.1',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Notiz Bereinigung',"v":'1.0.18',"g":'5.1',"d":'Bereinigt Notizen, die HTML-Markup enthalten',"z":'NoteCleanup.addon.tgz'}
-{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.1',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
+{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.2',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Zuordnungen synchronisieren',"v":'0.0.8',"g":'5.1',"d":'Durchläuft die Personenliste für alle Zuordnungen, die bidirektional sind, und fügt der zugeordneten Person alle fehlenden hinzu.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniaturbild Generator',"v":'1.0.26',"g":'5.1',"d":'Erstellt Miniaturbilder für Mediendateien',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Arten Säuberung',"v":'1.0.8',"g":'5.1',"d":'Bereinigt (entfernt) benutzerdefinierte Arten',"z":'TypeCleanup.addon.tgz'}

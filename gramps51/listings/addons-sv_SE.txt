@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL-databas',"z":'PostgreSQL.addon.tgz'}
-{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.1',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.2',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportera GEDCOM-tillägg (GED2)',"v":'1.0.31',"g":'5.1',"d":'Tillägg för det vanliga GEDCOM-formatet.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON-export',"v":'1.0.19',"g":'5.1',"d":'Det här är en JSON-export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exporterar data till ett Prolog-faktaformat.  Data är i Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Utökade familjeattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en familjs attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Utökade personattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en persons attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Familjeöversikt',"v":'1.0.16',"g":'5.1',"d":'Gramplet som visar en översikt på händelser för en familj',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.33',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.34',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet för att hämta platser från GOV-databasen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nyhetsrubriker',"v":'1.0.44',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Hustidslinje',"v":'1.0.11',"g":'5.1',"d":'Listar de boende på en adress efter tidslinjen',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -41,7 +41,7 @@
 {"t":'Gramps View',"i":'combinedview',"n":'Kombinerad',"v":'2.0.8',"g":'5.1',"d":'En vy som visar relationer och händelser för en person',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Karta för anor',"v":'1.0.7',"g":'5.1',"d":'En vy som visar förfädernas boplatser på kartan.',"z":'GeoAncestor.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.130',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Diagramvy',"v":'1.0.131',"g":'5.1',"d":'Dynamic and interactive graph of relations',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Life Line förfädersdiagram',"v":'1.3.21',"g":'5.1',"d":'Personer och deras relation i ett tidsbaserat diagram',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Life Line ättlingadiagram',"v":'1.3.21',"g":'5.1',"d":'Personer och deras relation i ett tidsbaserat diagram',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON-import',"v":'1.0.19',"g":'5.1',"d":'Det här är en JSON-import',"z":'JSON.addon.tgz'}
@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Förbättrad insticksprogramshanterare',"v":'1.0.30',"g":'5.1',"d":'En tillägg/insticksprograms-hanterare med många ytterligare funktioner',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.4',"g":'5.1',"d":'Collection of Web sites for the RU (requires libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Starta om där du senast arbetade',"v":'0.0.16',"g":'5.1',"d":'Detta tillägg gör att Gramps startar om på samma vy och objekt där Gramps tidigare stängdes.  Det läggs inte till nya menyer eller Gramplets, men gör det möjligt att hitta de sex senaste besökta objekten via menyn "Gå till".',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.1',"g":'5.1',"d":'Samling av webbplatser för Sverige (kräver libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.2',"g":'5.1',"d":'Samling av webbplatser för Sverige (kräver libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Temainställningar',"v":'0.0.9',"g":'5.1',"d":'Ett tillägg till Inställningar för enkel inställning av teman och teckensnitt. Särskilt användbart för Windows-användare.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.39',"g":'5.1',"d":'Collection of Web sites for the UK (requires libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.47',"g":'5.1',"d":'Collection of Web sites for the US (requires libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
@@ -68,7 +68,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Ättlingslinjer',"v":'1.1.7',"g":'5.1',"d":'Producerar ättlingslinjer för en person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljerad bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera detaljerade rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.93',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.94',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.46',"g":'5.1',"d":'Skapar ett familjeark som visar all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.21',"g":'5.1',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Färgdiagram',"v":'1.2.2',"g":'5.1',"d":'Skapa en webbrapport med färgdiagram.',"z":'Heatmap.addon.tgz'}
@@ -89,48 +89,48 @@
 {"t":'Report',"i":'database-differences-report',"n":'Rapport för databasskillnader',"v":'1.0.22',"g":'5.1',"d":'Jämför en extern databas med den aktuella.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.43',"g":'5.1',"d":'Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Detaljerad ättlingarapport med alla bilder',"v":'1.0.10',"g":'5.1',"d":'Producerar en detaljerad ättlingarapport med alla bilder och frivillig att-göra-lista.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'double_cousins',"n":'Dubbelkusiner',"v":'1.0.3',"g":'5.1',"d":'En textrapport som listar dubbelkusiner.',"z":'DoubleCousins.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Dubbelkusiner',"v":'1.0.4',"g":'5.1',"d":'En textrapport som listar dubbelkusiner.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Antavla, traditionell',"v":'1.0.16',"g":'5.1',"d":'Antavla som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Stamtavla',"v":'1.0.16',"g":'5.1',"d":'Stamtavla som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Träd för far- eller morförälder',"v":'1.0.16',"g":'5.1',"d":'Träd för far- eller morförälder som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Timglasträd',"v":'1.0.16',"g":'5.1',"d":'Timglasträd som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Timglasträd för en familj',"v":'1.0.16',"g":'5.1',"d":'Timglasträd för en familj som använder LaTex genealogiträd',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Nätverksdiagram',"v":'0.0.25',"g":'5.1',"d":'Skapar ett familjenätverksdiagram.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'ActivePerson',"n":'Den aktiva personen',"v":'0.0.7',"g":'5.1',"d":'Den aktiva personen',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Familjer med händelser med en vald roll',"v":'0.0.20',"g":'5.1',"d":'Matchar familjer med en händelse med en vald roll',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'Personer med händelser med en vald roll',"v":'0.0.20',"g":'5.1',"d":'Matchar personer med en händelse med en vald roll',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Parametrar för källmatchning',"v":'0.0.20',"g":'5.1',"d":'Matchar källor med värden som innehåller de valda parametrarna',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Personer relaterade till <filter>',"v":'1.0.18',"g":'5.1',"d":'Matchar personer som är relaterade till någon som matchas av ett personfilter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilinjär stammoder för <person>',"v":'1.0.6',"g":'5.1',"d":'Matchar den tidigast registrerade matrilinjära förfaderns mor.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilinjär stamfader för <person>',"v":'1.0.6',"g":'5.1',"d":'Matchar den tidigast registrerade patrilinjära förfadern.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Personer som ingår i familjer matchande <filter>',"v":'1.0.15',"g":'5.1',"d":'Personer som ingår i familjer matchande <filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'ageatdeath',"n":'Filtrera personer efter deras ålder vid döden',"v":'1.0.8',"g":'5.1',"d":'Filterregel som matchar personer efter deras ålder vid döden',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'associationsofpersonmatch',"n":'Matcha föreningar av <personfilter>',"v":'1.0.9',"g":'5.1',"d":'Matcha föreningar av <personfilter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'degreesofseparation',"n":'Personer separerade mindre än <N> grader från <person>',"v":'1.1.8',"g":'5.1',"d":'Filterregel som matchar släktingar efter separationsgrad',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Familjer som matchar <händelsefilter>',"v":'1.0.15',"g":'5.1',"d":'Matchar familjer som matchas av ett händelsefilter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Händelser för familjer som matchar ett <familjefilter>',"v":'1.0.12',"g":'5.1',"d":'Händelser för familjer som matchar ett <familjefilter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'mtinheritance',"n":'Mitokondriellt arv för <person>',"v":'1.0.6',"g":'5.1',"d":'Matchar registrerade ättlingar till personer som följer mitokondriella arvsmönster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitokondriellt arv för <filter>',"v":'1.0.6',"g":'5.1',"d":'Matchar registrerade ättlingar till ett filterresultat efter mitokondriella arvsmönster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'multipleparents',"n":'Filter för flera föräldrar',"v":'0.0.7',"g":'5.1',"d":'Filter för flera föräldrar',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.2',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'xchromancestors',"n":'X-kromosomala förfäder för <person>',"v":'1.0.6',"g":'5.1',"d":'Matchar förfäder för <person> som följer ett X-kromosomalt arvsmönster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'xchromdescendants',"n":'X-kromosomala ättlingar för <person>',"v":'1.0.6',"g":'5.1',"d":'Matchar ättlingar för <person> efter ett X-kromosomalt arvsmönster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'yinheritance',"n":'Y-kromosomalt arv för <person>',"v":'1.0.6',"g":'5.1',"d":'Matchar registrerade ättlingar till personer som följer Y-kromosomala arvsmönster.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-kromosomalt arv för <filter>',"v":'1.0.6',"g":'5.1',"d":'Matchar registrerade ättlingar till ett filterresultat enligt Y-kromosomala arvsmönster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'ActivePerson',"n":'Den aktiva personen',"v":'0.0.8',"g":'5.1',"d":'Den aktiva personen',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Familjer med händelser med en vald roll',"v":'0.0.21',"g":'5.1',"d":'Matchar familjer med en händelse med en vald roll',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'Personer med händelser med en vald roll',"v":'0.0.21',"g":'5.1',"d":'Matchar personer med en händelse med en vald roll',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Parametrar för källmatchning',"v":'0.0.21',"g":'5.1',"d":'Matchar källor med värden som innehåller de valda parametrarna',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Personer relaterade till <filter>',"v":'1.0.19',"g":'5.1',"d":'Matchar personer som är relaterade till någon som matchas av ett personfilter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilinjär stammoder för <person>',"v":'1.0.7',"g":'5.1',"d":'Matchar den tidigast registrerade matrilinjära förfaderns mor.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilinjär stamfader för <person>',"v":'1.0.7',"g":'5.1',"d":'Matchar den tidigast registrerade patrilinjära förfadern.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Personer som ingår i familjer matchande <filter>',"v":'1.0.16',"g":'5.1',"d":'Personer som ingår i familjer matchande <filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'ageatdeath',"n":'Filtrera personer efter deras ålder vid döden',"v":'1.0.9',"g":'5.1',"d":'Filterregel som matchar personer efter deras ålder vid döden',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'associationsofpersonmatch',"n":'Matcha föreningar av <personfilter>',"v":'1.0.10',"g":'5.1',"d":'Matcha föreningar av <personfilter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'degreesofseparation',"n":'Personer separerade mindre än <N> grader från <person>',"v":'1.1.9',"g":'5.1',"d":'Filterregel som matchar släktingar efter separationsgrad',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Familjer som matchar <händelsefilter>',"v":'1.0.16',"g":'5.1',"d":'Matchar familjer som matchas av ett händelsefilter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Händelser för familjer som matchar ett <familjefilter>',"v":'1.0.13',"g":'5.1',"d":'Händelser för familjer som matchar ett <familjefilter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'mtinheritance',"n":'Mitokondriellt arv för <person>',"v":'1.0.7',"g":'5.1',"d":'Matchar registrerade ättlingar till personer som följer mitokondriella arvsmönster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitokondriellt arv för <filter>',"v":'1.0.7',"g":'5.1',"d":'Matchar registrerade ättlingar till ett filterresultat efter mitokondriella arvsmönster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'multipleparents',"n":'Filter för flera föräldrar',"v":'0.0.8',"g":'5.1',"d":'Filter för flera föräldrar',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.3',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'xchromancestors',"n":'X-kromosomala förfäder för <person>',"v":'1.0.7',"g":'5.1',"d":'Matchar förfäder för <person> som följer ett X-kromosomalt arvsmönster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'xchromdescendants',"n":'X-kromosomala ättlingar för <person>',"v":'1.0.7',"g":'5.1',"d":'Matchar ättlingar för <person> efter ett X-kromosomalt arvsmönster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritance',"n":'Y-kromosomalt arv för <person>',"v":'1.0.7',"g":'5.1',"d":'Matchar registrerade ättlingar till personer som följer Y-kromosomala arvsmönster.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-kromosomalt arv för <filter>',"v":'1.0.7',"g":'5.1',"d":'Matchar registrerade ättlingar till ett filterresultat enligt Y-kromosomala arvsmönster.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Koppla källa',"v":'0.0.36',"g":'5.1',"d":'Kopplar en delad källa till flera objekt.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Verktyg för att skapa avatarer',"v":'1.0.11',"g":'5.1',"d":'Ett verktyg för att lägga till avatarer till ditt släktträd',"z":'AvatarGenerator.addon.tgz'}
-{"t":'Tool',"i":'EventDescriptionEditor',"n":'Redigerare för händelsebeskrivningar',"v":'1.0.9',"g":'5.1',"d":'Ett verktyg för att hitta och ersätta en sträng i händelsebeskrivningen av flera händelser.',"z":'EventDescriptionEditor.addon.tgz'}
+{"t":'Tool',"i":'EventDescriptionEditor',"n":'Redigerare för händelsebeskrivningar',"v":'1.0.10',"g":'5.1',"d":'Ett verktyg för att hitta och ersätta en sträng i händelsebeskrivningen av flera händelser.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Verktyg för familjesläktskap',"v":'1.1.6',"g":'5.1',"d":'Massredigera familjesläktskapstypen för en grupp familjer.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'FixCoords',"n":'Laga platskoordinater',"v":'1.0.3',"g":'5.1',"d":'Verktyg för att korrigera platskoordinaterna för extra mellanslag eller kommatecken.',"z":'FixCoords.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Platskomplettering',"v":'0.0.40',"g":'5.1',"d":'Lämnar en bläddringsbar lista på valda platser, med möjlighet att komplettera/avsöka/sätta attributfältet.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Lägg till/ta bort taggar-verktyg',"v":'1.1.7',"g":'5.1',"d":'Lägg till eller ta bort en tagg från grupper av personer, händelser etc.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Sätt attribut',"v":'0.0.33',"g":'5.1',"d":'Sätt ett attribut till ett givet värde.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Ställ in Sekretessverktyg',"v":'1.0.12',"g":'5.1',"d":'Ange alla objekt för de senaste <number> åren som privata.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Ställ in Sekretessverktyg',"v":'1.0.13',"g":'5.1',"d":'Ange alla objekt för de senaste <number> åren som privata.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interaktivt släktträd',"v":'1.1.7',"g":'5.1',"d":'Öppnar ett interaktivt träd i webbläsaren',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Kontrollera relationsdata',"v":'1.1.10',"g":'5.1',"d":'Kontrollerar uppgifterna om släktskap för personer.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sortera barn i födelseordning',"v":'0.0.14',"g":'5.1',"d":'Söker genom familjer och letar efter barn som inte är i födelseordning.  Användaren kan acceptera individuella förslag för att korrigera, redigera födelseordningen manuellt, acceptera alla familjer som har alla barn med rätt födelsedatum eller acceptera alla.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Beräknade uppskattade datum',"v":'0.90.35',"g":'5.1',"d":'Beräkna uppskattningar av datum för födelse och död.',"z":'CalculateEstimatedDates.addon.tgz'}
-{"t":'Tool',"i":'chgivenname',"n":'Ordna stavning av förnamn',"v":'1.0.34',"g":'5.1',"d":'Söker igenom hela databasen och försöker ordna stavning av förnamnen',"z":'ChangeGivenNames.addon.tgz'}
+{"t":'Tool',"i":'chgivenname',"n":'Ordna stavning av förnamn',"v":'1.0.35',"g":'5.1',"d":'Söker igenom hela databasen och försöker ordna stavning av förnamnen',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Lägg ihop via kommandoraden',"v":'1.0.35',"g":'5.1',"d":'Lägg ihop primära objekt via kommandoraden.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Ladda ner mediafiler från internet',"v":'1.0.15',"g":'5.1',"d":'Det här verktyget laddar ner mediafiler från internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Hämta uppgifter om platser från deras benämning',"v":'1.0.12',"g":'5.1',"d":'Försök att hämta namn på stad/kommun och län från platsers benämning',"z":'ExtractCity.addon.tgz'}
@@ -139,7 +139,7 @@
 {"t":'Tool',"i":'mediamerge',"n":'Mediasammanslagning',"v":'1.0.8',"g":'5.1',"d":'Söker igenom hela databasen för att hitta media som har samma sökväg och slår samman dem.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Verifiera media',"v":'1.0.24',"g":'5.1',"d":'Verifiera att media finns i rätt sökväg',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Notisrensning',"v":'1.0.18',"g":'5.1',"d":'Rensa notiser som innehåller HTML-markup',"z":'NoteCleanup.addon.tgz'}
-{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.1',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
+{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.2',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Synkronisera föreningar',"v":'0.0.8',"g":'5.1',"d":'Går igenom personlistan för alla föreningar som är dubbelriktade och lägger till alla som saknas till den associerade personen.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniatyrbildsgenerator',"v":'1.0.26',"g":'5.1',"d":'Genererar miniatyrbild för mediafiler',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type Cleanup',"v":'1.0.8',"g":'5.1',"d":'Clean up (remove) custom types',"z":'TypeCleanup.addon.tgz'}

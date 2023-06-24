@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL-database',"z":'PostgreSQL.addon.tgz'}
-{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.1',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'GedeeldPostgreSQL',"v":'0.1.2',"g":'5.1',"d":'Gedeelde PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM-extensies exporteren (GED2)',"v":'1.0.31',"g":'5.1',"d":'Uitbreidingen naar het algemene GEDCOM-formaat.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON export',"v":'1.0.19',"g":'5.1',"d":'Dit is een JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exporteert gegevens naar een Prolog-feitenopmaak. Gegevens staan in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -17,7 +17,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Uitgebreide gezinskenmerken',"v":'1.0.30',"g":'5.1',"d":'Gramplet dat de kenmerken van een gezin toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Uitgebreide persoonskenmerken',"v":'1.0.30',"g":'5.1',"d":'Gramplet dat de kenmerken van een persoon toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Gezinsoverzicht',"v":'1.0.16',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een gezin',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Formulier Gramplet',"v":'2.0.33',"g":'5.1',"d":'Gramplet-interface voor formulieren',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Formulier Gramplet',"v":'2.0.34',"g":'5.1',"d":'Gramplet-interface voor formulieren',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nieuwsoverzicht',"v":'1.0.44',"g":'5.1',"d":'Gramplet met het laatste Gramps-nieuws',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Huistijdlijn',"v":'1.0.11',"g":'5.1',"d":'Geeft de bewoners van een adres per tijdlijn weer',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -41,7 +41,7 @@
 {"t":'Gramps View',"i":'combinedview',"n":'Gecombineerd',"v":'2.0.8',"g":'5.1',"d":'Een weergave van relaties en gebeurtenissen voor een persoon',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Voorouderskaart',"v":'1.0.7',"g":'5.1',"d":'Een weergave van de voorouders op de kaart.',"z":'GeoAncestor.addon.tgz'}
-{"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.130',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
+{"t":'Gramps View',"i":'graphview',"n":'Grafiekweergave',"v":'1.0.131',"g":'5.1',"d":'Dynamische en interactieve grafiek van relaties',"z":'GraphView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartancestorview',"n":'Levenslijn-voorouderdiagram',"v":'1.3.21',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Gramps View',"i":'lifelinechartdescendantview',"n":'Levenslijn-afstammelingsdiagram',"v":'1.3.21',"g":'5.1',"d":'Personen en hun relatie in een tijdgebaseerde grafiek',"z":'LifeLineChartView.addon.tgz'}
 {"t":'Importer',"i":'JSON Import',"n":'JSON import',"v":'1.0.19',"g":'5.1',"d":'Dit is een JSON import',"z":'JSON.addon.tgz'}
@@ -53,7 +53,7 @@
 {"t":'Plugin lib',"i":'PluginManager',"n":'Verbeterde uitbreidingenbeheerder',"v":'1.0.30',"g":'5.1',"d":'Een addon-/uitbreidingenbeheerder met verschillende extra mogelijkheden',"z":'PluginManager.addon.tgz'}
 {"t":'Plugin lib',"i":'RU Web Connect Pack',"n":'RU Web Connect Pack',"v":'1.0.4',"g":'5.1',"d":'Verzameling van websites voor RU (vereist libwebconnect)',"z":'RUWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'RestoreHist',"n":'Start opnieuw waar u voor het laatst werkte',"v":'0.0.16',"g":'5.1',"d":'Deze add-on zorgt ervoor dat Gramps herstart op dezelfde weergave en hetzelfde object waar Gramps voorheen werd afgesloten. Het voegt geen nieuwe menu\'s of gramplets toe, maar laat toe om de laatste zes bezochte objecten te vinden via het menu \'Ga naar\'.',"z":'RestoreHist.addon.tgz'}
-{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.1',"g":'5.1',"d":'Collection of Web sites for Sweden (requires libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
+{"t":'Plugin lib',"i":'SV Web Connect Pack',"n":'SV Web Connect Pack',"v":'1.0.2',"g":'5.1',"d":'Verzameling websites voor Zweden (vereist libwebconnect)',"z":'SVWebconnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'ThemesPrefs',"n":'Thema-voorkeuren',"v":'0.0.9',"g":'5.1',"d":'Een aanvulling op Voorkeuren voor eenvoudige aanpassing van thema en lettertype. Vooral handig voor Windows-gebruikers.',"z":'Themes.addon.tgz'}
 {"t":'Plugin lib',"i":'UK Web Connect Pack',"n":'UK Web Connect Pack',"v":'1.0.39',"g":'5.1',"d":'Verzameling van websites voor het VK (vereist libwebconnect)',"z":'UKWebConnectPack.addon.tgz'}
 {"t":'Plugin lib',"i":'US Web Connect Pack',"n":'US Web Connect Pack',"v":'1.0.47',"g":'5.1',"d":'Verzameling van websites voor de VS (vereist libwebconnect)',"z":'USWebConnectPack.addon.tgz'}
@@ -68,7 +68,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Afstammelingenboek',"v":'1.1.25',"g":'5.1',"d":'Produceert een of meer afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Afstammelingslijnen',"v":'1.1.7',"g":'5.1',"d":'Produceert afstammelingslijnen van een persoon',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Gedetailleerd afstammelingenboek',"v":'1.1.25',"g":'5.1',"d":'Produceert een of meer gedetailleerde afstammelingenverslagen op basis van een opgegeven zoekvraag.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamisch webverslag',"v":'0.0.93',"g":'5.1',"d":'Produceert dynamische webpagina\'s voor de database',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamisch webverslag',"v":'0.0.94',"g":'5.1',"d":'Produceert dynamische webpagina\'s voor de database',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familieblad',"v":'3.4.46',"g":'5.1',"d":'Toont een familieblad met volledige informatie over een persoon en zijn/haar partners en kinderen.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Stamboom',"v":'4.2.21',"g":'5.1',"d":'Produceert een grafische stamboom.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Warmtebeeld',"v":'1.2.2',"g":'5.1',"d":'Maak een warmtebeeld-webverslag.',"z":'Heatmap.addon.tgz'}
@@ -89,48 +89,48 @@
 {"t":'Report',"i":'database-differences-report',"n":'Databaseverschillenverslag',"v":'1.0.22',"g":'5.1',"d":'Vergelijkt een externe database met de huidige.',"z":'Differences.addon.tgz'}
 {"t":'Report',"i":'denominoviso',"n":'DenominoViso',"v":'2.3.43',"g":'5.1',"d":'Genereert een web (HTML) pagina met een grafische weergave van afstammelingen/voorouders (SVG) waar details over individuen zichtbaar worden door muisacties.',"z":'DenominoViso.addon.tgz'}
 {"t":'Report',"i":'det_descendant_report_i',"n":'Gedetailleerd afstammelingsverslag met alle afbeeldingen',"v":'1.0.10',"g":'5.1',"d":'Produceert een gedetailleerd afstammelingsverslag met alle afbeeldingen en optionele takenlijst.',"z":'DetDescendantReport-images.addon.tgz'}
-{"t":'Report',"i":'double_cousins',"n":'Dubbele neven en nichten',"v":'1.0.3',"g":'5.1',"d":'Een tekstrapport met dubbele neven en nichten.',"z":'DoubleCousins.addon.tgz'}
+{"t":'Report',"i":'double_cousins',"n":'Dubbele neven en nichten',"v":'1.0.4',"g":'5.1',"d":'Een tekstrapport met dubbele neven en nichten.',"z":'DoubleCousins.addon.tgz'}
 {"t":'Report',"i":'gt_ancestor',"n":'Voorouderboom',"v":'1.0.16',"g":'5.1',"d":'Voorouderboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_descendant',"n":'Afstammelingenboom',"v":'1.0.16',"g":'5.1',"d":'Afstammingsboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_grandparent',"n":'Grootouderboom',"v":'1.0.16',"g":'5.1',"d":'Grootouderboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Zandklokboom',"v":'1.0.16',"g":'5.1',"d":'Zandklokboom opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Zandklokboom voor een gezin',"v":'1.0.16',"g":'5.1',"d":'Zandklokboom voor een gezin opgebouwd met LaTeX genealogieboom',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'networkchart',"n":'Netwerk Grafiek',"v":'0.0.25',"g":'5.1',"d":'Genereert een familienetwerkgrafiek.',"z":'NetworkChart.addon.tgz'}
-{"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.7',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasFamilyEventRole',"n":'Gezinnen met gebeurtenissen met een geselecteerde rol',"v":'0.0.20',"g":'5.1',"d":'Komt overeen met gezinnen die een gebeurtenis met een geselecteerde rol hebben',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasPersonEventRole',"n":'Personen met gebeurtenissen met een geselecteerde rol',"v":'0.0.20',"g":'5.1',"d":'Komt overeen met personen die een gebeurtenis met een geselecteerde rol hebben',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'HasSourceParameter',"n":'Met bron overeenkomende parameters',"v":'0.0.20',"g":'5.1',"d":'Komt overeen met bronnen met waarden die de gekozen parameters bevatten',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Personen die gerelateerd zijn aan <filter>',"v":'1.0.18',"g":'5.1',"d":'Komt overeen met personen die gerelateerd zijn aan iemand die overeenkomt met een persoonsfilter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilineaire stammoeder van <persoon>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met de vroegst geregistreerde moeder van de matrilineaire voorouder.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilineaire stamvader van <persoon>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met de vroegst geregistreerde patrilineaire vooroudervader.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Personen die deel uitmaken van gezinnen die overeenkomen met <filter>',"v":'1.0.15',"g":'5.1',"d":'Personen die deel uitmaken van gezinnen die overeenkomen met <filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'ageatdeath',"n":'Filter personen op hun leeftijd bij overlijden',"v":'1.0.8',"g":'5.1',"d":'Filterregel die overeenkomt met mensen op basis van hun leeftijd bij overlijden',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associaties van <person filter>',"v":'1.0.9',"g":'5.1',"d":'Match associaties van <person filter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'degreesofseparation',"n":'Mensen minder dan <N> graden van <persoon> verwijderd',"v":'1.1.8',"g":'5.1',"d":'Filterregel die overeenkomende familieleden vindt op basis van mate van hun onderlinge afstand',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Gezinnen die overeenkomen met <gebeurtenisfilter>',"v":'1.0.15',"g":'5.1',"d":'Komt overeen met gezinnen die gevonden zijn door een gebeurtenisfilter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Gebeurtenissen van gezinnen die overeenkomen met een <familiefilter>',"v":'1.0.12',"g":'5.1',"d":'Gebeurtenissen van gezinnen die overeenkomen met een <familiefilter>',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'mtinheritance',"n":'Mitochondriale overerving van <persoon>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met geregistreerde nakomelingen van een persoon volgens mitochondriale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitochondriale overerving van <filter>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met geregistreerde afstammelingen van een filterresultaat volgens mitochondriale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'multipleparents',"n":'Multiple Parents Filter',"v":'0.0.7',"g":'5.1',"d":'Multiple Parents Filter',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'peopleeventscount',"n":'People with <count> of <event>',"v":'1.0.2',"g":'5.1',"d":'Matches persons which have events of given type and number.',"z":'FilterRules.addon.tgz'}
-{"t":'Rule',"i":'xchromancestors',"n":'X-chromosomale voorouders van <persoon>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met voorouders van <persoon> volgens een X-chromosomaal overervingspatroon.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomale afstammelingen van <persoon>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met nakomelingen van <persoon> volgens een X-chromosomaal overervingspatroon.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'yinheritance',"n":'Y-chromosomale overerving van <persoon>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met geregistreerde nakomelingen van een persoon volgens Y-chromosomale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
-{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomale overerving van <filter>',"v":'1.0.6',"g":'5.1',"d":'Komt overeen met geregistreerde afstammelingen van een filterresultaat volgens Y-chromosomale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'ActivePerson',"n":'De actieve persoon',"v":'0.0.8',"g":'5.1',"d":'De actieve persoon',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasFamilyEventRole',"n":'Gezinnen met gebeurtenissen met een geselecteerde rol',"v":'0.0.21',"g":'5.1',"d":'Komt overeen met gezinnen die een gebeurtenis met een geselecteerde rol hebben',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasPersonEventRole',"n":'Personen met gebeurtenissen met een geselecteerde rol',"v":'0.0.21',"g":'5.1',"d":'Komt overeen met personen die een gebeurtenis met een geselecteerde rol hebben',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'HasSourceParameter',"n":'Met bron overeenkomende parameters',"v":'0.0.21',"g":'5.1',"d":'Komt overeen met bronnen met waarden die de gekozen parameters bevatten',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'IsRelatedWithFilterMatch',"n":'Personen die gerelateerd zijn aan <filter>',"v":'1.0.19',"g":'5.1',"d":'Komt overeen met personen die gerelateerd zijn aan iemand die overeenkomt met een persoonsfilter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'MatrilinealProgenitrix',"n":'Matrilineaire stammoeder van <person>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met de vroegst geregistreerde moeder van de matrilineaire voorouder.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PatrilinealProgenitor',"n":'Patrilineaire stamvader van <persoon>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met de vroegst geregistreerde patrilineaire vooroudervader.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'PersonsInFamilyFilterMatch',"n":'Personen die deel uitmaken van gezinnen die overeenkomen met <filter>',"v":'1.0.16',"g":'5.1',"d":'Personen die deel uitmaken van gezinnen die overeenkomen met <filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'ageatdeath',"n":'Filter personen op hun leeftijd bij overlijden',"v":'1.0.9',"g":'5.1',"d":'Filterregel die overeenkomt met mensen op basis van hun leeftijd bij overlijden',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'associationsofpersonmatch',"n":'Match associaties van <person filter>',"v":'1.0.10',"g":'5.1',"d":'Match associaties van <person filter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'degreesofseparation',"n":'Mensen minder dan <N> graden van <persoon> verwijderd',"v":'1.1.9',"g":'5.1',"d":'Filterregel die overeenkomende familieleden vindt op basis van mate van hun onderlinge afstand',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'familieswitheventfiltermatch',"n":'Gezinnen die overeenkomen met <gebeurtenisfilter>',"v":'1.0.16',"g":'5.1',"d":'Komt overeen met gezinnen die gevonden zijn door een gebeurtenisfilter',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'isfamilyfiltermatchevent',"n":'Gebeurtenissen van gezinnen die overeenkomen met een <familiefilter>',"v":'1.0.13',"g":'5.1',"d":'Gebeurtenissen van gezinnen die overeenkomen met een <familiefilter>',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'mtinheritance',"n":'Mitochondriale overerving van <persoon>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met geregistreerde nakomelingen van een persoon volgens mitochondriale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'mtinheritanceoffiltermatch',"n":'Mitochondriale overerving van <filter>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met geregistreerde afstammelingen van een filterresultaat volgens mitochondriale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'multipleparents',"n":'Filter op meerdere ouders',"v":'0.0.8',"g":'5.1',"d":'Filter op meerdere ouders',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'peopleeventscount',"n":'Mensen met <count> van <event>',"v":'1.0.3',"g":'5.1',"d":'Komt overeen met personen met gebeurtenissen van het opgegeven type en aantal.',"z":'FilterRules.addon.tgz'}
+{"t":'Rule',"i":'xchromancestors',"n":'X-chromosomale voorouders van <persoon>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met voorouders van <persoon> volgens een X-chromosomaal overervingspatroon.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'xchromdescendants',"n":'X-chromosomale afstammelingen van <persoon>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met nakomelingen van <persoon> volgens een X-chromosomaal overervingspatroon.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritance',"n":'Y-chromosomale overerving van <persoon>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met geregistreerde nakomelingen van een persoon volgens Y-chromosomale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
+{"t":'Rule',"i":'yinheritanceoffiltermatch',"n":'Y-chromosomale overerving van <filter>',"v":'1.0.7',"g":'5.1',"d":'Komt overeen met geregistreerde afstammelingen van een filterresultaat volgens Y-chromosomale overervingspatronen.',"z":'FilterRules2.addon.tgz'}
 {"t":'Tool',"i":'AttachSource',"n":'Bron toevoegen',"v":'0.0.36',"g":'5.1',"d":'Koppelt een gedeelde bron aan meerdere objecten.',"z":'AttachSourceTool.addon.tgz'}
 {"t":'Tool',"i":'AvatarGenerator',"n":'Avatar Generator Tool',"v":'1.0.11',"g":'5.1',"d":'Een tool om avatarafbeeldingen toe te voegen aan uw stamboom',"z":'AvatarGenerator.addon.tgz'}
-{"t":'Tool',"i":'EventDescriptionEditor',"n":'Gebeurtenisbeschrijvingsbewerker',"v":'1.0.9',"g":'5.1',"d":'Een hulpmiddel om een string te vinden en te vervangen in de gebeurtenisbeschrijving van meerdere gebeurtenissen.',"z":'EventDescriptionEditor.addon.tgz'}
+{"t":'Tool',"i":'EventDescriptionEditor',"n":'Editor voor Gebeurtenisbeschrijvingen',"v":'1.0.10',"g":'5.1',"d":'Een hulpmiddel om een string te vinden en te vervangen in de gebeurtenisbeschrijving van meerdere gebeurtenissen.',"z":'EventDescriptionEditor.addon.tgz'}
 {"t":'Tool',"i":'FamilyRelationshipTool',"n":'Familierelaties hulpmiddel',"v":'1.1.6',"g":'5.1',"d":'Het in bulk bewerken van het familierelatie type voor een groep families.',"z":'FamilyRelationshipTool.addon.tgz'}
 {"t":'Tool',"i":'FixCoords',"n":'Repareer plaatscoördinaten',"v":'1.0.3',"g":'5.1',"d":'Hulpmiddel om de plaatscoördinaten te corrigeren voor extra spaties of komma-tekens.',"z":'FixCoords.addon.tgz'}
 {"t":'Tool',"i":'PlaceCompletion',"n":'Locatievoltooiing',"v":'0.0.40',"g":'5.1',"d":'Biedt een doorzoekbare lijst van geselecteerde plaatsen, met de mogelijkheid om de kenmerkvelden in te vullen / te ontleden / in te stellen.',"z":'PlaceCompletion.addon.tgz'}
 {"t":'Tool',"i":'RemoveTagTool',"n":'Labels toevoegen/verwijderen',"v":'1.1.7',"g":'5.1',"d":'Voeg een label toe of verwijder deze uit groepen personen, gebeurtenissen, enz.',"z":'RemoveTagTool.addon.tgz'}
 {"t":'Tool',"i":'SetAttribute',"n":'Kenmerk instellen',"v":'0.0.33',"g":'5.1',"d":'Stel een kenmerk in op een bepaalde waarde.',"z":'SetAttributeTool.addon.tgz'}
-{"t":'Tool',"i":'SetPrivacyTool',"n":'Markeer privé hulpmiddel',"v":'1.0.12',"g":'5.1',"d":'Markeer alle objecten van de afgelopen <aantal> jaren op privé.',"z":'SetPrivacyTool.addon.tgz'}
+{"t":'Tool',"i":'SetPrivacyTool',"n":'Markeer privé hulpmiddel',"v":'1.0.13',"g":'5.1',"d":'Markeer alle objecten van de afgelopen <aantal> jaren op privé.',"z":'SetPrivacyTool.addon.tgz'}
 {"t":'Tool',"i":'Topola',"n":'Interactieve stamboom',"v":'1.1.7',"g":'5.1',"d":'Opent een interactieve boom in de browser',"z":'Topola.addon.tgz'}
 {"t":'Tool',"i":'associationstool',"n":'Controleer associatiegegevens',"v":'1.1.10',"g":'5.1',"d":'Controleert de associatiegegevens voor mensen.',"z":'AssociationsTool.addon.tgz'}
 {"t":'Tool',"i":'birthorder',"n":'Sorteer kinderen op volgorde van geboorte',"v":'0.0.14',"g":'5.1',"d":'Onderzoekt gezinnen, op zoek naar kinderen die niet op geboortevolgorde staan.De gebruiker kan individuele suggesties accepteren om handmatig de geboortevolgorde te corrigeren of te bewerken, alle gezinnen waarvan alle kinderen de juiste geboortedatums hebben accepteren, of alles accepteren.',"z":'BirthOrder.addon.tgz'}
 {"t":'Tool',"i":'calculateestimateddates',"n":'Geschatte datums berekenen',"v":'0.90.35',"g":'5.1',"d":'Geschatte datums voor geboorte en overlijden berekenen.',"z":'CalculateEstimatedDates.addon.tgz'}
-{"t":'Tool',"i":'chgivenname',"n":'Hoofdlettergebruik van voornamen corrigeren',"v":'1.0.34',"g":'5.1',"d":'Doorzoekt de hele database en probeert het hoofdlettergebruik van de opgegeven namen te herstellen.',"z":'ChangeGivenNames.addon.tgz'}
+{"t":'Tool',"i":'chgivenname',"n":'Hoofdlettergebruik van voornamen corrigeren',"v":'1.0.35',"g":'5.1',"d":'Doorzoekt de hele database en probeert het hoofdlettergebruik van de opgegeven namen te herstellen.',"z":'ChangeGivenNames.addon.tgz'}
 {"t":'Tool',"i":'climerge',"n":'Opdrachtregel samenvoegen',"v":'1.0.35',"g":'5.1',"d":'Voeg primaire objecten samen via de opdrachtregel.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download mediabestanden van internet',"v":'1.0.15',"g":'5.1',"d":'Deze tool downloadt mediabestanden van internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Locatiegegevens extraheren uit een plaatstitel',"v":'1.0.12',"g":'5.1',"d":'Poogt stad en staat / provincie uit een plaatstitel te halen',"z":'ExtractCity.addon.tgz'}
@@ -139,7 +139,7 @@
 {"t":'Tool',"i":'mediamerge',"n":'Media samenvoegen',"v":'1.0.8',"g":'5.1',"d":'Doorzoekt de hele database, zoekend naar media met hetzelfde pad en voegt deze samen.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Mediaverificatie',"v":'1.0.24',"g":'5.1',"d":'Controleer of media aan het juiste pad gekoppeld zijn',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Opmerking opschonen',"v":'1.0.18',"g":'5.1',"d":'Opschonen van opmerkingen die HTML-opmaak bevatten',"z":'NoteCleanup.addon.tgz'}
-{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.1',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
+{"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.2',"g":'5.1',"d":'Upload mediabestanden naar S3 (of compatibele) objectgebaseerde opslag via de opdrachtregel.',"z":'S3MediaUploader.addon.tgz'}
 {"t":'Tool',"i":'syncAssociations',"n":'Synchroniseer associaties',"v":'0.0.8',"g":'5.1',"d":'Doorloopt de lijst met personen voor alle associaties die bidirectioneel zijn en voegt alle ontbrekende toe aan de geassocieerde persoon.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Miniatuurafbeeldingsgenerator',"v":'1.0.26',"g":'5.1',"d":'Genereert miniaturen voor mediabestanden',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Type opschonen',"v":'1.0.8',"g":'5.1',"d":'Aangepaste soorten opschonen (verwijderen)',"z":'TypeCleanup.addon.tgz'}
