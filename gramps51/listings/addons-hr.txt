@@ -5,6 +5,7 @@
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog izvoz',"v":'1.0.16',"g":'5.1',"d":'Izvozi podatke u Prolog formatu. Podaci su u Unicode formatu (utf-8)',"z":'ExportProlog.addon.tgz'}
 {"t":'Exporter',"i":'Raw Export',"n":'Raw izvoz',"v":'1.0.36',"g":'5.1',"d":'Ovo je neobrađeni izvadak python objekata',"z":'ExportRaw.addon.tgz'}
 {"t":'Exporter',"i":'ex_sqlite',"n":'SQLite izvoz',"v":'1.1.6',"g":'5.1',"d":'SQLite je uobičajeni format za lokalnu bazu podataka',"z":'Sqlite.addon.tgz'}
+{"t":'Gramplet',"i":'Anniversaries',"n":'Anniversaries',"v":'1.0.1',"g":'5.1',"d":'A gramplet that displays the anniversaries of events',"z":'AnniversariesGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Birthdays',"n":'Rođendani',"v":'1.1.11',"g":'5.1',"d":'gramplet prikazuje rođendane živih osoba',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.32',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.41',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
