@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL-database',"z":'PostgreSQL.addon.tgz'}
-{"t":'Database',"i":'sharedpostgresql',"n":'GedeeldPostgreSQL',"v":'0.1.4',"g":'5.1',"d":'Gedeelde PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'GedeeldPostgreSQL',"v":'0.1.5',"g":'5.1',"d":'Gedeelde PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'GEDCOM-extensies exporteren (GED2)',"v":'1.0.31',"g":'5.1',"d":'Uitbreidingen naar het algemene GEDCOM-formaat.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON export',"v":'1.0.19',"g":'5.1',"d":'Dit is een JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exporteert gegevens naar een Prolog-feitenopmaak. Gegevens staan in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Uitgebreide persoonskenmerken',"v":'1.0.30',"g":'5.1',"d":'Gramplet dat de kenmerken van een persoon toont',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Gezinsoverzicht',"v":'1.0.16',"g":'5.1',"d":'Gramplet met een overzicht van gebeurtenissen voor een gezin',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Formulier Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet-interface voor formulieren',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.17',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nieuwsoverzicht',"v":'1.0.44',"g":'5.1',"d":'Gramplet met het laatste Gramps-nieuws',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Huistijdlijn',"v":'1.0.11',"g":'5.1',"d":'Geeft de bewoners van een adres per tijdlijn weer',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Importeer tekst',"v":'1.0.38',"g":'5.1',"d":'Gramplet voor het importeren van tekst',"z":'ImportGramplet.addon.tgz'}
@@ -135,7 +135,7 @@
 {"t":'Tool',"i":'climerge',"n":'Opdrachtregel samenvoegen',"v":'1.0.35',"g":'5.1',"d":'Voeg primaire objecten samen via de opdrachtregel.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download mediabestanden van internet',"v":'1.0.15',"g":'5.1',"d":'Deze tool downloadt mediabestanden van internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Locatiegegevens extraheren uit een plaatstitel',"v":'1.0.12',"g":'5.1',"d":'Poogt stad en staat / provincie uit een plaatstitel te halen',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.2',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.4',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Importeren en samenvoegen',"v":'0.0.19',"g":'5.1',"d":'Vergelijkt een Gramps XML-database met de huidige en maakt het samenvoegen van de verschillen mogelijk.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Media samenvoegen',"v":'1.0.8',"g":'5.1',"d":'Doorzoekt de hele database, zoekend naar media met hetzelfde pad en voegt deze samen.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Mediaverificatie',"v":'1.0.24',"g":'5.1',"d":'Controleer of media aan het juiste pad gekoppeld zijn',"z":'MediaVerify.addon.tgz'}

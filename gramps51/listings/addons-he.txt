@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL Database',"z":'PostgreSQL.addon.tgz'}
-{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.4',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.5',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Export GEDCOM Extensions (GED2)',"v":'1.0.31',"g":'5.1',"d":'Extensions to the common GEDCOM format.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON Export',"v":'1.0.19',"g":'5.1',"d":'This is a JSON export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exports data into a Prolog fact format.  Data is in Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Extended Person Attributes',"v":'1.0.30',"g":'5.1',"d":'Gramplet showing the attributes of a person',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Family Overview',"v":'1.0.16',"g":'5.1',"d":'Gramplet showing an overview of events for a family',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'גטגוב',"v":'1.0.16',"g":'5.1',"d":'גראמפלט לאחזור מקומות ממסד נתונים GOV',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'גטגוב',"v":'1.0.17',"g":'5.1',"d":'גראמפלט לאחזור מקומות ממסד נתונים GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Headline News',"v":'1.0.44',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'House Timeline',"v":'1.0.11',"g":'5.1',"d":'Lists the Residents of an Address by Timeline',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Import Text',"v":'1.0.38',"g":'5.1',"d":'Gramplet for importing text',"z":'ImportGramplet.addon.tgz'}
@@ -135,7 +135,7 @@
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.35',"g":'5.1',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.15',"g":'5.1',"d":'This tool downloads media files from the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.12',"g":'5.1',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.2',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.4',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import and Merge tool',"v":'0.0.19',"g":'5.1',"d":'Compares a Gramps XML database with the current one, and allows merging of the differences.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.8',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.24',"g":'5.1',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}

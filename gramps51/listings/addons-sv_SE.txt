@@ -1,5 +1,5 @@
 {"t":'Database',"i":'postgresql',"n":'PostgreSQL',"v":'1.0.13',"g":'5.1',"d":'PostgreSQL-databas',"z":'PostgreSQL.addon.tgz'}
-{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.4',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
+{"t":'Database',"i":'sharedpostgresql',"n":'SharedPostgreSQL',"v":'0.1.5',"g":'5.1',"d":'Shared PostgreSQL Database',"z":'SharedPostgreSQL.addon.tgz'}
 {"t":'Exporter',"i":'Export GEDCOM Extensions',"n":'Exportera GEDCOM-tillägg (GED2)',"v":'1.0.31',"g":'5.1',"d":'Tillägg för det vanliga GEDCOM-formatet.',"z":'GedcomExtensions.addon.tgz'}
 {"t":'Exporter',"i":'JSON Export',"n":'JSON-export',"v":'1.0.19',"g":'5.1',"d":'Det här är en JSON-export',"z":'JSON.addon.tgz'}
 {"t":'Exporter',"i":'Prolog Export',"n":'Prolog Export',"v":'1.0.16',"g":'5.1',"d":'Exporterar data till ett Prolog-faktaformat.  Data är i Unicode (utf-8)',"z":'ExportProlog.addon.tgz'}
@@ -19,7 +19,7 @@
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Utökade personattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en persons attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Familjeöversikt',"v":'1.0.16',"g":'5.1',"d":'Gramplet som visar en översikt på händelser för en familj',"z":'Overview.addon.tgz'}
 {"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.16',"g":'5.1',"d":'Gramplet för att hämta platser från GOV-databasen',"z":'GetGOV.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.17',"g":'5.1',"d":'Gramplet för att hämta platser från GOV-databasen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nyhetsrubriker',"v":'1.0.44',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Hustidslinje',"v":'1.0.11',"g":'5.1',"d":'Listar de boende på en adress efter tidslinjen',"z":'HouseTimelineGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Import Gramplet',"n":'Importera text',"v":'1.0.38',"g":'5.1',"d":'Gramplet för att importera text',"z":'ImportGramplet.addon.tgz'}
@@ -135,7 +135,7 @@
 {"t":'Tool',"i":'climerge',"n":'Lägg ihop via kommandoraden',"v":'1.0.35',"g":'5.1',"d":'Lägg ihop primära objekt via kommandoraden.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Ladda ner mediafiler från internet',"v":'1.0.15',"g":'5.1',"d":'Det här verktyget laddar ner mediafiler från internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Hämta uppgifter om platser från deras benämning',"v":'1.0.12',"g":'5.1',"d":'Försök att hämta namn på stad/kommun och län från platsers benämning',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.2',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.4',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Verktyg för att importera och slå samman',"v":'0.0.19',"g":'5.1',"d":'Jämför en Gramps XML-databas med den aktuella och möjliggör sammanslagning av skillnaderna.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Mediasammanslagning',"v":'1.0.8',"g":'5.1',"d":'Söker igenom hela databasen för att hitta media som har samma sökväg och slår samman dem.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Verifiera media',"v":'1.0.24',"g":'5.1',"d":'Verifiera att media finns i rätt sökväg',"z":'MediaVerify.addon.tgz'}
