@@ -268,7 +268,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Arbre des descendants",
@@ -279,7 +279,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Arbre des grands-parents",
@@ -290,7 +290,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Arbre sablier",
@@ -301,7 +301,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Arbre sablier pour une famille",
@@ -312,7 +312,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Graphique r\u00e9seau",
@@ -327,7 +327,7 @@
 "networkx",
 "pygraphviz"
 ],
-"a": 2
+"a": 1
 },
 {
 "n": "Number of ancestors",
@@ -528,7 +528,7 @@
 "g": "5.2",
 "s": 3,
 "z": "CliMerge.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "T\u00e9l\u00e9charge des objets media depuis internet",
@@ -659,7 +659,7 @@
 "g": "5.2",
 "s": 3,
 "z": "Sqlite.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Exportation des extensions Gedcom (GED2)",
@@ -670,7 +670,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Exportation JSON",
@@ -701,7 +701,7 @@
 "g": "5.2",
 "s": 3,
 "z": "ExportRaw.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "Exportation SQLite",
@@ -712,7 +712,7 @@
 "g": "5.2",
 "s": 3,
 "z": "Sqlite.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Ensemble de liens internet allemands",
@@ -749,7 +749,7 @@
 "i": "PluginManager",
 "t": 6,
 "d": "Gestionnaire de greffons avec plusieurs fonctionnalit\u00e9s suppl\u00e9mentaires",
-"v": "1.2.0",
+"v": "1.2.1",
 "g": "5.2",
 "s": 3,
 "z": "PluginManager.addon.tgz",
@@ -824,7 +824,7 @@
 "g": "5.2",
 "s": 3,
 "z": "libaccess.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "libwebconnect",
@@ -865,7 +865,7 @@
 "g": "5.2",
 "s": 3,
 "z": "QuiltView.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Arbre au fil du temps",
@@ -987,7 +987,7 @@
 "s": 3,
 "z": "ClockGramplet.addon.tgz",
 "h": "Gramplets#GUI_Interface",
-"a": 1
+"a": 2
 },
 {
 "n": "Collections Clipboard",
@@ -1020,7 +1020,7 @@
 "s": 3,
 "z": "DataEntryGramplet.addon.tgz",
 "h": "Data Entry Gramplet",
-"a": 2
+"a": 1
 },
 {
 "n": "Date Calculator",
@@ -1117,7 +1117,7 @@
 "s": 3,
 "z": "GetGOV.addon.tgz",
 "h": "GetGOV Gramplet",
-"a": 2
+"a": 1
 },
 {
 "n": "Nouvelles",
@@ -1151,7 +1151,7 @@
 "s": 3,
 "z": "ImportGramplet.addon.tgz",
 "h": "ImportGramplet",
-"a": 1
+"a": 2
 },
 {
 "n": "Last Change",
@@ -1275,7 +1275,7 @@
 "s": 3,
 "z": "PythonGramplet.addon.tgz",
 "h": "PythonGramplet",
-"a": 1
+"a": 2
 },
 {
 "n": "Parent\u00e9s",
@@ -1311,7 +1311,7 @@
 "rm": [
 "psycopg2"
 ],
-"a": 2
+"a": 1
 },
 {
 "n": "SharedPostgreSQL",

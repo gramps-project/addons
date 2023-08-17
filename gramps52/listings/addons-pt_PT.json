@@ -268,7 +268,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "\u00c1rvore de descendentes",
@@ -279,7 +279,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "\u00c1rvore de av\u00f3s",
@@ -290,7 +290,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Ampulheta",
@@ -301,7 +301,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Ampulheta familiar",
@@ -312,7 +312,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Gr\u00e1fico de rede",
@@ -327,7 +327,7 @@
 "networkx",
 "pygraphviz"
 ],
-"a": 2
+"a": 1
 },
 {
 "n": "Number of ancestors",
@@ -528,7 +528,7 @@
 "g": "5.2",
 "s": 3,
 "z": "CliMerge.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "Transferir multim\u00e9dia da Internet",
@@ -659,7 +659,7 @@
 "g": "5.2",
 "s": 3,
 "z": "Sqlite.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Exportar extens\u00f5es GEDCOM (GED2)",
@@ -670,7 +670,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Exporta\u00e7\u00e3o JSON",
@@ -701,7 +701,7 @@
 "g": "5.2",
 "s": 3,
 "z": "ExportRaw.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "Exporta\u00e7\u00e3o SQLite",
@@ -712,7 +712,7 @@
 "g": "5.2",
 "s": 3,
 "z": "Sqlite.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "DE Web Connect Pack",
@@ -749,7 +749,7 @@
 "i": "PluginManager",
 "t": 6,
 "d": "Um gestor de extens\u00f5es com v\u00e1rias capacidades melhoradas",
-"v": "1.2.0",
+"v": "1.2.1",
 "g": "5.2",
 "s": 3,
 "z": "PluginManager.addon.tgz",
@@ -824,7 +824,7 @@
 "g": "5.2",
 "s": 3,
 "z": "libaccess.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "libwebconnect",
@@ -865,7 +865,7 @@
 "g": "5.2",
 "s": 3,
 "z": "QuiltView.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Cronologia de costados",
@@ -987,7 +987,7 @@
 "s": 3,
 "z": "ClockGramplet.addon.tgz",
 "h": "Gramplets#GUI_Interface",
-"a": 1
+"a": 2
 },
 {
 "n": "\u00c1rea de transfer\u00eancia de colec\u00e7\u00f5es",
@@ -1020,7 +1020,7 @@
 "s": 3,
 "z": "DataEntryGramplet.addon.tgz",
 "h": "Data Entry Gramplet",
-"a": 2
+"a": 1
 },
 {
 "n": "Calculadora de datas",
@@ -1117,7 +1117,7 @@
 "s": 3,
 "z": "GetGOV.addon.tgz",
 "h": "GetGOV Gramplet",
-"a": 2
+"a": 1
 },
 {
 "n": "Not\u00edcias - cabe\u00e7alhos",
@@ -1151,7 +1151,7 @@
 "s": 3,
 "z": "ImportGramplet.addon.tgz",
 "h": "ImportGramplet",
-"a": 1
+"a": 2
 },
 {
 "n": "\u00daltima altera\u00e7\u00e3o",
@@ -1275,7 +1275,7 @@
 "s": 3,
 "z": "PythonGramplet.addon.tgz",
 "h": "PythonGramplet",
-"a": 1
+"a": 2
 },
 {
 "n": "Parentes relacionados",
@@ -1311,7 +1311,7 @@
 "rm": [
 "psycopg2"
 ],
-"a": 2
+"a": 1
 },
 {
 "n": "SharedPostgreSQL",

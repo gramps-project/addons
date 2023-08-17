@@ -268,7 +268,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Stablo potomaka",
@@ -279,7 +279,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Stablo djedova i baka",
@@ -290,7 +290,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Stablo u obliku pje\u0161\u010danog sata",
@@ -301,7 +301,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Stablo u obliku pje\u0161\u010danog sata za obitelj",
@@ -312,7 +312,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Mre\u017eni dijagram",
@@ -327,7 +327,7 @@
 "networkx",
 "pygraphviz"
 ],
-"a": 2
+"a": 1
 },
 {
 "n": "Broj predaka",
@@ -528,7 +528,7 @@
 "g": "5.2",
 "s": 3,
 "z": "CliMerge.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "Preuzimanje medijskih datoteka iz interneta",
@@ -659,7 +659,7 @@
 "g": "5.2",
 "s": 3,
 "z": "Sqlite.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Dodaci za GEDCOM izvoz (GED2)",
@@ -670,7 +670,7 @@
 "g": "5.2",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "JSON izvoz",
@@ -701,7 +701,7 @@
 "g": "5.2",
 "s": 3,
 "z": "ExportRaw.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "SQLite izvoz",
@@ -712,7 +712,7 @@
 "g": "5.2",
 "s": 3,
 "z": "Sqlite.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "DE Web Connect zbirka",
@@ -749,7 +749,7 @@
 "i": "PluginManager",
 "t": 6,
 "d": "Upravlja\u010d za dodatke s nekolicinom dodatnih funkcija",
-"v": "1.2.0",
+"v": "1.2.1",
 "g": "5.2",
 "s": 3,
 "z": "PluginManager.addon.tgz",
@@ -824,7 +824,7 @@
 "g": "5.2",
 "s": 3,
 "z": "libaccess.addon.tgz",
-"a": 1
+"a": 2
 },
 {
 "n": "libwebconnect",
@@ -865,7 +865,7 @@
 "g": "5.2",
 "s": 3,
 "z": "QuiltView.addon.tgz",
-"a": 2
+"a": 1
 },
 {
 "n": "Kronologija predaka",
@@ -987,7 +987,7 @@
 "s": 3,
 "z": "ClockGramplet.addon.tgz",
 "h": "Gramplets#GUI_Interface",
-"a": 1
+"a": 2
 },
 {
 "n": "Me\u0111uspremnik zbiraka",
@@ -1020,7 +1020,7 @@
 "s": 3,
 "z": "DataEntryGramplet.addon.tgz",
 "h": "Data Entry Gramplet",
-"a": 2
+"a": 1
 },
 {
 "n": "Kalkulator datuma",
@@ -1117,7 +1117,7 @@
 "s": 3,
 "z": "GetGOV.addon.tgz",
 "h": "GetGOV Gramplet",
-"a": 2
+"a": 1
 },
 {
 "n": "Novosti",
@@ -1151,7 +1151,7 @@
 "s": 3,
 "z": "ImportGramplet.addon.tgz",
 "h": "ImportGramplet",
-"a": 1
+"a": 2
 },
 {
 "n": "Zadnja promjena",
@@ -1275,7 +1275,7 @@
 "s": 3,
 "z": "PythonGramplet.addon.tgz",
 "h": "PythonGramplet",
-"a": 1
+"a": 2
 },
 {
 "n": "Srodstva srodnika",
@@ -1311,7 +1311,7 @@
 "rm": [
 "psycopg2"
 ],
-"a": 2
+"a": 1
 },
 {
 "n": "SharedPostgreSQL",
