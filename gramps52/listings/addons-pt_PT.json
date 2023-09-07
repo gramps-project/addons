@@ -44,7 +44,7 @@
 "i": "DynamicWeb",
 "t": 0,
 "d": "Produz p\u00e1ginas web din\u00e2micas para a base de dados",
-"v": "0.0.95",
+"v": "0.0.96",
 "g": "5.2",
 "s": 3,
 "z": "DynamicWeb.addon.tgz"
