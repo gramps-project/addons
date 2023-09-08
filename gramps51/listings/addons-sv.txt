@@ -18,7 +18,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Utökade familjeattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en familjs attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Utökade personattribut',"v":'1.0.30',"g":'5.1',"d":'Gramplet visande en persons attribut',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Familjeöversikt',"v":'1.0.16',"g":'5.1',"d":'Gramplet som visar en översikt på händelser för en familj',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.36',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.17',"g":'5.1',"d":'Gramplet för att hämta platser från GOV-databasen',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Nyhetsrubriker',"v":'1.0.44',"g":'5.1',"d":'Gramplet that shows the latest Gramps news',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Hustidslinje',"v":'1.0.11',"g":'5.1',"d":'Listar de boende på en adress efter tidslinjen',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -69,7 +69,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Ättlingslinjer',"v":'1.1.7',"g":'5.1',"d":'Producerar ättlingslinjer för en person',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Detaljerad bok för ättlingar',"v":'1.1.25',"g":'5.1',"d":'Producerar en eller flera detaljerade rapporter för ättlingar baserade på en angiven fråga.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.94',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Dynamisk Webbsidesrapport',"v":'0.0.95',"g":'5.1',"d":'Skapar dynamiska webbidor för databasen',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Familjeark',"v":'3.4.46',"g":'5.1',"d":'Skapar ett familjeark som visar all information om en person och dennes partner och barn.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Släktträd',"v":'4.2.21',"g":'5.1',"d":'Skapar ett grafiskt släktträd.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Färgdiagram',"v":'1.2.2',"g":'5.1',"d":'Skapa en webbrapport med färgdiagram.',"z":'Heatmap.addon.tgz'}

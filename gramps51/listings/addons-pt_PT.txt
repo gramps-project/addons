@@ -18,7 +18,7 @@
 {"t":'Gramplet',"i":'Extended Family Attributes',"n":'Atributos familiares estendidos',"v":'1.0.30',"g":'5.1',"d":'Gramplet que mostra os atributos de uma família',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Extended Person Attributes',"n":'Atributos pessoais estendidos',"v":'1.0.30',"g":'5.1',"d":'Gramplet que mostra os atributos de um indivíduo',"z":'ExtendedAttributes.addon.tgz'}
 {"t":'Gramplet',"i":'Family Overview',"n":'Visão geral da família',"v":'1.0.16',"g":'5.1',"d":'Gramplet que mostra uma visão geral dos eventos de uma dada família',"z":'Overview.addon.tgz'}
-{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.35',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
+{"t":'Gramplet',"i":'Form Gramplet',"n":'Form Gramplet',"v":'2.0.36',"g":'5.1',"d":'Gramplet interface for Forms',"z":'Form.addon.tgz'}
 {"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.17',"g":'5.1',"d":'Gramplet para obter locais da base de dados GOV',"z":'GetGOV.addon.tgz'}
 {"t":'Gramplet',"i":'Headline News',"n":'Notícias - cabeçalhos',"v":'1.0.44',"g":'5.1',"d":'Gramplet que mostra as últimas notícias do Gramps',"z":'HeadlineNewsGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'House Timeline',"n":'Cronologia de residências',"v":'1.0.11',"g":'5.1',"d":'Lista os residentes de uma morada cronologicamente',"z":'HouseTimelineGramplet.addon.tgz'}
@@ -69,7 +69,7 @@
 {"t":'Report',"i":'DescendantBook',"n":'Livro Descendentes',"v":'1.1.25',"g":'5.1',"d":'Produz um ou mais relatórios de descendência baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
 {"t":'Report',"i":'Descendants Lines',"n":'Linhas de descendentes',"v":'1.1.7',"g":'5.1',"d":'Produz linhas de descendentes de um indivíduo',"z":'DescendantsLines.addon.tgz'}
 {"t":'Report',"i":'DetailedDescendantBook',"n":'Livro Descendência detalhada',"v":'1.1.25',"g":'5.1',"d":'Produz um ou mais relatórios de descendência detalhada baseado numa consulta fornecida.',"z":'DescendantBooks.addon.tgz'}
-{"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.94',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
+{"t":'Report',"i":'DynamicWeb',"n":'Relatório Web dinâmico',"v":'0.0.95',"g":'5.1',"d":'Produz páginas web dinâmicas para a base de dados',"z":'DynamicWeb.addon.tgz'}
 {"t":'Report',"i":'FamilySheet',"n":'Folha familiar',"v":'3.4.46',"g":'5.1',"d":'Produz uma folha familiar mostrando a informação completa sobre um indivíduo, companheiros e filhos.',"z":'FamilySheet.addon.tgz'}
 {"t":'Report',"i":'FamilyTree',"n":'Árvore de família',"v":'4.2.21',"g":'5.1',"d":'Produz uma árvore de família.',"z":'FamilyTree.addon.tgz'}
 {"t":'Report',"i":'Heatmap',"n":'Heatmap',"v":'1.2.2',"g":'5.1',"d":'Create a heatmap web report.',"z":'Heatmap.addon.tgz'}
