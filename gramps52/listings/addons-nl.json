@@ -605,16 +605,11 @@
 "i": "s3uploader",
 "t": 2,
 "d": "Upload mediabestanden naar S3 (of compatibele) objectgebaseerde opslag via de opdrachtregel.",
-"v": "0.1.6",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "S3MediaUploader.addon.tgz",
 "rm": [
-"python-dateutil",
-"urllib3",
-"botocore",
-"jmespath",
-"s3transfer",
 "boto3"
 ]
 },
