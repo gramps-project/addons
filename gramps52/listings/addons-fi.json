@@ -854,7 +854,7 @@
 "i": "HtreePedigreeView",
 "t": 8,
 "d": "N\u00e4kym\u00e4 n\u00e4ytt\u00e4\u00e4 valitulle henkil\u00f6lle tilaa s\u00e4\u00e4st\u00e4v\u00e4n sukupuun",
-"v": "0.0.30",
+"v": "0.0.31",
 "g": "5.2",
 "s": 3,
 "z": "HtreePedigreeView.addon.tgz"

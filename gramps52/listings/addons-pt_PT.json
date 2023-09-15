@@ -854,7 +854,7 @@
 "i": "HtreePedigreeView",
 "t": 8,
 "d": "Mostra um espa\u00e7o de costados eficiente com os antepassados do indiv\u00edduo seleccionado",
-"v": "0.0.30",
+"v": "0.0.31",
 "g": "5.2",
 "s": 3,
 "z": "HtreePedigreeView.addon.tgz"

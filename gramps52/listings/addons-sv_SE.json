@@ -854,7 +854,7 @@
 "i": "HtreePedigreeView",
 "t": 8,
 "d": "Vyn visar en utrymmeseffektiv stamtavla med f\u00f6rf\u00e4der till den valda personen",
-"v": "0.0.30",
+"v": "0.0.31",
 "g": "5.2",
 "s": 3,
 "z": "HtreePedigreeView.addon.tgz"

@@ -854,7 +854,7 @@
 "i": "HtreePedigreeView",
 "t": 8,
 "d": "Die Ansicht zeigt eine platzsparende Ahnentafel mit Vorfahren der gew\u00e4hlten Person",
-"v": "0.0.30",
+"v": "0.0.31",
 "g": "5.2",
 "s": 3,
 "z": "HtreePedigreeView.addon.tgz"

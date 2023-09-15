@@ -854,7 +854,7 @@
 "i": "HtreePedigreeView",
 "t": 8,
 "d": "The view shows a space-efficient pedigree with ancestors of the selected person",
-"v": "0.0.30",
+"v": "0.0.31",
 "g": "5.2",
 "s": 3,
 "z": "HtreePedigreeView.addon.tgz"
