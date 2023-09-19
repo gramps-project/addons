@@ -114,7 +114,7 @@
 "i": "MediaReport",
 "t": 0,
 "d": "Erstellt einen Bericht mit Bildern, Bilddaten und Notizen.",
-"v": "1.1.10",
+"v": "1.1.11",
 "g": "5.2",
 "s": 3,
 "z": "MediaReport.addon.tgz"
@@ -354,7 +354,7 @@
 "i": "allnames",
 "t": 1,
 "d": "Zeigt alle Namen aller Personen",
-"v": "1.0.30",
+"v": "1.0.31",
 "g": "5.2",
 "s": 3,
 "z": "AllNamesQuickview.addon.tgz"
@@ -1240,7 +1240,7 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Orte Bereinigung Gramplet hilft beim Zusammenf\u00fchren von Orten sowie beim Vervollst\u00e4ndigen von Orten aus der GeoNames-Webdatenbank",
-"v": "1.0.18",
+"v": "1.0.20",
 "g": "5.2",
 "s": 3,
 "z": "PlaceCleanup.addon.tgz",
