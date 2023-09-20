@@ -1262,11 +1262,11 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "Prerequisites Checker Gramplet",
-"v": "1.2.2",
+"v": "1.2.3",
 "g": "5.2",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
-"h": "PrerequisitesCheckerGramplet"
+"h": "Addon:Prerequisites_Checker_Gramplet"
 },
 {
 "n": "Konsola Pythona",

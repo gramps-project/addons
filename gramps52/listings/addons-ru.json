@@ -1262,11 +1262,11 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "\u0413\u0440\u0430\u043c\u043f\u043b\u0435\u0442 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 Gramps",
-"v": "1.2.2",
+"v": "1.2.3",
 "g": "5.2",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
-"h": "PrerequisitesCheckerGramplet"
+"h": "Addon:Prerequisites_Checker_Gramplet"
 },
 {
 "n": "Python Shell",
