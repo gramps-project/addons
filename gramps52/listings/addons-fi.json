@@ -970,6 +970,18 @@
 ]
 },
 {
+"n": "Beta What's Next",
+"i": "Beta What's Next",
+"t": 10,
+"d": "Beta Gramplet suggesting items to research",
+"v": "0.1.5",
+"g": "5.2",
+"s": 3,
+"z": "Betawhatsnext.addon.tgz",
+"h": "https://github.com/emyoulation/_BetaDashboards/blob/5.2/README.md",
+"a": 0
+},
+{
 "n": "Syntym\u00e4p\u00e4iv\u00e4t",
 "i": "Birthdays",
 "t": 10,
