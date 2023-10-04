@@ -895,14 +895,14 @@
 "i": "geoIDplaceCoordinateGramplet",
 "t": 8,
 "d": "Ansicht f\u00fcr Ortskoordinaten Gramplet.",
-"v": "1.1.20",
+"v": "1.1.21",
 "g": "5.2",
 "s": 3,
 "z": "PlaceCoordinateGramplet.addon.tgz",
 "rg": [
 [
 "GeocodeGlib",
-"1.0"
+"1.0,2.0"
 ]
 ]
 },
@@ -1236,14 +1236,14 @@
 "i": "Place Coordinates",
 "t": 10,
 "d": "Gramplet, das das Einstellen der Koordinaten eines Ortes vereinfacht",
-"v": "1.1.20",
+"v": "1.1.21",
 "g": "5.2",
 "s": 3,
 "z": "PlaceCoordinateGramplet.addon.tgz",
 "rg": [
 [
 "GeocodeGlib",
-"1.0"
+"1.0,2.0"
 ]
 ]
 },
