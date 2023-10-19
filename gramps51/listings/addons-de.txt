@@ -9,6 +9,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Geburtstage',"v":'1.1.11',"g":'5.1',"d":'ein Gramplet welches die Geburtstage von lebenden Personen zeigt',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Uhr',"v":'0.0.32',"g":'5.1',"d":'Gramplet zum demonstrieren der Cairo Grafik',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Sammlungen Zwischenablage',"v":'1.0.41',"g":'5.1',"d":'Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterstützung bei der Dateneingabe.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DNAMatches',"n":'DNA Matches',"v":'1.0.0',"g":'5.1',"d":'Gramplet to display a list of DNA matches',"z":'DNAMatches.addon.tgz'}
 {"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA-Segmentkarte',"v":'2.0.1',"g":'5.1',"d":'Gramplet showing a matching DNA segment map',"z":'DNA.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Dateneingabe Gramplet',"v":'1.0.46',"g":'5.1',"d":'Gramplet zur schnellen Dateneingabe',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Datums Rechner',"v":'0.0.14',"g":'5.1',"d":'Nützlich für mathematische Datumsberechnungen',"z":'DateCalculator.addon.tgz'}

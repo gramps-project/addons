@@ -9,6 +9,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Syntymäpäivät',"v":'1.1.11',"g":'5.1',"d":'Gramplet, joka näyttää elävien ihmisten syntymä päivät ja iät',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Clock',"v":'0.0.32',"g":'5.1',"d":'Gramplet for demonstrating Cairo graphics',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Collections Clipboard',"v":'1.0.41',"g":'5.1',"d":'Gramplet for grouping collections of items to aid in data entry.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DNAMatches',"n":'DNA Matches',"v":'1.0.0',"g":'5.1',"d":'Gramplet to display a list of DNA matches',"z":'DNAMatches.addon.tgz'}
 {"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA Segment Map',"v":'2.0.1',"g":'5.1',"d":'Gramplet showing a matching DNA segment map',"z":'DNA.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Data Entry Gramplet',"v":'1.0.46',"g":'5.1',"d":'Gramplet for quick data entry',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Date Calculator',"v":'0.0.14',"g":'5.1',"d":'Useful for date math calculations',"z":'DateCalculator.addon.tgz'}
