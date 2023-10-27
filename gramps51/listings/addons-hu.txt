@@ -96,7 +96,6 @@
 {"t":'Report',"i":'gt_grandparent',"n":'Grandparent Tree',"v":'1.0.16',"g":'5.1',"d":'Grandparent tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sandclock Tree',"v":'1.0.16',"g":'5.1',"d":'Sandclock tree using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sandclock Tree for a Family',"v":'1.0.16',"g":'5.1',"d":'Sandclock tree for a family using LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Network Chart',"v":'0.0.25',"g":'5.1',"d":'Generates a family network chart.',"z":'NetworkChart.addon.tgz'}
 {"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.8',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasFamilyEventRole',"n":'Families with events with a selected role',"v":'0.0.21',"g":'5.1',"d":'Matches families with an event with a selected role',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasPersonEventRole',"n":'People with events with a selected role',"v":'0.0.21',"g":'5.1',"d":'Matches people with an event with a selected role',"z":'FilterRules.addon.tgz'}
@@ -135,7 +134,7 @@
 {"t":'Tool',"i":'climerge',"n":'Command Line Merge',"v":'1.0.35',"g":'5.1',"d":'Merge primary objects via the command line.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Download media files from the internet',"v":'1.0.15',"g":'5.1',"d":'This tool downloads media files from the internet',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extract Place Data from a Place Title',"v":'1.0.12',"g":'5.1',"d":'Attempts to extract city and state/province from a place title',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.4',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.1.1',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import and Merge tool',"v":'0.0.19',"g":'5.1',"d":'Compares a Gramps XML database with the current one, and allows merging of the differences.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Merge Media',"v":'1.0.8',"g":'5.1',"d":'Searches the entire database, looking for media that have the same path and merges them.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Media Verify',"v":'1.0.24',"g":'5.1',"d":'Verify that media is present in the correct path',"z":'MediaVerify.addon.tgz'}

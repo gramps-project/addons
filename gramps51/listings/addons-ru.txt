@@ -96,7 +96,6 @@
 {"t":'Report',"i":'gt_grandparent',"n":'Древо бабушек и дедушек',"v":'1.0.16',"g":'5.1',"d":'Древо бабушек и дедушек использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Древо песочные часы',"v":'1.0.16',"g":'5.1',"d":'Древо песочные часы использующее LaTeX',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Древо для семьи в виде песочных часов',"v":'1.0.16',"g":'5.1',"d":'Древо для семьи в виде песочных часов (использует LaTeX genealogytree)',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Сетевой график',"v":'0.0.25',"g":'5.1',"d":'Создаёт семейный график в виде сети.',"z":'NetworkChart.addon.tgz'}
 {"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.8',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasFamilyEventRole',"n":'Семьи с событиями и выбранной ролью',"v":'0.0.21',"g":'5.1',"d":'Выбирает семьи с событиями с указанной ролью',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasPersonEventRole',"n":'Люди с событиями и выбранной ролью',"v":'0.0.21',"g":'5.1',"d":'Выбирает людей с событиями с указанной ролью',"z":'FilterRules.addon.tgz'}
@@ -135,7 +134,7 @@
 {"t":'Tool',"i":'climerge',"n":'Объединение из командной строки',"v":'1.0.35',"g":'5.1',"d":'Объединение основных объектов из командной строки.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Загрузка документов из интернет',"v":'1.0.15',"g":'5.1',"d":'Инcтрумент для загрузки документов из сети интернет',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Извлечение данных о месте из названия',"v":'1.0.12',"g":'5.1',"d":'Пробует извлечь названия города, штата, области и т.д. из названия места',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.0.4',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps Web Sync',"v":'1.1.1',"g":'5.1',"d":'Synchronizes a local database with a Gramps Web instance.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Импорт и слияние',"v":'0.0.19',"g":'5.1',"d":'Сравнивает базу данных (Gramps XML) с текущим древом и предоставляет возможность слияния изменений.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Объединение документов',"v":'1.0.8',"g":'5.1',"d":'Просматривает базу данных и объединяет документы со ссылкой на один и тотже файл.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Проверка документов',"v":'1.0.24',"g":'5.1',"d":'Проверяет, что документы присутствуют по указанному пути',"z":'MediaVerify.addon.tgz'}

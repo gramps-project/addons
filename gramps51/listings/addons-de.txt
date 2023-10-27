@@ -96,7 +96,6 @@
 {"t":'Report',"i":'gt_grandparent',"n":'Großelternbaum',"v":'1.0.16',"g":'5.1',"d":'Großelternbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock',"n":'Sanduhrbaum',"v":'1.0.16',"g":'5.1',"d":'Sanduhrbaum verwende LaTeX genealogytree',"z":'GenealogyTree.addon.tgz'}
 {"t":'Report',"i":'gt_sandclock_family',"n":'Sanduhrbaum für eine Familie',"v":'1.0.16',"g":'5.1',"d":'Sanduhrbaum für eine Familie verwende LaTex genealogytree',"z":'GenealogyTree.addon.tgz'}
-{"t":'Report',"i":'networkchart',"n":'Netzwerkgrafik',"v":'0.0.25',"g":'5.1',"d":'Erstellt eine Familiennetzwerkgrafik.',"z":'NetworkChart.addon.tgz'}
 {"t":'Rule',"i":'ActivePerson',"n":'The active Person',"v":'0.0.8',"g":'5.1',"d":'The active Person',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasFamilyEventRole',"n":'Familien mit Ereignissen mit einer ausgewählten Rolle',"v":'0.0.21',"g":'5.1',"d":'Entspricht Familien mit einem Ereignis mit einer ausgewählten Rolle',"z":'FilterRules.addon.tgz'}
 {"t":'Rule',"i":'HasPersonEventRole',"n":'Personen mit Ereignissen mit einer ausgewählten Rolle',"v":'0.0.21',"g":'5.1',"d":'Entspricht Personen mit einem Ereignis mit einer ausgewählten Rolle',"z":'FilterRules.addon.tgz'}
@@ -135,7 +134,7 @@
 {"t":'Tool',"i":'climerge',"n":'Befehlszeilenzusammenführung',"v":'1.0.35',"g":'5.1',"d":'Primäre Objekte über die Kommandozeile zusammenfassen.',"z":'CliMerge.addon.tgz'}
 {"t":'Tool',"i":'downloadmedia',"n":'Mediendateien aus dem Internet herunterladen',"v":'1.0.15',"g":'5.1',"d":'Dieses Werkzeug lädt Mediendateien aus dem Internet herunter',"z":'DownloadMedia.addon.tgz'}
 {"t":'Tool',"i":'excity',"n":'Extrahiere Ortsdaten aus Ortstitel',"v":'1.0.12',"g":'5.1',"d":'Versuche, Stadt und Bundesland/Provinz von einem Ortstitel zu extrahieren',"z":'ExtractCity.addon.tgz'}
-{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps-Web-Synchronisierung',"v":'1.0.4',"g":'5.1',"d":'Synchronisiert eine lokale Datenbank mit einer Gramps-Web-Instanz.',"z":'GrampsWebSync.addon.tgz'}
+{"t":'Tool',"i":'gramps_web_sync',"n":'Gramps-Web-Synchronisierung',"v":'1.1.1',"g":'5.1',"d":'Synchronisiert eine lokale Datenbank mit einer Gramps-Web-Instanz.',"z":'GrampsWebSync.addon.tgz'}
 {"t":'Tool',"i":'import_merge',"n":'Import und Zusammenführungswerkzeug',"v":'0.0.19',"g":'5.1',"d":'Vergleicht eine Gramps XML Datenbank mit der aktuellen und ermöglicht das Zusammenführen der Unterschiede.',"z":'ImportMerge.addon.tgz'}
 {"t":'Tool',"i":'mediamerge',"n":'Medien Zusammenführen',"v":'1.0.8',"g":'5.1',"d":'Durchsucht die gesamte Datenbank nach Medien mit demselben Pfad und führt sie zusammen.',"z":'MediaMerge.addon.tgz'}
 {"t":'Tool',"i":'mediaverify',"n":'Medien Überprüfen',"v":'1.0.24',"g":'5.1',"d":'Überprüft, das die Medien im korrekten Pfad vorhanden sind',"z":'MediaVerify.addon.tgz'}
