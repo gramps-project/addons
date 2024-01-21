@@ -39,7 +39,7 @@
 {"t":'Gramps View',"i":'HtreePedigreeView',"n":'H-Sukupuu',"v":'0.0.29',"g":'5.1',"d":'Näkymä näyttää valitulle henkilölle tilaa säästävän sukupuun',"z":'HtreePedigreeView.addon.tgz'}
 {"t":'Gramps View',"i":'QuiltView',"n":'Peittokaavio',"v":'1.0.20',"g":'5.1',"d":'Näyttää visualisoidun peittokaavion sukupuusta',"z":'QuiltView.addon.tgz'}
 {"t":'Gramps View',"i":'TimelinePedigreeView',"n":'Aikajana sukupuu',"v":'0.1.61',"g":'5.1',"d":'Näkymä näyttää valitun henkilön esivanhempien ja jälkeläisten sukupuun aikajanalla',"z":'TimelinePedigreeView.addon.tgz'}
-{"t":'Gramps View',"i":'combinedview',"n":'Yhdistetty',"v":'2.0.8',"g":'5.1',"d":'Yhdistetty näkymä henkilön suhteista ja tapahtumista',"z":'CombinedView.addon.tgz'}
+{"t":'Gramps View',"i":'combinedview',"n":'Yhdistetty',"v":'2.0.9',"g":'5.1',"d":'Yhdistetty näkymä henkilön suhteista ja tapahtumista',"z":'CombinedView.addon.tgz'}
 {"t":'Gramps View',"i":'geoIDplaceCoordinateGramplet',"n":'Place Coordinate Gramplet view',"v":'1.1.18',"g":'5.1',"d":'View for the place coordinate gramplet.',"z":'PlaceCoordinateGramplet.addon.tgz'}
 {"t":'Gramps View',"i":'geoancestor',"n":'Ancestors map',"v":'1.0.7',"g":'5.1',"d":'A view showing ancestors places on the map.',"z":'GeoAncestor.addon.tgz'}
 {"t":'Gramps View',"i":'graphview',"n":'Kaavionäkymä',"v":'1.0.131',"g":'5.1',"d":'Dynaaminen ja vuorovaikutteinen suhteiden kuvaaja',"z":'GraphView.addon.tgz'}
