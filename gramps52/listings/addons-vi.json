@@ -555,7 +555,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Synchronizes a local database with a Gramps Web instance.",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "5.2",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz"
@@ -970,6 +970,17 @@
 ]
 },
 {
+"n": "Anniversaries",
+"i": "Anniversaries",
+"t": 10,
+"d": "A gramplet that displays the anniversaries of events",
+"v": "1.0.2",
+"g": "5.2",
+"s": 3,
+"z": "AnniversariesGramplet.addon.tgz",
+"h": "AnniversariesGramplet"
+},
+{
 "n": "Beta What's Next",
 "i": "Beta What's Next",
 "t": 10,
@@ -1127,7 +1138,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet to get places from the GOV database",
-"v": "1.0.18",
+"v": "1.0.19",
 "g": "5.2",
 "s": 3,
 "z": "GetGOV.addon.tgz",
