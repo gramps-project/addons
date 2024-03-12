@@ -1561,5 +1561,16 @@
 "g": "5.2",
 "s": 3,
 "z": "FilterRules2.addon.tgz"
+},
+{
+"n": "Enhanced",
+"i": "cite-enhanced",
+"t": 15,
+"d": "An enhanced citation formatter that adds a repository and call number to the standard functionality.",
+"v": "1.0.1",
+"g": "5.2",
+"s": 2,
+"z": "CiteEnhanced.addon.tgz",
+"a": 1
 }
 ]
