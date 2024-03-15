@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ahnenbaum",
+"n": "Ahnentafel",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ahnenbaum verwende LaTeX genealogytree",
@@ -1194,7 +1194,7 @@
 "n": "Medienbrowser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet zeigt Details einer Person",
+"d": "Gramplet zeigt Details zu einer Person",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
