@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "Pema Pamiljare",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "Pema e Trash\u00ebgimtarit",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "Pema e pasardh\u00ebsve",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "Ndryshimi i fundit",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

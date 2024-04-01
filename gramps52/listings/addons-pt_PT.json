@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "\u00c1rvore de fam\u00edlia",
+"n": "\u00c1rvore geneal\u00f3gica",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produz uma \u00e1rvore de fam\u00edlia.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "\u00c1rvore de ascendentes",
+"n": "\u00c1rvore de costados",
 "i": "gt_ancestor",
 "t": 0,
 "d": "\u00c1rvore de ascendentes usando LaTeX genealogytree",
@@ -1168,7 +1168,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Importar texto",
+"n": "Texto a importar",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet para importar texto",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

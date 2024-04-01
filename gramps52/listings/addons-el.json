@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "\u039f\u03b9\u03ba\u03bf\u03b3\u03b5\u03bd\u03b5\u03b9\u03b1\u03ba\u03cc \u0394\u03ad\u03bd\u03c4\u03c1\u03bf",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "\u0394\u03ad\u03bd\u03c4\u03c1\u03bf \u03c0\u03c1\u03bf\u03b3\u03cc\u03bd\u03c9\u03bd",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "\u0394\u03ad\u03bd\u03c4\u03c1\u03bf \u03b1\u03c0\u03bf\u03b3\u03cc\u03bd\u03c9\u03bd",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -370,7 +370,7 @@
 "z": "BiographyQuickview.addon.tgz"
 },
 {
-"n": "Timeline",
+"n": "\u03a7\u03c1\u03bf\u03bd\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
@@ -1096,7 +1096,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a family",
+"d": "Gramplet \u03c0\u03bf\u03c5 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03c4\u03b1 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03b9\u03b1\u03c2 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1\u03c2",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1106,7 +1106,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a person",
+"d": "Gramplet \u03c0\u03bf\u03c5 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c4\u03cc\u03bc\u03bf\u03c5",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "\u03a4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b1 \u03c4\u03c1\u03bf\u03c0\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1194,7 +1194,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet showing details of a person",
+"d": "Gramplet \u03c0\u03bf\u03c5 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c4\u03cc\u03bc\u03bf\u03c5",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
@@ -1212,7 +1212,7 @@
 "h": "NoteGramplet"
 },
 {
-"n": "Participants",
+"n": "\u03a3\u03c5\u03bc\u03bc\u03b5\u03c4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b5\u03c2",
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

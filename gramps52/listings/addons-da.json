@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "Sl\u00e6gtsbog",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "Stamtr\u00e6",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "Efterkommertr\u00e6",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -370,7 +370,7 @@
 "z": "BiographyQuickview.addon.tgz"
 },
 {
-"n": "Timeline",
+"n": "Tidslinie",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
@@ -1096,7 +1096,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a family",
+"d": "Gramplet der viser en families attributter",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1106,7 +1106,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a person",
+"d": "Gramplet der viser en persons attributter",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1168,7 +1168,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Import Text",
+"n": "Import tekst",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet for importing text",
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "Seneste \u00e6ndring",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1194,7 +1194,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet showing details of a person",
+"d": "Gramplet der viser detaljer om en person",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
@@ -1212,7 +1212,7 @@
 "h": "NoteGramplet"
 },
 {
-"n": "Participants",
+"n": "Deltagere",
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "Soya\u011fac\u0131",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "\u00dcstsoy A\u011fac\u0131",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "Altsoy A\u011fac\u0131",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -370,7 +370,7 @@
 "z": "BiographyQuickview.addon.tgz"
 },
 {
-"n": "Timeline",
+"n": "Zaman \u00c7izgisi",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
@@ -1096,7 +1096,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a family",
+"d": "Ailenin niteliklerini g\u00f6steren Gramplet",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1106,7 +1106,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a person",
+"d": "Ki\u015finin niteliklerini g\u00f6steren Gramplet",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1168,7 +1168,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Import Text",
+"n": "Metni \u0130\u00e7e Aktar",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet for importing text",
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "Son De\u011fi\u015fiklik",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1194,7 +1194,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet showing details of a person",
+"d": "Bir ki\u015finin ayr\u0131nt\u0131lar\u0131n\u0131 g\u00f6steren Gramplet",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
@@ -1212,7 +1212,7 @@
 "h": "NoteGramplet"
 },
 {
-"n": "Participants",
+"n": "Kat\u0131l\u0131mc\u0131lar",
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

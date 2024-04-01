@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "\u041f\u043e\u0440\u043e\u0434\u0438\u0447\u043d\u043e \u0441\u0442\u0430\u0431\u043b\u043e",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "\u0421\u0442\u0430\u0431\u043b\u043e \u043f\u0440\u0435\u0434\u0430\u043a\u0430",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "\u0421\u0442\u0430\u0431\u043b\u043e \u043f\u043e\u0442\u043e\u043c\u0430\u043a\u0430",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -370,7 +370,7 @@
 "z": "BiographyQuickview.addon.tgz"
 },
 {
-"n": "Timeline",
+"n": "\u0412\u0440\u0435\u043c\u0435\u043d\u0441\u043a\u0430 \u043b\u0438\u043d\u0438\u0458\u0430",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
@@ -1096,7 +1096,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a family",
+"d": "\u0414\u0435\u0434\u043e\u0437\u043e\u0440\u0447\u0435 \u043a\u043e\u0458\u0435 \u043f\u0440\u0438\u043a\u0430\u0437\u0443\u0458\u0435 \u043e\u0441\u043e\u0431\u0438\u043d\u0435 \u043f\u043e\u0440\u043e\u0434\u0438\u0446\u0435",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1106,7 +1106,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a person",
+"d": "\u0414\u0435\u0434\u043e\u0437\u043e\u0440\u0447\u0435 \u043a\u043e\u0458\u0435 \u043f\u0440\u0438\u043a\u0430\u0437\u0443\u0458\u0435 \u043e\u0441\u043e\u0431\u0438\u043d\u0435 \u043e\u0441\u043e\u0431\u0435",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "\u041f\u043e\u0441\u043b\u0435\u0434\u045a\u0430 \u0438\u0437\u043c\u0435\u043d\u0430",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1194,7 +1194,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet showing details of a person",
+"d": "\u0414\u0435\u0434\u043e\u0437\u043e\u0440\u0447\u0435 \u043a\u043e\u0458\u0435 \u043f\u0440\u0438\u043a\u0430\u0437\u0443\u0458\u0435 \u043f\u043e\u0458\u0435\u0434\u0438\u043d\u043e\u0441\u0442\u0438 \u043e \u043e\u0441\u043e\u0431\u0438",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
@@ -1212,7 +1212,7 @@
 "h": "NoteGramplet"
 },
 {
-"n": "Participants",
+"n": "\u0423\u0447\u0435\u0441\u043d\u0438\u0446\u0438",
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

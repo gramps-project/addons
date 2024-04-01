@@ -1168,7 +1168,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Import Text",
+"n": "Texte d'importation",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet pour importer du texte",
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "Derni\u00e8re modification",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "Liste les dix derniers individus modifi\u00e9s",
@@ -1212,7 +1212,7 @@
 "h": "NoteGramplet"
 },
 {
-"n": "Participants",
+"n": "Acteurs principaux",
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

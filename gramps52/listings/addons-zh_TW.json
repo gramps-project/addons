@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "\u5bb6\u65cf\u6a39",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "\u7956\u5148\u6a39",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "\u5b50\u5b6b\u5716\u6a39",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -370,7 +370,7 @@
 "z": "BiographyQuickview.addon.tgz"
 },
 {
-"n": "Timeline",
+"n": "\u5e74\u8b5c",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
@@ -1106,7 +1106,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a person",
+"d": "Gramplet \u986f\u793a\u555f\u7528\u6210\u54e1\u7684\u5c6c\u6027 ",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "\u4e0a\u6b21\u8b8a\u66f4",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1194,7 +1194,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet showing details of a person",
+"d": "Gramplet \u986f\u793a\u6210\u54e1\u8a73\u7d30",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

@@ -60,7 +60,7 @@
 "z": "FamilySheet.addon.tgz"
 },
 {
-"n": "Family Tree",
+"n": "\u5bb6\u65cf\u6811",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -260,7 +260,7 @@
 "z": "DoubleCousins.addon.tgz"
 },
 {
-"n": "Ancestor Tree",
+"n": "\u7956\u5148\u6811",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -271,7 +271,7 @@
 "a": 1
 },
 {
-"n": "Descendant Tree",
+"n": "\u5b50\u5b59\u56fe\u6811",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -370,7 +370,7 @@
 "z": "BiographyQuickview.addon.tgz"
 },
 {
-"n": "Timeline",
+"n": "\u5e74\u8c31",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
@@ -1096,7 +1096,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a family",
+"d": "\u663e\u793a\u5bb6\u5ead\u5c5e\u6027\u7684 Gramplet \u63a7\u4ef6",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1106,7 +1106,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Gramplet showing the attributes of a person",
+"d": "\u663e\u793a\u6d3b\u8dc3\u4eba\u5458\u5c5e\u6027\u7684 Gramplet \u63a7\u4ef6",
 "v": "1.0.31",
 "g": "5.2",
 "s": 3,
@@ -1168,7 +1168,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Import Text",
+"n": "\u5bfc\u5165\u6587\u672c",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet for importing text",
@@ -1180,7 +1180,7 @@
 "a": 2
 },
 {
-"n": "Last Change",
+"n": "\u4e0a\u6b21\u53d8\u66f4",
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
@@ -1194,7 +1194,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Gramplet showing details of a person",
+"d": "Gramplet \u663e\u793a\u6210\u5458\u8be6\u7ec6",
 "v": "1.0.34",
 "g": "5.2",
 "s": 3,
@@ -1212,7 +1212,7 @@
 "h": "NoteGramplet"
 },
 {
-"n": "Participants",
+"n": "\u53c2\u4e0e\u8005",
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
@@ -1344,7 +1344,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
