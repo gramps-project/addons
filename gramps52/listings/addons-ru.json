@@ -464,10 +464,11 @@
 "i": "SetPrivacyTool",
 "t": 2,
 "d": "\u0421\u0434\u0435\u043b\u0430\u0442\u044c \u0432\u0441\u0435 \u043e\u0431\u044a\u0435\u043a\u0442\u044b \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0445 <number> \u043b\u0435\u0442 \u043b\u0438\u0447\u043d\u044b\u043c\u0438.",
-"v": "1.0.14",
+"v": "1.0.15",
 "g": "5.2",
 "s": 3,
-"z": "SetPrivacyTool.addon.tgz"
+"z": "SetPrivacyTool.addon.tgz",
+"h": "Addon:SetPrivacyTool"
 },
 {
 "n": "\u0418\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0441\u0435\u043c\u0435\u0439\u043d\u043e\u0435 \u0434\u0440\u0435\u0432\u043e",
@@ -996,11 +997,11 @@
 "i": "Beta What's Next",
 "t": 10,
 "d": "Beta Gramplet suggesting items to research",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "Betawhatsnext.addon.tgz",
-"h": "https://github.com/emyoulation/_BetaDashboards/blob/5.2/README.md",
+"h": "Gramps_5.2_Wiki_Manual_-_Gramplets#What.27s_Next",
 "a": 0
 },
 {
@@ -1296,7 +1297,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "\u0413\u0440\u0430\u043c\u043f\u043b\u0435\u0442 \u0434\u043b\u044f \u043f\u0440\u043e\u0432\u0435\u0440\u043a\u0438 Gramps",
-"v": "1.2.3",
+"v": "1.2.4",
 "g": "5.2",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",

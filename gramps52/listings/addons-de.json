@@ -464,10 +464,11 @@
 "i": "SetPrivacyTool",
 "t": 2,
 "d": "All Objekte der letzten <number> Jahre als vertraulich markieren.",
-"v": "1.0.14",
+"v": "1.0.15",
 "g": "5.2",
 "s": 3,
-"z": "SetPrivacyTool.addon.tgz"
+"z": "SetPrivacyTool.addon.tgz",
+"h": "Addon:SetPrivacyTool"
 },
 {
 "n": "Interaktiver Stammbaum",
@@ -996,11 +997,11 @@
 "i": "Beta What's Next",
 "t": 10,
 "d": "Beta Gramplet suggesting items to research",
-"v": "0.1.5",
+"v": "0.1.7",
 "g": "5.2",
 "s": 3,
 "z": "Betawhatsnext.addon.tgz",
-"h": "https://github.com/emyoulation/_BetaDashboards/blob/5.2/README.md",
+"h": "Gramps_5.2_Wiki_Manual_-_Gramplets#What.27s_Next",
 "a": 0
 },
 {
@@ -1296,7 +1297,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "Voraussetzungen Pr\u00fcfer Gramplet",
-"v": "1.2.3",
+"v": "1.2.4",
 "g": "5.2",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
