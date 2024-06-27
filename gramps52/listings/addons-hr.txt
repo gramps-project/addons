@@ -1,0 +1,2 @@
+{"t":'Gramplet',"i":'DNASegmentMap',"n":'Karta DNA segmenata',"v":'2.0.3',"g":'5.1',"d":'Gramplet za prikaz karte poklapajućih DNA segmenata',"z":'DNA.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'Dohvati GOV-podatke',"v":'1.0.18',"g":'5.1',"d":'Gramplet za dohvaćanje mjesta iz GOV baze podataka',"z":'GetGOV.addon.tgz'}

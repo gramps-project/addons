@@ -9,7 +9,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Aniversários',"v":'1.1.11',"g":'5.1',"d":'um gramplet que mostra os aniversários de indivíduos vivos',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Relógio',"v":'0.0.32',"g":'5.1',"d":'Gramplet para demonstrar os gráficos Cairo',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Área de transferência de colecções',"v":'1.0.41',"g":'5.1',"d":'Gramplet para agrupar colecções de itens e ajudar a inserir dados.',"z":'ClipboardGramplet.addon.tgz'}
-{"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA Segment Map',"v":'2.0.1',"g":'5.1',"d":'Gramplet showing a matching DNA segment map',"z":'DNA.addon.tgz'}
+{"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA Segment Map',"v":'2.0.3',"g":'5.1',"d":'Gramplet showing a matching DNA segment map',"z":'DNA.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Gramplet de inserção de dados',"v":'1.0.46',"g":'5.1',"d":'Gramplet de inserção rápida de dados',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Calculadora de datas',"v":'0.0.14',"g":'5.1',"d":'Gramplet útil para cálculos matemáticos com datas',"z":'DateCalculator.addon.tgz'}
 {"t":'Gramplet',"i":'Deep Connections Gramplet',"n":'Gramplet Ligações profundas',"v":'1.0.40',"g":'5.1',"d":'Gramplet que mostra um parentesco profundo entre o indivíduo activo e o indivíduo inicial',"z":'DeepConnectionsGramplet.addon.tgz'}
@@ -140,6 +140,6 @@
 {"t":'Tool',"i":'mediaverify',"n":'Verificar multimédia',"v":'1.0.24',"g":'5.1',"d":'Verifica se a multimédia está presente no caminho correcto',"z":'MediaVerify.addon.tgz'}
 {"t":'Tool',"i":'notecleanup',"n":'Limpeza de notas',"v":'1.0.18',"g":'5.1',"d":'Limpa notas que contêm marcação HTML',"z":'NoteCleanup.addon.tgz'}
 {"t":'Tool',"i":'s3uploader',"n":'S3 Media Uploader',"v":'0.1.2',"g":'5.1',"d":'Upload media files to S3 (or compatible) object-based storage via the command line.',"z":'S3MediaUploader.addon.tgz'}
-{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.9',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
+{"t":'Tool',"i":'syncAssociations',"n":'Sync Associations',"v":'0.0.10',"g":'5.1',"d":'Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.',"z":'SyncAssociations.addon.tgz'}
 {"t":'Tool',"i":'thumbgen',"n":'Gerador de miniaturas',"v":'1.0.26',"g":'5.1',"d":'Gera miniaturas de ficheiros multimédia',"z":'ThumbnailGenerator.addon.tgz'}
 {"t":'Tool',"i":'typecleanup',"n":'Limpeza de tipos',"v":'1.0.8',"g":'5.1',"d":'Limpar (remover) tipos personalizados',"z":'TypeCleanup.addon.tgz'}

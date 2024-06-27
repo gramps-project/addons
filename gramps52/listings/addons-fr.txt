@@ -1,0 +1,2 @@
+{"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA Segment Map',"v":'2.0.3',"g":'5.1',"d":'Gramplet showing a matching DNA segment map',"z":'DNA.addon.tgz'}
+{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'GetGOV',"v":'1.0.18',"g":'5.1',"d":'Gramplet pour trouver des lieux depuis la base de données GOV',"z":'GetGOV.addon.tgz'}
