@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Ger en lista \u00f6ver alla anteckningar med en given tagg tillsammans med poster som den refererar till, Person, Familj, H\u00e4ndelse, etc.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

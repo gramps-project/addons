@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Elabora una llista de totes les notes amb una etiqueta determinada juntament amb els registres a qu\u00e8 fa refer\u00e8ncia, la persona, la fam\u00edlia, l\u2019esdeveniment, etc.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

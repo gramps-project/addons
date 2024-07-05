@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Tworzy list\u0119 wszystkich notatek z danym tagiem wraz z rekordami, do kt\u00f3rych si\u0119 on odnosi, osob\u0105, rodzin\u0105, zdarzeniem itp.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

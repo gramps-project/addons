@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produit une liste de toutes les notes avec une \u00e9tiquette donn\u00e9e ainsi que les enregistrements qui les r\u00e9f\u00e9rencent, l'individu, la famille, l'\u00e9v\u00e9nement, etc.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produceert een lijst van alle notities met een bepaald  label, samen met de gegevens waarnaar het verwijst, de persoon, familie, gebeurtenis, enz.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

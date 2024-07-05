@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produce un elenco di tutte le note con un dato tag insieme ai record a cui fa riferimento, la persona, la famiglia, l'evento, ecc.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

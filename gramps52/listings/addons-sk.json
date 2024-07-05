@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Vytvor\u00ed zoznam v\u0161etk\u00fdch pozn\u00e1mok s danou zna\u010dkou spolu so z\u00e1znamami, na ktor\u00e9 odkazuje, osobou, rodinou, udalos\u0165ou at\u010f.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"

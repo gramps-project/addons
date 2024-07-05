@@ -184,7 +184,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Stvara popis svih zabilje\u017eaka sa zadanom etiketom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, doga\u0111aj, itd.",
-"v": "1.2.34",
+"v": "1.2.35",
 "g": "5.2",
 "s": 3,
 "z": "ToDoReport.addon.tgz"
