@@ -586,7 +586,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "Verifica se a multim\u00e9dia est\u00e1 presente no caminho correcto",
-"v": "1.0.26",
+"v": "1.0.27",
 "g": "5.2",
 "s": 3,
 "z": "MediaVerify.addon.tgz"
@@ -596,7 +596,7 @@
 "i": "notecleanup",
 "t": 2,
 "d": "Limpa notas que cont\u00eam marca\u00e7\u00e3o HTML",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "5.2",
 "s": 3,
 "z": "NoteCleanup.addon.tgz"

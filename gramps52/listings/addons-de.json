@@ -586,7 +586,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "\u00dcberpr\u00fcft, das die Medien im korrekten Pfad vorhanden sind",
-"v": "1.0.26",
+"v": "1.0.27",
 "g": "5.2",
 "s": 3,
 "z": "MediaVerify.addon.tgz"
@@ -596,7 +596,7 @@
 "i": "notecleanup",
 "t": 2,
 "d": "Bereinigt Notizen, die HTML-Markup enthalten",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "5.2",
 "s": 3,
 "z": "NoteCleanup.addon.tgz"

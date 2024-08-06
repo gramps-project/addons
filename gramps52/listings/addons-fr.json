@@ -586,7 +586,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "V\u00e9rifier si l'objet medium est pr\u00e9sent avec le bon chemin ",
-"v": "1.0.26",
+"v": "1.0.27",
 "g": "5.2",
 "s": 3,
 "z": "MediaVerify.addon.tgz"
@@ -596,7 +596,7 @@
 "i": "notecleanup",
 "t": 2,
 "d": "Nettoyer les notes qui contiennent des balises HTML",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "5.2",
 "s": 3,
 "z": "NoteCleanup.addon.tgz"
