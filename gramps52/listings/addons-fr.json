@@ -997,11 +997,11 @@
 "i": "Beta What's Next",
 "t": 10,
 "d": "Beta Gramplet suggesting items to research",
-"v": "0.1.7",
+"v": "0.1.9",
 "g": "5.2",
-"s": 3,
+"s": 2,
 "z": "Betawhatsnext.addon.tgz",
-"h": "Gramps_5.2_Wiki_Manual_-_Gramplets#What.27s_Next",
+"h": "https://github.com/emyoulation/_BetaDashboards",
 "a": 0
 },
 {
