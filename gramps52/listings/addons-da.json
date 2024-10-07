@@ -420,6 +420,18 @@
 "z": "FamilyRelationshipTool.addon.tgz"
 },
 {
+"n": "FamilyTree DNA",
+"i": "FamilyTree DNA Import Gramplet",
+"t": 2,
+"d": "Tool to import FamilyFinder DNA data from Family Tree",
+"v": "1.0.31",
+"g": "5.2",
+"s": 3,
+"z": "FamilyTreeDNA.addon.tgz",
+"h": "Addon:FamilyTree_DNA",
+"a": 1
+},
+{
 "n": "Fix Place Coordinates",
 "i": "FixCoords",
 "t": 2,
@@ -1038,11 +1050,11 @@
 "z": "ClipboardGramplet.addon.tgz"
 },
 {
-"n": "DNA Segment Map",
+"n": "DNA Segment  Kort",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
-"v": "2.0.7",
+"d": "Gramplet der viser et  matchene DNA segment kort",
+"v": "2.0.8",
 "g": "5.2",
 "s": 3,
 "z": "DNA.addon.tgz",
