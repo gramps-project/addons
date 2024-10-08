@@ -947,6 +947,24 @@
 ]
 },
 {
+"n": "Tidsliniekort",
+"i": "geotimelines",
+"t": 8,
+"d": "Et billede der viser alle steder som en person har bes\u00f8gt p\u00e5 forskellige datoer.",
+"v": "1.0.1",
+"g": "5.2",
+"s": 2,
+"z": "GeoTimeLines.addon.tgz",
+"rg": [
+[
+"OsmGpsMap",
+"1.0"
+]
+],
+"h": "https://gramps.discourse.group/t/timelines-map-addon-beta-testing/6130",
+"a": 1
+},
+{
 "n": "Graph View",
 "i": "graphview",
 "t": 8,

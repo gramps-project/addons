@@ -947,6 +947,24 @@
 ]
 },
 {
+"n": "TimeLines Map",
+"i": "geotimelines",
+"t": 8,
+"d": "A view showing all the places visited by a person or persons on various date.",
+"v": "1.0.1",
+"g": "5.2",
+"s": 2,
+"z": "GeoTimeLines.addon.tgz",
+"rg": [
+[
+"OsmGpsMap",
+"1.0"
+]
+],
+"h": "https://gramps.discourse.group/t/timelines-map-addon-beta-testing/6130",
+"a": 1
+},
+{
 "n": "Graphenansicht",
 "i": "graphview",
 "t": 8,
