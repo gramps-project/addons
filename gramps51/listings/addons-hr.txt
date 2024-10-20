@@ -9,6 +9,7 @@
 {"t":'Gramplet',"i":'Birthdays',"n":'Rođendani',"v":'1.1.11',"g":'5.1',"d":'gramplet prikazuje rođendane živih osoba',"z":'BirthdaysGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Clock Gramplet',"n":'Sat',"v":'0.0.32',"g":'5.1',"d":'Gramplet za prikaz Cairo grafika',"z":'ClockGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'Collections Clipboard Gramplet',"n":'Međuspremnik zbiraka',"v":'1.0.41',"g":'5.1',"d":'Gramplet za grupiranje zbiraka elemenata, kao pomoć prilikom unosa podataka.',"z":'ClipboardGramplet.addon.tgz'}
+{"t":'Gramplet',"i":'DNAMatches',"n":'DNA Matches',"v":'2.0.1',"g":'5.1',"d":'Gramplet to display a list of DNA matches',"z":'DNAMatches.addon.tgz'}
 {"t":'Gramplet',"i":'DNASegmentMap',"n":'Karta DNA segmenata',"v":'2.0.3',"g":'5.1',"d":'Gramplet za prikaz karte poklapajućih DNA segmenata',"z":'DNA.addon.tgz'}
 {"t":'Gramplet',"i":'Data Entry Gramplet',"n":'Unos podataka',"v":'1.0.46',"g":'5.1',"d":'Gramplet za brzi unos podataka',"z":'DataEntryGramplet.addon.tgz'}
 {"t":'Gramplet',"i":'DateCalculator',"n":'Kalkulator datuma',"v":'0.0.14',"g":'5.1',"d":'Korisno za izračunavanje datuma',"z":'DateCalculator.addon.tgz'}
