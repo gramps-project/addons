@@ -1068,6 +1068,17 @@
 "z": "ClipboardGramplet.addon.tgz"
 },
 {
+"n": "DNA Matches",
+"i": "DNAMatches",
+"t": 10,
+"d": "Gramplet to display a list of DNA matches",
+"v": "2.0.1",
+"g": "5.2",
+"s": 3,
+"z": "DNAMatches.addon.tgz",
+"h": "Addon:DNAMatches"
+},
+{
 "n": "DNA-segmentskarta",
 "i": "DNASegmentMap",
 "t": 10,
