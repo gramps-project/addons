@@ -1210,6 +1210,17 @@
 "h": "HeadlineNewsGramplet"
 },
 {
+"n": "Historical Context",
+"i": "HistContext",
+"t": 10,
+"d": "Displaying a historical context",
+"v": "0.2.11",
+"g": "5.2",
+"s": 3,
+"z": "HistContext.addon.tgz",
+"h": "Addon:Historical_Context"
+},
+{
 "n": "Hustidslinje",
 "i": "House Timeline",
 "t": 10,
