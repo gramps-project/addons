@@ -1191,7 +1191,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet za dohva\u0107anje mjesta iz GOV baze podataka",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "5.2",
 "s": 3,
 "z": "GetGOV.addon.tgz",

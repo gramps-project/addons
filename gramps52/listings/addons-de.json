@@ -1191,7 +1191,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet um Orte aus der GOV Datenbank zu holen",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "5.2",
 "s": 3,
 "z": "GetGOV.addon.tgz",
