@@ -1,2 +1,0 @@
-{"t":'Gramplet',"i":'DNASegmentMap',"n":'DNA-segmentkaart',"v":'2.0.3',"g":'5.1',"d":'Gramplet dat een overeenkomende DNA-segmentkaart toont',"z":'DNA.addon.tgz'}
-{"t":'Gramplet',"i":'GetGOV Gramplet',"n":'KrijgGOV',"v":'1.0.18',"g":'5.1',"d":'Gramplet om locaties uit de GOV-database te halen',"z":'GetGOV.addon.tgz'}
