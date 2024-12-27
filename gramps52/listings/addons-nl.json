@@ -173,11 +173,12 @@
 "n": "Stamboomverslag met tijdlijn",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "Dit cre\u00ebert een website die een stamboom met verjaardagsrelaties toont",
-"v": "0.0.6",
+"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"v": "0.0.7",
 "g": "5.2",
 "s": 3,
-"z": "TimePedigreeHTML.addon.tgz"
+"z": "TimePedigreeHTML.addon.tgz",
+"h": "Addon:Timeline_Pedigree_Report"
 },
 {
 "n": "Takenverslag",

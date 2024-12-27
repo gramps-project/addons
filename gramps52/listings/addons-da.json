@@ -173,11 +173,12 @@
 "n": "Timeline Pedigree Report",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "This creates a website showing a pedigree with birthday relation",
-"v": "0.0.6",
+"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"v": "0.0.7",
 "g": "5.2",
 "s": 3,
-"z": "TimePedigreeHTML.addon.tgz"
+"z": "TimePedigreeHTML.addon.tgz",
+"h": "Addon:Timeline_Pedigree_Report"
 },
 {
 "n": "Huskeliste rapport",
