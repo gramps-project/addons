@@ -1177,11 +1177,11 @@
 "z": "Overview.addon.tgz"
 },
 {
-"n": "Form Gramplet",
+"n": "\u0413\u0440\u0430\u043c\u043f\u043b\u0435\u0442 \u0444\u043e\u0440\u043c\u0438",
 "i": "Form Gramplet",
 "t": 10,
-"d": "Gramplet interface for Forms",
-"v": "2.0.43",
+"d": "\u0406\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0433\u0440\u0430\u043c\u043f\u043b\u0435\u0442\u0443 \u0434\u043b\u044f \u0444\u043e\u0440\u043c",
+"v": "2.0.44",
 "g": "5.2",
 "s": 3,
 "z": "Form.addon.tgz",
