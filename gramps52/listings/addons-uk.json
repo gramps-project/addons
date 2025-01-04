@@ -966,11 +966,11 @@
 "a": 1
 },
 {
-"n": "\u0412\u0438\u0434 \u0433\u0440\u0430\u0444\u0430",
+"n": "\u0412\u0438\u0433\u043b\u044f\u0434 \u0433\u0440\u0430\u0444\u0430",
 "i": "graphview",
 "t": 8,
 "d": "\u0414\u0438\u043d\u0430\u043c\u0456\u0447\u043d\u0438\u0439 \u0442\u0430 \u0456\u043d\u0442\u0435\u0440\u0430\u043a\u0442\u0438\u0432\u043d\u0438\u0439 \u0433\u0440\u0430\u0444 \u0432\u0456\u0434\u043d\u043e\u0441\u0438\u043d",
-"v": "1.0.138",
+"v": "1.0.139",
 "g": "5.2",
 "s": 3,
 "z": "GraphView.addon.tgz",
@@ -1211,11 +1211,11 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "\u0406\u0441\u0442\u043e\u0440\u0438\u0447\u043d\u0438\u0439 \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442",
 "i": "HistContext",
 "t": 10,
-"d": "Lists relevant historical events during the lifetime of a Person",
-"v": "0.2.26",
+"d": "\u041f\u0435\u0440\u0435\u043b\u0456\u043a \u0432\u0456\u0434\u043f\u043e\u0432\u0456\u0434\u043d\u0438\u0445 \u0456\u0441\u0442\u043e\u0440\u0438\u0447\u043d\u0438\u0445 \u043f\u043e\u0434\u0456\u0439 \u043f\u0440\u043e\u0442\u044f\u0433\u043e\u043c \u0436\u0438\u0442\u0442\u044f \u043e\u0441\u043e\u0431\u0438",
+"v": "0.2.27",
 "g": "5.2",
 "s": 3,
 "z": "HistContext.addon.tgz",
@@ -1369,11 +1369,11 @@
 "a": 2
 },
 {
-"n": "Related Relatives",
+"n": "\u041f\u043e\u0432\u2019\u044f\u0437\u0430\u043d\u0456 \u0440\u043e\u0434\u0438\u0447\u0456",
 "i": "Related Relatives Gramplet",
 "t": 10,
-"d": "Gramplet showing relatives in a relation",
-"v": "1.0.37",
+"d": "\u0413\u0440\u0430\u043c\u043f\u043b\u0435\u0442, \u0449\u043e \u043f\u043e\u043a\u0430\u0437\u0443\u0454 \u0440\u043e\u0434\u0438\u0447\u0456\u0432 \u0443 \u0437\u0432\u2019\u044f\u0437\u043a\u0443",
+"v": "1.0.38",
 "g": "5.2",
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
