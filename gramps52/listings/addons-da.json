@@ -395,7 +395,7 @@
 "i": "AvatarGenerator",
 "t": 2,
 "d": "Et v\u00e6rkt\u00f8j til at l\u00e6gge billeder til din sl\u00e6gtsbog",
-"v": "1.0.14",
+"v": "1.0.15",
 "g": "5.2",
 "s": 3,
 "z": "AvatarGenerator.addon.tgz"
@@ -683,7 +683,7 @@
 "i": "Export GEDCOM Extensions",
 "t": 4,
 "d": "Udvidelser til det almidenlige GEDCOM format.",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "5.2",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",

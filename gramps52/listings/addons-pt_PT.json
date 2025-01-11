@@ -395,7 +395,7 @@
 "i": "AvatarGenerator",
 "t": 2,
 "d": "Uma ferramenta para adicionar avatares \u00e0 sua \u00e1rvore geneal\u00f3gica",
-"v": "1.0.14",
+"v": "1.0.15",
 "g": "5.2",
 "s": 3,
 "z": "AvatarGenerator.addon.tgz"
@@ -683,7 +683,7 @@
 "i": "Export GEDCOM Extensions",
 "t": 4,
 "d": "Extens\u00f5es para o formato GEDCOM.",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "5.2",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
