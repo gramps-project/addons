@@ -1107,7 +1107,7 @@
 "i": "DateCalculator",
 "t": 10,
 "d": "\u05e9\u05d9\u05de\u05d5\u05e9\u05d9 \u05dc\u05d7\u05d9\u05e9\u05d5\u05d1\u05d9 \u05d4\u05ea\u05d0\u05de\u05ea \u05ea\u05d0\u05e8\u05d9\u05db\u05da",
-"v": "0.0.18",
+"v": "0.0.19",
 "g": "5.2",
 "s": 3,
 "z": "DateCalculator.addon.tgz",

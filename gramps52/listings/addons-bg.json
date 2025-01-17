@@ -1107,7 +1107,7 @@
 "i": "DateCalculator",
 "t": 10,
 "d": "Useful for date math calculations",
-"v": "0.0.18",
+"v": "0.0.19",
 "g": "5.2",
 "s": 3,
 "z": "DateCalculator.addon.tgz",
