@@ -683,7 +683,7 @@
 "i": "Export GEDCOM Extensions",
 "t": 4,
 "d": "Dodaci za obi\u010dan GEDCOM format.",
-"v": "1.0.35",
+"v": "1.0.36",
 "g": "5.2",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
