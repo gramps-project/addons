@@ -683,7 +683,7 @@
 "i": "Export GEDCOM Extensions",
 "t": 4,
 "d": "\u0414\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0431\u044b\u0447\u043d\u043e\u0433\u043e \u0444\u043e\u0440\u043c\u0430\u0442\u0430 GEDCOM.",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
