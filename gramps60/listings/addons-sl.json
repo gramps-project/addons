@@ -4,177 +4,194 @@
 "i": "AncestorFill",
 "t": 0,
 "d": "Report on the filling of the tree",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
-"z": "AncestorFill.addon.tgz"
+"z": "AncestorFill.addon.tgz",
+"h": "Addon:Ancestor_Fill_Report"
 },
 {
 "n": "Descendant Book",
 "i": "DescendantBook",
 "t": 0,
 "d": "Produces one or more descendant reports based on a supplied query.",
-"v": "1.1.28",
+"v": "1.1.29",
 "g": "6.0",
 "s": 3,
-"z": "DescendantBooks.addon.tgz"
+"z": "DescendantBooks.addon.tgz",
+"h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
 "n": "Descendants Lines",
 "i": "Descendants Lines",
 "t": 0,
 "d": "Produces descendants lines of a person",
-"v": "1.1.10",
+"v": "1.1.11",
 "g": "6.0",
 "s": 3,
-"z": "DescendantsLines.addon.tgz"
+"z": "DescendantsLines.addon.tgz",
+"h": "Addon:DescendantsLines"
 },
 {
 "n": "Detailed Descendant Book",
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.28",
+"v": "1.1.29",
 "g": "6.0",
 "s": 3,
-"z": "DescendantBooks.addon.tgz"
+"z": "DescendantBooks.addon.tgz",
+"h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
 "n": "Dynamic Web Report",
 "i": "DynamicWeb",
 "t": 0,
 "d": "Produces dynamic web pages for the database",
-"v": "0.0.98",
+"v": "0.0.99",
 "g": "6.0",
 "s": 3,
-"z": "DynamicWeb.addon.tgz"
+"z": "DynamicWeb.addon.tgz",
+"h": "Addon:DynamicWeb_report"
 },
 {
 "n": "Family Sheet",
 "i": "FamilySheet",
 "t": 0,
 "d": "Produces a family sheet showing full information about a person and his/her partners and children.",
-"v": "3.4.49",
+"v": "3.4.50",
 "g": "6.0",
 "s": 3,
-"z": "FamilySheet.addon.tgz"
+"z": "FamilySheet.addon.tgz",
+"h": "Addon:Family_Sheet"
 },
 {
 "n": "Rodovnik",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
-"v": "4.2.24",
+"v": "4.2.25",
 "g": "6.0",
 "s": 3,
-"z": "FamilyTree.addon.tgz"
+"z": "FamilyTree.addon.tgz",
+"h": "Addon:Family_Tree"
 },
 {
 "n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
-"v": "1.2.5",
+"v": "1.2.6",
 "g": "6.0",
 "s": 3,
-"z": "Heatmap.addon.tgz"
+"z": "Heatmap.addon.tgz",
+"h": "Addon:HeatmapWebReport"
 },
 {
 "n": "Last Change Report",
 "i": "LastChangeReport",
 "t": 0,
 "d": "Report of the last records that have been changed",
-"v": "0.1.12",
+"v": "0.1.13",
 "g": "6.0",
 "s": 3,
-"z": "LastChange.addon.tgz"
+"z": "LastChange.addon.tgz",
+"h": "Addon:LastChange#Last_Change_Report"
 },
 {
 "n": "Lines of Descendency Report",
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Prints out all descendency lines from a given ancestor to a given descendent in text.",
-"v": "1.1.37",
+"v": "1.1.38",
 "g": "6.0",
 "s": 3,
-"z": "LinesOfDescendency.addon.tgz"
+"z": "LinesOfDescendency.addon.tgz",
+"h": "Addon:Lines_of_Descendency_Report"
 },
 {
 "n": "Tiny Tafel",
 "i": "ListeEclair",
 "t": 0,
 "d": "Generates a tiny tafel",
-"v": "1.0.28",
+"v": "1.0.29",
 "g": "6.0",
 "s": 3,
-"z": "ListeEclair.addon.tgz"
+"z": "ListeEclair.addon.tgz",
+"h": "Addon:TinyTafel"
 },
 {
 "n": "Media Report",
 "i": "MediaReport",
 "t": 0,
 "d": "Generates report including images, image data and notes.",
-"v": "1.1.13",
+"v": "1.1.14",
 "g": "6.0",
 "s": 3,
-"z": "MediaReport.addon.tgz"
+"z": "MediaReport.addon.tgz",
+"h": "Addon:MediaReport"
 },
 {
 "n": "Pedigree Chart",
 "i": "PedigreeChart",
 "t": 0,
 "d": "Alternate version of the traditional pedigree chart.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
-"z": "PedigreeChart.addon.tgz"
+"z": "PedigreeChart.addon.tgz",
+"h": "Addon:PedigreeChart"
 },
 {
 "n": "PersonEverything Report",
 "i": "PersonEverythingReport",
 "t": 0,
 "d": "Produces a report containing everything about the active person",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
-"z": "PersonEverything.addon.tgz"
+"z": "PersonEverything.addon.tgz",
+"h": "Addon:PersonEverything_Report"
 },
 {
 "n": "Repositories Report",
 "i": "Repositories Report",
 "t": 0,
 "d": "Produces a textual repositories report",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
-"z": "RepositoriesReport.addon.tgz"
+"z": "RepositoriesReport.addon.tgz",
+"h": "Addon:RepositoriesReport#Repositories_Report"
 },
 {
 "n": "Repositories Report Options",
 "i": "Repositories Report Options",
 "t": 0,
 "d": "Produces a textual repositories report",
-"v": "0.3.33",
+"v": "0.3.34",
 "g": "6.0",
 "s": 3,
-"z": "RepositoriesReport.addon.tgz"
+"z": "RepositoriesReport.addon.tgz",
+"h": "Addon:RepositoriesReport#Repositories_Report_Options"
 },
 {
 "n": "Sources and Citations Report",
 "i": "SourcesCitationsReport",
 "t": 0,
 "d": "Provides a source and Citations Report with notes",
-"v": "3.6.13",
+"v": "3.6.14",
 "g": "6.0",
 "s": 3,
-"z": "SourcesCitationsReport.addon.tgz"
+"z": "SourcesCitationsReport.addon.tgz",
+"h": "Addon:SourcesCitationsReport"
 },
 {
 "n": "Timeline Pedigree Report",
 "i": "TimePedigreeHTML",
 "t": 0,
 "d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
-"v": "0.0.8",
+"v": "0.0.9",
 "g": "6.0",
 "s": 3,
 "z": "TimePedigreeHTML.addon.tgz",
@@ -185,90 +202,99 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.",
-"v": "1.2.37",
+"v": "1.2.38",
 "g": "6.0",
 "s": 3,
-"z": "ToDoReport.addon.tgz"
+"z": "ToDoReport.addon.tgz",
+"h": "Addon:ToDoReport"
 },
 {
 "n": "Ancestral Collapsible Tree",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "6.0",
 "s": 3,
-"z": "D3Charts.addon.tgz"
+"z": "D3Charts.addon.tgz",
+"h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
 "n": "Ancestral Fan Chart",
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "6.0",
 "s": 3,
-"z": "D3Charts.addon.tgz"
+"z": "D3Charts.addon.tgz",
+"h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
 "n": "Descendant Indented Tree",
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "6.0",
 "s": 3,
-"z": "D3Charts.addon.tgz"
+"z": "D3Charts.addon.tgz",
+"h": "Addon:D3_Ancestral_and_Descendant_Charts#Descendant_Indented_Tree"
 },
 {
 "n": "Database Differences Report",
 "i": "database-differences-report",
 "t": 0,
 "d": "Compares an external database with the current one.",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Differences.addon.tgz"
+"z": "Differences.addon.tgz",
+"h": "Addon:Database_Differences_Report"
 },
 {
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
 "d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
-"v": "2.3.46",
+"v": "2.3.47",
 "g": "6.0",
 "s": 3,
-"z": "DenominoViso.addon.tgz"
+"z": "DenominoViso.addon.tgz",
+"h": "Addon:DenominoViso"
 },
 {
 "n": "Detailed Descendant Report With All Images",
 "i": "det_descendant_report_i",
 "t": 0,
 "d": "Produces a detailed descendant report with all images and optional todo list.",
-"v": "1.0.13",
+"v": "1.0.14",
 "g": "6.0",
 "s": 3,
-"z": "DetDescendantReport-images.addon.tgz"
+"z": "DetDescendantReport-images.addon.tgz",
+"h": "Addon:Detailed_Descendant_Report_With_All_Images"
 },
 {
 "n": "Double Cousins",
 "i": "double_cousins",
 "t": 0,
 "d": "A text report listing double cousins.",
-"v": "1.0.7",
+"v": "1.0.8",
 "g": "6.0",
 "s": 3,
-"z": "DoubleCousins.addon.tgz"
+"z": "DoubleCousins.addon.tgz",
+"h": "Addon:DoubleCousinReport"
 },
 {
 "n": "Drevo prednikov",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "6.0",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
+"h": "Addon:GenealogyTree#Ancestor_tree",
 "a": 1
 },
 {
@@ -276,10 +302,11 @@
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "6.0",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
+"h": "Addon:GenealogyTree#Descendant_tree",
 "a": 1
 },
 {
@@ -287,10 +314,11 @@
 "i": "gt_grandparent",
 "t": 0,
 "d": "Grandparent tree using LaTeX genealogytree",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "6.0",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
+"h": "Addon:GenealogyTree#Grandparent_tree",
 "a": 1
 },
 {
@@ -298,10 +326,11 @@
 "i": "gt_sandclock",
 "t": 0,
 "d": "Sandclock tree using LaTeX genealogytree",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "6.0",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
+"h": "Addon:GenealogyTree#Sandclock_tree",
 "a": 1
 },
 {
@@ -309,10 +338,11 @@
 "i": "gt_sandclock_family",
 "t": 0,
 "d": "Sandclock tree for a family using LaTeX genealogytree",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "6.0",
 "s": 3,
 "z": "GenealogyTree.addon.tgz",
+"h": "Addon:GenealogyTree#Sandclock_Tree_for_a_Family",
 "a": 1
 },
 {
@@ -320,7 +350,7 @@
 "i": "networkchart",
 "t": 0,
 "d": "Generates a family network chart.",
-"v": "0.0.29",
+"v": "0.0.30",
 "g": "6.0",
 "s": 3,
 "z": "NetworkChart.addon.tgz",
@@ -335,97 +365,106 @@
 "i": "NumberOfAncestorsQuickview",
 "t": 1,
 "d": "Shows the number of ancestors of the current person",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "NumberOfAncestorsQuickview.addon.tgz"
+"z": "NumberOfAncestorsQuickview.addon.tgz",
+"h": "Addon:NumberOfAncestorsQuickView"
 },
 {
 "n": "Number of descendants",
 "i": "NumberOfDescendantsQuickview",
 "t": 1,
 "d": "Shows the number of descendants of the current person",
-"v": "3.4.32",
+"v": "3.4.33",
 "g": "6.0",
 "s": 3,
-"z": "NumberOfDescendantsQuickview.addon.tgz"
+"z": "NumberOfDescendantsQuickview.addon.tgz",
+"h": "Addon:Number_of_Descendants_Quickview"
 },
 {
 "n": "All Names of All People",
 "i": "allnames",
 "t": 1,
 "d": "Display all names of all people",
-"v": "1.0.33",
+"v": "1.0.34",
 "g": "6.0",
 "s": 3,
-"z": "AllNamesQuickview.addon.tgz"
+"z": "AllNamesQuickview.addon.tgz",
+"h": "Addon:All_Names_Quickview"
 },
 {
 "n": "Biography",
 "i": "biographyquickview",
 "t": 1,
 "d": "Display a text biography",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
-"z": "BiographyQuickview.addon.tgz"
+"z": "BiographyQuickview.addon.tgz",
+"h": "Addon:Biography_Quickview"
 },
 {
 "n": "\u010casovna skala",
 "i": "timelinequickview",
 "t": 1,
 "d": "Display a person's events on a timeline",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "6.0",
 "s": 3,
-"z": "TimelineQuickview.addon.tgz"
+"z": "TimelineQuickview.addon.tgz",
+"h": "Addon:Timeline_Quickview"
 },
 {
 "n": "Attach Source",
 "i": "AttachSource",
 "t": 2,
 "d": "Attaches a shared source to multiple objects.",
-"v": "0.0.39",
+"v": "0.0.40",
 "g": "6.0",
 "s": 3,
-"z": "AttachSourceTool.addon.tgz"
+"z": "AttachSourceTool.addon.tgz",
+"h": "Addon:AttachSourceTool"
 },
 {
 "n": "Avatar Generator Tool",
 "i": "AvatarGenerator",
 "t": 2,
 "d": "A tool to add avatar pictures to your family tree",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
-"z": "AvatarGenerator.addon.tgz"
+"z": "AvatarGenerator.addon.tgz",
+"h": "Addon:AvatarGenerator"
 },
 {
 "n": "Event Description Editor",
 "i": "EventDescriptionEditor",
 "t": 2,
 "d": "A tool to find and replace a string in event description of multiple events.",
-"v": "1.0.14",
+"v": "1.0.15",
 "g": "6.0",
 "s": 3,
-"z": "EventDescriptionEditor.addon.tgz"
+"z": "EventDescriptionEditor.addon.tgz",
+"h": "Addon:EventDescriptionEditor"
 },
 {
 "n": "Family Relationship Tool",
 "i": "FamilyRelationshipTool",
 "t": 2,
 "d": "Mass-edit the family relationship type for a group of families.",
-"v": "1.1.9",
+"v": "1.1.10",
 "g": "6.0",
 "s": 3,
-"z": "FamilyRelationshipTool.addon.tgz"
+"z": "FamilyRelationshipTool.addon.tgz",
+"h": "Addon:FamilyRelationship"
 },
 {
 "n": "FamilyTree DNA",
 "i": "FamilyTree DNA Import Gramplet",
 "t": 2,
 "d": "Tool to import FamilyFinder DNA data from Family Tree",
-"v": "1.0.32",
+"v": "1.0.33",
 "g": "6.0",
 "s": 3,
 "z": "FamilyTreeDNA.addon.tgz",
@@ -437,47 +476,51 @@
 "i": "FixCoords",
 "t": 2,
 "d": "Tool to correct the place coordinates for extra spaces or comma characters.",
-"v": "1.0.6",
+"v": "1.0.7",
 "g": "6.0",
 "s": 3,
-"z": "FixCoords.addon.tgz"
+"z": "FixCoords.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/blob/maintenance/gramps60/FixCoords"
 },
 {
 "n": "PlaceCompletion",
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.",
-"v": "0.0.44",
+"v": "0.0.45",
 "g": "6.0",
 "s": 3,
-"z": "PlaceCompletion.addon.tgz"
+"z": "PlaceCompletion.addon.tgz",
+"h": "Addon:Place_completion_tool"
 },
 {
 "n": "Add/Remove Tag Tool",
 "i": "RemoveTagTool",
 "t": 2,
 "d": "Add or remove a tag from groups of people, events, etc.",
-"v": "1.1.10",
+"v": "1.1.11",
 "g": "6.0",
 "s": 3,
-"z": "RemoveTagTool.addon.tgz"
+"z": "RemoveTagTool.addon.tgz",
+"h": "Addon:AddRemoveTagTool"
 },
 {
 "n": "Set Attribute",
 "i": "SetAttribute",
 "t": 2,
 "d": "Set an attribute to a given value.",
-"v": "0.0.36",
+"v": "0.0.37",
 "g": "6.0",
 "s": 3,
-"z": "SetAttributeTool.addon.tgz"
+"z": "SetAttributeTool.addon.tgz",
+"h": "Addon:SetAttributeTool"
 },
 {
 "n": "Set Privacy Tool",
 "i": "SetPrivacyTool",
 "t": 2,
 "d": "Set all objects of the last <number> of years private.",
-"v": "1.0.17",
+"v": "1.0.18",
 "g": "6.0",
 "s": 3,
 "z": "SetPrivacyTool.addon.tgz",
@@ -488,60 +531,66 @@
 "i": "Topola",
 "t": 2,
 "d": "Opens an interactive tree in the browser",
-"v": "1.1.11",
+"v": "1.1.12",
 "g": "6.0",
 "s": 3,
-"z": "Topola.addon.tgz"
+"z": "Topola.addon.tgz",
+"h": "Addon:Interactive_Family_Tree"
 },
 {
 "n": "Check Associations data",
 "i": "associationstool",
 "t": 2,
 "d": "Will check the data on Association for people.",
-"v": "1.1.13",
+"v": "1.1.14",
 "g": "6.0",
 "s": 3,
-"z": "AssociationsTool.addon.tgz"
+"z": "AssociationsTool.addon.tgz",
+"h": "Addon:Check_Associations"
 },
 {
 "n": "Sort Children in Birth order",
 "i": "birthorder",
 "t": 2,
 "d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
-"v": "0.0.17",
+"v": "0.0.18",
 "g": "6.0",
 "s": 3,
-"z": "BirthOrder.addon.tgz"
+"z": "BirthOrder.addon.tgz",
+"h": "Addon:BirthOrderTool"
 },
 {
 "n": "Izra\u010dunaj okvirne datume",
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Izra\u010duna okvirne datume rojstev in smrti.",
-"v": "0.90.39",
+"v": "0.90.40",
 "g": "6.0",
 "s": 3,
-"z": "CalculateEstimatedDates.addon.tgz"
+"z": "CalculateEstimatedDates.addon.tgz",
+"h": "Addon:Calculate_Estimated_Dates"
 },
 {
 "n": "Fix Capitalization of Given Names",
 "i": "chgivenname",
 "t": 2,
 "d": "Searches the entire database and attempts to fix capitalization of the given names.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
-"z": "ChangeGivenNames.addon.tgz"
+"z": "ChangeGivenNames.addon.tgz",
+"h": "Addon:Fix_Capitalization_of_Given_Names"
 },
 {
 "n": "Command Line Merge",
 "i": "climerge",
 "t": 2,
 "d": "Merge primary objects via the command line.",
-"v": "1.0.39",
+"v": "1.0.40",
 "g": "6.0",
 "s": 3,
 "z": "CliMerge.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/blob/maintenance/gramps60/CliMerge",
 "a": 2
 },
 {
@@ -549,133 +598,146 @@
 "i": "downloadmedia",
 "t": 2,
 "d": "This tool downloads media files from the internet",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "DownloadMedia.addon.tgz"
+"z": "DownloadMedia.addon.tgz",
+"h": "Addon:DownloadMedia"
 },
 {
 "n": "Extract Place Data from a Place Title",
 "i": "excity",
 "t": 2,
 "d": "Attempts to extract city and state/province from a place title",
-"v": "1.0.15",
+"v": "1.0.16",
 "g": "6.0",
 "s": 3,
-"z": "ExtractCity.addon.tgz"
+"z": "ExtractCity.addon.tgz",
+"h": "Addon:Extract_Place_Data_from_a_Place_Title"
 },
 {
 "n": "Gramps Web Sync",
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Synchronizes a local database with a Gramps Web instance.",
-"v": "1.2.2",
+"v": "1.2.3",
 "g": "6.0",
 "s": 3,
-"z": "GrampsWebSync.addon.tgz"
+"z": "GrampsWebSync.addon.tgz",
+"h": "Addon:Gramps_Web_Sync"
 },
 {
 "n": "Import and Merge tool",
 "i": "import_merge",
 "t": 2,
 "d": "Compares a Gramps XML database with the current one, and allows merging of the differences.",
-"v": "0.0.22",
+"v": "0.0.23",
 "g": "6.0",
 "s": 3,
-"z": "ImportMerge.addon.tgz"
+"z": "ImportMerge.addon.tgz",
+"h": "Addon:Import_Merge_Tool"
 },
 {
 "n": "Merge Media",
 "i": "mediamerge",
 "t": 2,
 "d": "Searches the entire database, looking for media that have the same path and merges them.",
-"v": "1.0.12",
+"v": "1.0.13",
 "g": "6.0",
 "s": 3,
-"z": "MediaMerge.addon.tgz"
+"z": "MediaMerge.addon.tgz",
+"h": "Addon:MediaMerge"
 },
 {
 "n": "Media Verify",
 "i": "mediaverify",
 "t": 2,
 "d": "Verify that media is present in the correct path",
-"v": "1.0.29",
+"v": "1.0.30",
 "g": "6.0",
 "s": 3,
-"z": "MediaVerify.addon.tgz"
+"z": "MediaVerify.addon.tgz",
+"h": "Addon:Media_Verify_Tool"
 },
 {
 "n": "Note Cleanup",
 "i": "notecleanup",
 "t": 2,
 "d": "Clean up Notes that contain HTML markup",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
-"z": "NoteCleanup.addon.tgz"
+"z": "NoteCleanup.addon.tgz",
+"h": "Addon:NoteCleanupTool"
 },
 {
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,
 "d": "Upload media files to S3 (or compatible) object-based storage via the command line.",
-"v": "0.1.9",
+"v": "0.1.10",
 "g": "6.0",
 "s": 3,
 "z": "S3MediaUploader.addon.tgz",
 "rm": [
 "boto3"
-]
+],
+"h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
 "n": "Sync Associations",
 "i": "syncAssociations",
 "t": 2,
 "d": "Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.",
-"v": "0.0.12",
+"v": "0.0.13",
 "g": "6.0",
 "s": 3,
-"z": "SyncAssociations.addon.tgz"
+"z": "SyncAssociations.addon.tgz",
+"h": "Addon:SyncAssociation"
 },
 {
 "n": "Thumbnail Generator",
 "i": "thumbgen",
 "t": 2,
 "d": "Generates thumbnails for media files",
-"v": "1.0.29",
+"v": "1.0.30",
 "g": "6.0",
 "s": 3,
-"z": "ThumbnailGenerator.addon.tgz"
+"z": "ThumbnailGenerator.addon.tgz",
+"h": "Addon:ThumbnailGenerator"
 },
 {
 "n": "Type Cleanup",
 "i": "typecleanup",
 "t": 2,
 "d": "Clean up (remove) custom types",
-"v": "1.0.12",
+"v": "1.0.13",
 "g": "6.0",
 "s": 3,
-"z": "TypeCleanup.addon.tgz"
+"z": "TypeCleanup.addon.tgz",
+"h": "Addon:Types_Cleanup_Tool"
 },
 {
 "n": "JSON Import",
 "i": "JSON Import",
 "t": 3,
 "d": "This is a JSON import",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
-"z": "JSON.addon.tgz"
+"z": "JSON.addon.tgz",
+"h": "Addon:JSON_Export_Import#Import_JSON"
 },
 {
 "n": "SQLite Import",
 "i": "im_sqlite",
 "t": 3,
 "d": "SQLite is a common local database format",
-"v": "1.1.11",
+"v": "1.1.12",
 "g": "6.0",
 "s": 3,
 "z": "Sqlite.addon.tgz",
+"h": "Addon:SQLite_Export_Import#Import_SQLite",
 "a": 1
 },
 {
@@ -683,10 +745,11 @@
 "i": "Export GEDCOM Extensions",
 "t": 4,
 "d": "Extensions to the common GEDCOM format.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "GedcomExtensions.addon.tgz",
+"h": "Addon:GEDCOM_Extensions",
 "a": 1
 },
 {
@@ -694,30 +757,33 @@
 "i": "JSON Export",
 "t": 4,
 "d": "This is a JSON export",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
-"z": "JSON.addon.tgz"
+"z": "JSON.addon.tgz",
+"h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
 "n": "Prolog Export",
 "i": "Prolog Export",
 "t": 4,
 "d": "Exports data into a Prolog fact format.  Data is in Unicode (utf-8)",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "ExportProlog.addon.tgz"
+"z": "ExportProlog.addon.tgz",
+"h": "Output_formats#Prolog"
 },
 {
 "n": "Raw Export",
 "i": "Raw Export",
 "t": 4,
 "d": "This is a raw python object dump",
-"v": "1.0.40",
+"v": "1.0.41",
 "g": "6.0",
 "s": 3,
 "z": "ExportRaw.addon.tgz",
+"h": "Addon:ExportRaw",
 "a": 2
 },
 {
@@ -725,10 +791,11 @@
 "i": "ex_person_gexf",
 "t": 4,
 "d": "GEXF is used in many network graph applications.",
-"v": "1.0.2",
+"v": "1.0.3",
 "g": "6.0",
 "s": 2,
 "z": "ExportPersonGexf.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/blob/maintenance/gramps60/ExportPersonGexf",
 "a": 1
 },
 {
@@ -736,10 +803,11 @@
 "i": "ex_sqlite",
 "t": 4,
 "d": "SQLite is a common local database format",
-"v": "1.1.11",
+"v": "1.1.12",
 "g": "6.0",
 "s": 3,
 "z": "Sqlite.addon.tgz",
+"h": "Addon:SQLite_Export_Import#Export_SQLite",
 "a": 1
 },
 {
@@ -747,37 +815,40 @@
 "i": "DE Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the DE (requires libwebconnect)",
-"v": "0.0.30",
+"v": "0.0.31",
 "g": "6.0",
 "s": 3,
-"z": "DEWebConnectPack.addon.tgz"
+"z": "DEWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "FR Web Connect Pack",
 "i": "FR Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the FR (requires libwebconnect)",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
-"z": "FRWebConnectPack.addon.tgz"
+"z": "FRWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "NL Web Connect Pack",
 "i": "NL Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the Netherlands (requires libwebconnect)",
-"v": "1.0.7",
+"v": "1.0.8",
 "g": "6.0",
 "s": 3,
-"z": "NLWebConnectPack.addon.tgz"
+"z": "NLWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "Plugin Manager Enhanced",
 "i": "PluginManager",
 "t": 6,
 "d": "An Addon/Plugin Manager with several additional capabilities",
-"v": "1.2.4",
+"v": "1.2.5",
 "g": "6.0",
 "s": 3,
 "z": "PluginManager.addon.tgz",
@@ -788,70 +859,77 @@
 "i": "RU Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the RU (requires libwebconnect)",
-"v": "1.0.6",
+"v": "1.0.7",
 "g": "6.0",
 "s": 3,
-"z": "RUWebConnectPack.addon.tgz"
+"z": "RUWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "Restart where you were last working",
 "i": "RestoreHist",
 "t": 6,
 "d": "This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the 'Go' menu.",
-"v": "0.0.19",
+"v": "0.0.20",
 "g": "6.0",
 "s": 3,
-"z": "RestoreHist.addon.tgz"
+"z": "RestoreHist.addon.tgz",
+"h": "Addon:RestartWhereYouWereLastWorking"
 },
 {
 "n": "SV Web Connect Pack",
 "i": "SV Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for Sweden (requires libwebconnect)",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.0",
 "s": 3,
-"z": "SVWebconnectPack.addon.tgz"
+"z": "SVWebconnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "Theme preferences",
 "i": "ThemesPrefs",
 "t": 6,
 "d": "An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.",
-"v": "0.0.13",
+"v": "0.0.14",
 "g": "6.0",
 "s": 3,
-"z": "Themes.addon.tgz"
+"z": "Themes.addon.tgz",
+"h": "Addon:ThemePreferences"
 },
 {
 "n": "UK Web Connect Pack",
 "i": "UK Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the UK (requires libwebconnect)",
-"v": "1.0.41",
+"v": "1.0.42",
 "g": "6.0",
 "s": 3,
-"z": "UKWebConnectPack.addon.tgz"
+"z": "UKWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "US Web Connect Pack",
 "i": "US Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the US (requires libwebconnect)",
-"v": "1.0.50",
+"v": "1.0.51",
 "g": "6.0",
 "s": 3,
-"z": "USWebConnectPack.addon.tgz"
+"z": "USWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
 "n": "Generic DB Access lib",
 "i": "libaccess",
 "t": 6,
 "d": "Provides a library for generic access to the database and gen.lib.",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "6.0",
 "s": 3,
 "z": "libaccess.addon.tgz",
+"h": "Addon:Generic_DB_Access_lib",
 "a": 2
 },
 {
@@ -859,40 +937,44 @@
 "i": "libwebconnect",
 "t": 6,
 "d": "Library for web site collections",
-"v": "1.0.35",
+"v": "1.0.36",
 "g": "6.0",
 "s": 3,
-"z": "libwebconnect.addon.tgz"
+"z": "libwebconnect.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Prerequisites"
 },
 {
 "n": "GoogleEarth",
 "i": "GoogleEarth",
 "t": 7,
 "d": "Creates data file for GoogleEarth and opens it",
-"v": "1.0.51",
+"v": "1.0.52",
 "g": "6.0",
 "s": 3,
-"z": "GoogleEarthWriteKML.addon.tgz"
+"z": "GoogleEarthWriteKML.addon.tgz",
+"h": "Addon:MapService-GoogleEarth"
 },
 {
 "n": "H-Tree Pedigree",
 "i": "HtreePedigreeView",
 "t": 8,
 "d": "The view shows a space-efficient pedigree with ancestors of the selected person",
-"v": "0.0.33",
+"v": "0.0.34",
 "g": "6.0",
 "s": 3,
-"z": "HtreePedigreeView.addon.tgz"
+"z": "HtreePedigreeView.addon.tgz",
+"h": "Addon:HtreePedigreeView"
 },
 {
 "n": "Quilt Chart",
 "i": "QuiltView",
 "t": 8,
 "d": "The view shows a quilt chart visualisation of a family tree",
-"v": "1.0.24",
+"v": "1.0.25",
 "g": "6.0",
 "s": 3,
 "z": "QuiltView.addon.tgz",
+"h": "Addon:Quilt_Chart",
 "a": 1
 },
 {
@@ -900,27 +982,29 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "The view shows a timeline pedigree with ancestors and descendants of the selected person",
-"v": "0.1.64",
+"v": "0.1.65",
 "g": "6.0",
 "s": 3,
-"z": "TimelinePedigreeView.addon.tgz"
+"z": "TimelinePedigreeView.addon.tgz",
+"h": "Addon:TimelinePedigreeView"
 },
 {
 "n": "Combined",
 "i": "combinedview",
 "t": 8,
 "d": "A view showing relationships and events for a person",
-"v": "2.0.13",
+"v": "2.0.14",
 "g": "6.0",
 "s": 3,
-"z": "CombinedView.addon.tgz"
+"z": "CombinedView.addon.tgz",
+"h": "Addon:CombinedView"
 },
 {
 "n": "Place Coordinate Gramplet view",
 "i": "geoIDplaceCoordinateGramplet",
 "t": 8,
 "d": "View for the place coordinate gramplet.",
-"v": "1.1.24",
+"v": "1.1.25",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCoordinateGramplet.addon.tgz",
@@ -929,14 +1013,15 @@
 "GeocodeGlib",
 "1.0"
 ]
-]
+],
+"h": "Addon:PlaceCoordinatesGramplet#Additional_geography_view_with_a_context_menu"
 },
 {
 "n": "Ancestors map",
 "i": "geoancestor",
 "t": 8,
 "d": "A view showing ancestors places on the map.",
-"v": "1.0.11",
+"v": "1.0.12",
 "g": "6.0",
 "s": 3,
 "z": "GeoAncestor.addon.tgz",
@@ -945,14 +1030,15 @@
 "OsmGpsMap",
 "1.0"
 ]
-]
+],
+"h": "Addon:AncestorsMap"
 },
 {
 "n": "TimeLines Map",
 "i": "geotimelines",
 "t": 8,
 "d": "A view showing all the places visited by a person or persons on various date.",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.0",
 "s": 2,
 "z": "GeoTimeLines.addon.tgz",
@@ -970,7 +1056,7 @@
 "i": "graphview",
 "t": 8,
 "d": "Dynamic and interactive graph of relations",
-"v": "1.0.141",
+"v": "1.0.142",
 "g": "6.0",
 "s": 3,
 "z": "GraphView.addon.tgz",
@@ -982,35 +1068,38 @@
 ],
 "re": [
 "dot"
-]
+],
+"h": "Addon:Graph_View"
 },
 {
 "n": "Life Line Ancestor Chart",
 "i": "lifelinechartancestorview",
 "t": 8,
 "d": "Persons and their relation in a time based chart",
-"v": "1.3.24",
+"v": "1.3.25",
 "g": "6.0",
 "s": 3,
 "z": "LifeLineChartView.addon.tgz",
 "rm": [
 "life_line_chart",
 "svgwrite"
-]
+],
+"h": "Addon:Life_Line_Chart_View"
 },
 {
 "n": "Life Line Descendant Chart",
 "i": "lifelinechartdescendantview",
 "t": 8,
 "d": "Persons and their relation in a time based chart",
-"v": "1.3.24",
+"v": "1.3.25",
 "g": "6.0",
 "s": 3,
 "z": "LifeLineChartView.addon.tgz",
 "rm": [
 "life_line_chart",
 "svgwrite"
-]
+],
+"h": "Addon:Life_Line_Chart_View"
 },
 {
 "n": "Anniversaries",
@@ -1028,7 +1117,7 @@
 "i": "Beta What's Next",
 "t": 10,
 "d": "Beta Gramplet suggesting items to research",
-"v": "0.1.10",
+"v": "0.1.11",
 "g": "6.0",
 "s": 2,
 "z": "Betawhatsnext.addon.tgz",
@@ -1040,7 +1129,7 @@
 "i": "Birthdays",
 "t": 10,
 "d": "a gramplet that displays the birthdays of the living people",
-"v": "1.1.14",
+"v": "1.1.15",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
@@ -1051,7 +1140,7 @@
 "i": "Clock Gramplet",
 "t": 10,
 "d": "Gramplet for demonstrating Cairo graphics",
-"v": "0.0.36",
+"v": "0.0.37",
 "g": "6.0",
 "s": 3,
 "z": "ClockGramplet.addon.tgz",
@@ -1063,17 +1152,18 @@
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.44",
+"v": "1.0.45",
 "g": "6.0",
 "s": 3,
-"z": "ClipboardGramplet.addon.tgz"
+"z": "ClipboardGramplet.addon.tgz",
+"h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
 "n": "DNA Matches",
 "i": "DNAMatches",
 "t": 10,
 "d": "Gramplet to display a list of DNA matches",
-"v": "2.0.2",
+"v": "2.0.3",
 "g": "6.0",
 "s": 3,
 "z": "DNAMatches.addon.tgz",
@@ -1084,7 +1174,7 @@
 "i": "DNASegmentMap",
 "t": 10,
 "d": "Gramplet showing a matching DNA segment map",
-"v": "2.0.11",
+"v": "2.0.12",
 "g": "6.0",
 "s": 3,
 "z": "DNA.addon.tgz",
@@ -1095,7 +1185,7 @@
 "i": "Data Entry Gramplet",
 "t": 10,
 "d": "Gramplet for quick data entry",
-"v": "1.0.50",
+"v": "1.0.51",
 "g": "6.0",
 "s": 3,
 "z": "DataEntryGramplet.addon.tgz",
@@ -1118,7 +1208,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet showing a deep relationship between active and home people",
-"v": "1.0.43",
+"v": "1.0.44",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",
@@ -1129,7 +1219,7 @@
 "i": "Descendant Count Gramplet",
 "t": 10,
 "d": "Gramplet for showing people and descendant counts",
-"v": "2.0.14",
+"v": "2.0.15",
 "g": "6.0",
 "s": 3,
 "z": "DescendantCount.addon.tgz",
@@ -1140,7 +1230,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Pripomo\u010dek za prikaz, urejanje in shranjevanje slikovnih lastnih podatkov Exif",
-"v": "2.0.13",
+"v": "2.0.14",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
@@ -1151,37 +1241,40 @@
 "i": "Extended Family Attributes",
 "t": 10,
 "d": "Pripomo\u010dek za prikaz atributov dane dru\u017eine",
-"v": "1.0.33",
+"v": "1.0.34",
 "g": "6.0",
 "s": 3,
-"z": "ExtendedAttributes.addon.tgz"
+"z": "ExtendedAttributes.addon.tgz",
+"h": "Addon:ExtendedAttributesGramplet#Extended_Family_Attributes_Gramplet"
 },
 {
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
 "d": "Pripomo\u010dek za prikaz atributov dane osebe",
-"v": "1.0.33",
+"v": "1.0.34",
 "g": "6.0",
 "s": 3,
-"z": "ExtendedAttributes.addon.tgz"
+"z": "ExtendedAttributes.addon.tgz",
+"h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
 },
 {
 "n": "Family Overview",
 "i": "Family Overview",
 "t": 10,
 "d": "Gramplet showing an overview of events for a family",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "Overview.addon.tgz"
+"z": "Overview.addon.tgz",
+"h": "Addon:Family_Overview"
 },
 {
 "n": "Form Gramplet",
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
-"v": "2.0.46",
+"v": "2.0.47",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -1204,7 +1297,7 @@
 "i": "Headline News",
 "t": 10,
 "d": "Gramplet that shows the latest Gramps news",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "HeadlineNewsGramplet.addon.tgz",
@@ -1226,7 +1319,7 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Lists the Residents of an Address by Timeline",
-"v": "1.0.14",
+"v": "1.0.15",
 "g": "6.0",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",
@@ -1237,7 +1330,7 @@
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet for importing text",
-"v": "1.0.43",
+"v": "1.0.44",
 "g": "6.0",
 "s": 3,
 "z": "ImportGramplet.addon.tgz",
@@ -1249,28 +1342,29 @@
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
-"v": "0.1.12",
+"v": "0.1.13",
 "g": "6.0",
 "s": 3,
 "z": "LastChange.addon.tgz",
-"h": "LastChange"
+"h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
 "d": "Pripomo\u010dek za prikaz podrobnosti o osebah",
-"v": "1.0.36",
+"v": "1.0.37",
 "g": "6.0",
 "s": 3,
-"z": "MediaBrowser.addon.tgz"
+"z": "MediaBrowser.addon.tgz",
+"h": "Addon:MediaMerge"
 },
 {
 "n": "Note Gramplet",
 "i": "Note Gramplet",
 "t": 10,
 "d": "Gramplet for editing active person's notes",
-"v": "1.0.39",
+"v": "1.0.40",
 "g": "6.0",
 "s": 3,
 "z": "NoteGramplet.addon.tgz",
@@ -1281,27 +1375,29 @@
 "i": "Participants",
 "t": 10,
 "d": "Gramplet showing the participants in an event",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "Participants.addon.tgz"
+"z": "Participants.addon.tgz",
+"h": "Addon:ParticipantsGramplet"
 },
 {
 "n": "Person Overview",
 "i": "Person Overview",
 "t": 10,
 "d": "Gramplet showing an overview of events for a person",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "Overview.addon.tgz"
+"z": "Overview.addon.tgz",
+"h": "Addon:Person_Overview"
 },
 {
 "n": "Photo Tagging",
 "i": "Photo Tagging",
 "t": 10,
 "d": "Gramplet for tagging people in photos",
-"v": "1.0.44",
+"v": "1.0.45",
 "g": "6.0",
 "s": 3,
 "z": "PhotoTaggingGramplet.addon.tgz",
@@ -1312,7 +1408,7 @@
 "i": "Place Coordinates",
 "t": 10,
 "d": "Gramplet that simplifies setting the coordinates of a place",
-"v": "1.1.24",
+"v": "1.1.25",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCoordinateGramplet.addon.tgz",
@@ -1321,14 +1417,15 @@
 "GeocodeGlib",
 "1.0"
 ]
-]
+],
+"h": "Addon:PlaceCoordinatesGramplet"
 },
 {
 "n": "Place Cleanup",
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCleanup.addon.tgz",
@@ -1339,7 +1436,7 @@
 "i": "PlaceUpdate",
 "t": 10,
 "d": "Gramplet to manipulate multiple places",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
 "z": "PlaceUpdate.addon.tgz",
@@ -1350,7 +1447,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "Prerequisites Checker Gramplet",
-"v": "1.2.6",
+"v": "1.2.7",
 "g": "6.0",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
@@ -1361,7 +1458,7 @@
 "i": "Python Gramplet",
 "t": 10,
 "d": "Interactive Python interpreter",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "PythonGramplet.addon.tgz",
@@ -1373,7 +1470,7 @@
 "i": "Related Relatives Gramplet",
 "t": 10,
 "d": "Gramplet showing relatives in a relation",
-"v": "1.0.39",
+"v": "1.0.40",
 "g": "6.0",
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
@@ -1384,7 +1481,7 @@
 "i": "This Day in Family History",
 "t": 10,
 "d": "A configurable program that shows you the connected events from your family tree that match today's day and month.",
-"v": "1.0.11",
+"v": "1.0.12",
 "g": "6.0",
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",
@@ -1395,13 +1492,14 @@
 "i": "postgresql",
 "t": 12,
 "d": "PostgreSQL Database",
-"v": "1.0.17",
+"v": "1.0.18",
 "g": "6.0",
 "s": 3,
 "z": "PostgreSQL.addon.tgz",
 "rm": [
 "psycopg2"
 ],
+"h": "Addon:PostgreSQL",
 "a": 1
 },
 {
@@ -1409,233 +1507,256 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.9",
+"v": "0.1.10",
 "g": "6.0",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
 "rm": [
 "psycopg2"
-]
+],
+"h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
 "n": "The active Person",
 "i": "ActivePerson",
 "t": 13,
 "d": "The active Person",
-"v": "0.0.11",
+"v": "0.0.12",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Active_Person"
 },
 {
 "n": "Families with events with a selected role",
 "i": "HasFamilyEventRole",
 "t": 13,
 "d": "Matches families with an event with a selected role",
-"v": "0.0.24",
+"v": "0.0.25",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Families_with_Events_with_a_selected_role"
 },
 {
 "n": "People with events with a selected role",
 "i": "HasPersonEventRole",
 "t": 13,
 "d": "Matches people with an event with a selected role",
-"v": "0.0.24",
+"v": "0.0.25",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#People_with_events_with_a_selected_role"
 },
 {
 "n": "Source matching parameters",
 "i": "HasSourceParameter",
 "t": 13,
 "d": "Matches Sources with values containing the chosen parameters",
-"v": "0.0.24",
+"v": "0.0.25",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Source_matching_parameters"
 },
 {
 "n": "People related to <filter>",
 "i": "IsRelatedWithFilterMatch",
 "t": 13,
 "d": "Matches people who are related to anybody matched by a person filter",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#People_related_to_.3Cfilter.3E"
 },
 {
 "n": "Matrilineal progenitrix of <person>",
 "i": "MatrilinealProgenitrix",
 "t": 13,
 "d": "Matches the earliest recorded matrilineal ancestor mother.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#Matrilineal_progenitrix_of_.3Cperson.3E"
 },
 {
 "n": "Patrilineal progenitor of <person>",
 "i": "PatrilinealProgenitor",
 "t": 13,
 "d": "Matches the earliest recorded patrilineal ancestor father.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
 "n": "People who are part of families matching <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
 "d": "People who are part of families matching <filter>",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
 "n": "Filter people by their age at death",
 "i": "ageatdeath",
 "t": 13,
 "d": "Filter rule that matches people by their age at death",
-"v": "1.0.12",
+"v": "1.0.13",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
 "n": "Match associations of <person filter>",
 "i": "associationsofpersonmatch",
 "t": 13,
 "d": "Match associations of <person filter>",
-"v": "1.0.13",
+"v": "1.0.14",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Match_associations_of_.3Cperson_filter.3E"
 },
 {
 "n": "People separated less than <N> degrees of <person>",
 "i": "degreesofseparation",
 "t": 13,
 "d": "Filter rule that matches relatives by degrees of separation",
-"v": "1.1.12",
+"v": "1.1.13",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#People_Separated_less_than_.3CN.3E_degrees_of_.3Cperson.3E"
 },
 {
 "n": "Families matching <event filter>",
 "i": "familieswitheventfiltermatch",
 "t": 13,
 "d": "Matches families that are matched by an event filter",
-"v": "1.0.19",
+"v": "1.0.20",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
 "n": "Events of families matching a <family filter>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
 "d": "Events of families matching a <family filter>",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#Events_of_families_matching_a_.3Cfamily_filter.3E"
 },
 {
 "n": "Mitochondrial inheritance of <person>",
 "i": "mtinheritance",
 "t": 13,
 "d": "Matches recorded descendants of person following mitochondrial inheritance patterns.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
 "n": "Mitochondrial inheritance of <filter>",
 "i": "mtinheritanceoffiltermatch",
 "t": 13,
 "d": "Matches recorded descendants of a filter result following mitochondrial inheritance patterns.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
 "n": "Multiple Parents Filter",
 "i": "multipleparents",
 "t": 13,
 "d": "Multiple Parents Filter",
-"v": "0.0.11",
+"v": "0.0.12",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
 "n": "People with <count> of <event>",
 "i": "peopleeventscount",
 "t": 13,
 "d": "Matches persons which have events of given type and number.",
-"v": "1.0.6",
+"v": "1.0.7",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules.addon.tgz"
+"z": "FilterRules.addon.tgz",
+"h": "Addon:Rule_expansions#People_with_.3Ccount.3E_of_.3Cevent.3E"
 },
 {
 "n": "X-chromosomal ancestors of <person>",
 "i": "xchromancestors",
 "t": 13,
 "d": "Matches ancestors of <person> following a X-chromosomal inheritance pattern.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#X-chromosomal_ancestors_of_.3Cperson.3E"
 },
 {
 "n": "X-chromosomal descendants of <person>",
 "i": "xchromdescendants",
 "t": 13,
 "d": "Matches descendants of <person> following a X-chromosomal inheritance pattern.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#X-chromosomal_descendants_of_.3Cperson.3E"
 },
 {
 "n": "Y-chromosomal inheritance of <person>",
 "i": "yinheritance",
 "t": 13,
 "d": "Matches recorded descendants of person following Y-chromosomal inheritance patterns.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#Y-chromosomal_inheritance_of_.3Cperson.3E"
 },
 {
 "n": "Y-chromosomal inheritance of <filter>",
 "i": "yinheritanceoffiltermatch",
 "t": 13,
 "d": "Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.",
-"v": "1.0.10",
+"v": "1.0.11",
 "g": "6.0",
 "s": 3,
-"z": "FilterRules2.addon.tgz"
+"z": "FilterRules2.addon.tgz",
+"h": "Addon:Rule_expansions#Y-chromosomal_inheritance_of_.3Cperson_filter.3E"
 },
 {
 "n": "Enhanced",
 "i": "cite-enhanced",
 "t": 15,
 "d": "An enhanced citation formatter that adds a repository and call number to the standard functionality.",
-"v": "1.0.2",
+"v": "1.0.3",
 "g": "6.0",
 "s": 2,
 "z": "CiteEnhanced.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/blob/maintenance/gramps60/CiteEnhanced",
 "a": 1
 }
 ]
