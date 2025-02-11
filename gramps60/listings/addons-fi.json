@@ -631,7 +631,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Vertaa Gramps XML -tietokantaa nykyiseen ja mahdollistaa erojen yhdist\u00e4misen.",
-"v": "0.0.23",
+"v": "0.0.24",
 "g": "6.0",
 "s": 3,
 "z": "ImportMerge.addon.tgz",

@@ -631,7 +631,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "J\u00e4mf\u00f6r en Gramps XML-databas med den aktuella och m\u00f6jligg\u00f6r sammanslagning av skillnaderna.",
-"v": "0.0.23",
+"v": "0.0.24",
 "g": "6.0",
 "s": 3,
 "z": "ImportMerge.addon.tgz",

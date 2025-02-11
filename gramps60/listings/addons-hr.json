@@ -631,7 +631,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Uspore\u0111uje Gramps XML bazu podataka s trenuta\u010dnom i dozvoljava njihovo sjedinjenje.",
-"v": "0.0.23",
+"v": "0.0.24",
 "g": "6.0",
 "s": 3,
 "z": "ImportMerge.addon.tgz",
