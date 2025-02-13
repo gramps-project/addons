@@ -1425,7 +1425,7 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Stedrensnings Gramplet hj\u00e6lper med at sammenflette steder, og komplettere steder fra GeoNames web database",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCleanup.addon.tgz",

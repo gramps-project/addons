@@ -1425,7 +1425,7 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCleanup.addon.tgz",
