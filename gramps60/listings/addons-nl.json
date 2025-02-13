@@ -892,7 +892,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Een aanvulling op Voorkeuren voor eenvoudige aanpassing van thema en lettertype. Vooral handig voor Windows-gebruikers.",
-"v": "0.0.14",
+"v": "0.0.15",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",

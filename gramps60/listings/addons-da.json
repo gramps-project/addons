@@ -892,7 +892,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "En tilf\u00f8jelse til indstillinger for simpel tema og skrifttypejustering. Is\u00e6r nyttigt til Windows-brugere.",
-"v": "0.0.14",
+"v": "0.0.15",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",

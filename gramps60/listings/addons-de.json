@@ -892,7 +892,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Eine Erg\u00e4nzung zu den Voreinstellungen f\u00fcr die einfache Anpassung von Design und Schrift. Besonders n\u00fctzlich f\u00fcr Windows-Benutzer.",
-"v": "0.0.14",
+"v": "0.0.15",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",

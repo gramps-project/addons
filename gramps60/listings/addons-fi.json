@@ -892,7 +892,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Lis\u00e4ys asetuksiin yksinkertaisen teeman ja fontin s\u00e4\u00e4t\u00e4miseksi. Erityisen hy\u00f6dyllinen Windows-k\u00e4ytt\u00e4jille.",
-"v": "0.0.14",
+"v": "0.0.15",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",

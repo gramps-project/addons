@@ -892,7 +892,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Az egyszer\u0171 t\u00e9m\u00e1k \u00e9s bet\u0171t\u00edpusok be\u00e1ll\u00edt\u00e1sainak kieg\u00e9sz\u00edt\u00e9se a Be\u00e1ll\u00edt\u00e1sokhoz. K\u00fcl\u00f6n\u00f6sen hasznos a Windows felhaszn\u00e1l\u00f3k sz\u00e1m\u00e1ra.",
-"v": "0.0.14",
+"v": "0.0.15",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",

@@ -892,7 +892,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Un ajout aux pr\u00e9f\u00e9rences pour un simple ajustement de th\u00e8me et de police. Particuli\u00e8rement utile pour les utilisateurs Windows.",
-"v": "0.0.14",
+"v": "0.0.15",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",
