@@ -1328,7 +1328,7 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Paikan puhdistus Gramplet auttaa yhdist\u00e4m\u00e4\u00e4n paikkoja ja t\u00e4ytt\u00e4m\u00e4\u00e4n paikkatietoja GeoNames tietokannasta",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "5.2",
 "s": 3,
 "z": "PlaceCleanup.addon.tgz",

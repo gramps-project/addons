@@ -1328,7 +1328,7 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Gramplet poma\u017ee sjediniti mjesta, kao i popuniti mjesta uz pomo\u0107 internetske baze podataka GeoNames",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "5.2",
 "s": 3,
 "z": "PlaceCleanup.addon.tgz",
