@@ -1432,6 +1432,17 @@
 "h": "Addon:PlaceCleanup"
 },
 {
+"n": "Sre\u0111ivanje mjesta",
+"i": "PlaceCleanup",
+"t": 10,
+"d": "Gramplet poma\u017ee sjediniti mjesta, kao i popuniti mjesta uz pomo\u0107 internetske baze podataka GeoNames",
+"v": "1.0.26",
+"g": "6.0",
+"s": 3,
+"z": "Placecleanup.addon.tgz",
+"h": "Addon:PlaceCleanup"
+},
+{
 "n": "PlaceUpdate",
 "i": "PlaceUpdate",
 "t": 10,

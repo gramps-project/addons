@@ -1432,6 +1432,17 @@
 "h": "Addon:PlaceCleanup"
 },
 {
+"n": "Plaatsopschoning",
+"i": "PlaceCleanup",
+"t": 10,
+"d": "De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase",
+"v": "1.0.26",
+"g": "6.0",
+"s": 3,
+"z": "Placecleanup.addon.tgz",
+"h": "Addon:PlaceCleanup"
+},
+{
 "n": "Plaatsupdate",
 "i": "PlaceUpdate",
 "t": 10,

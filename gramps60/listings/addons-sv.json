@@ -1432,6 +1432,17 @@
 "h": "Addon:PlaceCleanup"
 },
 {
+"n": "Platsrensning",
+"i": "PlaceCleanup",
+"t": 10,
+"d": "Platsrensnings Gramplet hj\u00e4lper till att sl\u00e5 samman platser och komplettera platser fr\u00e5n GeoNames webbdatabas",
+"v": "1.0.26",
+"g": "6.0",
+"s": 3,
+"z": "Placecleanup.addon.tgz",
+"h": "Addon:PlaceCleanup"
+},
+{
 "n": "Platsuppdatering",
 "i": "PlaceUpdate",
 "t": 10,

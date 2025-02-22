@@ -1432,6 +1432,17 @@
 "h": "Addon:PlaceCleanup"
 },
 {
+"n": "Orte Bereinigung",
+"i": "PlaceCleanup",
+"t": 10,
+"d": "Orte Bereinigung Gramplet hilft beim Zusammenf\u00fchren von Orten sowie beim Vervollst\u00e4ndigen von Orten aus der GeoNames-Webdatenbank",
+"v": "1.0.26",
+"g": "6.0",
+"s": 3,
+"z": "Placecleanup.addon.tgz",
+"h": "Addon:PlaceCleanup"
+},
+{
 "n": "OrtAktualisierung",
 "i": "PlaceUpdate",
 "t": 10,

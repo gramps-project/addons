@@ -1432,6 +1432,17 @@
 "h": "Addon:PlaceCleanup"
 },
 {
+"n": "Nettoyage des lieux",
+"i": "PlaceCleanup",
+"t": 10,
+"d": "Le Gramplet \"Nettoyage des lieux\" aide \u00e0 fusionner des lieux, ainsi qu'\u00e0 compl\u00e9ter des emplacements \u00e0 partir de la base de donn\u00e9es Web GeoNames",
+"v": "1.0.26",
+"g": "6.0",
+"s": 3,
+"z": "Placecleanup.addon.tgz",
+"h": "Addon:PlaceCleanup"
+},
+{
 "n": "PlaceUpdate",
 "i": "PlaceUpdate",
 "t": 10,
