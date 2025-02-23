@@ -848,7 +848,7 @@
 "i": "PluginManager",
 "t": 6,
 "d": "Upravlja\u010d za dodatke s nekolicinom dodatnih funkcija",
-"v": "1.2.6",
+"v": "1.2.7",
 "g": "6.0",
 "s": 3,
 "z": "PluginManager.addon.tgz",
