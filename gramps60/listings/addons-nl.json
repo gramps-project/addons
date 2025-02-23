@@ -190,7 +190,7 @@
 "n": "Stamboomverslag met tijdlijn",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"d": "Maakt een HTML-webpagina die JavaScript gebruikt om een blokdiagram van een stamboom weer te geven dat verticaal is gerangschikt op geboortedatum",
 "v": "0.0.10",
 "g": "6.0",
 "s": 3,
@@ -641,7 +641,7 @@
 "n": "Media samenvoegen",
 "i": "mediamerge",
 "t": 2,
-"d": "Doorzoekt de hele database, zoekend naar media met hetzelfde pad en voegt deze samen.",
+"d": "Doorzoekt de hele database naar media met hetzelfde pad en voegt deze samen.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1196,7 +1196,7 @@
 "n": "Datum rekenmachine",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Datumberekeningen uitvoeren",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "Plaatsopschoning",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "De Plaatsopschoningsgramplet helpt bij het samenvoegen van plaatsen en bij het voltooien van plaatsen uit de GeoNames-webdatabase",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1486,6 +1475,18 @@
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
 "h": "RelatedRelativesGramplet"
+},
+{
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
 },
 {
 "n": "Vandaag in de familiegeschiedenis",

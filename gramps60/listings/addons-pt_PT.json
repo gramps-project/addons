@@ -14,7 +14,7 @@
 "n": "Livro Descendentes",
 "i": "DescendantBook",
 "t": 0,
-"d": "Produz um ou mais relat\u00f3rios de descend\u00eancia baseado numa consulta fornecida.",
+"d": "Produz um ou mais relat\u00f3rios de descend\u00eancia baseados numa consulta fornecida.",
 "v": "1.1.30",
 "g": "6.0",
 "s": 3,
@@ -36,7 +36,7 @@
 "n": "Livro Descend\u00eancia detalhada",
 "i": "DetailedDescendantBook",
 "t": 0,
-"d": "Produz um ou mais relat\u00f3rios de descend\u00eancia detalhada baseado numa consulta fornecida.",
+"d": "Produz um ou mais relat\u00f3rios de descend\u00eancia detalhada baseados numa consulta fornecida.",
 "v": "1.1.30",
 "g": "6.0",
 "s": 3,
@@ -69,7 +69,7 @@
 "n": "\u00c1rvore geneal\u00f3gica",
 "i": "FamilyTree",
 "t": 0,
-"d": "Produz uma \u00e1rvore de fam\u00edlia.",
+"d": "Produz uma \u00e1rvore de fam\u00edlia gr\u00e1fica.",
 "v": "4.2.26",
 "g": "6.0",
 "s": 3,
@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "Mapa t\u00e9rmico",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
@@ -102,7 +102,7 @@
 "n": "Linhas de descend\u00eancia",
 "i": "LinesOfDescendency",
 "t": 0,
-"d": "Imprime todas as linhas de descend\u00eancia de um dado ascendente at\u00e9 um dado descendente em texto.",
+"d": "Imprime todas as linhas de descend\u00eancia de um dado ascendente at\u00e9 um dado descendente, em texto.",
 "v": "1.1.39",
 "g": "6.0",
 "s": 3,
@@ -110,10 +110,10 @@
 "h": "Addon:Lines_of_Descendency_Report"
 },
 {
-"n": "Lista de correspond\u00eancias",
+"n": "Lista r\u00e1pida",
 "i": "ListeEclair",
 "t": 0,
-"d": "Produzir uma lista de correspond\u00eancias",
+"d": "Produzir uma lista r\u00e1pida de correspond\u00eancias",
 "v": "1.0.30",
 "g": "6.0",
 "s": 3,
@@ -143,7 +143,7 @@
 "h": "Addon:PedigreeChart"
 },
 {
-"n": "Relat\u00f3rio individual",
+"n": "Relat\u00f3rio Tudo do indiv\u00edduo",
 "i": "PersonEverythingReport",
 "t": 0,
 "d": "Produz um relat\u00f3rio contendo todos os dados sobre o indiv\u00edduo activo",
@@ -198,10 +198,10 @@
 "h": "Addon:Timeline_Pedigree_Report"
 },
 {
-"n": "Agenda",
+"n": "Relat\u00f3rio A fazer",
 "i": "TodoReport",
 "t": 0,
-"d": "Produz uma lista de todas as notas com uma dada etiqueta juntamente com os registos referenciados, indiv\u00edduo, fam\u00edlia, evento, etc.",
+"d": "Produz uma lista de todas as notas com uma dada etiqueta, com os registos referenciados, indiv\u00edduo, fam\u00edlia, evento, etc.",
 "v": "1.2.39",
 "g": "6.0",
 "s": 3,
@@ -256,7 +256,7 @@
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
-"d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
+"d": "Gera uma p\u00e1gina \u201cweb\u201d com uma representa\u00e7\u00e3o gr\u00e1fica de ascendentes/descendentes (SVG) onde detalhes individuais se tornam vis\u00edveis com eventos do rato.",
 "v": "2.3.48",
 "g": "6.0",
 "s": 3,
@@ -267,7 +267,7 @@
 "n": "Relat\u00f3rio de descendentes detalhado com todas as imagens",
 "i": "det_descendant_report_i",
 "t": 0,
-"d": "Produz um relat\u00f3rio de descendentes detalhado com todas as imagens e uma lista A fazer opcional.",
+"d": "Produz um relat\u00f3rio de descendentes detalhado, com todas as imagens e uma lista A fazer opcional.",
 "v": "1.0.15",
 "g": "6.0",
 "s": 3,
@@ -375,7 +375,7 @@
 "n": "N\u00famero de descendentes",
 "i": "NumberOfDescendantsQuickview",
 "t": 1,
-"d": "Mostra o n\u00famero de descendentes do indiv\u00edduo activo",
+"d": "Mostra o n\u00famero de descendentes do indiv\u00edduo actual",
 "v": "3.4.34",
 "g": "6.0",
 "s": 3,
@@ -494,7 +494,7 @@
 "h": "Addon:Place_completion_tool"
 },
 {
-"n": "Adicionar / remover ferramenta de etiqueta",
+"n": "Ferramenta Adicionar/Remover etiqueta",
 "i": "RemoveTagTool",
 "t": 2,
 "d": "Adicione ou remova uma etiqueta de grupos de indiv\u00edduos, eventos, etc.",
@@ -597,7 +597,7 @@
 "n": "Transferir multim\u00e9dia da Internet",
 "i": "downloadmedia",
 "t": 2,
-"d": "Esta ferramente transfere multim\u00e9dia da Internet",
+"d": "Esta ferramenta transfere multim\u00e9dia da Internet",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -767,7 +767,7 @@
 "n": "Exporta\u00e7\u00e3o de pr\u00f3logo",
 "i": "Prolog Export",
 "t": 4,
-"d": "Exporta dados num formato de pr\u00f3logo, em Unicode (UTF-8).",
+"d": "Exporta dados num formato de pr\u00f3logo, em Unicode (UTF-8)",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -811,10 +811,10 @@
 "a": 1
 },
 {
-"n": "DE Web Connect Pack",
+"n": "Pacote Internet para DE",
 "i": "DE Web Connect Pack",
 "t": 6,
-"d": "Colec\u00e7\u00e3o de p\u00e1ginas web para DE (requer libwebconnect)",
+"d": "Colec\u00e7\u00e3o de p\u00e1ginas \u201cweb\u201d para a Alemanha (requer libwebconnect)",
 "v": "0.0.32",
 "g": "6.0",
 "s": 3,
@@ -822,7 +822,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "FR Web Connect Pack",
+"n": "Pacote Internet para FR",
 "i": "FR Web Connect Pack",
 "t": 6,
 "d": "Colec\u00e7\u00e3o de p\u00e1ginas web para FR (requer libwebconnect)",
@@ -836,7 +836,7 @@
 "n": "NL Web Connect Pack",
 "i": "NL Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the Netherlands (requires libwebconnect)",
+"d": "Colec\u00e7\u00e3o de p\u00e1ginas web para a Holanda (requer libwebconnect)",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -899,10 +899,10 @@
 "h": "Addon:ThemePreferences"
 },
 {
-"n": "UK Web Connect Pack",
+"n": "Pacote Internet do RU",
 "i": "UK Web Connect Pack",
 "t": 6,
-"d": "Colec\u00e7\u00e3o de p\u00e1ginas web para UK (requer libwebconnect)",
+"d": "Colec\u00e7\u00e3o de p\u00e1ginas \u201cweb\u201d para o Reino Unido (requer libwebconnect)",
 "v": "1.0.43",
 "g": "6.0",
 "s": 3,
@@ -910,7 +910,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "US Web Connect Pack",
+"n": "Pacote Internet para EUA",
 "i": "US Web Connect Pack",
 "t": 6,
 "d": "Colec\u00e7\u00e3o de p\u00e1ginas web para US (requer libwebconnect)",
@@ -924,7 +924,7 @@
 "n": "Generic DB Access lib",
 "i": "libaccess",
 "t": 6,
-"d": "Fornece uma biblioteca para aceder \u00e0 base de dados e gen.lib.",
+"d": "Fornece uma biblioteca para acesso gen\u00e9rico \u00e0 base de dados e gen.lib.",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -1181,7 +1181,7 @@
 "h": "Addon:DNASegmentMap"
 },
 {
-"n": "Gramplet de inser\u00e7\u00e3o de dados",
+"n": "Gramplet Inser\u00e7\u00e3o de dados",
 "i": "Data Entry Gramplet",
 "t": 10,
 "d": "Gramplet de inser\u00e7\u00e3o r\u00e1pida de dados",
@@ -1229,7 +1229,7 @@
 "n": "Editar meta-dados Exif da imagem",
 "i": "Edit Image Exif Metadata",
 "t": 10,
-"d": "Gramplet para ver editar e gravar meta-dados Exif duma imagem",
+"d": "Gramplet para ver, editar e gravar meta-dados Exif duma imagem",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1281,7 +1281,7 @@
 "h": "Form Gramplet"
 },
 {
-"n": "GetGOV",
+"n": "Obter GOV",
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet para obter locais da base de dados GOV",
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "O Gramplet Limpeza de locais ajuda a unir locais, assim como a completar locais a partir da base de dados GeoNames",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "Limpeza de locais",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "O Gramplet Limpeza de locais ajuda a unir locais, assim como a completar locais a partir da base de dados GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1488,7 +1477,19 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Um dia na hist\u00f3ria familiar",
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
+},
+{
+"n": "Este dia na hist\u00f3ria familiar",
 "i": "This Day in Family History",
 "t": 10,
 "d": "Um programa configur\u00e1vel que mostra os eventos da sua \u00e1rvore geneal\u00f3gica interligados com a data de hoje.",
@@ -1517,7 +1518,7 @@
 "n": "SharedPostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
-"d": "Shared PostgreSQL Database",
+"d": "Base de dados partilhada PostgreSQL",
 "v": "0.1.11",
 "g": "6.0",
 "s": 3,
@@ -1528,10 +1529,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "O indiv\u00edduo activo",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "O indiv\u00edduo activo",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1605,10 +1606,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "People who are part of families matching <filter>",
+"n": "Indiv\u00edduos que s\u00e3o parte de fam\u00edlias com <filtro>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
-"d": "People who are part of families matching <filter>",
+"d": "Indiv\u00edduos que s\u00e3o parte de fam\u00edlias com <filtro>",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1616,10 +1617,10 @@
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
-"n": "Filter people by their age at death",
+"n": "Filtrar indiv\u00edduos pela idade ao \u00f3bito",
 "i": "ageatdeath",
 "t": 13,
-"d": "Filter rule that matches people by their age at death",
+"d": "Regra de filtragem para procurar indiv\u00edduos pela sua idade ao \u00f3bito",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1627,10 +1628,10 @@
 "h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
-"n": "Match associations of <person filter>",
+"n": "Comparar associa\u00e7\u00f5es de <indiv\u00edduo filtrado>",
 "i": "associationsofpersonmatch",
 "t": 13,
-"d": "Match associations of <person filter>",
+"d": "Comparar associa\u00e7\u00f5es de <indiv\u00edduo filtrado>",
 "v": "1.0.15",
 "g": "6.0",
 "s": 3,
@@ -1638,10 +1639,10 @@
 "h": "Addon:Rule_expansions#Match_associations_of_.3Cperson_filter.3E"
 },
 {
-"n": "People separated less than <N> degrees of <person>",
+"n": "Parentes afastados menos de <N> graus do <indiv\u00edduo>",
 "i": "degreesofseparation",
 "t": 13,
-"d": "Filter rule that matches relatives by degrees of separation",
+"d": "Regra de filtragem que procura parentes por graus de separa\u00e7\u00e3o",
 "v": "1.1.14",
 "g": "6.0",
 "s": 3,
@@ -1649,10 +1650,10 @@
 "h": "Addon:Rule_expansions#People_Separated_less_than_.3CN.3E_degrees_of_.3Cperson.3E"
 },
 {
-"n": "Families matching <event filter>",
+"n": "Fam\u00edlias com <filtro de evento>",
 "i": "familieswitheventfiltermatch",
 "t": 13,
-"d": "Matches families that are matched by an event filter",
+"d": "Compara fam\u00edlias que cumprem um filtro de eventos",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1660,10 +1661,10 @@
 "h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
-"n": "Events of families matching a <family filter>",
+"n": "Eventos de fam\u00edlias que cumpram o <filtro familiar>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
-"d": "Events of families matching a <family filter>",
+"d": "Eventos de fam\u00edlias que cumpram o <filtro familiar>",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -1693,10 +1694,10 @@
 "h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
-"n": "Multiple Parents Filter",
+"n": "Filtro de m\u00faltiplos pais",
 "i": "multipleparents",
 "t": 13,
-"d": "Multiple Parents Filter",
+"d": "Filtro de m\u00faltiplos pais",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1704,10 +1705,10 @@
 "h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
-"n": "People with <count> of <event>",
+"n": "Indiv\u00edduos com <total> de <eventos>",
 "i": "peopleeventscount",
 "t": 13,
-"d": "Matches persons which have events of given type and number.",
+"d": "Procura indiv\u00edduos com eventos de determinado tipo e n\u00famero.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,

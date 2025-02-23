@@ -286,7 +286,7 @@
 "h": "Addon:DoubleCousinReport"
 },
 {
-"n": "\u05e2\u05e5 \u05d0\u05b8\u05d1\u05d5\u05b9\u05ea \u05e7\u05b7\u05d3\u05de\u05d5\u05b9\u05e0\u05b4\u05d9\u05dd",
+"n": "\u05d0\u05d9\u05dc\u05df \u05d0\u05b8\u05d1\u05d5\u05b9\u05ea \u05e7\u05b7\u05d3\u05de\u05d5\u05b9\u05e0\u05b4\u05d9\u05dd",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -298,7 +298,7 @@
 "a": 1
 },
 {
-"n": "\u05e2\u05e5 \u05e6\u05d0\u05e6\u05d0\u05d9\u05dd",
+"n": "\u05d0\u05d9\u05dc\u05df\u05be\u05d9\u05d5\u05d7\u05e1\u05d9\u05df \u05e6\u05d0\u05e6\u05d0\u05d9\u05dd",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -947,7 +947,7 @@
 "n": "GoogleEarth",
 "i": "GoogleEarth",
 "t": 7,
-"d": "Creates data file for GoogleEarth and opens it",
+"d": "\u05de\u05d9\u05d9\u05e6\u05e8 \u05e7\u05d5\u05d1\u05e5 \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05e2\u05d1\u05d5\u05e8 GoogleEarth \u05d5\u05e4\u05d5\u05ea\u05d7 \u05d0\u05d5\u05ea\u05d5",
 "v": "1.0.53",
 "g": "6.0",
 "s": 3,
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "\u05d0\u05e8\u05d2\u05d5\u05df\u05be\u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05e1\u05d9\u05d9\u05e2 \u05d1\u05de\u05d9\u05d6\u05d5\u05d2 \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05d5\u05d4\u05e9\u05dc\u05de\u05ea \u05ea\u05db\u05d5\u05e0\u05d5\u05ea \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05ea\u05d5\u05da \u05de\u05e1\u05d3\u05be\u05e0\u05ea\u05d5\u05e0\u05d9 \u05d4\u05de\u05e8\u05e9\u05ea\u05ea \u05e9\u05dc GeoNames",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "\u05d0\u05e8\u05d2\u05d5\u05df \u05de\u05e7\u05d5\u05de\u05d5\u05ea",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "\u05d0\u05e8\u05d2\u05d5\u05df\u05be\u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05e1\u05d9\u05d9\u05e2 \u05d1\u05de\u05d9\u05d6\u05d5\u05d2 \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05d5\u05d4\u05e9\u05dc\u05de\u05ea \u05ea\u05db\u05d5\u05e0\u05d5\u05ea \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05ea\u05d5\u05da \u05de\u05e1\u05d3\u05be\u05e0\u05ea\u05d5\u05e0\u05d9 \u05d4\u05de\u05e8\u05e9\u05ea\u05ea \u05e9\u05dc GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1486,6 +1475,18 @@
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
 "h": "RelatedRelativesGramplet"
+},
+{
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
 },
 {
 "n": "This Day in Family History",

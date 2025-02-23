@@ -66,7 +66,7 @@
 "h": "Addon:Family_Sheet"
 },
 {
-"n": "Slektsdatabase",
+"n": "Slektstre",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -154,10 +154,10 @@
 "h": "Addon:PersonEverything_Report"
 },
 {
-"n": "Oppbevaringsstedsrapport",
+"n": "Arkivrapport",
 "i": "Repositories Report",
 "t": 0,
-"d": "Lager en tekstbasert rapport over oppbevaringssteder",
+"d": "Lager en tekstbasert arkivrapport",
 "v": "1.1.35",
 "g": "6.0",
 "s": 3,
@@ -168,7 +168,7 @@
 "n": "Repositories Report Options",
 "i": "Repositories Report Options",
 "t": 0,
-"d": "Lager en tekstbasert rapport over oppbevaringssteder",
+"d": "Lager en tekstbasert arkivrapport",
 "v": "0.3.35",
 "g": "6.0",
 "s": 3,
@@ -201,7 +201,7 @@
 "n": "\u00c5 gj\u00f8re Rapporter",
 "i": "TodoReport",
 "t": 0,
-"d": "Produserer en liste over alle notatene med en gitt kode sammen med postene som den refererer til, personen, familien, hendelsen, etc.",
+"d": "Lager en liste over alle notater med en bestemt etikett, sammen med oppf\u00f8ringene de refererer til, for eksempel person, familie, hendelse osv.",
 "v": "1.2.39",
 "g": "6.0",
 "s": 3,
@@ -256,7 +256,7 @@
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
-"d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
+"d": "Genererer en nettside (HTML) med en grafisk representasjon av aner/etterkommere (SVG), der detaljer om individer blir synlige ved muspekerens handlinger.",
 "v": "2.3.48",
 "g": "6.0",
 "s": 3,
@@ -298,7 +298,7 @@
 "a": 1
 },
 {
-"n": "Etterkommertavle",
+"n": "Etterkommertre",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -408,7 +408,7 @@
 "n": "Tidslinje",
 "i": "timelinequickview",
 "t": 1,
-"d": "Display a person's events on a timeline",
+"d": "Vis en persons hendelser p\u00e5 en tidslinje",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -799,7 +799,7 @@
 "a": 1
 },
 {
-"n": "SQLite Export",
+"n": "SQLite Eksport",
 "i": "ex_sqlite",
 "t": 4,
 "d": "SQLite is a common local database format",
@@ -1125,7 +1125,7 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Bursdager",
 "i": "Birthdays",
 "t": 10,
 "d": "en gramplet som viser bursdager for levende personer",
@@ -1229,7 +1229,7 @@
 "n": "Redigere Metadata for bilde",
 "i": "Edit Image Exif Metadata",
 "t": 10,
-"d": "Sm\u00e5gramps for \u00e5 vise, redigere og lagre Exif-metadata for bilder",
+"d": "Gramplet for \u00e5 vise, redigere og lagre Exif-metadata for bilder",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1240,7 +1240,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Sm\u00e5gramps som viser egenskapene til en familie",
+"d": "Gramplet som viser egenskapene til en familie",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -1251,7 +1251,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Sm\u00e5gramps som viser egenskapene til en person",
+"d": "Gramplet som viser egenskapene til en person",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -1326,7 +1326,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Importer Tekst",
+"n": "Importer tekst",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet for importing text",
@@ -1352,7 +1352,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Sm\u00e5gramps som viser detaljer for en person",
+"d": "Gramplet som viser detaljer for en person",
 "v": "1.0.38",
 "g": "6.0",
 "s": 3,
@@ -1360,7 +1360,7 @@
 "h": "Addon:MediaMerge"
 },
 {
-"n": "Notat Sm\u00e5gramps",
+"n": "Notat Gramplet",
 "i": "Note Gramplet",
 "t": 10,
 "d": "Gramplet for editing active person's notes",
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "Place Cleanup",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1486,6 +1475,18 @@
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
 "h": "RelatedRelativesGramplet"
+},
+{
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
 },
 {
 "n": "This Day in Family History",

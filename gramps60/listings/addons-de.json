@@ -744,7 +744,7 @@
 "n": "GEDCOM Export Erweiterungen (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,
-"d": "Erweiterungen f\u00fcr das bekannte GEDCOM Format",
+"d": "Erweiterungen f\u00fcr das g\u00e4ngige GEDCOM-Format.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -924,7 +924,7 @@
 "n": "Generic DB Access lib",
 "i": "libaccess",
 "t": 6,
-"d": "Liefert eine Bibliothek zum generischen Zugriff auf die Datenbank und gen.lib",
+"d": "Bietet eine Bibliothek f\u00fcr den generischen Zugriff auf die Datenbank und gen.lib.",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -1020,7 +1020,7 @@
 "n": "Ahnenkarte",
 "i": "geoancestor",
 "t": 8,
-"d": "Eine Ansicht, die die Orte der Vorfahren auf der Karte zeigt.",
+"d": "Eine Ansicht mit den Orten der Vorfahren auf der Karte.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Orte Bereinigung Gramplet hilft beim Zusammenf\u00fchren von Orten sowie beim Vervollst\u00e4ndigen von Orten aus der GeoNames-Webdatenbank",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "Orte Bereinigung",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "Orte Bereinigung Gramplet hilft beim Zusammenf\u00fchren von Orten sowie beim Vervollst\u00e4ndigen von Orten aus der GeoNames-Webdatenbank",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1488,6 +1477,18 @@
 "h": "RelatedRelativesGramplet"
 },
 {
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
+},
+{
 "n": "Dieser Tag in der Familiengeschichte",
 "i": "This Day in Family History",
 "t": 10,
@@ -1528,10 +1529,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "Die aktive Person",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "Die aktive Person",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,

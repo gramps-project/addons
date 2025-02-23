@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "F\u00e4rgdiagram",
 "i": "Heatmap",
 "t": 0,
 "d": "Skapa en webbrapport med f\u00e4rgdiagram.",
@@ -256,7 +256,7 @@
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
-"d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
+"d": "Skapar en webbsida (HTML) med en grafisk representation av f\u00f6rf\u00e4der/\u00e4ttlingar (SVG) d\u00e4r detaljer om individer blir synliga vid mush\u00e4ndelser.",
 "v": "2.3.48",
 "g": "6.0",
 "s": 3,
@@ -799,7 +799,7 @@
 "a": 1
 },
 {
-"n": "SQLite Export",
+"n": "SQLite-export",
 "i": "ex_sqlite",
 "t": 4,
 "d": "SQLite \u00e4r ett vanligt lokal databasformat",
@@ -1125,7 +1125,7 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "F\u00f6delsedagar",
 "i": "Birthdays",
 "t": 10,
 "d": "en Gramplet, som visar f\u00f6delsedagarna f\u00f6r levande personer",
@@ -1184,7 +1184,7 @@
 "n": "Gramplet f\u00f6r datainmatning",
 "i": "Data Entry Gramplet",
 "t": 10,
-"d": "Gramplet for quick data entry",
+"d": "Gramplet f\u00f6r snabb datainmatning",
 "v": "1.0.52",
 "g": "6.0",
 "s": 3,
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Platsrensnings Gramplet hj\u00e4lper till att sl\u00e5 samman platser och komplettera platser fr\u00e5n GeoNames webbdatabas",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "Platsrensning",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "Platsrensnings Gramplet hj\u00e4lper till att sl\u00e5 samman platser och komplettera platser fr\u00e5n GeoNames webbdatabas",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1468,7 +1457,7 @@
 "n": "Python-skal",
 "i": "Python Gramplet",
 "t": 10,
-"d": "Interactive Python interpreter",
+"d": "Interaktiv Python-tolk",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -1486,6 +1475,18 @@
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
 "h": "RelatedRelativesGramplet"
+},
+{
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
 },
 {
 "n": "This Day in Family History",

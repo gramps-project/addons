@@ -44,10 +44,10 @@
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Dynamick\u00e9 WWW str\u00e1nky",
+"n": "Dynamick\u00e1 webov\u00e1 spr\u00e1va",
 "i": "DynamicWeb",
 "t": 0,
-"d": "Vytv\u00e1ra dynamick\u00e9 WWW str\u00e1nky z datab\u00e1ze",
+"d": "Produkuje dynamick\u00e9 webov\u00e9 str\u00e1nky pre datab\u00e1zu",
 "v": "0.0.100",
 "g": "6.0",
 "s": 3,
@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "Heatmapa",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
@@ -256,7 +256,7 @@
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
-"d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
+"d": "Generuje webov\u00fa (HTML) str\u00e1nku s grafick\u00fdm zn\u00e1zornen\u00edm predkov/potomkov (SVG), kde sa detaily o jednotlivcoch zobrazia pri udalostiach my\u0161i.",
 "v": "2.3.48",
 "g": "6.0",
 "s": 3,
@@ -383,10 +383,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "V\u0161etky men\u00e1 v\u0161etk\u00fdch \u013eud\u00ed",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Zobraz\u00ed v\u0161etky men\u00e1 v\u0161etk\u00fdch os\u00f4b",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -799,7 +799,7 @@
 "a": 1
 },
 {
-"n": "SQLite Export",
+"n": "Export SQLite",
 "i": "ex_sqlite",
 "t": 4,
 "d": "SQLite je be\u017en\u00fd form\u00e1t lok\u00e1lnej datab\u00e1zy",
@@ -1181,10 +1181,10 @@
 "h": "Addon:DNASegmentMap"
 },
 {
-"n": "Gramplet Z\u00e1pis d\u00e1t",
+"n": "Gramplet Zad\u00e1vanie \u00fadajov",
 "i": "Data Entry Gramplet",
 "t": 10,
-"d": "Gramplet for quick data entry",
+"d": "Gramplet pre r\u00fdchle zad\u00e1vanie \u00fadajov",
 "v": "1.0.52",
 "g": "6.0",
 "s": 3,
@@ -1425,21 +1425,10 @@
 "i": "PlaceCleanup",
 "t": 10,
 "d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
-"v": "1.0.25",
-"g": "6.0",
-"s": 3,
-"z": "PlaceCleanup.addon.tgz",
-"h": "Addon:PlaceCleanup"
-},
-{
-"n": "Place Cleanup",
-"i": "PlaceCleanup",
-"t": 10,
-"d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
-"z": "Placecleanup.addon.tgz",
+"z": "PlaceCleanup.addon.tgz",
 "h": "Addon:PlaceCleanup"
 },
 {
@@ -1465,10 +1454,10 @@
 "h": "Addon:Prerequisites_Checker_Gramplet"
 },
 {
-"n": "Shell Python",
+"n": "Pr\u00edkazov\u00fd riadok jazyka Python",
 "i": "Python Gramplet",
 "t": 10,
-"d": "Interactive Python interpreter",
+"d": "Interakt\u00edvny interpret jazyka Python",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -1486,6 +1475,18 @@
 "s": 3,
 "z": "RelatedRelativesGramplet.addon.tgz",
 "h": "RelatedRelativesGramplet"
+},
+{
+"n": "Search",
+"i": "Search Gramplet",
+"t": 10,
+"d": "Gramplet for search objects in database.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "SearchGramplet.addon.tgz",
+"h": "https://github.com/gramps-project/addons-source/pull/541",
+"a": 1
 },
 {
 "n": "This Day in Family History",
