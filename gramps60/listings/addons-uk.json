@@ -1293,6 +1293,21 @@
 "a": 1
 },
 {
+"n": "GrampsChat",
+"i": "GrampsChat",
+"t": 10,
+"d": "AI Chatbot Gramplet",
+"v": "0.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GrampsChat.addon.tgz",
+"rm": [
+"litellm"
+],
+"h": "Gramplets#GUI_Interface",
+"a": 2
+},
+{
 "n": "\u0413\u043e\u043b\u043e\u0432\u043d\u0456 \u043d\u043e\u0432\u0438\u043d\u0438",
 "i": "Headline News",
 "t": 10,
