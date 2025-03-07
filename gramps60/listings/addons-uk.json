@@ -899,6 +899,17 @@
 "h": "Addon:ThemePreferences"
 },
 {
+"n": "UA Web Connect Pack",
+"i": "UA Web Connect Pack",
+"t": 6,
+"d": "\u041a\u043e\u043b\u0435\u043a\u0446\u0456\u044f \u0432\u0435\u0431\u0441\u0430\u0439\u0442\u0456\u0432 \u0434\u043b\u044f \u0423\u043a\u0440\u0430\u0457\u043d\u0438 (\u043f\u043e\u0442\u0440\u0456\u0431\u0435\u043d libwebconnect)",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "UAWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+},
+{
 "n": "UK Web Connect Pack",
 "i": "UK Web Connect Pack",
 "t": 6,
