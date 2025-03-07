@@ -824,6 +824,17 @@
 "z": "Themes.addon.tgz"
 },
 {
+"n": "UA Web Connect Pack",
+"i": "UA Web Connect Pack",
+"t": 6,
+"d": "Collection of Web sites for the UA (requires libwebconnect)",
+"v": "1.0.1",
+"g": "5.2",
+"s": 3,
+"z": "UAWebConnectPack.addon.tgz",
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+},
+{
 "n": "Ensemble de liens internet anglo-saxons",
 "i": "UK Web Connect Pack",
 "t": 6,
