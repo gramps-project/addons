@@ -1307,15 +1307,15 @@
 "n": "GrampsChat",
 "i": "GrampsChat",
 "t": 10,
-"d": "AI Chatbot Gramplet",
-"v": "0.0.2",
+"d": "AI Chatbot Gramplet (requires connecting to an LLM service)",
+"v": "0.0.3",
 "g": "6.0",
 "s": 3,
 "z": "GrampsChat.addon.tgz",
 "rm": [
 "litellm"
 ],
-"h": "Gramplets#GUI_Interface",
+"h": "https://github.com/gramps-project/addons-source/tree/maintenance/gramps60/GrampsChat",
 "a": 2
 },
 {
