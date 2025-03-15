@@ -3,7 +3,7 @@
 "n": "VorfahrenF\u00fcllung",
 "i": "AncestorFill",
 "t": 0,
-"d": "Bericht zum F\u00fcllstand des Baumes",
+"d": "Bericht \u00fcber die Bef\u00fcllung des Baumes",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -14,8 +14,8 @@
 "n": "Nachkommenbuch",
 "i": "DescendantBook",
 "t": 0,
-"d": "Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere Nachkommenberichte.",
-"v": "1.1.30",
+"d": "Erstellt einen oder mehrere Nachkommenberichte basierend auf einer mitgelieferten Abfrage.",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Erstellt basierend auf einer angegebenen Abfrage einen oder mehrere ausf\u00fchrliche Nachkommenberichte.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -80,7 +80,7 @@
 "n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
-"d": "Create a heatmap web report.",
+"d": "Erstellt einen Heatmap-Webbericht.",
 "v": "1.2.7",
 "g": "6.0",
 "s": 3,
@@ -154,10 +154,10 @@
 "h": "Addon:PersonEverything_Report"
 },
 {
-"n": "Aufbewahrungsorte Bericht",
+"n": "Aufbewahrungsortebericht",
 "i": "Repositories Report",
 "t": 0,
-"d": "Erstellt einen schriftlichen Aufbewahrungsorte Bericht",
+"d": "Erstellt einen schriftlichen Aufbewahrungsortebericht",
 "v": "1.1.35",
 "g": "6.0",
 "s": 3,
@@ -165,10 +165,10 @@
 "h": "Addon:RepositoriesReport#Repositories_Report"
 },
 {
-"n": "Aufbewahrungsorte Berichtsoptionen",
+"n": "Aufbewahrungsorte-Berichtsoptionen",
 "i": "Repositories Report Options",
 "t": 0,
-"d": "Erstellt einen schriftlichen Aufbewahrungsorte Bericht",
+"d": "Erstellt einen schriftlichen Aufbewahrungsortebericht",
 "v": "0.3.35",
 "g": "6.0",
 "s": 3,
@@ -176,10 +176,10 @@
 "h": "Addon:RepositoriesReport#Repositories_Report_Options"
 },
 {
-"n": "Quellen und Fundstellenbericht",
+"n": "Quellen- und Fundstellenbericht",
 "i": "SourcesCitationsReport",
 "t": 0,
-"d": "Bietet einen Quelle und einen Fundstellenbericht mit Notizen",
+"d": "Bietet einen Quellen- und Fundstellenbericht mit Notizen an",
 "v": "3.6.15",
 "g": "6.0",
 "s": 3,
@@ -187,10 +187,10 @@
 "h": "Addon:SourcesCitationsReport"
 },
 {
-"n": "Timeline Pedigree Report",
+"n": "Zeitleisten-Stammbaum-Bericht",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"d": "Erstellt eine HTML-Webseite, die mithilfe von JavaScript ein vertikal nach Geburtsdatum angeordnetes Ahnentafel-Blockdiagramm anzeigt",
 "v": "0.0.10",
 "g": "6.0",
 "s": 3,
@@ -198,7 +198,7 @@
 "h": "Addon:Timeline_Pedigree_Report"
 },
 {
-"n": "Zu erledigen Bericht",
+"n": "Aufgabenbericht",
 "i": "TodoReport",
 "t": 0,
 "d": "Erstellt eine Liste aller Notizen mit einer bestimmten Markierung zusammen mit den Datens\u00e4tzen auf die sie referenziert, die Person, Familie, Ereignis, usw.",
@@ -213,7 +213,7 @@
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Erzeugt eine Webseite mit einer grafischen Darstellung von Vorfahren (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -224,7 +224,7 @@
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Erzeugt eine Webseite mit einer grafischen Darstellung von Vorfahren (SVG)dargestellt als F\u00e4chergrafik aus der D3.js JavaScript-Bibliothek.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -235,14 +235,14 @@
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Erzeugt eine Webseite mit einer grafischen Darstellung von Nachkommen (SVG)dargestellt als zusammenklappbares Baum-Layout aus der D3.js JavaScript-Bibliothek.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Descendant_Indented_Tree"
 },
 {
-"n": "Datenbankunterschiede Bericht",
+"n": "Datenbankunterschiede-Bericht",
 "i": "database-differences-report",
 "t": 0,
 "d": "Vergleicht eine externe Datenbank mit der aktuell ge\u00f6ffneten.",
@@ -257,7 +257,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Erzeugt eine Webseite (HTML) mit einer grafischen Darstellung der Vorfahren /Nachkommen (SVG), bei denen Details \u00fcber Individuen bei Maus-Ereignissen sichtbar werden.",
-"v": "2.3.48",
+"v": "2.3.50",
 "g": "6.0",
 "s": 3,
 "z": "DenominoViso.addon.tgz",
@@ -275,10 +275,10 @@
 "h": "Addon:Detailed_Descendant_Report_With_All_Images"
 },
 {
-"n": "Double Cousins",
+"n": "Doppelte Cousins und Cousinen",
 "i": "double_cousins",
 "t": 0,
-"d": "A text report listing double cousins.",
+"d": "Ein Textbericht mit einer Liste von doppelten Cousins.",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -460,10 +460,10 @@
 "h": "Addon:FamilyRelationship"
 },
 {
-"n": "FamilyTree DNA",
+"n": "FamilyTree-DNA",
 "i": "FamilyTree DNA Import Gramplet",
 "t": 2,
-"d": "Tool to import FamilyFinder DNA data from Family Tree",
+"d": "Werkzeug zum Importieren von FamilyFinder-DNA-Daten aus Family Tree",
 "v": "1.0.33",
 "g": "6.0",
 "s": 3,
@@ -472,10 +472,10 @@
 "a": 1
 },
 {
-"n": "Fix Place Coordinates",
+"n": "Ortskoordinaten reparieren",
 "i": "FixCoords",
 "t": 2,
-"d": "Tool to correct the place coordinates for extra spaces or comma characters.",
+"d": "Werkzeug zur Korrektur der Ortskoordinaten um zus\u00e4tzliche Leer- oder Kommazeichen.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -638,10 +638,10 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Medien Zusammenf\u00fchren",
+"n": "Medien zusammenf\u00fchren",
 "i": "mediamerge",
 "t": 2,
-"d": "Durchsucht die gesamte Datenbank nach Medien mit demselben Pfad und f\u00fchrt sie zusammen.",
+"d": "Durchsucht die gesamte Datenbank nach Medien, die denselben Pfad haben, und f\u00fchrt sie zusammen.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -671,10 +671,10 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
-"n": "S3 Media Uploader",
+"n": "S3-Medien-Hochlader",
 "i": "s3uploader",
 "t": 2,
-"d": "Upload media files to S3 (or compatible) object-based storage via the command line.",
+"d": "Lade Mediendateien \u00fcber die Befehlszeile in den objektbasierten Speicher S3 (oder einen kompatiblen Speicher) hoch.",
 "v": "0.1.11",
 "g": "6.0",
 "s": 3,
@@ -718,7 +718,7 @@
 "h": "Addon:Types_Cleanup_Tool"
 },
 {
-"n": "JSON Import",
+"n": "JSON-Import",
 "i": "JSON Import",
 "t": 3,
 "d": "Dies ist ein JSON Import",
@@ -753,7 +753,7 @@
 "a": 1
 },
 {
-"n": "JSON Export",
+"n": "JSON-Export",
 "i": "JSON Export",
 "t": 4,
 "d": "Dies ist ein JSON Export",
@@ -764,7 +764,7 @@
 "h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
-"n": "Prolog Export",
+"n": "Prolog-Export",
 "i": "Prolog Export",
 "t": 4,
 "d": "Exportiert Daten in ein Prolog-Faktenformat. Daten sind in Unicode (utf-8)",
@@ -790,7 +790,7 @@
 "n": "Person GEXF",
 "i": "ex_person_gexf",
 "t": 4,
-"d": "GEXF is used in many network graph applications.",
+"d": "GEXF wird in vielen Netzwerkgraphenanwendungen eingesetzt.",
 "v": "1.0.3",
 "g": "6.0",
 "s": 2,
@@ -877,10 +877,10 @@
 "h": "Addon:RestartWhereYouWereLastWorking"
 },
 {
-"n": "SV Web Connect Pack",
+"n": "SV Web Verkn\u00fcpfungspaket",
 "i": "SV Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for Sweden (requires libwebconnect)",
+"d": "Sammlung von Websites f\u00fcr Schweden (erfordert libwebconnect)",
 "v": "1.0.6",
 "g": "6.0",
 "s": 3,
@@ -899,10 +899,10 @@
 "h": "Addon:ThemePreferences"
 },
 {
-"n": "UA Web Connect Pack",
+"n": "UA Web Verkn\u00fcpfungspaket",
 "i": "UA Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the UA (requires libwebconnect)",
+"d": "Sammlung von Webseiten f\u00fcr UA (ben\u00f6tigt libwebconnect)",
 "v": "1.0.1",
 "g": "6.0",
 "s": 3,
@@ -1045,10 +1045,10 @@
 "h": "Addon:AncestorsMap"
 },
 {
-"n": "TimeLines Map",
+"n": "ZeitLinien-Karte",
 "i": "geotimelines",
 "t": 8,
-"d": "A view showing all the places visited by a person or persons on various date.",
+"d": "Eine Ansicht, die alle Orte anzeigt, die von einer oder mehreren Personen an einem bestimmten Datum besucht wurden.",
 "v": "1.0.5",
 "g": "6.0",
 "s": 2,
@@ -1066,7 +1066,7 @@
 "n": "Graphenansicht",
 "i": "graphview",
 "t": 8,
-"d": "Dynamisches und interaktives Diagramm von Beziehungen",
+"d": "Dynamisches und interaktives Beziehungsdiagramm",
 "v": "1.0.144",
 "g": "6.0",
 "s": 3,
@@ -1124,10 +1124,10 @@
 "h": "AnniversariesGramplet"
 },
 {
-"n": "Beta What's Next",
+"n": "Beta Was kommt als N\u00e4chstes",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "Beta Gramplet schl\u00e4gt Elemente f\u00fcr die Forschung vor",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1150,7 +1150,7 @@
 "n": "Uhr",
 "i": "Clock Gramplet",
 "t": 10,
-"d": "Gramplet zum demonstrieren der Cairo Grafik",
+"d": "Gramplet f\u00fcr Demo von Cairo-Grafik",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -1159,7 +1159,7 @@
 "a": 2
 },
 {
-"n": "Sammlungen Zwischenablage",
+"n": "Sammlungen-Zwischenablage",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet zur Gruppierung von Sammlungen von Elementen zur Unterst\u00fctzung bei der Dateneingabe.",
@@ -1170,10 +1170,10 @@
 "h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
-"n": "DNA Matches",
+"n": "DNA-\u00dcbereinstimmungen",
 "i": "DNAMatches",
 "t": 10,
-"d": "Gramplet to display a list of DNA matches",
+"d": "Gramplet zur Anzeige einer Liste von DNA-\u00dcbereinstimmungen",
 "v": "2.0.4",
 "g": "6.0",
 "s": 3,
@@ -1184,7 +1184,7 @@
 "n": "DNA-Segmentkarte",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
+"d": "Gramplet zeigt eine passende DNA-Segmentkarte",
 "v": "2.0.13",
 "g": "6.0",
 "s": 3,
@@ -1204,10 +1204,10 @@
 "a": 1
 },
 {
-"n": "Datums Rechner",
+"n": "Datumsrechner",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Datumsberechnungen durchf\u00fchren",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1341,10 +1341,10 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "Historischer Kontext",
 "i": "HistContext",
 "t": 10,
-"d": "Lists relevant historical events during the lifetime of a Person",
+"d": "Listet relevante historische Ereignisse w\u00e4hrend der Lebenszeit einer Person auf",
 "v": "0.2.29",
 "g": "6.0",
 "s": 3,
@@ -1378,8 +1378,8 @@
 "n": "Letzte \u00c4nderung",
 "i": "LastChangeGramplet",
 "t": 10,
-"d": "Listet die letzten zehn ge\u00e4nderten Personendatens\u00e4tze",
-"v": "0.1.14",
+"d": "Listet die letzten zehn ge\u00e4nderten Personendatens\u00e4tze auf",
+"v": "0.1.15",
 "g": "6.0",
 "s": 3,
 "z": "LastChange.addon.tgz",
@@ -1444,7 +1444,7 @@
 "n": "Ort und Koordinaten",
 "i": "Place Coordinates",
 "t": 10,
-"d": "Gramplet, das das Einstellen der Koordinaten eines Ortes vereinfacht",
+"d": "Gramplet, das die Bestimmung der Koordinaten eines Ortes vereinfacht",
 "v": "1.1.26",
 "g": "6.0",
 "s": 3,
@@ -1458,10 +1458,10 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Orte Bereinigung",
+"n": "Ortsbereinigung",
 "i": "PlaceCleanup",
 "t": 10,
-"d": "Orte Bereinigung Gramplet hilft beim Zusammenf\u00fchren von Orten sowie beim Vervollst\u00e4ndigen von Orten aus der GeoNames-Webdatenbank",
+"d": "Das Gramplet Ortsbereinigung hilft bei der Zusammenf\u00fchrung von Orten und bei der Vervollst\u00e4ndigung von Orten aus der GeoNames-Webdatenbank",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1480,10 +1480,10 @@
 "h": "http://gramps-project.org/wiki/index.php/PlaceUpdate_Gramplet"
 },
 {
-"n": "Voraussetzungen Pr\u00fcfer",
+"n": "Voraussetzungen-Pr\u00fcfer",
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
-"d": "Voraussetzungen Pr\u00fcfer Gramplet",
+"d": "Voraussetzungen-Pr\u00fcfer Gramplet",
 "v": "1.2.8",
 "g": "6.0",
 "s": 3,
@@ -1514,10 +1514,10 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "Suche",
 "i": "Search Gramplet",
 "t": 10,
-"d": "Gramplet for search objects in database.",
+"d": "Gramplet f\u00fcr Suche nach Objekten in der Datenbank.",
 "v": "0.0.2",
 "g": "6.0",
 "s": 1,
@@ -1552,10 +1552,10 @@
 "a": 1
 },
 {
-"n": "SharedPostgreSQL",
+"n": "GemeinsamePostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
-"d": "Shared PostgreSQL Database",
+"d": "Gemeinsame PostgreSQL-Datenbank",
 "v": "0.1.11",
 "g": "6.0",
 "s": 3,
@@ -1654,10 +1654,10 @@
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
-"n": "Filter people by their age at death",
+"n": "Personen nach ihrem Sterbealter filtern",
 "i": "ageatdeath",
 "t": 13,
-"d": "Filter rule that matches people by their age at death",
+"d": "Filterregel, die Personen nach ihrem Alter beim Tod abgleicht",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1665,10 +1665,10 @@
 "h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
-"n": "Match associations of <person filter>",
+"n": "Entspricht den Zuordnungen von <Personenfilter>",
 "i": "associationsofpersonmatch",
 "t": 13,
-"d": "Match associations of <person filter>",
+"d": "Entspricht den Zuordnungen von <Personenfilter>",
 "v": "1.0.15",
 "g": "6.0",
 "s": 3,
@@ -1731,10 +1731,10 @@
 "h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
-"n": "Multiple Parents Filter",
+"n": "Mehrere Eltern Filter",
 "i": "multipleparents",
 "t": 13,
-"d": "Multiple Parents Filter",
+"d": "Mehrere Eltern Filter",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1742,10 +1742,10 @@
 "h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
-"n": "People with <count> of <event>",
+"n": "Personen mit <Anzahl> von <Ereignis>",
 "i": "peopleeventscount",
 "t": 13,
-"d": "Matches persons which have events of given type and number.",
+"d": "Entspricht Personen, die Ereignisse der angegebenen Art und Anzahl haben.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,

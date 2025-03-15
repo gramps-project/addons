@@ -1,9 +1,9 @@
 [
 {
-"n": "AncestorFill",
+"n": "Doplnenie predkov",
 "i": "AncestorFill",
 "t": 0,
-"d": "Report on the filling of the tree",
+"d": "Spr\u00e1va o naplnen\u00ed stromu",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -11,21 +11,21 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Descendant Book",
+"n": "Kniha potomkov",
 "i": "DescendantBook",
 "t": 0,
-"d": "Produces one or more descendant reports based on a supplied query.",
-"v": "1.1.30",
+"d": "Vytv\u00e1ra jednu alebo viac spr\u00e1v o potomkoch na z\u00e1klade dodanej po\u017eiadavky.",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Descendants Lines",
+"n": "L\u00ednie potomkov",
 "i": "Descendants Lines",
 "t": 0,
-"d": "Produces descendants lines of a person",
+"d": "Vytv\u00e1ra l\u00ednie potomkov osoby",
 "v": "1.1.12",
 "g": "6.0",
 "s": 3,
@@ -33,11 +33,11 @@
 "h": "Addon:DescendantsLines"
 },
 {
-"n": "Detailed Descendant Book",
+"n": "Podrobn\u00e1 kniha potomkov",
 "i": "DetailedDescendantBook",
 "t": 0,
-"d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.30",
+"d": "Vytv\u00e1ra jednu alebo viac podrobn\u00fdch spr\u00e1v o potomkoch na z\u00e1klade dodanej po\u017eiadavky.",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmapa",
+"n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
@@ -110,10 +110,10 @@
 "h": "Addon:Lines_of_Descendency_Report"
 },
 {
-"n": "Tiny Tafel",
+"n": "Liste \u00c9clair",
 "i": "ListeEclair",
 "t": 0,
-"d": "Generates a tiny tafel",
+"d": "Produit une liste eclair",
 "v": "1.0.30",
 "g": "6.0",
 "s": 3,
@@ -143,10 +143,10 @@
 "h": "Addon:PedigreeChart"
 },
 {
-"n": "PersonEverything Report",
+"n": "Spr\u00e1va: V\u0161etko o osobe",
 "i": "PersonEverythingReport",
 "t": 0,
-"d": "Produces a report containing everything about the active person",
+"d": "Vytvor\u00ed spr\u00e1vu obsahuj\u00facu v\u0161etko o akt\u00edvnej osobe",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -176,10 +176,10 @@
 "h": "Addon:RepositoriesReport#Repositories_Report_Options"
 },
 {
-"n": "Sources and Citations Report",
+"n": "Spr\u00e1va o zdrojoch a cit\u00e1ci\u00e1ch",
 "i": "SourcesCitationsReport",
 "t": 0,
-"d": "Provides a source and Citations Report with notes",
+"d": "Poskytuje spr\u00e1vu o zdrojoch a cit\u00e1ci\u00e1ch s pozn\u00e1mkami",
 "v": "3.6.15",
 "g": "6.0",
 "s": 3,
@@ -198,7 +198,7 @@
 "h": "Addon:Timeline_Pedigree_Report"
 },
 {
-"n": "Ak chcete spr\u00e1vu",
+"n": "Spr\u00e1va o \u00faloh\u00e1ch",
 "i": "TodoReport",
 "t": 0,
 "d": "Vytvor\u00ed zoznam v\u0161etk\u00fdch pozn\u00e1mok s danou zna\u010dkou spolu so z\u00e1znamami, na ktor\u00e9 odkazuje, osobou, rodinou, udalos\u0165ou at\u010f.",
@@ -209,43 +209,43 @@
 "h": "Addon:ToDoReport"
 },
 {
-"n": "Ancestral Collapsible Tree",
+"n": "Zbalite\u013en\u00fd strom predkov",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.36",
+"d": "Vygeneruje webov\u00fa str\u00e1nku s grafick\u00fdm zn\u00e1zornen\u00edm predkov (SVG) reprezentovan\u00fdch ako Collapsible Tree Layout z kni\u017enice JavaScript D3.js.",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Ancestral Fan Chart",
+"n": "Vej\u00e1rov\u00fd graf predkov",
 "i": "d3-ancestralfanchart",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
-"v": "1.0.36",
+"d": "Generuje webov\u00fa str\u00e1nku s grafick\u00fdm zn\u00e1zornen\u00edm predkov (SVG) reprezentovan\u00fdch ako vej\u00e1rov\u00fd graf z kni\u017enice JavaScript D3.js.",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
-"n": "Descendant Indented Tree",
+"n": "\u010clenit\u00fd strom potomkov",
 "i": "d3-descendantindentedtree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.36",
+"d": "Vygeneruje webov\u00fa str\u00e1nku s grafick\u00fdm zn\u00e1zornen\u00edm potomkov (SVG) reprezentovan\u00fdch ako Collapsible Indented Tree Layout z kni\u017enice JavaScript D3.js.",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Descendant_Indented_Tree"
 },
 {
-"n": "Database Differences Report",
+"n": "Hl\u00e1senie o rozdieloch v datab\u00e1ze",
 "i": "database-differences-report",
 "t": 0,
-"d": "Compares an external database with the current one.",
+"d": "Porovn\u00e1va extern\u00fa datab\u00e1zu s aktu\u00e1lnou.",
 "v": "1.0.27",
 "g": "6.0",
 "s": 3,
@@ -257,7 +257,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Generuje webov\u00fa (HTML) str\u00e1nku s grafick\u00fdm zn\u00e1zornen\u00edm predkov/potomkov (SVG), kde sa detaily o jednotlivcoch zobrazia pri udalostiach my\u0161i.",
-"v": "2.3.48",
+"v": "2.3.50",
 "g": "6.0",
 "s": 3,
 "z": "DenominoViso.addon.tgz",
@@ -289,7 +289,7 @@
 "n": "Strom predkov",
 "i": "gt_ancestor",
 "t": 0,
-"d": "Ancestor tree using LaTeX genealogytree",
+"d": "Strom predkov s pou\u017eit\u00edm LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -301,7 +301,7 @@
 "n": "Strom potomkov",
 "i": "gt_descendant",
 "t": 0,
-"d": "Descendant tree using LaTeX genealogytree",
+"d": "Strom potomkov s pou\u017eit\u00edm LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -310,10 +310,10 @@
 "a": 1
 },
 {
-"n": "Grandparent Tree",
+"n": "Strom star\u00fdch rodi\u010dov",
 "i": "gt_grandparent",
 "t": 0,
-"d": "Grandparent tree using LaTeX genealogytree",
+"d": "Strom star\u00fdch rodi\u010dov s pou\u017eit\u00edm LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -322,10 +322,10 @@
 "a": 1
 },
 {
-"n": "Sandclock Tree",
+"n": "Pres\u00fdpacie hodiny - strom",
 "i": "gt_sandclock",
 "t": 0,
-"d": "Sandclock tree using LaTeX genealogytree",
+"d": "Pres\u00fdpacie hodiny - strom s pou\u017eit\u00edm LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -334,10 +334,10 @@
 "a": 1
 },
 {
-"n": "Sandclock Tree for a Family",
+"n": "Pres\u00fdpacie hodiny - strom pre rodinu",
 "i": "gt_sandclock_family",
 "t": 0,
-"d": "Sandclock tree for a family using LaTeX genealogytree",
+"d": "Pres\u00fdpacie hodiny - strom pre rodinu s pou\u017eit\u00edm LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -394,10 +394,10 @@
 "h": "Addon:All_Names_Quickview"
 },
 {
-"n": "Biography",
+"n": "Biografia",
 "i": "biographyquickview",
 "t": 1,
-"d": "Display a text biography",
+"d": "Zobraz\u00ed textov\u00fd \u017eivotopis",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -438,10 +438,10 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "Editor popisu udalost\u00ed",
 "i": "EventDescriptionEditor",
 "t": 2,
-"d": "A tool to find and replace a string in event description of multiple events.",
+"d": "N\u00e1stroj na vyh\u013eadanie a nahradenie re\u0165azca v popise udalosti viacer\u00fdch udalost\u00ed.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -463,7 +463,7 @@
 "n": "FamilyTree DNA",
 "i": "FamilyTree DNA Import Gramplet",
 "t": 2,
-"d": "Tool to import FamilyFinder DNA data from Family Tree",
+"d": "N\u00e1stroj na importovanie \u00fadajov FamilyFinder DNA z Family Tree",
 "v": "1.0.33",
 "g": "6.0",
 "s": 3,
@@ -483,7 +483,7 @@
 "h": "https://github.com/gramps-project/addons-source/blob/maintenance/gramps60/FixCoords"
 },
 {
-"n": "PlaceCompletion",
+"n": "Doplnenie miesta",
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Poskytuje preh\u013ead\u00e1vate\u013en\u00fd zoznam vybran\u00fdch miest s mo\u017enos\u0165ou dopl\u0148ova\u0165/triedi\u0165/nastavi\u0165 atrib\u00faty pol\u00ed.",
@@ -527,10 +527,10 @@
 "h": "Addon:SetPrivacyTool"
 },
 {
-"n": "Interactive Family Tree",
+"n": "Interakt\u00edvny rodinn\u00fd strom",
 "i": "Topola",
 "t": 2,
-"d": "Opens an interactive tree in the browser",
+"d": "Otv\u00e1ra interakt\u00edvny strom v prehliada\u010di",
 "v": "1.1.13",
 "g": "6.0",
 "s": 3,
@@ -538,10 +538,10 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Check Associations data",
+"n": "Skontrolova\u0165 \u00fadaje o asoci\u00e1ci\u00e1ch",
 "i": "associationstool",
 "t": 2,
-"d": "Will check the data on Association for people.",
+"d": "Skontroluje \u00fadaje o asoci\u00e1cii pre osoby.",
 "v": "1.1.15",
 "g": "6.0",
 "s": 3,
@@ -549,10 +549,10 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Sort Children in Birth order",
+"n": "Zoradi\u0165 deti pod\u013ea poradia narodenia",
 "i": "birthorder",
 "t": 2,
-"d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
+"d": "Preh\u013ead\u00e1va rodiny a h\u013ead\u00e1 deti, ktor\u00e9 nie s\u00fa v porad\u00ed narodenia.  Pou\u017e\u00edvate\u013e m\u00f4\u017ee prija\u0165 individu\u00e1lne n\u00e1vrhy na opravu, manu\u00e1lne upravi\u0165 poradie narodenia, akceptova\u0165 v\u0161etky rodiny, ktor\u00e9 maj\u00fa v\u0161etky deti s vhodn\u00fdmi d\u00e1tumami narodenia, alebo akceptova\u0165 v\u0161etko.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -571,10 +571,10 @@
 "h": "Addon:Calculate_Estimated_Dates"
 },
 {
-"n": "Fix Capitalization of Given Names",
+"n": "Opravi\u0165 kapit\u00e1lky v dan\u00fdch (krstn\u00fdch) men\u00e1ch",
 "i": "chgivenname",
 "t": 2,
-"d": "Searches the entire database and attempts to fix capitalization of the given names.",
+"d": "H\u013ead\u00e1 v celej datab\u00e1ze a sna\u017e\u00ed sa opravi\u0165 ve\u013ek\u00e9 p\u00edsmen\u00e1 v dan\u00fdch (krstn\u00fdch) men\u00e1ch.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -605,10 +605,10 @@
 "h": "Addon:DownloadMedia"
 },
 {
-"n": "Extract Place Data from a Place Title",
+"n": "Extrahova\u0165 \u00fadaje o mieste z n\u00e1zvu miesta",
 "i": "excity",
 "t": 2,
-"d": "Attempts to extract city and state/province from a place title",
+"d": "Pokusy o extrakciu mesta a \u0161t\u00e1tu/provincie z n\u00e1zvu miesta",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -638,10 +638,10 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Merge Media",
+"n": "Zl\u00fa\u010di\u0165 m\u00e9di\u00e1",
 "i": "mediamerge",
 "t": 2,
-"d": "Searches the entire database, looking for media that have the same path and merges them.",
+"d": "Preh\u013ead\u00e1va cel\u00fa datab\u00e1zu a h\u013ead\u00e1 m\u00e9di\u00e1, ktor\u00e9 maj\u00fa rovnak\u00fa cestu a zl\u00fa\u010di ich.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -649,10 +649,10 @@
 "h": "Addon:MediaMerge"
 },
 {
-"n": "Media Verify",
+"n": "Overenie m\u00e9di\u00ed",
 "i": "mediaverify",
 "t": 2,
-"d": "Verify that media is present in the correct path",
+"d": "Overi\u0165, \u010di s\u00fa m\u00e9di\u00e1 pr\u00edtomn\u00e9 v spr\u00e1vnej ceste",
 "v": "1.0.31",
 "g": "6.0",
 "s": 3,
@@ -660,10 +660,10 @@
 "h": "Addon:Media_Verify_Tool"
 },
 {
-"n": "Note Cleanup",
+"n": "\u010cistenie pozn\u00e1mok",
 "i": "notecleanup",
 "t": 2,
-"d": "Clean up Notes that contain HTML markup",
+"d": "Vy\u010disti\u0165 pozn\u00e1mky, ktor\u00e9 obsahuj\u00fa HTML zna\u010dky",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -674,7 +674,7 @@
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,
-"d": "Upload media files to S3 (or compatible) object-based storage via the command line.",
+"d": "Nahrajte medi\u00e1lne s\u00fabory do S3 (alebo kompatibiln\u00e9ho) objektovo orientovan\u00e9ho \u00falo\u017eiska prostredn\u00edctvom pr\u00edkazov\u00e9ho riadku.",
 "v": "0.1.11",
 "g": "6.0",
 "s": 3,
@@ -696,10 +696,10 @@
 "h": "Addon:SyncAssociation"
 },
 {
-"n": "Thumbnail Generator",
+"n": "Gener\u00e1tor miniat\u00far",
 "i": "thumbgen",
 "t": 2,
-"d": "Generates thumbnails for media files",
+"d": "Generuje miniat\u00fary pre medi\u00e1lne s\u00fabory",
 "v": "1.0.31",
 "g": "6.0",
 "s": 3,
@@ -787,10 +787,10 @@
 "a": 2
 },
 {
-"n": "Person GEXF",
+"n": "Osoba GEXF",
 "i": "ex_person_gexf",
 "t": 4,
-"d": "GEXF is used in many network graph applications.",
+"d": "GEXF sa pou\u017e\u00edva v mnoh\u00fdch aplik\u00e1ci\u00e1ch sie\u0165ov\u00fdch grafov.",
 "v": "1.0.3",
 "g": "6.0",
 "s": 2,
@@ -844,10 +844,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Plugin Manager Enhanced",
+"n": "Roz\u0161\u00edren\u00fd spr\u00e1vca doplnkov",
 "i": "PluginManager",
 "t": 6,
-"d": "An Addon/Plugin Manager with several additional capabilities",
+"d": "Spr\u00e1vca doplnkov/pluginov s nieko\u013ek\u00fdmi \u010fal\u0161\u00edmi mo\u017enos\u0165ami",
 "v": "1.2.7",
 "g": "6.0",
 "s": 3,
@@ -866,10 +866,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Restart where you were last working",
+"n": "Re\u0161tartujte tam, kde ste naposledy pracovali",
 "i": "RestoreHist",
 "t": 6,
-"d": "This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the 'Go' menu.",
+"d": "Tento doplnok sp\u00f4sobuje, \u017ee sa Gramps re\u0161tartuje na rovnakom poh\u013eade a objekte, kde bol Gramps predt\u00fdm zatvoren\u00fd.\nNeprid\u00e1va \u017eiadne nov\u00e9 menu ani gramplety, ale umo\u017e\u0148uje n\u00e1js\u0165 posledn\u00fdch \u0161es\u0165 nav\u0161t\u00edven\u00fdch objektov prostredn\u00edctvom menu 'Prejs\u0165'.",
 "v": "0.0.21",
 "g": "6.0",
 "s": 3,
@@ -880,7 +880,7 @@
 "n": "SV Web Connect Pack",
 "i": "SV Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for Sweden (requires libwebconnect)",
+"d": "Zbierka webov\u00fdch str\u00e1nok pre \u0160v\u00e9dsko (vy\u017eaduje libwebconnect)",
 "v": "1.0.6",
 "g": "6.0",
 "s": 3,
@@ -888,10 +888,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Theme preferences",
+"n": "Predvo\u013eby t\u00e9my",
 "i": "ThemesPrefs",
 "t": 6,
-"d": "An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.",
+"d": "Pr\u00eddavok k predvo\u013eb\u00e1m pre jednoduch\u00e9 \u00fapravy t\u00e9my a p\u00edsma.   Obzvl\u00e1\u0161\u0165 u\u017eito\u010dn\u00e9 pre pou\u017e\u00edvate\u013eov syst\u00e9mu Windows.",
 "v": "0.0.16",
 "g": "6.0",
 "s": 3,
@@ -958,7 +958,7 @@
 "n": "GoogleEarth",
 "i": "GoogleEarth",
 "t": 7,
-"d": "Creates data file for GoogleEarth and opens it",
+"d": "Tvor\u00ed d\u00e1tov\u00fd s\u00fabor pre GoogleEarth a otv\u00e1ra ho",
 "v": "1.0.53",
 "g": "6.0",
 "s": 3,
@@ -1000,10 +1000,10 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Combined",
+"n": "Kombinovan\u00fd",
 "i": "combinedview",
 "t": 8,
-"d": "A view showing relationships and events for a person",
+"d": "Poh\u013ead zobrazuj\u00faci vz\u0165ahy a udalosti pre osobu",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1028,10 +1028,10 @@
 "h": "Addon:PlaceCoordinatesGramplet#Additional_geography_view_with_a_context_menu"
 },
 {
-"n": "Ancestors map",
+"n": "Mapa predkov",
 "i": "geoancestor",
 "t": 8,
-"d": "A view showing ancestors places on the map.",
+"d": "Poh\u013ead zobrazuj\u00faci miesta predkov na mape.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1124,10 +1124,10 @@
 "h": "AnniversariesGramplet"
 },
 {
-"n": "Beta What's Next",
+"n": "Beta \u010co \u010falej",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "Beta Gramplet navrhuj\u00faci polo\u017eky na presk\u00famanie",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1136,10 +1136,10 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Narodeniny",
 "i": "Birthdays",
 "t": 10,
-"d": "a gramplet that displays the birthdays of the living people",
+"d": "Gramplet, ktor\u00fd zobrazuje narodeniny \u017eij\u00facich \u013eud\u00ed",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,
@@ -1240,7 +1240,7 @@
 "n": "Upravi\u0165 Exif metad\u00e1ta obr\u00e1zku",
 "i": "Edit Image Exif Metadata",
 "t": 10,
-"d": "Gramplet na zobrazenie, \u00fapravu a ulo\u017eenie metad\u00e1t Exif obr\u00e1zka",
+"d": "Gramplet na zobrazenie, \u00fapravu a ulo\u017eenie Exif metad\u00e1t obr\u00e1zka",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1295,7 +1295,7 @@
 "n": "GetGOV",
 "i": "GetGOV Gramplet",
 "t": 10,
-"d": "Gramplet to get places from the GOV database",
+"d": "Gramplet na z\u00edskanie miest z datab\u00e1zy GOV",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -1379,14 +1379,14 @@
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
-"v": "0.1.14",
+"v": "0.1.15",
 "g": "6.0",
 "s": 3,
 "z": "LastChange.addon.tgz",
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media Browser",
+"n": "Prehliada\u010d m\u00e9di\u00ed",
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplet zobrazuj\u00faci podrobnosti o osobe",
@@ -1400,7 +1400,7 @@
 "n": "Gramplet Pozn\u00e1mka",
 "i": "Note Gramplet",
 "t": 10,
-"d": "Gramplet for editing active person's notes",
+"d": "Gramplet pre \u00fapravu pozn\u00e1mok akt\u00edvnej osoby",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1441,10 +1441,10 @@
 "h": "Addon:Photo_Tagging_Gramplet"
 },
 {
-"n": "Place and Coordinates",
+"n": "Miesto a s\u00faradnice",
 "i": "Place Coordinates",
 "t": 10,
-"d": "Gramplet that simplifies setting the coordinates of a place",
+"d": "Gramplet, ktor\u00fd zjednodu\u0161uje nastavenie s\u00faradn\u00edc miesta",
 "v": "1.1.26",
 "g": "6.0",
 "s": 3,
@@ -1458,10 +1458,10 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Place Cleanup",
+"n": "\u00dadr\u017eba miest",
 "i": "PlaceCleanup",
 "t": 10,
-"d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
+"d": "Gramplet \u00dadr\u017eba miest pom\u00e1ha pri zl\u00fa\u010den\u00ed miest a tie\u017e pri dop\u013a\u0148an\u00ed miest z webovej datab\u00e1zy GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1480,10 +1480,10 @@
 "h": "http://gramps-project.org/wiki/index.php/PlaceUpdate_Gramplet"
 },
 {
-"n": "Prerequisites Checker",
+"n": "Kontrola n\u00e1le\u017eitost\u00ed",
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
-"d": "Prerequisites Checker Gramplet",
+"d": "Gramplet Kontrola n\u00e1le\u017eitost\u00ed",
 "v": "1.2.8",
 "g": "6.0",
 "s": 3,
@@ -1514,7 +1514,7 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "H\u013eada\u0165",
 "i": "Search Gramplet",
 "t": 10,
 "d": "Gramplet for search objects in database.",
@@ -1577,10 +1577,10 @@
 "h": "Addon:Rule_expansions#Active_Person"
 },
 {
-"n": "Families with events with a selected role",
+"n": "Rodiny s udalos\u0165ami s vybranou rolou",
 "i": "HasFamilyEventRole",
 "t": 13,
-"d": "Matches families with an event with a selected role",
+"d": "N\u00e1jde rodiny s udalos\u0165ou s vybranou rolou",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -1588,10 +1588,10 @@
 "h": "Addon:Rule_expansions#Families_with_Events_with_a_selected_role"
 },
 {
-"n": "People with events with a selected role",
+"n": "\u013dudia s udalos\u0165ami s vybranou rolou",
 "i": "HasPersonEventRole",
 "t": 13,
-"d": "Matches people with an event with a selected role",
+"d": "N\u00e1jde \u013eud\u00ed s udalos\u0165ou s vybranou rolou",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -1599,10 +1599,10 @@
 "h": "Addon:Rule_expansions#People_with_events_with_a_selected_role"
 },
 {
-"n": "Source matching parameters",
+"n": "Parametre pre vyh\u013ead\u00e1vanie zdrojov",
 "i": "HasSourceParameter",
 "t": 13,
-"d": "Matches Sources with values containing the chosen parameters",
+"d": "N\u00e1jde zdroje, ktor\u00fdch hodnoty obsahuj\u00fa zvolen\u00e9 parametre",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -1610,10 +1610,10 @@
 "h": "Addon:Rule_expansions#Source_matching_parameters"
 },
 {
-"n": "People related to <filter>",
+"n": "\u013dudia v pr\u00edbuzenskom vz\u0165ahu s <filter>",
 "i": "IsRelatedWithFilterMatch",
 "t": 13,
-"d": "Matches people who are related to anybody matched by a person filter",
+"d": "N\u00e1jde \u013eud\u00ed, ktor\u00ed s\u00fa v pr\u00edbuzenskom vz\u0165ahu s k\u00fdmko\u013evek, kto vyhovuje filtru os\u00f4b",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -1632,10 +1632,10 @@
 "h": "Addon:Rule_expansions#Matrilineal_progenitrix_of_.3Cperson.3E"
 },
 {
-"n": "Patrilineal progenitor of <person>",
+"n": "Patriline\u00e1rny predok osoby <person>",
 "i": "PatrilinealProgenitor",
 "t": 13,
-"d": "Matches the earliest recorded patrilineal ancestor father.",
+"d": "Zodpoved\u00e1 najstar\u0161iemu zaznamenan\u00e9mu otcovi predka v otcovskej l\u00ednii.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1643,10 +1643,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "People who are part of families matching <filter>",
+"n": "\u013dudia, ktor\u00ed s\u00fa s\u00fa\u010das\u0165ou rod\u00edn, ktor\u00e9 vyhovuj\u00fa filtru <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
-"d": "People who are part of families matching <filter>",
+"d": "\u013dudia, ktor\u00ed s\u00fa s\u00fa\u010das\u0165ou rod\u00edn, ktor\u00e9 vyhovuj\u00fa filtru <filter>",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1654,10 +1654,10 @@
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
-"n": "Filter people by their age at death",
+"n": "Filtrova\u0165 \u013eud\u00ed pod\u013ea ich veku v \u010dase \u00famrtia",
 "i": "ageatdeath",
 "t": 13,
-"d": "Filter rule that matches people by their age at death",
+"d": "Pravidlo filtra, ktor\u00e9 n\u00e1jde \u013eud\u00ed pod\u013ea ich veku v \u010dase \u00famrtia",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1665,10 +1665,10 @@
 "h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
-"n": "Match associations of <person filter>",
+"n": "N\u00e1jde asoci\u00e1cie osoby vyhovuj\u00facej filtru <person filter>",
 "i": "associationsofpersonmatch",
 "t": 13,
-"d": "Match associations of <person filter>",
+"d": "N\u00e1jde asoci\u00e1cie osoby vyhovuj\u00facej filtru <person filter>",
 "v": "1.0.15",
 "g": "6.0",
 "s": 3,
@@ -1676,10 +1676,10 @@
 "h": "Addon:Rule_expansions#Match_associations_of_.3Cperson_filter.3E"
 },
 {
-"n": "People separated less than <N> degrees of <person>",
+"n": "\u013dudia, ktor\u00ed s\u00fa vzdialen\u00ed menej ako <N> stup\u0148ov od osoby <person>",
 "i": "degreesofseparation",
 "t": 13,
-"d": "Filter rule that matches relatives by degrees of separation",
+"d": "Pravidlo filtra, ktor\u00e9 n\u00e1jde pr\u00edbuzn\u00fdch pod\u013ea stup\u0148a vzdialenosti",
 "v": "1.1.14",
 "g": "6.0",
 "s": 3,
@@ -1687,10 +1687,10 @@
 "h": "Addon:Rule_expansions#People_Separated_less_than_.3CN.3E_degrees_of_.3Cperson.3E"
 },
 {
-"n": "Families matching <event filter>",
+"n": "Rodiny, ktor\u00e9 vyhovuj\u00fa filtru <event filter>",
 "i": "familieswitheventfiltermatch",
 "t": 13,
-"d": "Matches families that are matched by an event filter",
+"d": "N\u00e1jde rodiny, ktor\u00e9 vyhovuj\u00fa filtru udalost\u00ed",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1698,10 +1698,10 @@
 "h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
-"n": "Events of families matching a <family filter>",
+"n": "Udalosti rod\u00edn, ktor\u00e9 vyhovuj\u00fa filtru <family filter>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
-"d": "Events of families matching a <family filter>",
+"d": "Udalosti rod\u00edn, ktor\u00e9 vyhovuj\u00fa filtru <family filter>",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -1709,10 +1709,10 @@
 "h": "Addon:Rule_expansions#Events_of_families_matching_a_.3Cfamily_filter.3E"
 },
 {
-"n": "Mitochondrial inheritance of <person>",
+"n": "Mitochondri\u00e1lne dedi\u010dstvo osoby <person>",
 "i": "mtinheritance",
 "t": 13,
-"d": "Matches recorded descendants of person following mitochondrial inheritance patterns.",
+"d": "Zhoduje sa so zaznamenan\u00fdmi potomkami osoby pod\u013ea vzorcov mitochondri\u00e1lnej dedi\u010dnosti.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1720,10 +1720,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "Mitochondrial inheritance of <filter>",
+"n": "Mitochondri\u00e1lna dedi\u010dnos\u0165 od <filter>",
 "i": "mtinheritanceoffiltermatch",
 "t": 13,
-"d": "Matches recorded descendants of a filter result following mitochondrial inheritance patterns.",
+"d": "Zodpoved\u00e1 zaznamenan\u00fdm potomkom v\u00fdsledku filtra pod\u013ea vzorcov mitochondri\u00e1lnej dedi\u010dnosti.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1731,10 +1731,10 @@
 "h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
-"n": "Multiple Parents Filter",
+"n": "Filter pre viacn\u00e1sobn\u00fdch rodi\u010dov",
 "i": "multipleparents",
 "t": 13,
-"d": "Multiple Parents Filter",
+"d": "Filter pre viacn\u00e1sobn\u00fdch rodi\u010dov",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1742,10 +1742,10 @@
 "h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
-"n": "People with <count> of <event>",
+"n": "\u013dudia s <count> udalos\u0165ami typu <event>",
 "i": "peopleeventscount",
 "t": 13,
-"d": "Matches persons which have events of given type and number.",
+"d": "N\u00e1jde osoby, ktor\u00e9 maj\u00fa udalosti dan\u00e9ho typu a po\u010dtu.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -1753,10 +1753,10 @@
 "h": "Addon:Rule_expansions#People_with_.3Ccount.3E_of_.3Cevent.3E"
 },
 {
-"n": "X-chromosomal ancestors of <person>",
+"n": "X-chromozom\u00e1lni predkovia osoby <person>",
 "i": "xchromancestors",
 "t": 13,
-"d": "Matches ancestors of <person> following a X-chromosomal inheritance pattern.",
+"d": "Zodpoved\u00e1 predkom osoby <person> pod\u013ea vzorca X-chromozom\u00e1lnej dedi\u010dnosti.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1764,10 +1764,10 @@
 "h": "Addon:Rule_expansions#X-chromosomal_ancestors_of_.3Cperson.3E"
 },
 {
-"n": "X-chromosomal descendants of <person>",
+"n": "X-chromozom\u00e1lni potomkovia osoby <person>",
 "i": "xchromdescendants",
 "t": 13,
-"d": "Matches descendants of <person> following a X-chromosomal inheritance pattern.",
+"d": "Zodpoved\u00e1 potomkom osoby <person> pod\u013ea vzorca X-chromozom\u00e1lnej dedi\u010dnosti.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1775,10 +1775,10 @@
 "h": "Addon:Rule_expansions#X-chromosomal_descendants_of_.3Cperson.3E"
 },
 {
-"n": "Y-chromosomal inheritance of <person>",
+"n": "Y-chromozom\u00e1lne dedi\u010dstvo osoby <person>",
 "i": "yinheritance",
 "t": 13,
-"d": "Matches recorded descendants of person following Y-chromosomal inheritance patterns.",
+"d": "Zhoduje sa so zaznamenan\u00fdmi potomkami osoby pod\u013ea vzorcov Y-chromozom\u00e1lnej dedi\u010dnosti.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1786,10 +1786,10 @@
 "h": "Addon:Rule_expansions#Y-chromosomal_inheritance_of_.3Cperson.3E"
 },
 {
-"n": "Y-chromosomal inheritance of <filter>",
+"n": "Y-chromozom\u00e1lna dedi\u010dnos\u0165 od <filter>",
 "i": "yinheritanceoffiltermatch",
 "t": 13,
-"d": "Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.",
+"d": "Zodpoved\u00e1 zaznamenan\u00fdm potomkom v\u00fdsledku filtra pod\u013ea vzorcov Y-chromozom\u00e1lnej dedi\u010dnosti.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,

@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Produces one or more descendant reports based on a supplied query.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -55,7 +55,7 @@
 "h": "Addon:DynamicWeb_report"
 },
 {
-"n": "Family Sheet",
+"n": "Fulla Familiar",
 "i": "FamilySheet",
 "t": 0,
 "d": "Produces a family sheet showing full information about a person and his/her partners and children.",
@@ -176,10 +176,10 @@
 "h": "Addon:RepositoriesReport#Repositories_Report_Options"
 },
 {
-"n": "Sources and Citations Report",
+"n": "Informe de fonts i citacions",
 "i": "SourcesCitationsReport",
 "t": 0,
-"d": "Provides a source and Citations Report with notes",
+"d": "Proporciona una font i un informe de citacions amb notes",
 "v": "3.6.15",
 "g": "6.0",
 "s": 3,
@@ -213,29 +213,29 @@
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Ancestral Fan Chart",
+"n": "Diagrama en ventall d\u2019avantpassats",
 "i": "d3-ancestralfanchart",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
-"v": "1.0.36",
+"d": "Genera una p\u00e0gina web amb una representaci\u00f3 gr\u00e0fica dels avantpassats (SVG) en forma de diagrama en ventall, utilitzant la biblioteca JavaScript D3.js.",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
-"n": "Descendant Indented Tree",
+"n": "Arbre de descendents amb sagnat",
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -257,7 +257,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
-"v": "2.3.48",
+"v": "2.3.50",
 "g": "6.0",
 "s": 3,
 "z": "DenominoViso.addon.tgz",
@@ -289,7 +289,7 @@
 "n": "Arbre d'Avantpassats",
 "i": "gt_ancestor",
 "t": 0,
-"d": "Ancestor tree using LaTeX genealogytree",
+"d": "Arbre d\u2019avantpassats utilitzant LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -301,7 +301,7 @@
 "n": "Arbre de Descendents",
 "i": "gt_descendant",
 "t": 0,
-"d": "Descendant tree using LaTeX genealogytree",
+"d": "Arbre de descendents utilitzant LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -310,10 +310,10 @@
 "a": 1
 },
 {
-"n": "Grandparent Tree",
+"n": "Arbre d\u2019avis",
 "i": "gt_grandparent",
 "t": 0,
-"d": "Grandparent tree using LaTeX genealogytree",
+"d": "Arbre d\u2019avis utilitzant LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -322,10 +322,10 @@
 "a": 1
 },
 {
-"n": "Sandclock Tree",
+"n": "Arbre de rellotge de sorra",
 "i": "gt_sandclock",
 "t": 0,
-"d": "Sandclock tree using LaTeX genealogytree",
+"d": "Arbre de rellotge de sorra utilitzant LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -334,10 +334,10 @@
 "a": 1
 },
 {
-"n": "Sandclock Tree for a Family",
+"n": "Arbre de rellotge de sorra per a una fam\u00edlia",
 "i": "gt_sandclock_family",
 "t": 0,
-"d": "Sandclock tree for a family using LaTeX genealogytree",
+"d": "Arbre de rellotge de sorra per a una fam\u00edlia utilitzant LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -438,7 +438,7 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "Editor de descripci\u00f3 d'esdeveniments",
 "i": "EventDescriptionEditor",
 "t": 2,
 "d": "A tool to find and replace a string in event description of multiple events.",
@@ -638,10 +638,10 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Merge Media",
+"n": "Combina els mitjans",
 "i": "mediamerge",
 "t": 2,
-"d": "Searches the entire database, looking for media that have the same path and merges them.",
+"d": "Cerca a tota la base de dades, buscant mitjans que tinguin el mateix cam\u00ed i els fusiona.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -787,10 +787,10 @@
 "a": 2
 },
 {
-"n": "Person GEXF",
+"n": "Persona GEXF",
 "i": "ex_person_gexf",
 "t": 4,
-"d": "GEXF is used in many network graph applications.",
+"d": "GEXF s\u2019utilitza en moltes aplicacions de gr\u00e0fics de xarxa.",
 "v": "1.0.3",
 "g": "6.0",
 "s": 2,
@@ -1379,14 +1379,14 @@
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
-"v": "0.1.14",
+"v": "0.1.15",
 "g": "6.0",
 "s": 3,
 "z": "LastChange.addon.tgz",
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media Browser",
+"n": "Navegador multim\u00e8dia",
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplet que mostra els detalls d'una persona",
@@ -1458,10 +1458,10 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Place Cleanup",
+"n": "Neteja Llocs",
 "i": "PlaceCleanup",
 "t": 10,
-"d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
+"d": "El Gramplet de Neteja de Llocs ajuda a combinar llocs, aix\u00ed com a completar llocs de la base de dades web de GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1503,7 +1503,7 @@
 "a": 2
 },
 {
-"n": "Related Relatives",
+"n": "Familiars relacionats",
 "i": "Related Relatives Gramplet",
 "t": 10,
 "d": "Gramplet showing relatives in a relation",
@@ -1566,10 +1566,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "La Persona activa",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "La Persona activa",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1577,10 +1577,10 @@
 "h": "Addon:Rule_expansions#Active_Person"
 },
 {
-"n": "Families with events with a selected role",
+"n": "Fam\u00edlies amb esdeveniments amb el rol seleccionat",
 "i": "HasFamilyEventRole",
 "t": 13,
-"d": "Matches families with an event with a selected role",
+"d": "Coincideix amb fam\u00edlies que tenen un esdeveniment amb el rol seleccionat",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -1588,10 +1588,10 @@
 "h": "Addon:Rule_expansions#Families_with_Events_with_a_selected_role"
 },
 {
-"n": "People with events with a selected role",
+"n": "Persones amb esdeveniments amb un rol seleccionat",
 "i": "HasPersonEventRole",
 "t": 13,
-"d": "Matches people with an event with a selected role",
+"d": "Coincideix amb persones que tenen un esdeveniment amb el rol seleccionat",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -1599,10 +1599,10 @@
 "h": "Addon:Rule_expansions#People_with_events_with_a_selected_role"
 },
 {
-"n": "Source matching parameters",
+"n": "Par\u00e0metres de coincid\u00e8ncia de la font",
 "i": "HasSourceParameter",
 "t": 13,
-"d": "Matches Sources with values containing the chosen parameters",
+"d": "Coincideix amb fonts que tenen valors que contenen els par\u00e0metres seleccionats",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -1610,10 +1610,10 @@
 "h": "Addon:Rule_expansions#Source_matching_parameters"
 },
 {
-"n": "People related to <filter>",
+"n": "Persones relacionades amb <filter>",
 "i": "IsRelatedWithFilterMatch",
 "t": 13,
-"d": "Matches people who are related to anybody matched by a person filter",
+"d": "Coincideix amb les persones que estan relacionades amb qualsevol persona que compleixi el filtre de persones",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -1643,10 +1643,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "People who are part of families matching <filter>",
+"n": "Persones que formen part de fam\u00edlies que coincideixen amb <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
-"d": "People who are part of families matching <filter>",
+"d": "Persones que formen part de fam\u00edlies que coincideixen amb <filter>",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1654,10 +1654,10 @@
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
-"n": "Filter people by their age at death",
+"n": "Filtra les persones per la seva edat en el moment de la mort",
 "i": "ageatdeath",
 "t": 13,
-"d": "Filter rule that matches people by their age at death",
+"d": "Regla de filtre que coincideix amb les persones segons la seva edat en el moment de la mort",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1665,10 +1665,10 @@
 "h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
-"n": "Match associations of <person filter>",
+"n": "Coincideix amb les associacions de <person filter>",
 "i": "associationsofpersonmatch",
 "t": 13,
-"d": "Match associations of <person filter>",
+"d": "Coincideix amb les associacions de <person filter>",
 "v": "1.0.15",
 "g": "6.0",
 "s": 3,
@@ -1676,10 +1676,10 @@
 "h": "Addon:Rule_expansions#Match_associations_of_.3Cperson_filter.3E"
 },
 {
-"n": "People separated less than <N> degrees of <person>",
+"n": "Persones separades menys de <N> graus de <person>",
 "i": "degreesofseparation",
 "t": 13,
-"d": "Filter rule that matches relatives by degrees of separation",
+"d": "Regla de filtre que coincideix amb parents segons els graus de separaci\u00f3",
 "v": "1.1.14",
 "g": "6.0",
 "s": 3,
@@ -1687,10 +1687,10 @@
 "h": "Addon:Rule_expansions#People_Separated_less_than_.3CN.3E_degrees_of_.3Cperson.3E"
 },
 {
-"n": "Families matching <event filter>",
+"n": "Fam\u00edlies que coincideixen amb <event filter>",
 "i": "familieswitheventfiltermatch",
 "t": 13,
-"d": "Matches families that are matched by an event filter",
+"d": "Coincideix amb les fam\u00edlies que compleixen un filtre d\u2019esdeveniments",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1698,10 +1698,10 @@
 "h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
-"n": "Events of families matching a <family filter>",
+"n": "Esdeveniments de fam\u00edlies que coincideixen amb un <family filter>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
-"d": "Events of families matching a <family filter>",
+"d": "Esdeveniments de fam\u00edlies que coincideixen amb un <family filter>",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -1731,10 +1731,10 @@
 "h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
-"n": "Multiple Parents Filter",
+"n": "Filtre de m\u00faltiples progenitors",
 "i": "multipleparents",
 "t": 13,
-"d": "Multiple Parents Filter",
+"d": "Filtre de m\u00faltiples progenitors",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1742,10 +1742,10 @@
 "h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
-"n": "People with <count> of <event>",
+"n": "Persones amb <count> de <event>",
 "i": "peopleeventscount",
 "t": 13,
-"d": "Matches persons which have events of given type and number.",
+"d": "Coincideix amb persones que tenen esdeveniments d\u2019un tipus i nombre determinats.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,

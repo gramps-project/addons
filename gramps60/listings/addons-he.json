@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Produces one or more descendant reports based on a supplied query.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -55,7 +55,7 @@
 "h": "Addon:DynamicWeb_report"
 },
 {
-"n": "Family Sheet",
+"n": "\u05d2\u05dc\u05d9\u05d5\u05df \u05de\u05e9\u05e4\u05d7\u05d4",
 "i": "FamilySheet",
 "t": 0,
 "d": "Produces a family sheet showing full information about a person and his/her partners and children.",
@@ -110,10 +110,10 @@
 "h": "Addon:Lines_of_Descendency_Report"
 },
 {
-"n": "Tiny Tafel",
+"n": "Liste Eclair",
 "i": "ListeEclair",
 "t": 0,
-"d": "Generates a tiny tafel",
+"d": "Produit une liste eclair",
 "v": "1.0.30",
 "g": "6.0",
 "s": 3,
@@ -179,7 +179,7 @@
 "n": "Sources and Citations Report",
 "i": "SourcesCitationsReport",
 "t": 0,
-"d": "Provides a source and Citations Report with notes",
+"d": "\u05de\u05e1\u05e4\u05e7 \u05d3\u05d5\u05d7 \u05de\u05e7\u05d5\u05e8 \u05d5\u05de\u05d1\u05d5\u05d0\u05d5\u05ea \u05e2\u05dd \u05d4\u05e2\u05e8\u05d5\u05ea",
 "v": "3.6.15",
 "g": "6.0",
 "s": 3,
@@ -198,7 +198,7 @@
 "h": "Addon:Timeline_Pedigree_Report"
 },
 {
-"n": "Todo Report",
+"n": "\u05d3\u05d5\u05d7 \u05de\u05e9\u05d9\u05de\u05d5\u05ea \u05dc\u05d1\u05d9\u05e6\u05d5\u05e2",
 "i": "TodoReport",
 "t": 0,
 "d": "Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.",
@@ -213,7 +213,7 @@
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -224,7 +224,7 @@
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -235,7 +235,7 @@
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -257,7 +257,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
-"v": "2.3.48",
+"v": "2.3.50",
 "g": "6.0",
 "s": 3,
 "z": "DenominoViso.addon.tgz",
@@ -286,7 +286,7 @@
 "h": "Addon:DoubleCousinReport"
 },
 {
-"n": "\u05d0\u05d9\u05dc\u05df \u05d0\u05b8\u05d1\u05d5\u05b9\u05ea \u05e7\u05b7\u05d3\u05de\u05d5\u05b9\u05e0\u05b4\u05d9\u05dd",
+"n": "\u05e2\u05e5 \u05d0\u05b8\u05d1\u05d5\u05b9\u05ea \u05e7\u05b7\u05d3\u05de\u05d5\u05b9\u05e0\u05b4\u05d9\u05dd",
 "i": "gt_ancestor",
 "t": 0,
 "d": "Ancestor tree using LaTeX genealogytree",
@@ -298,7 +298,7 @@
 "a": 1
 },
 {
-"n": "\u05d0\u05d9\u05dc\u05df\u05be\u05d9\u05d5\u05d7\u05e1\u05d9\u05df \u05e6\u05d0\u05e6\u05d0\u05d9\u05dd",
+"n": "\u05e2\u05e5 \u05e6\u05d0\u05e6\u05d0\u05d9\u05dd",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -346,10 +346,10 @@
 "a": 1
 },
 {
-"n": "Network Chart",
+"n": "\u05ea\u05e8\u05e9\u05d9\u05dd \u05e8\u05e9\u05ea",
 "i": "networkchart",
 "t": 0,
-"d": "Generates a family network chart.",
+"d": "\u05de\u05d9\u05d9\u05e6\u05e8 \u05ea\u05e8\u05e9\u05d9\u05dd \u05e7\u05e9\u05e8\u05d9 \u05de\u05e9\u05e4\u05d7\u05d4.",
 "v": "0.0.31",
 "g": "6.0",
 "s": 3,
@@ -361,7 +361,7 @@
 "a": 1
 },
 {
-"n": "Number of ancestors",
+"n": "\u05de\u05e1\u05e4\u05e8 \u05d0\u05d1\u05d5\u05ea \u05e7\u05d3\u05de\u05d5\u05e0\u05d9\u05dd",
 "i": "NumberOfAncestorsQuickview",
 "t": 1,
 "d": "Shows the number of ancestors of the current person",
@@ -438,7 +438,7 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "\u05e2\u05d5\u05e8\u05da \u05ea\u05d9\u05d0\u05d5\u05e8 \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd",
 "i": "EventDescriptionEditor",
 "t": 2,
 "d": "A tool to find and replace a string in event description of multiple events.",
@@ -472,7 +472,7 @@
 "a": 1
 },
 {
-"n": "Fix Place Coordinates",
+"n": "\u05ea\u05d9\u05e7\u05d5\u05df \u05e0\u05e7\u05d5\u05d3\u05d5\u05ea\u05be\u05e6\u05d9\u05d5\u05df \u05de\u05e7\u05d5\u05dd",
 "i": "FixCoords",
 "t": 2,
 "d": "Tool to correct the place coordinates for extra spaces or comma characters.",
@@ -516,7 +516,7 @@
 "h": "Addon:SetAttributeTool"
 },
 {
-"n": "Set Privacy Tool",
+"n": "\u05d4\u05d2\u05d3\u05e8\u05ea \u05db\u05dc\u05d9 \u05e4\u05e8\u05d8\u05d9\u05d5\u05ea",
 "i": "SetPrivacyTool",
 "t": 2,
 "d": "Set all objects of the last <number> of years private.",
@@ -660,7 +660,7 @@
 "h": "Addon:Media_Verify_Tool"
 },
 {
-"n": "Note Cleanup",
+"n": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05d4\u05e2\u05e8\u05d5\u05ea",
 "i": "notecleanup",
 "t": 2,
 "d": "Clean up Notes that contain HTML markup",
@@ -671,7 +671,7 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
-"n": "S3 Media Uploader",
+"n": "\u05de\u05e2\u05dc\u05d4 \u05de\u05d3\u05d9\u05d4 S3",
 "i": "s3uploader",
 "t": 2,
 "d": "Upload media files to S3 (or compatible) object-based storage via the command line.",
@@ -685,7 +685,7 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
-"n": "Sync Associations",
+"n": "\u05e1\u05d9\u05e0\u05db\u05e8\u05d5\u05df \u05ea\u05e1\u05de\u05d9\u05db\u05d9\u05dd",
 "i": "syncAssociations",
 "t": 2,
 "d": "Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.",
@@ -696,10 +696,10 @@
 "h": "Addon:SyncAssociation"
 },
 {
-"n": "Thumbnail Generator",
+"n": "\u05de\u05d7\u05d5\u05dc\u05dc \u05d3\u05d5\u05d2\u05de\u05d9\u05d5\u05ea",
 "i": "thumbgen",
 "t": 2,
-"d": "Generates thumbnails for media files",
+"d": "\u05d7\u05d9\u05dc\u05d5\u05dc \u05d3\u05d5\u05d2\u05de\u05d9\u05d5\u05ea \u05dc\u05e7\u05d5\u05d1\u05e6\u05d9 \u05de\u05d3\u05d9\u05d4",
 "v": "1.0.31",
 "g": "6.0",
 "s": 3,
@@ -707,7 +707,7 @@
 "h": "Addon:ThumbnailGenerator"
 },
 {
-"n": "Type Cleanup",
+"n": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05e1\u05d5\u05d2\u05d9\u05dd",
 "i": "typecleanup",
 "t": 2,
 "d": "Clean up (remove) custom types",
@@ -753,7 +753,7 @@
 "a": 1
 },
 {
-"n": "JSON Export",
+"n": "\u05d9\u05d9\u05e6\u05d5\u05d0 JSON",
 "i": "JSON Export",
 "t": 4,
 "d": "This is a JSON export",
@@ -764,7 +764,7 @@
 "h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
-"n": "Prolog Export",
+"n": "\u05d9\u05d9\u05e6\u05d5\u05d0 \u05e4\u05e8\u05d5\u05dc\u05d5\u05d2",
 "i": "Prolog Export",
 "t": 4,
 "d": "Exports data into a Prolog fact format.  Data is in Unicode (utf-8)",
@@ -775,7 +775,7 @@
 "h": "Output_formats#Prolog"
 },
 {
-"n": "Raw Export",
+"n": "\u05d9\u05d9\u05e6\u05d5\u05d0 \u05d2\u05d5\u05dc\u05de\u05d9",
 "i": "Raw Export",
 "t": 4,
 "d": "This is a raw python object dump",
@@ -799,7 +799,7 @@
 "a": 1
 },
 {
-"n": "SQLite Export",
+"n": "\u05d9\u05d9\u05e6\u05d5\u05d0 SQLite",
 "i": "ex_sqlite",
 "t": 4,
 "d": "SQLite is a common local database format",
@@ -958,7 +958,7 @@
 "n": "GoogleEarth",
 "i": "GoogleEarth",
 "t": 7,
-"d": "\u05de\u05d9\u05d9\u05e6\u05e8 \u05e7\u05d5\u05d1\u05e5 \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05e2\u05d1\u05d5\u05e8 GoogleEarth \u05d5\u05e4\u05d5\u05ea\u05d7 \u05d0\u05d5\u05ea\u05d5",
+"d": "Creates data file for GoogleEarth and opens it",
 "v": "1.0.53",
 "g": "6.0",
 "s": 3,
@@ -1150,7 +1150,7 @@
 "n": "Clock",
 "i": "Clock Gramplet",
 "t": 10,
-"d": "Gramplet for demonstrating Cairo graphics",
+"d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05d3\u05d2\u05de\u05ea \u05e2\u05e6\u05de\u05d9 Cairo",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -1170,10 +1170,10 @@
 "h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
-"n": "DNA Matches",
+"n": "\u05d4\u05ea\u05d0\u05de\u05d5\u05ea DNA",
 "i": "DNAMatches",
 "t": 10,
-"d": "Gramplet to display a list of DNA matches",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05e8\u05e9\u05d9\u05de\u05ea \u05d4\u05ea\u05d0\u05de\u05d5\u05ea DNA",
 "v": "2.0.4",
 "g": "6.0",
 "s": 3,
@@ -1184,7 +1184,7 @@
 "n": "DNA Segment Map",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05de\u05e4\u05ea \u05de\u05e7\u05d8\u05e2 DNA \u05ea\u05d5\u05d0\u05dd",
 "v": "2.0.13",
 "g": "6.0",
 "s": 3,
@@ -1229,7 +1229,7 @@
 "n": "Descendant Count",
 "i": "Descendant Count Gramplet",
 "t": 10,
-"d": "Gramplet for showing people and descendant counts",
+"d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05d0\u05e0\u05e9\u05d9\u05dd \u05d5\u05de\u05e1\u05e4\u05e8 \u05d3\u05d5\u05e8\u05d5\u05ea \u05d4\u05de\u05e9\u05da",
 "v": "2.0.16",
 "g": "6.0",
 "s": 3,
@@ -1240,7 +1240,7 @@
 "n": "\u05e2\u05e8\u05d9\u05db\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05be\u05e2\u05dc Exif \u05dc\u05ea\u05de\u05d5\u05e0\u05d4",
 "i": "Edit Image Exif Metadata",
 "t": 10,
-"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea, \u05e2\u05e8\u05d9\u05db\u05ea  \u05d9\u05e9\u05de\u05d9\u05e8\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05be\u05e2\u05dc Exif \u05dc\u05ea\u05de\u05d5\u05e0\u05d5\u05ea",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea, \u05e2\u05e8\u05d9\u05db\u05ea \u05d5\u05e9\u05de\u05d9\u05e8\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05be\u05e2\u05dc Exif \u05dc\u05ea\u05de\u05d5\u05e0\u05d5\u05ea",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1273,7 +1273,7 @@
 "n": "Family Overview",
 "i": "Family Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a family",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05ea\u05e7\u05e6\u05d9\u05e8 \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05dc\u05de\u05e9\u05e4\u05d7\u05d4",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1281,7 +1281,7 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Form Gramplet",
+"n": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05d8\u05e4\u05e1\u05d9\u05dd",
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
@@ -1330,7 +1330,7 @@
 "h": "Addon:GrampyScript"
 },
 {
-"n": "Headline News",
+"n": "\u05db\u05d5\u05ea\u05e8\u05d5\u05ea \u05d7\u05d3\u05e9\u05d5\u05ea",
 "i": "Headline News",
 "t": 10,
 "d": "Gramplet that shows the latest Gramps news",
@@ -1366,7 +1366,7 @@
 "n": "\u05d9\u05d9\u05d1\u05d5\u05d0 \u05de\u05dc\u05dc",
 "i": "Import Gramplet",
 "t": 10,
-"d": "Gramplet for importing text",
+"d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05d9\u05d9\u05d1\u05d5\u05d0 \u05de\u05dc\u05dc",
 "v": "1.0.45",
 "g": "6.0",
 "s": 3,
@@ -1379,14 +1379,14 @@
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "List the last ten person records that have been changed",
-"v": "0.1.14",
+"v": "0.1.15",
 "g": "6.0",
 "s": 3,
 "z": "LastChange.addon.tgz",
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "\u05d3\u05e4\u05d3\u05e4\u05df \u05e7\u05d1\u05e6\u05d9 \u05de\u05d3\u05d9\u05d4",
+"n": "\u05d3\u05e4\u05d3\u05e4\u05df \u05de\u05d3\u05d9\u05d4",
 "i": "MediaBrowser",
 "t": 10,
 "d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05e4\u05e8\u05d8\u05d9 \u05d0\u05d3\u05dd",
@@ -1397,10 +1397,10 @@
 "h": "Addon:MediaMerge"
 },
 {
-"n": "Note Gramplet",
+"n": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05d4\u05e2\u05e8\u05d5\u05ea",
 "i": "Note Gramplet",
 "t": 10,
-"d": "Gramplet for editing active person's notes",
+"d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05e2\u05e8\u05d9\u05db\u05ea \u05d4\u05e2\u05e8\u05d5\u05ea \u05d0\u05e0\u05e9\u05d9\u05dd \u05e4\u05e2\u05d9\u05dc\u05d9\u05dd",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1411,7 +1411,7 @@
 "n": "\u05de\u05e9\u05ea\u05ea\u05e4\u05d9\u05dd",
 "i": "Participants",
 "t": 10,
-"d": "Gramplet showing the participants in an event",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05de\u05e9\u05ea\u05ea\u05e4\u05d9\u05dd \u05d1\u05d0\u05d9\u05e8\u05d5\u05e2",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1422,7 +1422,7 @@
 "n": "Person Overview",
 "i": "Person Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a person",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05ea\u05e7\u05e6\u05d9\u05e8 \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05dc\u05d0\u05d3\u05dd",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1458,10 +1458,10 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "\u05d0\u05e8\u05d2\u05d5\u05df \u05de\u05e7\u05d5\u05de\u05d5\u05ea",
+"n": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05de\u05e7\u05d5\u05de\u05d5\u05ea",
 "i": "PlaceCleanup",
 "t": 10,
-"d": "\u05d0\u05e8\u05d2\u05d5\u05df\u05be\u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05e1\u05d9\u05d9\u05e2 \u05d1\u05de\u05d9\u05d6\u05d5\u05d2 \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05d5\u05d4\u05e9\u05dc\u05de\u05ea \u05ea\u05db\u05d5\u05e0\u05d5\u05ea \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05ea\u05d5\u05da \u05de\u05e1\u05d3\u05be\u05e0\u05ea\u05d5\u05e0\u05d9 \u05d4\u05de\u05e8\u05e9\u05ea\u05ea \u05e9\u05dc GeoNames",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05e9\u05d9\u05e7\u05d5\u05dd \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05e1\u05d9\u05d9\u05e2 \u05d1\u05de\u05d9\u05d6\u05d5\u05d2 \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05d5\u05d4\u05e9\u05dc\u05de\u05ea \u05ea\u05db\u05d5\u05e0\u05d5\u05ea \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05ea\u05d5\u05da \u05de\u05e1\u05d3\u05be\u05e0\u05ea\u05d5\u05e0\u05d9 \u05d4\u05de\u05e8\u05e9\u05ea\u05ea \u05e9\u05dc GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1494,7 +1494,7 @@
 "n": "Python Shell",
 "i": "Python Gramplet",
 "t": 10,
-"d": "Interactive Python interpreter",
+"d": "\u05de\u05e4\u05e2\u05e0\u05d7\u05ea \u05e4\u05d9\u05d9\u05ea\u05d5\u05df \u05d4\u05d3\u05d5\u05d3\u05d9\u05ea",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -1514,10 +1514,10 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "\u05d7\u05d9\u05e4\u05d5\u05e9",
 "i": "Search Gramplet",
 "t": 10,
-"d": "Gramplet for search objects in database.",
+"d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05d7\u05d9\u05e4\u05d5\u05e9 \u05e2\u05e6\u05de\u05d9\u05dd \u05de\u05d1\u05de\u05e1\u05d3 \u05d4\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
 "v": "0.0.2",
 "g": "6.0",
 "s": 1,
@@ -1566,10 +1566,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "\u05d4\u05d0\u05d3\u05dd \u05d4\u05e4\u05e2\u05d9\u05dc",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "\u05d4\u05d0\u05d3\u05dd \u05d4\u05e4\u05e2\u05d9\u05dc",
 "v": "0.0.13",
 "g": "6.0",
 "s": 3,
@@ -1588,7 +1588,7 @@
 "h": "Addon:Rule_expansions#Families_with_Events_with_a_selected_role"
 },
 {
-"n": "People with events with a selected role",
+"n": "\u05d0\u05d9\u05e8\u05d5\u05e2\u05dd \u05dc\u05d0\u05e0\u05e9\u05d9\u05dd \u05e2\u05dd \u05ea\u05e4\u05e7\u05d9\u05d3 \u05e9\u05e0\u05d1\u05d7\u05e8",
 "i": "HasPersonEventRole",
 "t": 13,
 "d": "Matches people with an event with a selected role",
@@ -1654,10 +1654,10 @@
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
-"n": "Filter people by their age at death",
+"n": "\u05e1\u05d9\u05e0\u05d5\u05df \u05d0\u05e0\u05e9\u05d9\u05dd \u05dc\u05e4\u05d9 \u05d2\u05d9\u05dc\u05dd \u05d1\u05e4\u05d8\u05d9\u05e8\u05ea\u05dd",
 "i": "ageatdeath",
 "t": 13,
-"d": "Filter rule that matches people by their age at death",
+"d": "\u05db\u05dc\u05dc \u05e1\u05d9\u05e0\u05d5\u05df \u05e9\u05de\u05ea\u05d0\u05d9\u05dd \u05dc\u05d0\u05e0\u05e9\u05d9\u05dd \u05dc\u05e4\u05d9 \u05d2\u05d9\u05dc\u05dd \u05d1\u05e4\u05d8\u05d9\u05e8\u05ea\u05dd",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,

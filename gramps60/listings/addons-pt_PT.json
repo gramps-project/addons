@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Produz um ou mais relat\u00f3rios de descend\u00eancia baseados numa consulta fornecida.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Produz um ou mais relat\u00f3rios de descend\u00eancia detalhada baseados numa consulta fornecida.",
-"v": "1.1.30",
+"v": "1.1.32",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Mapa t\u00e9rmico",
+"n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
@@ -187,7 +187,7 @@
 "h": "Addon:SourcesCitationsReport"
 },
 {
-"n": "Timeline Pedigree Report",
+"n": "Relat\u00f3rio Cronologia de costados",
 "i": "TimePedigreeHTML",
 "t": 0,
 "d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
@@ -213,7 +213,7 @@
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Gera uma p\u00e1gina \u201cweb\u201d com uma representa\u00e7\u00e3o gr\u00e1fica de ascendentes (SVG) representada como \u00e1rvore colaps\u00e1vel da biblioteca JavaScript D3 js.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -224,7 +224,7 @@
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Gera uma p\u00e1gina \u201cweb\u201d com uma representa\u00e7\u00e3o gr\u00e1fica de ascendentes (SVG) representada como leque, da biblioteca JavaScript D3 js.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -235,7 +235,7 @@
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Gera uma p\u00e1gina \u201cweb\u201d com uma representa\u00e7\u00e3o gr\u00e1fica de descendentes (SVG) representada como \u00e1rvore indentada colaps\u00e1vel, da biblioteca JavaScript D3.js.",
-"v": "1.0.36",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -257,7 +257,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Gera uma p\u00e1gina \u201cweb\u201d com uma representa\u00e7\u00e3o gr\u00e1fica de ascendentes/descendentes (SVG) onde detalhes individuais se tornam vis\u00edveis com eventos do rato.",
-"v": "2.3.48",
+"v": "2.3.50",
 "g": "6.0",
 "s": 3,
 "z": "DenominoViso.addon.tgz",
@@ -361,10 +361,10 @@
 "a": 1
 },
 {
-"n": "Number of ancestors",
+"n": "N\u00famero de ascendentes",
 "i": "NumberOfAncestorsQuickview",
 "t": 1,
-"d": "Shows the number of ancestors of the current person",
+"d": "Mostra o n\u00famero de ascendentes do indiv\u00edduo actual",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -438,10 +438,10 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "Editor de descri\u00e7\u00f5es de eventos",
 "i": "EventDescriptionEditor",
 "t": 2,
-"d": "A tool to find and replace a string in event description of multiple events.",
+"d": "Uma ferramenta de procura e substitui\u00e7\u00e3o de cadeias nas descri\u00e7\u00f5es de m\u00faltiplos eventos.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -449,10 +449,10 @@
 "h": "Addon:EventDescriptionEditor"
 },
 {
-"n": "Family Relationship Tool",
+"n": "Ferramenta de rela\u00e7\u00f5es familiares",
 "i": "FamilyRelationshipTool",
 "t": 2,
-"d": "Mass-edit the family relationship type for a group of families.",
+"d": "Editar em massa o tipo de rela\u00e7\u00e3o familiar para um grupo de fam\u00edlias.",
 "v": "1.1.11",
 "g": "6.0",
 "s": 3,
@@ -460,10 +460,10 @@
 "h": "Addon:FamilyRelationship"
 },
 {
-"n": "FamilyTree DNA",
+"n": "ADN FamilyTree",
 "i": "FamilyTree DNA Import Gramplet",
 "t": 2,
-"d": "Tool to import FamilyFinder DNA data from Family Tree",
+"d": "Ferramenta para importar dados do Family Tree, ADN FamilyFinder",
 "v": "1.0.33",
 "g": "6.0",
 "s": 3,
@@ -472,7 +472,7 @@
 "a": 1
 },
 {
-"n": "Fix Place Coordinates",
+"n": "Reparar coordenadas de locais",
 "i": "FixCoords",
 "t": 2,
 "d": "Tool to correct the place coordinates for extra spaces or comma characters.",
@@ -616,7 +616,7 @@
 "h": "Addon:Extract_Place_Data_from_a_Place_Title"
 },
 {
-"n": "Gramps Web Sync",
+"n": "Sincroniza\u00e7\u00e3o \"web\" do Gramps",
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Synchronizes a local database with a Gramps Web instance.",
@@ -671,10 +671,10 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
-"n": "S3 Media Uploader",
+"n": "Envio de multim\u00e9dia S3",
 "i": "s3uploader",
 "t": 2,
-"d": "Upload media files to S3 (or compatible) object-based storage via the command line.",
+"d": "Enviar ficheiros multim\u00e9dia para o armazenamento baseado em objectos S3 (ou compat\u00edvel) atrav\u00e9s da linha de comandos.",
 "v": "0.1.11",
 "g": "6.0",
 "s": 3,
@@ -685,10 +685,10 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
-"n": "Sync Associations",
+"n": "Sincronizar associa\u00e7\u00f5es",
 "i": "syncAssociations",
 "t": 2,
-"d": "Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.",
+"d": "Percorre a lista de indiv\u00edduos para todas as associa\u00e7\u00f5es bidireccionais e adiciona todas as que est\u00e3o em falta ao indiv\u00edduo associado.",
 "v": "0.0.14",
 "g": "6.0",
 "s": 3,
@@ -787,10 +787,10 @@
 "a": 2
 },
 {
-"n": "Person GEXF",
+"n": "Indiv\u00edduo GEXF",
 "i": "ex_person_gexf",
 "t": 4,
-"d": "GEXF is used in many network graph applications.",
+"d": "O GEXF \u00e9 usado em muitas aplica\u00e7\u00f5es de gr\u00e1ficos em rede.",
 "v": "1.0.3",
 "g": "6.0",
 "s": 2,
@@ -855,10 +855,10 @@
 "h": "Addon:Plugin_ManagerV2"
 },
 {
-"n": "RU Web Connect Pack",
+"n": "Pacote Internet para RU",
 "i": "RU Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the RU (requires libwebconnect)",
+"d": "Colec\u00e7\u00e3o de p\u00e1ginas web para a R\u00fassia (requer libwebconnect)",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -877,10 +877,10 @@
 "h": "Addon:RestartWhereYouWereLastWorking"
 },
 {
-"n": "SV Web Connect Pack",
+"n": "Pacote Internet para SV",
 "i": "SV Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for Sweden (requires libwebconnect)",
+"d": "Colec\u00e7\u00e3o de p\u00e1ginas web para a Su\u00e9cia (requer libwebconnect)",
 "v": "1.0.6",
 "g": "6.0",
 "s": 3,
@@ -899,10 +899,10 @@
 "h": "Addon:ThemePreferences"
 },
 {
-"n": "UA Web Connect Pack",
+"n": "Pacote Internet do UA",
 "i": "UA Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the UA (requires libwebconnect)",
+"d": "Colec\u00e7\u00e3o de p\u00e1ginas \u201cweb\u201d para o UA (requer libwebconnect)",
 "v": "1.0.1",
 "g": "6.0",
 "s": 3,
@@ -1000,10 +1000,10 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Combined",
+"n": "Combinada",
 "i": "combinedview",
 "t": 8,
-"d": "A view showing relationships and events for a person",
+"d": "Uma vista que mostra parentescos e eventos de um dado indiv\u00edduo",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1028,10 +1028,10 @@
 "h": "Addon:PlaceCoordinatesGramplet#Additional_geography_view_with_a_context_menu"
 },
 {
-"n": "Ancestors map",
+"n": "Mapa de ascendentes",
 "i": "geoancestor",
 "t": 8,
-"d": "A view showing ancestors places on the map.",
+"d": "Uma vista que mostra os locais dos ascendentes no mapa.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1045,7 +1045,7 @@
 "h": "Addon:AncestorsMap"
 },
 {
-"n": "TimeLines Map",
+"n": "Mapa de cronologias",
 "i": "geotimelines",
 "t": 8,
 "d": "A view showing all the places visited by a person or persons on various date.",
@@ -1083,10 +1083,10 @@
 "h": "Addon:Graph_View"
 },
 {
-"n": "Life Line Ancestor Chart",
+"n": "Mapa de ascendentes da cronologia",
 "i": "lifelinechartancestorview",
 "t": 8,
-"d": "Persons and their relation in a time based chart",
+"d": "Indiv\u00edduos e suas rela\u00e7\u00f5es num gr\u00e1fico baseado no tempo",
 "v": "1.3.26",
 "g": "6.0",
 "s": 3,
@@ -1098,10 +1098,10 @@
 "h": "Addon:Life_Line_Chart_View"
 },
 {
-"n": "Life Line Descendant Chart",
+"n": "Mapa de descendentes da cronologia",
 "i": "lifelinechartdescendantview",
 "t": 8,
-"d": "Persons and their relation in a time based chart",
+"d": "Indiv\u00edduos e suas rela\u00e7\u00f5es num gr\u00e1fico baseado no tempo",
 "v": "1.3.26",
 "g": "6.0",
 "s": 3,
@@ -1124,10 +1124,10 @@
 "h": "AnniversariesGramplet"
 },
 {
-"n": "Beta What's Next",
+"n": "O que se segue Beta",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "Gramplet em teste, sugerindo itens a investigar",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1170,10 +1170,10 @@
 "h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
-"n": "DNA Matches",
+"n": "Resultados ADN",
 "i": "DNAMatches",
 "t": 10,
-"d": "Gramplet to display a list of DNA matches",
+"d": "Gramplet para mostrar uma lista de resultados de ADN",
 "v": "2.0.4",
 "g": "6.0",
 "s": 3,
@@ -1184,7 +1184,7 @@
 "n": "DNA Segment Map",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
+"d": "Gramplet que mostra um mapa de segmentos ADN correspondentes",
 "v": "2.0.13",
 "g": "6.0",
 "s": 3,
@@ -1341,10 +1341,10 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "Conte\u00fado hist\u00f3rico",
 "i": "HistContext",
 "t": 10,
-"d": "Lists relevant historical events during the lifetime of a Person",
+"d": "Lista eventos hist\u00f3ricos relevantes durante a vida do indiv\u00edduo",
 "v": "0.2.29",
 "g": "6.0",
 "s": 3,
@@ -1379,7 +1379,7 @@
 "i": "LastChangeGramplet",
 "t": 10,
 "d": "Lista os \u00faltimos dez registos individuais que foram alterados",
-"v": "0.1.14",
+"v": "0.1.15",
 "g": "6.0",
 "s": 3,
 "z": "LastChange.addon.tgz",
@@ -1441,7 +1441,7 @@
 "h": "Addon:Photo_Tagging_Gramplet"
 },
 {
-"n": "Place and Coordinates",
+"n": "Locais e coordenadas",
 "i": "Place Coordinates",
 "t": 10,
 "d": "Gramplet that simplifies setting the coordinates of a place",
@@ -1469,7 +1469,7 @@
 "h": "Addon:PlaceCleanup"
 },
 {
-"n": "PlaceUpdate",
+"n": "Actualizar local",
 "i": "PlaceUpdate",
 "t": 10,
 "d": "Gramplet to manipulate multiple places",
@@ -1514,10 +1514,10 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "Procurar",
 "i": "Search Gramplet",
 "t": 10,
-"d": "Gramplet for search objects in database.",
+"d": "Gramplet para procurar objectos na base de dados.",
 "v": "0.0.2",
 "g": "6.0",
 "s": 1,
@@ -1621,10 +1621,10 @@
 "h": "Addon:Rule_expansions#People_related_to_.3Cfilter.3E"
 },
 {
-"n": "Matrilineal progenitrix of <person>",
+"n": "Progenitora matrilinear de <indiv\u00edduo>",
 "i": "MatrilinealProgenitrix",
 "t": 13,
-"d": "Matches the earliest recorded matrilineal ancestor mother.",
+"d": "Encontra o ascendente materno matrilinear mais antigo registado.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1632,10 +1632,10 @@
 "h": "Addon:Rule_expansions#Matrilineal_progenitrix_of_.3Cperson.3E"
 },
 {
-"n": "Patrilineal progenitor of <person>",
+"n": "Progenitor patrilinear de <indiv\u00edduo>",
 "i": "PatrilinealProgenitor",
 "t": 13,
-"d": "Matches the earliest recorded patrilineal ancestor father.",
+"d": "Encontra o ascendente paterno patrilinear mais antigo registado.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1709,10 +1709,10 @@
 "h": "Addon:Rule_expansions#Events_of_families_matching_a_.3Cfamily_filter.3E"
 },
 {
-"n": "Mitochondrial inheritance of <person>",
+"n": "Heran\u00e7a mitocondrial de <indiv\u00edduo>",
 "i": "mtinheritance",
 "t": 13,
-"d": "Matches recorded descendants of person following mitochondrial inheritance patterns.",
+"d": "Encontra descendentes registados de <indiv\u00edduo> que seguem os padr\u00f5es de heran\u00e7a mitocondrial.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1720,10 +1720,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "Mitochondrial inheritance of <filter>",
+"n": "Heran\u00e7a mitocondrial de <filtro>",
 "i": "mtinheritanceoffiltermatch",
 "t": 13,
-"d": "Matches recorded descendants of a filter result following mitochondrial inheritance patterns.",
+"d": "Encontra descendentesde <filtro> de acordo com os padr\u00f5es de heran\u00e7a mitocondrial.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1753,10 +1753,10 @@
 "h": "Addon:Rule_expansions#People_with_.3Ccount.3E_of_.3Cevent.3E"
 },
 {
-"n": "X-chromosomal ancestors of <person>",
+"n": "Ascendentes cromoss\u00f3micos X de <indiv\u00edduo>",
 "i": "xchromancestors",
 "t": 13,
-"d": "Matches ancestors of <person> following a X-chromosomal inheritance pattern.",
+"d": "Encontra ascendentes de <indiv\u00edduo> que seguem um padr\u00e3o de hereditariedade do cromossoma X.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1764,10 +1764,10 @@
 "h": "Addon:Rule_expansions#X-chromosomal_ancestors_of_.3Cperson.3E"
 },
 {
-"n": "X-chromosomal descendants of <person>",
+"n": "Descendentes cromossoma-X de <indiv\u00edduo>",
 "i": "xchromdescendants",
 "t": 13,
-"d": "Matches descendants of <person> following a X-chromosomal inheritance pattern.",
+"d": "Encontra descendentes de <indiv\u00edduo> que seguem um padr\u00e3o de heran\u00e7a do cromossoma X.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1775,10 +1775,10 @@
 "h": "Addon:Rule_expansions#X-chromosomal_descendants_of_.3Cperson.3E"
 },
 {
-"n": "Y-chromosomal inheritance of <person>",
+"n": "Heran\u00e7a cromoss\u00f3mica Y de <indiv\u00edduo>",
 "i": "yinheritance",
 "t": 13,
-"d": "Matches recorded descendants of person following Y-chromosomal inheritance patterns.",
+"d": "Encontra descendentes registados de <indiv\u00edduo> que seguem os padr\u00f5es de heran\u00e7a do cromossoma Y.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1786,10 +1786,10 @@
 "h": "Addon:Rule_expansions#Y-chromosomal_inheritance_of_.3Cperson.3E"
 },
 {
-"n": "Y-chromosomal inheritance of <filter>",
+"n": "Heran\u00e7a cromoss\u00f3mica Y de <filtro>",
 "i": "yinheritanceoffiltermatch",
 "t": 13,
-"d": "Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.",
+"d": "Encontra descendentes de <filtro> que seguem padr\u00f5es de heran\u00e7a cromoss\u00f3mica Y.",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
