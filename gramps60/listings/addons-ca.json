@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "Mapa de calor",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
@@ -948,7 +948,7 @@
 "i": "libwebconnect",
 "t": 6,
 "d": "Library for web site collections",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.0",
 "s": 3,
 "z": "libwebconnect.addon.tgz",
