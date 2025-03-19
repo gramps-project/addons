@@ -1556,7 +1556,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Gemeinsame PostgreSQL-Datenbank",
-"v": "0.1.11",
+"v": "0.1.12",
 "g": "6.0",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
