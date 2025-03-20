@@ -289,7 +289,7 @@
 "n": "Drzewo przodk\u00f3w",
 "i": "gt_ancestor",
 "t": 0,
-"d": "Ancestor tree using LaTeX genealogytree",
+"d": "Drzewo przodk\u00f3w przy u\u017cyciu LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -301,7 +301,7 @@
 "n": "Drzewo potomk\u00f3w",
 "i": "gt_descendant",
 "t": 0,
-"d": "Descendant tree using LaTeX genealogytree",
+"d": "Drzewo potomk\u00f3w przy u\u017cyciu LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -310,7 +310,7 @@
 "a": 1
 },
 {
-"n": "Grandparent Tree",
+"n": "Drzewo dziadk\u00f3w",
 "i": "gt_grandparent",
 "t": 0,
 "d": "Grandparent tree using LaTeX genealogytree",
@@ -638,10 +638,10 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Merge Media",
+"n": "Po\u0142\u0105cz media",
 "i": "mediamerge",
 "t": 2,
-"d": "Searches the entire database, looking for media that have the same path and merges them.",
+"d": "Przeszukuje ca\u0142\u0105 baz\u0119 danych w poszukiwaniu multimedi\u00f3w o tej samej \u015bcie\u017cce i \u0142\u0105czy je.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1163,7 +1163,7 @@
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.46",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1386,7 +1386,7 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media Browser",
+"n": "Przegl\u0105darka multimedi\u00f3w",
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplet pokazuj\u0105cy szczeg\u00f3\u0142y aktywnej osoby",
@@ -1419,10 +1419,10 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Person Overview",
+"n": "Przegl\u0105d osoby",
 "i": "Person Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a person",
+"d": "Gramplet pokazuj\u0105cy przegl\u0105d zdarze\u0144 dla danej osoby",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,

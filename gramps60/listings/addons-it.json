@@ -641,7 +641,7 @@
 "n": "Fondi oggetti multimediali",
 "i": "mediamerge",
 "t": 2,
-"d": "Searches the entire database, looking for media that have the same path and merges them.",
+"d": "Cerca in tutto il database, controllando e unendo i media che hanno lo stesso path.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1163,7 +1163,7 @@
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.46",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1386,7 +1386,7 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media Browser",
+"n": "Browser dei media",
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplet che mostra i dettagli di una persona",
