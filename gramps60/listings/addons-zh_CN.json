@@ -66,7 +66,7 @@
 "h": "Addon:Family_Sheet"
 },
 {
-"n": "\u5bb6\u8c31",
+"n": "\u5bb6\u65cf\u6811",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -1535,6 +1535,28 @@
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",
 "h": "This Day In Family History"
+},
+{
+"n": "etree",
+"i": "etree Gramplet",
+"t": 10,
+"d": "Gramplet for testing etree with Gramps XML",
+"v": "1.0.21",
+"g": "6.0",
+"s": 1,
+"z": "lxml.addon.tgz",
+"a": 2
+},
+{
+"n": "lxml",
+"i": "lxml Gramplet",
+"t": 10,
+"d": "Gramplet for testing lxml and XSLT",
+"v": "1.0.24",
+"g": "6.0",
+"s": 1,
+"z": "lxml.addon.tgz",
+"a": 2
 },
 {
 "n": "PostgreSQL",

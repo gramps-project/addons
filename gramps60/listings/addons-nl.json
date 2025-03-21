@@ -1537,6 +1537,28 @@
 "h": "This Day In Family History"
 },
 {
+"n": "etree",
+"i": "etree Gramplet",
+"t": 10,
+"d": "Gramplet voor het testen van etree met Gramps XML",
+"v": "1.0.21",
+"g": "6.0",
+"s": 1,
+"z": "lxml.addon.tgz",
+"a": 2
+},
+{
+"n": "lxml",
+"i": "lxml Gramplet",
+"t": 10,
+"d": "Gramplet voor het testen van lxml en XSLT",
+"v": "1.0.24",
+"g": "6.0",
+"s": 1,
+"z": "lxml.addon.tgz",
+"a": 2
+},
+{
 "n": "PostgreSQL",
 "i": "postgresql",
 "t": 12,

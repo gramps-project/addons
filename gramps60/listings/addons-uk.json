@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "\u0422\u0435\u043f\u043b\u043e\u0432\u0430 \u043a\u0430\u0440\u0442\u0430",
+"n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
 "d": "\u0421\u0442\u0432\u043e\u0440\u0438\u0442\u0438 \u0432\u0435\u0431-\u0437\u0432\u0456\u0442 \u0442\u0435\u043f\u043b\u043e\u0432\u043e\u0457 \u043c\u0430\u043f\u0438 (Heatmap).",
@@ -1535,6 +1535,28 @@
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",
 "h": "This Day In Family History"
+},
+{
+"n": "etree",
+"i": "etree Gramplet",
+"t": 10,
+"d": "Gramplet \u0434\u043b\u044f \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f etree \u0437 Gramps XML",
+"v": "1.0.21",
+"g": "6.0",
+"s": 1,
+"z": "lxml.addon.tgz",
+"a": 2
+},
+{
+"n": "lxml",
+"i": "lxml Gramplet",
+"t": 10,
+"d": "Gramplet \u0434\u043b\u044f \u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u044f lxml \u0442\u0430 XSLT",
+"v": "1.0.24",
+"g": "6.0",
+"s": 1,
+"z": "lxml.addon.tgz",
+"a": 2
 },
 {
 "n": "PostgreSQL",
