@@ -1402,6 +1402,17 @@
 "h": "This Day In Family History"
 },
 {
+"n": "WebSearch",
+"i": "WebSearch",
+"t": 10,
+"d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
+"v": "0.43.28",
+"g": "5.2",
+"s": 3,
+"z": "WebSearch.addon.tgz",
+"h": "Addon:WebSearch"
+},
+{
 "n": "PostgreSQL",
 "i": "postgresql",
 "t": 12,
