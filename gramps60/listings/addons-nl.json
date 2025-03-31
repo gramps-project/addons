@@ -1540,7 +1540,7 @@
 "n": "WebSearch",
 "i": "WebSearch",
 "t": 10,
-"d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
+"d": "Aangepaste zoekopdrachten voor online diensten op basis van de actieve persoons-, plaats-, familie- of bronrecord",
 "v": "0.43.28",
 "g": "6.0",
 "s": 3,
@@ -1552,10 +1552,11 @@
 "i": "etree Gramplet",
 "t": 10,
 "d": "Gramplet voor het testen van etree met Gramps XML",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.0",
 "s": 1,
 "z": "lxml.addon.tgz",
+"h": "https://gramps-project.org/wiki/index.php/Addon:Lxml_Gramplet",
 "a": 2
 },
 {
@@ -1563,10 +1564,11 @@
 "i": "lxml Gramplet",
 "t": 10,
 "d": "Gramplet voor het testen van lxml en XSLT",
-"v": "1.0.25",
+"v": "1.1.1",
 "g": "6.0",
 "s": 1,
 "z": "lxml.addon.tgz",
+"h": "https://gramps-project.org/wiki/index.php/Addon:Lxml_Gramplet",
 "a": 2
 },
 {
