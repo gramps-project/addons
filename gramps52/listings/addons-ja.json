@@ -1237,11 +1237,11 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Lists the Residents of an Address by Timeline",
-"v": "1.0.13",
+"v": "1.0.15",
 "g": "5.2",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",
-"h": "House_Timeline_Gramplet"
+"h": "Addon:House_Timeline_Gramplet"
 },
 {
 "n": "\u30c6\u30ad\u30b9\u30c8\u3092\u30a4\u30f3\u30dd\u30fc\u30c8\u3059\u308b",

@@ -1237,11 +1237,11 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Geeft de bewoners van een adres per tijdlijn weer",
-"v": "1.0.13",
+"v": "1.0.15",
 "g": "5.2",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",
-"h": "House_Timeline_Gramplet"
+"h": "Addon:House_Timeline_Gramplet"
 },
 {
 "n": "Importeer tekst",
