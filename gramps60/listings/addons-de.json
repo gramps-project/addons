@@ -1537,11 +1537,11 @@
 "h": "This Day In Family History"
 },
 {
-"n": "WebSuche",
+"n": "WebSearch",
 "i": "WebSearch",
 "t": 10,
-"d": "Benutzerdefinierte Abfragen f\u00fcr Online-Dienste auf der Grundlage des aktiven Personen-, Orts-, Familien- oder Quellendatensatzes",
-"v": "0.58.41",
+"d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
+"v": "0.60.42",
 "g": "6.0",
 "s": 3,
 "z": "WebSearch.addon.tgz",
