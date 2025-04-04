@@ -1402,11 +1402,11 @@
 "h": "This Day In Family History"
 },
 {
-"n": "Procurar na web",
+"n": "WebSearch",
 "i": "WebSearch",
 "t": 10,
-"d": "Consultas personalizadas para servi\u00e7os em rede com base no registo activo de Indiv\u00edduo, Local, Fam\u00edlia ou Fonte",
-"v": "0.58.41",
+"d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
+"v": "0.60.42",
 "g": "5.2",
 "s": 3,
 "z": "WebSearch.addon.tgz",
