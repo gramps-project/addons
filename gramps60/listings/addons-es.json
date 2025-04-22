@@ -213,7 +213,7 @@
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -224,7 +224,7 @@
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -235,7 +235,7 @@
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -638,10 +638,10 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Merge Media",
+"n": "Fusionar objetos audiovisuales",
 "i": "mediamerge",
 "t": 2,
-"d": "Searches the entire database, looking for media that have the same path and merges them.",
+"d": "Buscar en toda la base de datos, identificando los objetos audiovisuales que tienen la misma ruta y unificarlos.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -1386,7 +1386,7 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media Browser",
+"n": "Navegador de medios",
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplete que muestra los detalles de una persona",

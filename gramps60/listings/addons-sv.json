@@ -213,7 +213,7 @@
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Skapar en webbsida med en grafiskt antavla (SVG) som ett hopf\u00e4llbart tr\u00e4d med hj\u00e4lp av D3,js javaskript-bibliotek.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -224,7 +224,7 @@
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Skapar en webbsida med en grafiskt antavla (SVG) som ett cirkeldiagram med hj\u00e4lp av D3,js javaskript-bibliotek.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -235,7 +235,7 @@
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Skapar en webbsida med en grafiskt \u00e4ttlingatavla (SVG) som ett hopf\u00e4llbart indraget tr\u00e4d med hj\u00e4lp av D3,js javaskript-bibliotek.",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "D3Charts.addon.tgz",
@@ -1159,7 +1159,7 @@
 "a": 2
 },
 {
-"n": "Collections Clipboard",
+"n": "Samlingar urklipp",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
@@ -1526,10 +1526,10 @@
 "a": 1
 },
 {
-"n": "This Day in Family History",
+"n": "Denna dag i sl\u00e4kthistorien",
 "i": "This Day in Family History",
 "t": 10,
-"d": "A configurable program that shows you the connected events from your family tree that match today's day and month.",
+"d": "Ett konfigurerbart program som visar kopplade h\u00e4ndelser fr\u00e5n ditt sl\u00e4kttr\u00e4d som matchar dagens dag och m\u00e5nad.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1537,7 +1537,7 @@
 "h": "This Day In Family History"
 },
 {
-"n": "WebSearch",
+"n": "Webbs\u00f6kning",
 "i": "WebSearch",
 "t": 10,
 "d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
