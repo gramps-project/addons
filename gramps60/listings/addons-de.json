@@ -1541,7 +1541,7 @@
 "i": "WebSearch",
 "t": 10,
 "d": "Benutzerdefinierte Abfragen f\u00fcr Online-Dienste auf der Grundlage des aktiven Personen-, Orts-, Familien- oder Quellendatensatzes",
-"v": "0.60.42",
+"v": "0.81.74",
 "g": "6.0",
 "s": 3,
 "z": "WebSearch.addon.tgz",
