@@ -461,10 +461,10 @@
 },
 {
 "n": "\u5bb6\u7cfb\u56f3 DNA",
-"i": "FamilyTree DNA Import Gramplet",
+"i": "FamilyTree DNA Import Tool",
 "t": 2,
 "d": "\u5bb6\u7cfb\u56f3\u304b\u3089FamilyFinder DNA\u30c7\u30fc\u30bf\u3092\u30a4\u30f3\u30dd\u30fc\u30c8\u3059\u308b\u30c4\u30fc\u30eb",
-"v": "1.0.33",
+"v": "1.0.34",
 "g": "6.0",
 "s": 3,
 "z": "FamilyTreeDNA.addon.tgz",

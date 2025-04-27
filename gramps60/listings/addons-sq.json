@@ -461,10 +461,10 @@
 },
 {
 "n": "FamilyTree DNA",
-"i": "FamilyTree DNA Import Gramplet",
+"i": "FamilyTree DNA Import Tool",
 "t": 2,
 "d": "Tool to import FamilyFinder DNA data from Family Tree",
-"v": "1.0.33",
+"v": "1.0.34",
 "g": "6.0",
 "s": 3,
 "z": "FamilyTreeDNA.addon.tgz",
