@@ -191,8 +191,8 @@
 "i": "TimePedigreeHTML",
 "t": 0,
 "d": "Erstellt eine HTML-Webseite, die mithilfe von JavaScript ein vertikal nach Geburtsdatum angeordnetes Ahnentafel-Blockdiagramm anzeigt",
-"v": "0.0.10",
-"g": "6.0",
+"v": "0.0.11",
+"g": "5.2",
 "s": 3,
 "z": "TimePedigreeHTML.addon.tgz",
 "h": "Addon:Timeline_Pedigree_Report"

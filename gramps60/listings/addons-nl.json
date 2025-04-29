@@ -191,8 +191,8 @@
 "i": "TimePedigreeHTML",
 "t": 0,
 "d": "Maakt een HTML-webpagina die JavaScript gebruikt om een blokdiagram van een stamboom weer te geven dat verticaal is gerangschikt op geboortedatum",
-"v": "0.0.10",
-"g": "6.0",
+"v": "0.0.11",
+"g": "5.2",
 "s": 3,
 "z": "TimePedigreeHTML.addon.tgz",
 "h": "Addon:Timeline_Pedigree_Report"
