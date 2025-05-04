@@ -191,7 +191,7 @@
 "i": "TimePedigreeHTML",
 "t": 0,
 "d": "Cria uma p\u00e1gina Web HTML que utiliza JavaScript para mostrar um diagrama de linhagem verticalmente por data de nascimento",
-"v": "0.0.11",
+"v": "0.0.12",
 "g": "5.2",
 "s": 3,
 "z": "TimePedigreeHTML.addon.tgz",
