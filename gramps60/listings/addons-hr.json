@@ -1484,7 +1484,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "Gramplet za provjeru preduvjeta",
-"v": "1.2.8",
+"v": "1.2.9",
 "g": "6.0",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",

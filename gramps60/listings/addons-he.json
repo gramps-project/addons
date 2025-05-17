@@ -1484,7 +1484,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05d1\u05d3\u05d9\u05e7\u05ea \u05d3\u05e8\u05d9\u05e9\u05d5\u05ea\u05be\u05e7\u05d3\u05dd",
-"v": "1.2.8",
+"v": "1.2.9",
 "g": "6.0",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
