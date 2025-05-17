@@ -246,7 +246,7 @@
 "i": "database-differences-report",
 "t": 0,
 "d": "\u5916\u90e8\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3068\u73fe\u5728\u306e\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3092\u6bd4\u8f03\u3057\u307e\u3059\u3002",
-"v": "1.0.27",
+"v": "1.0.28",
 "g": "6.0",
 "s": 3,
 "z": "Differences.addon.tgz",

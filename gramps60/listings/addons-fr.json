@@ -246,7 +246,7 @@
 "i": "database-differences-report",
 "t": 0,
 "d": "Compare une base de donn\u00e9es externe avec la base actuelle.",
-"v": "1.0.27",
+"v": "1.0.28",
 "g": "6.0",
 "s": 3,
 "z": "Differences.addon.tgz",

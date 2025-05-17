@@ -246,7 +246,7 @@
 "i": "database-differences-report",
 "t": 0,
 "d": "Porovn\u00e1va extern\u00fa datab\u00e1zu s aktu\u00e1lnou.",
-"v": "1.0.27",
+"v": "1.0.28",
 "g": "6.0",
 "s": 3,
 "z": "Differences.addon.tgz",
