@@ -1591,7 +1591,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL Database",
-"v": "0.1.13",
+"v": "0.1.14",
 "g": "6.0",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
