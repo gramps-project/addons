@@ -264,6 +264,17 @@
 "h": "Addon:DenominoViso"
 },
 {
+"n": "Descendant Space Tree",
+"i": "descendantspacetree",
+"t": 0,
+"d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "DescendantSpaceTree.addon.tgz",
+"h": "Addon:DescendantSpaceTree"
+},
+{
 "n": "Detaillierter Nachkommenbericht mit allen Bildern",
 "i": "det_descendant_report_i",
 "t": 0,
