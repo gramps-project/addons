@@ -268,7 +268,7 @@
 "i": "descendantspacetree",
 "t": 0,
 "d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
-"v": "1.0.1",
+"v": "1.1.1",
 "g": "6.0",
 "s": 3,
 "z": "DescendantSpaceTree.addon.tgz",
