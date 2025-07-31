@@ -1352,11 +1352,11 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "Historisk kontext",
 "i": "HistContext",
 "t": 10,
-"d": "Lists relevant historical events during the lifetime of a Person",
-"v": "0.2.29",
+"d": "Listar relevanta historiska h\u00e4ndelser under en persons livstid",
+"v": "0.2.30",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",

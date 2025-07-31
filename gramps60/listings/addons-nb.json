@@ -1356,7 +1356,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Lister relevante historiske hendelser i l\u00f8pet av en persons levetid",
-"v": "0.2.29",
+"v": "0.2.30",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",

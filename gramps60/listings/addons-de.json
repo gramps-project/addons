@@ -1356,7 +1356,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Listet relevante historische Ereignisse w\u00e4hrend der Lebenszeit einer Person auf",
-"v": "0.2.29",
+"v": "0.2.30",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",
