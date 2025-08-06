@@ -209,7 +209,7 @@
 "h": "Addon:ToDoReport"
 },
 {
-"n": "Ancestral Collapsible Tree",
+"n": "Arbre ancestral colapsable",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",

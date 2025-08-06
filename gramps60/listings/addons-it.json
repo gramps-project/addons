@@ -3,7 +3,7 @@
 "n": "AncestorFill",
 "i": "AncestorFill",
 "t": 0,
-"d": "Report on the filling of the tree",
+"d": "Resoconto sul riempimento dell'albero",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -394,10 +394,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "Tutti i nomi di tutte le persone",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Mostra tutti i nomi di tutte le persone",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -427,10 +427,10 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Attach Source",
+"n": "Allega fonte",
 "i": "AttachSource",
 "t": 2,
-"d": "Attaches a shared source to multiple objects.",
+"d": "Allega una fonte condivisa a oggetti multipli.",
 "v": "0.0.41",
 "g": "6.0",
 "s": 3,

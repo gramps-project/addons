@@ -231,10 +231,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
-"n": "Afstammelingsboom ingesprongen",
+"n": "Afstamming ingesprongen boom",
 "i": "d3-descendantindentedtree",
 "t": 0,
-"d": "Genereert een webpagina met een grafische weergave van afstammelingen (SVG) die wordt weergegeven als een inklapbare ingesprongen boomlay-out uit de D3.js JavaScript-bibliotheek.",
+"d": "Genereert een webpagina met een grafische weergave van afstammelingen (SVG) als een inklapbare ingesprongen boomlay-out uit de D3.js JavaScript-bibliotheek.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -264,10 +264,10 @@
 "h": "Addon:DenominoViso"
 },
 {
-"n": "Descendant Space Tree",
+"n": "Afstammelings-ruimteboom",
 "i": "descendantspacetree",
 "t": 0,
-"d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
+"d": "Genereert een webpagina met een interactieve grafiek van afstammelingen die worden weergegeven als een ruimteboom voor effici\u00ebnte weergave, zelfs met veel afstammelingen of generaties.",
 "v": "1.1.1",
 "g": "6.0",
 "s": 3,
@@ -1248,7 +1248,7 @@
 "h": "Descendant_Count_Gramplet"
 },
 {
-"n": "Bewerk afbeeldings-Exif-metagegevens",
+"n": "Afbeeldings-Exif-metagegevens bewerken",
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet om Exif-metagegevens van afbeeldingen weer te geven, te bewerken en op te slaan",
@@ -1769,7 +1769,7 @@
 "n": "Mitochondriale overerving van <filter>",
 "i": "mtinheritanceoffiltermatch",
 "t": 13,
-"d": "Komt overeen met geregistreerde afstammelingen van een filterresultaat volgens mitochondriale overervingspatronen.",
+"d": "Komt overeen met geregistreerde nakomelingen van een filterresultaat volgens mitochondriale overervingspatronen.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1835,7 +1835,7 @@
 "n": "Y-chromosomale overerving van <filter>",
 "i": "yinheritanceoffiltermatch",
 "t": 13,
-"d": "Komt overeen met geregistreerde afstammelingen van een filterresultaat volgens Y-chromosomale overervingspatronen.",
+"d": "Komt overeen met geregistreerde nakomelingen van een filterresultaat volgens Y-chromosomale overervingspatronen.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,

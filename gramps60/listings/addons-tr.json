@@ -649,7 +649,7 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Merge Media",
+"n": "Ortam Birle\u015ftirme",
 "i": "mediamerge",
 "t": 2,
 "d": "Searches the entire database, looking for media that have the same path and merges them.",

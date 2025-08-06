@@ -69,7 +69,7 @@
 "n": "\u00c1rbol geneal\u00f3gico",
 "i": "FamilyTree",
 "t": 0,
-"d": "Produces a graphical family tree.",
+"d": "Produce un \u00e1rbol geneal\u00f3gico gr\u00e1fico.",
 "v": "4.2.26",
 "g": "6.0",
 "s": 3,
@@ -88,10 +88,10 @@
 "h": "Addon:HeatmapWebReport"
 },
 {
-"n": "Last Change Report",
+"n": "Informe de cambios m\u00e1s reciente",
 "i": "LastChangeReport",
 "t": 0,
-"d": "Report of the last records that have been changed",
+"d": "Informe con los \u00faltimos registros que se han modificado",
 "v": "0.1.15",
 "g": "6.0",
 "s": 3,
@@ -394,10 +394,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "Todos los nombres de todas las personas",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Mostrar todos los nombres de todas las personas",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -405,7 +405,7 @@
 "h": "Addon:All_Names_Quickview"
 },
 {
-"n": "Biography",
+"n": "Biograf\u00eda",
 "i": "biographyquickview",
 "t": 1,
 "d": "Display a text biography",
@@ -427,10 +427,10 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Attach Source",
+"n": "Adjuntar fuente",
 "i": "AttachSource",
 "t": 2,
-"d": "Attaches a shared source to multiple objects.",
+"d": "Adjunta una fuente compartida a varios objetos.",
 "v": "0.0.41",
 "g": "6.0",
 "s": 3,
@@ -438,10 +438,10 @@
 "h": "Addon:AttachSourceTool"
 },
 {
-"n": "Avatar Generator Tool",
+"n": "Herramienta de generaci\u00f3n de avatares",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "A tool to add avatar pictures to your family tree",
+"d": "Una herramienta para a\u00f1adir avatares a su \u00e1rbol geneal\u00f3gico",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -449,7 +449,7 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "Editor de descripciones de eventos",
 "i": "EventDescriptionEditor",
 "t": 2,
 "d": "A tool to find and replace a string in event description of multiple events.",
@@ -483,7 +483,7 @@
 "a": 1
 },
 {
-"n": "Fix Place Coordinates",
+"n": "Corregir coordenadas de lugar",
 "i": "FixCoords",
 "t": 2,
 "d": "Tool to correct the place coordinates for extra spaces or comma characters.",
@@ -516,7 +516,7 @@
 "h": "Addon:AddRemoveTagTool"
 },
 {
-"n": "Set Attribute",
+"n": "Establecer atributo",
 "i": "SetAttribute",
 "t": 2,
 "d": "Set an attribute to a given value.",
@@ -582,7 +582,7 @@
 "h": "Addon:Calculate_Estimated_Dates"
 },
 {
-"n": "Fix Capitalization of Given Names",
+"n": "Corregir mayusculaci\u00f3n de nombres de pila",
 "i": "chgivenname",
 "t": 2,
 "d": "Searches the entire database and attempts to fix capitalization of the given names.",
@@ -638,7 +638,7 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
-"n": "Import and Merge tool",
+"n": "Herramienta Importar y fusionar",
 "i": "import_merge",
 "t": 2,
 "d": "Compares a Gramps XML database with the current one, and allows merging of the differences.",
@@ -707,7 +707,7 @@
 "h": "Addon:SyncAssociation"
 },
 {
-"n": "Thumbnail Generator",
+"n": "Generador de miniaturas",
 "i": "thumbgen",
 "t": 2,
 "d": "Generates thumbnails for media files",
@@ -729,10 +729,10 @@
 "h": "Addon:Types_Cleanup_Tool"
 },
 {
-"n": "JSON Import",
+"n": "Importaci\u00f3n de JSON",
 "i": "JSON Import",
 "t": 3,
-"d": "This is a JSON import",
+"d": "Esta es una importaci\u00f3n de JSON",
 "v": "1.0.25",
 "g": "6.0",
 "s": 3,
@@ -764,10 +764,10 @@
 "a": 1
 },
 {
-"n": "JSON Export",
+"n": "Exportaci\u00f3n a JSON",
 "i": "JSON Export",
 "t": 4,
-"d": "This is a JSON export",
+"d": "Esta es una exportaci\u00f3n a JSON",
 "v": "1.0.25",
 "g": "6.0",
 "s": 3,
@@ -855,7 +855,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Plugin Manager Enhanced",
+"n": "Gestor de complementos mejorado",
 "i": "PluginManager",
 "t": 6,
 "d": "An Addon/Plugin Manager with several additional capabilities",
@@ -946,7 +946,7 @@
 "n": "Generic DB Access lib",
 "i": "libaccess",
 "t": 6,
-"d": "Provides a library for generic access to the database and gen.lib.",
+"d": "Proporciona una biblioteca para acceso gen\u00e9rico a la base de datos y a gen.lib.",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -1147,7 +1147,7 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Cumplea\u00f1os",
 "i": "Birthdays",
 "t": 10,
 "d": "a gramplet that displays the birthdays of the living people",
@@ -1158,7 +1158,7 @@
 "h": "BirthdaysGramplet"
 },
 {
-"n": "Clock",
+"n": "Reloj",
 "i": "Clock Gramplet",
 "t": 10,
 "d": "Gramplet for demonstrating Cairo graphics",
@@ -1170,7 +1170,7 @@
 "a": 2
 },
 {
-"n": "Collections Clipboard",
+"n": "Portapapeles de colecciones",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
@@ -1237,7 +1237,7 @@
 "h": "Deep_Connections_Gramplet"
 },
 {
-"n": "Descendant Count",
+"n": "Recuento de descendientes",
 "i": "Descendant Count Gramplet",
 "t": 10,
 "d": "Gramplet for showing people and descendant counts",
@@ -1389,7 +1389,7 @@
 "n": "\u00daltimo cambio",
 "i": "LastChangeGramplet",
 "t": 10,
-"d": "List the last ten person records that have been changed",
+"d": "Enumerar los \u00faltimos diez registros de personas que han cambiado",
 "v": "0.1.15",
 "g": "6.0",
 "s": 3,
@@ -1452,7 +1452,7 @@
 "h": "Addon:Photo_Tagging_Gramplet"
 },
 {
-"n": "Place and Coordinates",
+"n": "Lugar y coordenadas",
 "i": "Place Coordinates",
 "t": 10,
 "d": "Gramplet that simplifies setting the coordinates of a place",
@@ -1525,7 +1525,7 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "Buscar",
 "i": "Search Gramplet",
 "t": 10,
 "d": "Gramplet for search objects in database.",

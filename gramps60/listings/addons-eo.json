@@ -1,9 +1,9 @@
 [
 {
-"n": "AncestorFill",
+"n": "ArboPlenigo",
 "i": "AncestorFill",
 "t": 0,
-"d": "Report on the filling of the tree",
+"d": "Raporto pri Arboplenigado",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -394,10 +394,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "\u0108iuj Nomoj de \u0108iuj Homoj",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Ekranas \u0109iujn nomojn de \u0109iuj homoj",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -549,7 +549,7 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Check Associations data",
+"n": "Kontroli Asociojn datumoj",
 "i": "associationstool",
 "t": 2,
 "d": "Will check the data on Association for people.",

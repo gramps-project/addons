@@ -1,9 +1,9 @@
 [
 {
-"n": "AncestorFill",
+"n": "Wype\u0142nienie przodk\u00f3w",
 "i": "AncestorFill",
 "t": 0,
-"d": "Report on the filling of the tree",
+"d": "Raport o wype\u0142nieniu drzewa",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -14,7 +14,7 @@
 "n": "Descendant Book",
 "i": "DescendantBook",
 "t": 0,
-"d": "Produces one or more descendant reports based on a supplied query.",
+"d": "Tworzy jeden lub wi\u0119cej raport\u00f3w potomk\u00f3w na podstawie dostarczonego zapytania.",
 "v": "1.1.33",
 "g": "6.0",
 "s": 3,
@@ -209,10 +209,10 @@
 "h": "Addon:ToDoReport"
 },
 {
-"n": "Ancestral Collapsible Tree",
+"n": "Drzewo genealogiczne z mo\u017cliwo\u015bci\u0105 zwijania",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
+"d": "Generuje stron\u0119 internetow\u0105 z graficzn\u0105 reprezentacj\u0105 przodk\u00f3w (SVG), przedstawion\u0105 jako zwijalny uk\u0142ad drzewa (Collapsible Tree Layout) za pomoc\u0105 biblioteki JavaScript D3.js.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -397,7 +397,7 @@
 "n": "Wszystkie imiona wszystkich os\u00f3b",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Wy\u015bwietl wszystkie nazwiska wszystkich os\u00f3b",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -427,10 +427,10 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Attach Source",
+"n": "Do\u0142\u0105cz \u017ar\u00f3d\u0142o",
 "i": "AttachSource",
 "t": 2,
-"d": "Attaches a shared source to multiple objects.",
+"d": "Do\u0142\u0105cza wsp\u00f3\u0142dzielone \u017ar\u00f3d\u0142o do wielu obiekt\u00f3w.",
 "v": "0.0.41",
 "g": "6.0",
 "s": 3,
@@ -438,10 +438,10 @@
 "h": "Addon:AttachSourceTool"
 },
 {
-"n": "Avatar Generator Tool",
+"n": "Narz\u0119dzie generatora awatar\u00f3w",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "A tool to add avatar pictures to your family tree",
+"d": "Narz\u0119dzie do dodawania obraz\u00f3w awatar\u00f3w do Twojego drzewa genealogicznego",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -549,7 +549,7 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Check Associations data",
+"n": "Sprawdzanie danych powi\u0105za\u0144",
 "i": "associationstool",
 "t": 2,
 "d": "Will check the data on Association for people.",
@@ -563,7 +563,7 @@
 "n": "Sort Children in Birth order",
 "i": "birthorder",
 "t": 2,
-"d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
+"d": "Przegl\u0105da rodziny, szukaj\u0105c dzieci, kt\u00f3re nie s\u0105 w kolejno\u015bci urodzenia.  U\u017cytkownik mo\u017ce zaakceptowa\u0107 poszczeg\u00f3lne sugestie korekty, edytowa\u0107 kolejno\u015b\u0107 urodzenia r\u0119cznie, zaakceptowa\u0107 wszystkie rodziny, w kt\u00f3rych wszystkie dzieci maj\u0105 prawid\u0142owe daty urodzenia, lub zaakceptowa\u0107 wszystkie.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -1135,7 +1135,7 @@
 "h": "AnniversariesGramplet"
 },
 {
-"n": "Beta What's Next",
+"n": "Beta Co dalej",
 "i": "Beta What's Next",
 "t": 10,
 "d": "Beta Gramplet suggesting items to research",
@@ -1195,7 +1195,7 @@
 "n": "DNA Segment Map",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
+"d": "Gramplet wy\u015bwietlaj\u0105cy map\u0119 dopasowanych segment\u00f3w DNA",
 "v": "2.0.13",
 "g": "6.0",
 "s": 3,

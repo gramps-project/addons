@@ -394,10 +394,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "Sva li\u010dna imena svih osoba",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Prika\u017ei sva li\u010dna imena svih osoba",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
