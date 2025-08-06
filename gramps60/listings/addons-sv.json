@@ -1230,7 +1230,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet visande ett l\u00e5ng sl\u00e4ktskap mellan aktiv och hem person",
-"v": "1.0.45",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

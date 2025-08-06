@@ -1230,7 +1230,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet n\u00e4ytt\u00e4\u00e4 aktiivi- ja kotihenkil\u00f6n v\u00e4liset suhteet syvemm\u00e4lt\u00e4",
-"v": "1.0.45",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

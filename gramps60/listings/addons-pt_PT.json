@@ -1230,7 +1230,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet que mostra um parentesco profundo entre o indiv\u00edduo activo e o indiv\u00edduo inicial",
-"v": "1.0.45",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

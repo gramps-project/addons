@@ -1226,11 +1226,11 @@
 "h": "DateCalculator"
 },
 {
-"n": "Tief gehende Beziehungen Gramplet",
+"n": "Tiefe Verbindungen Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,
-"d": "Gramplet zeigt eine tief gehende Beziehung zwischen aktiver und Hauptperson",
-"v": "1.0.45",
+"d": "Gramplet, das eine tiefe Beziehung zwischen aktiver und Hauptperson zeigt",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

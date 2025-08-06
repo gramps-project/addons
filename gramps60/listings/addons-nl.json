@@ -1230,7 +1230,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "De gramplet toont de relatie tussen de actieve persoon en verre verwanten",
-"v": "1.0.45",
+"v": "1.0.47",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",
