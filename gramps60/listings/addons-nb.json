@@ -66,7 +66,7 @@
 "h": "Addon:Family_Sheet"
 },
 {
-"n": "Slektsdatabase",
+"n": "Slektstre",
 "i": "FamilyTree",
 "t": 0,
 "d": "Produces a graphical family tree.",
@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "Varmekart",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
@@ -192,7 +192,7 @@
 "t": 0,
 "d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
 "v": "0.0.12",
-"g": "5.2",
+"g": "6.0",
 "s": 3,
 "z": "TimePedigreeHTML.addon.tgz",
 "h": "Addon:Timeline_Pedigree_Report"
@@ -309,7 +309,7 @@
 "a": 1
 },
 {
-"n": "Etterkommertavle",
+"n": "Etterkommertre",
 "i": "gt_descendant",
 "t": 0,
 "d": "Descendant tree using LaTeX genealogytree",
@@ -1262,7 +1262,7 @@
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
-"d": "Sm\u00e5gramps som viser egenskapene til en familie",
+"d": "Gramplet som viser egenskapene til en familie",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -1273,7 +1273,7 @@
 "n": "Extended Person Attributes",
 "i": "Extended Person Attributes",
 "t": 10,
-"d": "Sm\u00e5gramps som viser egenskapene til en person",
+"d": "Gramplet som viser egenskapene til en person",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -1374,7 +1374,7 @@
 "h": "House_Timeline_Gramplet"
 },
 {
-"n": "Importer Tekst",
+"n": "Importer tekst",
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet for importing text",
@@ -1400,7 +1400,7 @@
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
-"d": "Sm\u00e5gramps som viser detaljer for en person",
+"d": "Gramplet som viser detaljer for en person",
 "v": "1.0.38",
 "g": "6.0",
 "s": 3,
