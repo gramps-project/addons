@@ -58,7 +58,7 @@
 "n": "Rodinn\u00fd list",
 "i": "FamilySheet",
 "t": 0,
-"d": "Produces a family sheet showing full information about a person and his/her partners and children.",
+"d": "Vytvor\u00ed rodinn\u00fd list s \u00fapln\u00fdmi inform\u00e1ciami o osobe a jej partneroch a de\u0165och.",
 "v": "3.4.51",
 "g": "6.0",
 "s": 3,
@@ -69,7 +69,7 @@
 "n": "Rodinn\u00fd strom",
 "i": "FamilyTree",
 "t": 0,
-"d": "Produces a graphical family tree.",
+"d": "Vytvor\u00ed grafick\u00fd rodinn\u00fd strom.",
 "v": "4.2.26",
 "g": "6.0",
 "s": 3,
@@ -121,7 +121,7 @@
 "h": "Addon:TinyTafel"
 },
 {
-"n": "Media Report",
+"n": "Medi\u00e1lna spr\u00e1va",
 "i": "MediaReport",
 "t": 0,
 "d": "Generates report including images, image data and notes.",
@@ -187,10 +187,10 @@
 "h": "Addon:SourcesCitationsReport"
 },
 {
-"n": "Timeline Pedigree Report",
+"n": "Spr\u00e1va o rodokmeni na \u010dasovej osi",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"d": "Vytvor\u00ed HTML webov\u00fa str\u00e1nku, ktor\u00e1 pou\u017e\u00edva JavaScript na zobrazenie blokov\u00e9ho diagramu rodokme\u0148a usporiadan\u00e9ho vertik\u00e1lne pod\u013ea d\u00e1tumu narodenia",
 "v": "0.0.12",
 "g": "6.0",
 "s": 3,
@@ -264,21 +264,21 @@
 "h": "Addon:DenominoViso"
 },
 {
-"n": "Descendant Space Tree",
+"n": "Priestorov\u00fd strom potomkov",
 "i": "descendantspacetree",
 "t": 0,
-"d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
-"v": "1.1.1",
+"d": "Vytvor\u00ed webov\u00fa str\u00e1nku s interakt\u00edvnym grafom potomkov zn\u00e1zornen\u00fdm ako priestorov\u00fd strom pre efekt\u00edvne zobrazenie, aj pri ve\u013ekom po\u010dte potomkov alebo gener\u00e1ci\u00ed.",
+"v": "1.1.2",
 "g": "6.0",
 "s": 3,
 "z": "DescendantSpaceTree.addon.tgz",
 "h": "Addon:DescendantSpaceTree"
 },
 {
-"n": "Detailed Descendant Report With All Images",
+"n": "Podrobn\u00e1 spr\u00e1va o potomkoch so v\u0161etk\u00fdmi obr\u00e1zkami",
 "i": "det_descendant_report_i",
 "t": 0,
-"d": "Produces a detailed descendant report with all images and optional todo list.",
+"d": "Vytvor\u00ed podrobn\u00fa spr\u00e1vu o potomkoch so v\u0161etk\u00fdmi obr\u00e1zkami a volite\u013en\u00fdm zoznamom \u00faloh.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -286,10 +286,10 @@
 "h": "Addon:Detailed_Descendant_Report_With_All_Images"
 },
 {
-"n": "Double Cousins",
+"n": "Dvojit\u00ed bratranci a sesternice",
 "i": "double_cousins",
 "t": 0,
-"d": "A text report listing double cousins.",
+"d": "Textov\u00e1 spr\u00e1va obsahuj\u00faca zoznam dvojit\u00fdch bratrancov a sestern\u00edc.",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -372,7 +372,7 @@
 "a": 1
 },
 {
-"n": "Number of ancestors",
+"n": "Po\u010det predkov",
 "i": "NumberOfAncestorsQuickview",
 "t": 1,
 "d": "Shows the number of ancestors of the current person",
@@ -383,10 +383,10 @@
 "h": "Addon:NumberOfAncestorsQuickView"
 },
 {
-"n": "Number of descendants",
+"n": "Po\u010det potomkov",
 "i": "NumberOfDescendantsQuickview",
 "t": 1,
-"d": "Shows the number of descendants of the current person",
+"d": "Zobraz\u00ed po\u010det potomkov aktu\u00e1lnej osoby",
 "v": "3.4.34",
 "g": "6.0",
 "s": 3,
@@ -419,7 +419,7 @@
 "n": "\u010casov\u00e1 os",
 "i": "timelinequickview",
 "t": 1,
-"d": "Display a person's events on a timeline",
+"d": "Zobraz\u00ed udalosti osoby na \u010dasovej osi",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -460,10 +460,10 @@
 "h": "Addon:EventDescriptionEditor"
 },
 {
-"n": "Family Relationship Tool",
+"n": "N\u00e1stroj pre rodinn\u00e9 vz\u0165ahy",
 "i": "FamilyRelationshipTool",
 "t": 2,
-"d": "Mass-edit the family relationship type for a group of families.",
+"d": "Hromadn\u00e1 \u00faprava typu rodinn\u00fdch vz\u0165ahov pre skupinu rod\u00edn.",
 "v": "1.1.11",
 "g": "6.0",
 "s": 3,
@@ -483,10 +483,10 @@
 "a": 1
 },
 {
-"n": "Fix Place Coordinates",
+"n": "Oprava s\u00faradnic miesta",
 "i": "FixCoords",
 "t": 2,
-"d": "Tool to correct the place coordinates for extra spaces or comma characters.",
+"d": "N\u00e1stroj na opravu s\u00faradn\u00edc miesta v pr\u00edpade nadbyto\u010dn\u00fdch medzier alebo znakov \u010diarky.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -516,7 +516,7 @@
 "h": "Addon:AddRemoveTagTool"
 },
 {
-"n": "Set Attribute",
+"n": "Nastavi\u0165 atrib\u00fat",
 "i": "SetAttribute",
 "t": 2,
 "d": "Set an attribute to a given value.",
@@ -593,10 +593,10 @@
 "h": "Addon:Fix_Capitalization_of_Given_Names"
 },
 {
-"n": "Command Line Merge",
+"n": "Zl\u00fa\u010denie pomocou pr\u00edkazov\u00e9ho riadku",
 "i": "climerge",
 "t": 2,
-"d": "Merge primary objects via the command line.",
+"d": "Zl\u00fa\u010di\u0165 prim\u00e1rne objekty cez pr\u00edkazov\u00fd riadok.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -605,10 +605,10 @@
 "a": 2
 },
 {
-"n": "Download media files from the internet",
+"n": "S\u0165ahovanie medi\u00e1lnych s\u00faborov z internetu",
 "i": "downloadmedia",
 "t": 2,
-"d": "This tool downloads media files from the internet",
+"d": "Tento n\u00e1stroj s\u0165ahuje medi\u00e1lne s\u00fabory z internetu",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -775,10 +775,10 @@
 "h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
-"n": "Prolog Export",
+"n": "Prolog export",
 "i": "Prolog Export",
 "t": 4,
-"d": "Exports data into a Prolog fact format.  Data is in Unicode (utf-8)",
+"d": "Exportuje \u00fadaje do form\u00e1tu faktov Prolog.  \u00dadaje s\u00fa v Unicode (utf-8)",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -786,7 +786,7 @@
 "h": "Output_formats#Prolog"
 },
 {
-"n": "Raw Export",
+"n": "Raw export",
 "i": "Raw Export",
 "t": 4,
 "d": "This is a raw python object dump",
@@ -836,7 +836,7 @@
 "n": "FR Web Connect Pack",
 "i": "FR Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the FR (requires libwebconnect)",
+"d": "Kolekcia webov\u00fdch str\u00e1nok pre FR (vy\u017eaduje libwebconnect)",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -913,7 +913,7 @@
 "n": "UA Web Connect Pack",
 "i": "UA Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the UA (requires libwebconnect)",
+"d": "Zbierka webov\u00fdch str\u00e1nok pre UA (vy\u017eaduje libwebconnect)",
 "v": "1.0.1",
 "g": "6.0",
 "s": 3,
@@ -924,7 +924,7 @@
 "n": "UK Web Connect Pack",
 "i": "UK Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the UK (requires libwebconnect)",
+"d": "Zbierka webov\u00fdch str\u00e1nok pre Spojen\u00e9 kr\u00e1\u013eovstvo (vy\u017eaduje libwebconnect)",
 "v": "1.0.43",
 "g": "6.0",
 "s": 3,
@@ -935,7 +935,7 @@
 "n": "US Web Connect Pack",
 "i": "US Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the US (requires libwebconnect)",
+"d": "Zbierka webov\u00fdch str\u00e1nok pre Spojen\u00e9 \u0161t\u00e1ty (vy\u017eaduje libwebconnect)",
 "v": "1.0.52",
 "g": "6.0",
 "s": 3,
@@ -946,7 +946,7 @@
 "n": "Generic DB Access lib",
 "i": "libaccess",
 "t": 6,
-"d": "Provides a library for generic access to the database and gen.lib.",
+"d": "Poskytuje kni\u017enicu pre v\u0161eobecn\u00fd pr\u00edstup k datab\u00e1ze a gen.kni\u017e.",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -958,7 +958,7 @@
 "n": "libwebconnect",
 "i": "libwebconnect",
 "t": 6,
-"d": "Library for web site collections",
+"d": "Kni\u017enica pre zbierky webov\u00fdch miest",
 "v": "1.0.38",
 "g": "6.0",
 "s": 3,
@@ -1000,10 +1000,10 @@
 "a": 1
 },
 {
-"n": "Timeline Pedigree",
+"n": "Rodokme\u0148 na \u010dasovej osi",
 "i": "TimelinePedigreeView",
 "t": 8,
-"d": "The view shows a timeline pedigree with ancestors and descendants of the selected person",
+"d": "Zobrazenie ukazuje \u010dasov\u00fa os rodokme\u0148a s predkami a potomkami vybranej osoby",
 "v": "0.1.66",
 "g": "6.0",
 "s": 3,
@@ -1170,11 +1170,11 @@
 "a": 2
 },
 {
-"n": "Collections Clipboard",
+"n": "Kolekcie schr\u00e1nky",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
-"d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.47",
+"d": "Gramplet pre zoskupovanie zbierok polo\u017eiek na pomoc pri zad\u00e1van\u00ed \u00fadajov.",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1192,10 +1192,10 @@
 "h": "Addon:DNAMatches"
 },
 {
-"n": "DNA Segment Map",
+"n": "Mapa segmentov DNA",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
+"d": "Gramplet zobrazuj\u00faci mapu zodpovedaj\u00faceho segmentu DNA",
 "v": "2.0.13",
 "g": "6.0",
 "s": 3,
@@ -1215,10 +1215,10 @@
 "a": 1
 },
 {
-"n": "Date Calculator",
+"n": "D\u00e1tumov\u00fd kalkul\u00e1tor",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Vykon\u00e1va matematick\u00e9 v\u00fdpo\u010dty s d\u00e1tumami",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1229,7 +1229,7 @@
 "n": "Gramplet Hlb\u0161ie vz\u0165ahy",
 "i": "Deep Connections Gramplet",
 "t": 10,
-"d": "Gramplet showing a deep relationship between active and home people",
+"d": "Gramplet zobrazuj\u00faci hlbok\u00fd vz\u0165ah medzi akt\u00edvnymi a domovsk\u00fdmi osobami",
 "v": "1.0.47",
 "g": "6.0",
 "s": 3,
@@ -1240,7 +1240,7 @@
 "n": "Po\u010d\u00edtanie potomkov",
 "i": "Descendant Count Gramplet",
 "t": 10,
-"d": "Gramplet for showing people and descendant counts",
+"d": "Gramplet na zobrazenie \u013eud\u00ed a po\u010dty potomkov",
 "v": "2.0.16",
 "g": "6.0",
 "s": 3,
@@ -1252,14 +1252,14 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet na zobrazenie, \u00fapravu a ulo\u017eenie Exif metad\u00e1t obr\u00e1zka",
-"v": "2.0.15",
+"v": "2.0.16",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
 "h": "Edit Image Exif Metadata"
 },
 {
-"n": "Extended Family Attributes",
+"n": "Roz\u0161\u00edren\u00e9 atrib\u00faty rodiny",
 "i": "Extended Family Attributes",
 "t": 10,
 "d": "Gramplet zobrazuj\u00faci atrib\u00faty rodiny",
@@ -1270,7 +1270,7 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Family_Attributes_Gramplet"
 },
 {
-"n": "Extended Person Attributes",
+"n": "Roz\u0161\u00edren\u00e9 atrib\u00faty osoby",
 "i": "Extended Person Attributes",
 "t": 10,
 "d": "Gramplet zobrazuj\u00faci atrib\u00faty osoby",
@@ -1292,7 +1292,7 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Form Gramplet",
+"n": "Gramplet Formul\u00e1r",
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
@@ -1307,7 +1307,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet na z\u00edskanie miest z datab\u00e1zy GOV",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",
@@ -1430,7 +1430,7 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Person Overview",
+"n": "Preh\u013ead osoby",
 "i": "Person Overview",
 "t": 10,
 "d": "Gramplet showing an overview of events for a person",
@@ -1483,7 +1483,7 @@
 "n": "PlaceUpdate",
 "i": "PlaceUpdate",
 "t": 10,
-"d": "Gramplet to manipulate multiple places",
+"d": "Gramplet na manipul\u00e1ciu s viacer\u00fdmi miestami",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1514,7 +1514,7 @@
 "a": 2
 },
 {
-"n": "Related Relatives",
+"n": "S\u00favisiaci pr\u00edbuzn\u00ed",
 "i": "Related Relatives Gramplet",
 "t": 10,
 "d": "Gramplet showing relatives in a relation",
@@ -1551,7 +1551,7 @@
 "n": "Vyh\u013ead\u00e1vanie na webe",
 "i": "WebSearch",
 "t": 10,
-"d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
+"d": "Prisp\u00f4soben\u00e9 dopyty pre online slu\u017eby na z\u00e1klade akt\u00edvneho z\u00e1znamu osoby, miesta, rodiny alebo zdroja",
 "v": "1.10.8",
 "g": "6.0",
 "s": 3,
@@ -1598,6 +1598,22 @@
 "a": 1
 },
 {
+"n": "PostgreSQL Enhanced",
+"i": "postgresqlenhanced",
+"t": 12,
+"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"v": "1.5.2",
+"g": "6.0",
+"s": 3,
+"z": "PostgreSQLEnhanced.addon.tgz",
+"rm": [
+"psycopg"
+],
+"re": [],
+"h": "https://github.com/gramps-project/addons-source/wiki/PostgreSQLEnhanced",
+"a": 1
+},
+{
 "n": "SharedPostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
@@ -1612,10 +1628,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "Akt\u00edvna Osoba",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "Akt\u00edvna Osoba",
 "v": "0.0.14",
 "g": "6.0",
 "s": 3,
@@ -1667,10 +1683,10 @@
 "h": "Addon:Rule_expansions#People_related_to_.3Cfilter.3E"
 },
 {
-"n": "Matrilineal progenitrix of <person>",
+"n": "Matriline\u00e1rna predchodky\u0148a osoby <person>",
 "i": "MatrilinealProgenitrix",
 "t": 13,
-"d": "Matches the earliest recorded matrilineal ancestor mother.",
+"d": "Zodpoved\u00e1 najskor\u0161ej zaznamenanej matriline\u00e1rnej predchodkyni.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,

@@ -268,7 +268,7 @@
 "i": "descendantspacetree",
 "t": 0,
 "d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
-"v": "1.1.1",
+"v": "1.1.2",
 "g": "6.0",
 "s": 3,
 "z": "DescendantSpaceTree.addon.tgz",
@@ -449,7 +449,7 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "Esem\u00e9ny Le\u00edr\u00e1s Szerkeszt\u0151",
 "i": "EventDescriptionEditor",
 "t": 2,
 "d": "A tool to find and replace a string in event description of multiple events.",
@@ -1174,7 +1174,7 @@
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1252,7 +1252,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "K\u00e9p Exif metaadatokat mutat\u00f3, szerkeszt\u0151 \u00e9s ment\u0151 gramplet",
-"v": "2.0.15",
+"v": "2.0.16",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
@@ -1307,7 +1307,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet to get places from the GOV database",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",
@@ -1525,7 +1525,7 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "Keres\u00e9s",
 "i": "Search Gramplet",
 "t": 10,
 "d": "Gramplet for search objects in database.",
@@ -1548,7 +1548,7 @@
 "h": "This Day In Family History"
 },
 {
-"n": "WebSearch",
+"n": "Web-Keres\u0151",
 "i": "WebSearch",
 "t": 10,
 "d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
@@ -1595,6 +1595,22 @@
 "psycopg2"
 ],
 "h": "Addon:PostgreSQL",
+"a": 1
+},
+{
+"n": "PostgreSQL Enhanced",
+"i": "postgresqlenhanced",
+"t": 12,
+"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"v": "1.5.2",
+"g": "6.0",
+"s": 3,
+"z": "PostgreSQLEnhanced.addon.tgz",
+"rm": [
+"psycopg"
+],
+"re": [],
+"h": "https://github.com/gramps-project/addons-source/wiki/PostgreSQLEnhanced",
 "a": 1
 },
 {

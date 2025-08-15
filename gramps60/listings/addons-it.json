@@ -268,7 +268,7 @@
 "i": "descendantspacetree",
 "t": 0,
 "d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
-"v": "1.1.1",
+"v": "1.1.2",
 "g": "6.0",
 "s": 3,
 "z": "DescendantSpaceTree.addon.tgz",
@@ -1174,7 +1174,7 @@
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1252,7 +1252,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet per visualizzare, modificare e salvare i metadati Exif di un'immagine",
-"v": "2.0.15",
+"v": "2.0.16",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
@@ -1307,7 +1307,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet to get places from the GOV database",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",
@@ -1595,6 +1595,22 @@
 "psycopg2"
 ],
 "h": "Addon:PostgreSQL",
+"a": 1
+},
+{
+"n": "PostgreSQL Enhanced",
+"i": "postgresqlenhanced",
+"t": 12,
+"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"v": "1.5.2",
+"g": "6.0",
+"s": 3,
+"z": "PostgreSQLEnhanced.addon.tgz",
+"rm": [
+"psycopg"
+],
+"re": [],
+"h": "https://github.com/gramps-project/addons-source/wiki/PostgreSQLEnhanced",
 "a": 1
 },
 {

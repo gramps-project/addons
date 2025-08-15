@@ -268,7 +268,7 @@
 "i": "descendantspacetree",
 "t": 0,
 "d": "G\u00e9n\u00e8re une page web avec un graphique interactif des descendants repr\u00e9sent\u00e9 sous la forme d'un arbre spatial pour une visualisation efficace, m\u00eame avec de nombreux descendants ou g\u00e9n\u00e9rations.",
-"v": "1.1.1",
+"v": "1.1.2",
 "g": "6.0",
 "s": 3,
 "z": "DescendantSpaceTree.addon.tgz",
@@ -1174,7 +1174,7 @@
 "i": "Collections Clipboard Gramplet",
 "t": 10,
 "d": "Gramplet pour grouper les collections d'\u00e9l\u00e9ments pour faciliter l'entr\u00e9e des donn\u00e9es.",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1252,7 +1252,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet pour voir, \u00e9diter, et enregistrer les m\u00e9tadonn\u00e9es Exif de l'image",
-"v": "2.0.15",
+"v": "2.0.16",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
@@ -1307,7 +1307,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet pour trouver des lieux depuis la base de donn\u00e9es GOV",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",
@@ -1595,6 +1595,22 @@
 "psycopg2"
 ],
 "h": "Addon:PostgreSQL",
+"a": 1
+},
+{
+"n": "PostgreSQL Enhanced",
+"i": "postgresqlenhanced",
+"t": 12,
+"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"v": "1.5.2",
+"g": "6.0",
+"s": 3,
+"z": "PostgreSQLEnhanced.addon.tgz",
+"rm": [
+"psycopg"
+],
+"re": [],
+"h": "https://github.com/gramps-project/addons-source/wiki/PostgreSQLEnhanced",
 "a": 1
 },
 {

@@ -209,10 +209,10 @@
 "h": "Addon:ToDoReport"
 },
 {
-"n": "Ancestral Collapsible Tree",
+"n": "\u05d0\u05d9\u05dc\u05df \u05d0\u05d1\u05d5\u05ea\u05be\u05e7\u05d3\u05de\u05d5\u05e0\u05d9\u05dd \u05de\u05ea\u05db\u05d5\u05d5\u05e5",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
+"d": "\u05d7\u05d9\u05dc\u05d5\u05dc \u05e2\u05de\u05d5\u05d3 \u05de\u05e8\u05e9\u05ea\u05ea \u05e2\u05dd \u05d9\u05d9\u05e6\u05d5\u05d2 \u05d7\u05d6\u05d5\u05ea\u05d9 \u05e9\u05dc \u05d0\u05d1\u05d5\u05ea \u05e7\u05d3\u05de\u05d5\u05e0\u05d9\u05dd (SVG) \u05d4\u05de\u05d9\u05d5\u05e6\u05d2 \u05db\u05e4\u05e8\u05d9\u05e1\u05ea \u05d0\u05d9\u05dc\u05df \u05de\u05ea\u05db\u05d5\u05d5\u05e5 \u05de\u05e1\u05e4\u05e8\u05d9\u05d9\u05ea \u05d4-JavaScript D3.js.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -220,10 +220,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Ancestral Fan Chart",
+"n": "\u05ea\u05e8\u05e9\u05d9\u05dd \u05de\u05e0\u05d9\u05e4\u05d4 \u05d0\u05d1\u05d5\u05ea\u05be\u05e7\u05d3\u05de\u05d5\u05e0\u05d9\u05dd",
 "i": "d3-ancestralfanchart",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
+"d": "\u05d7\u05d9\u05dc\u05d5\u05dc \u05e2\u05de\u05d5\u05d3 \u05de\u05e8\u05e9\u05ea\u05ea \u05e9\u05de\u05e6\u05d9\u05d2 \u05d9\u05d9\u05e6\u05d5\u05d2 \u05d7\u05d6\u05d5\u05ea\u05d9 \u05e9\u05dc \u05d0\u05d1\u05d5\u05ea\u05be\u05e7\u05d3\u05de\u05d5\u05e0\u05d9\u05dd (\u05d1\u05beSVG) \u05db\u05ea\u05e8\u05e9\u05d9\u05dd \u05de\u05e0\u05d9\u05e4\u05d4, \u05d4\u05de\u05d1\u05d5\u05e1\u05e1 \u05e2\u05dc \u05e1\u05e4\u05e8\u05d9\u05d9\u05ea JavaScript D3.js.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -231,10 +231,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
-"n": "Descendant Indented Tree",
+"n": "\u05d0\u05d9\u05dc\u05df \u05e6\u05d0\u05e6\u05d0\u05d9\u05dd \u05de\u05d5\u05d6\u05d7",
 "i": "d3-descendantindentedtree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
+"d": "\u05d7\u05d9\u05dc\u05d5\u05dc \u05e2\u05de\u05d5\u05d3 \u05de\u05e8\u05e9\u05ea\u05ea \u05e2\u05dd \u05d9\u05d9\u05e6\u05d5\u05d2 \u05d7\u05d6\u05d5\u05ea\u05d9 \u05e9\u05dc \u05e6\u05d0\u05e6\u05d0\u05d9\u05dd (SVG) \u05de\u05d9\u05d5\u05e6\u05d2\u05ea \u05db\u05d0\u05d9\u05dc\u05df \u05de\u05ea\u05db\u05d5\u05d5\u05e5 \u05de\u05d5\u05d6\u05d7 \u05de\u05e1\u05e4\u05e8\u05d9\u05d9\u05ea D3.js JavaScript.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -268,7 +268,7 @@
 "i": "descendantspacetree",
 "t": 0,
 "d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
-"v": "1.1.1",
+"v": "1.1.2",
 "g": "6.0",
 "s": 3,
 "z": "DescendantSpaceTree.addon.tgz",
@@ -593,10 +593,10 @@
 "h": "Addon:Fix_Capitalization_of_Given_Names"
 },
 {
-"n": "Command Line Merge",
+"n": "\u05de\u05d9\u05d6\u05d5\u05d2 \u05de\u05e9\u05d5\u05e8\u05ea \u05e4\u05e7\u05d5\u05d3\u05d4",
 "i": "climerge",
 "t": 2,
-"d": "Merge primary objects via the command line.",
+"d": "\u05de\u05d9\u05d6\u05d5\u05d2 \u05e2\u05e6\u05de\u05d9\u05dd \u05e2\u05d9\u05e7\u05e8\u05d9\u05d9\u05dd \u05de\u05e4\u05e7\u05d5\u05d3\u05ea \u05e9\u05d5\u05e8\u05d4.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -858,7 +858,7 @@
 "n": "\u05de\u05e0\u05d4\u05dc \u05de\u05ea\u05e7\u05e2\u05d9\u05dd \u05de\u05e9\u05d5\u05e4\u05e8",
 "i": "PluginManager",
 "t": 6,
-"d": "\u05de\u05e0\u05d4\u05dc \u05de\u05ea\u05e7\u05e2\u05d9\u05dd/\u05ea\u05d5\u05e1\u05e4\u05d9\u05dd \u05e2\u05dd \u05d9\u05db\u05d5\u05dc\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea",
+"d": "\u05de\u05e0\u05d4\u05dc \u05ea\u05d5\u05e1\u05e4\u05d9\u05dd/\u05de\u05ea\u05e7\u05e2\u05d9\u05dd \u05e2\u05dd \u05d9\u05db\u05d5\u05dc\u05d5\u05ea \u05e8\u05d1\u05d5\u05ea \u05e0\u05d5\u05e1\u05e4\u05d5\u05ea",
 "v": "1.2.7",
 "g": "6.0",
 "s": 3,
@@ -880,7 +880,7 @@
 "n": "Restart where you were last working",
 "i": "RestoreHist",
 "t": 6,
-"d": "This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the 'Go' menu.",
+"d": "\u05ea\u05d5\u05e1\u05e3 \u05d6\u05d4 \u05d2\u05d5\u05e8\u05dd \u05dc\u05d2\u05e8\u05de\u05e4\u05e1 \u05dc\u05e9\u05ea\u05d7\u05dc \u05e2\u05dd \u05d0\u05d5\u05ea\u05d5 \u05de\u05e6\u05d2 \u05d5\u05e2\u05e6\u05dd \u05e9\u05d1\u05d5 \u05d4\u05d5\u05d0 \u05e0\u05e1\u05d2\u05e8\u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4. \u05d4\u05ea\u05d5\u05e1\u05e3 \u05dc\u05d0 \u05de\u05d5\u05e1\u05d9\u05e3 \u05ea\u05e4\u05e8\u05d9\u05d8\u05d9\u05dd \u05d7\u05d3\u05e9\u05d9\u05dd \u05d0\u05d5 \u05d2\u05e8\u05de\u05e4\u05dc\u05d8\u05d9\u05dd, \u05d0\u05da \u05de\u05d0\u05e4\u05e9\u05e8 \u05dc\u05de\u05e6\u05d5\u05d0 \u05d0\u05ea \u05e9\u05e9\u05ea \u05d4\u05e2\u05e6\u05de\u05d9\u05dd \u05d4\u05d0\u05d7\u05e8\u05d5\u05e0\u05d9\u05dd \u05e9\u05d1\u05d5\u05e7\u05e8\u05d5 \u05dc\u05d0\u05d7\u05e8\u05d5\u05e0\u05d4 \u05de\u05ea\u05e4\u05e8\u05d9\u05d8 '\u05de\u05e2\u05d1\u05e8'.",
 "v": "0.0.21",
 "g": "6.0",
 "s": 3,
@@ -1014,7 +1014,7 @@
 "n": "\u05de\u05e9\u05d5\u05dc\u05d1",
 "i": "combinedview",
 "t": 8,
-"d": "A view showing relationships and events for a person",
+"d": "\u05de\u05e6\u05d2 \u05e9\u05de\u05e6\u05d9\u05d2 \u05e7\u05e9\u05e8\u05d9\u05be\u05e7\u05e8\u05d1\u05d4 \u05d5\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05e9\u05dc \u05d0\u05d3\u05dd",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1147,7 +1147,7 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "\u05d9\u05de\u05d9 \u05d4\u05d5\u05dc\u05d3\u05ea",
 "i": "Birthdays",
 "t": 10,
 "d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e6\u05d9\u05d2 \u05d0\u05ea \u05d9\u05de\u05d9 \u05d4\u05d4\u05d5\u05dc\u05d3\u05ea \u05e9\u05dc \u05d4\u05d0\u05e0\u05e9\u05d9\u05dd \u05d4\u05d7\u05d9\u05d9\u05dd",
@@ -1158,7 +1158,7 @@
 "h": "BirthdaysGramplet"
 },
 {
-"n": "Clock",
+"n": "\u05e9\u05e2\u05d5\u05df",
 "i": "Clock Gramplet",
 "t": 10,
 "d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05d3\u05d2\u05de\u05ea \u05e2\u05e6\u05de\u05d9 Cairo",
@@ -1170,11 +1170,11 @@
 "a": 2
 },
 {
-"n": "Collections Clipboard",
+"n": "\u05dc\u05d5\u05d7\u05be\u05d2\u05d6\u05d9\u05e8\u05d9\u05dd \u05d0\u05d5\u05e1\u05e4\u05d9\u05dd",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
-"d": "Gramplet for grouping collections of items to aid in data entry.",
-"v": "1.0.47",
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05e7\u05d9\u05d1\u05d5\u05e5 \u05d0\u05d5\u05e1\u05e4\u05d9 \u05e4\u05e8\u05d9\u05d8\u05d9\u05dd \u05dc\u05e1\u05d9\u05d5\u05e2 \u05d1\u05d4\u05d6\u05e0\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd.",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "ClipboardGramplet.addon.tgz",
@@ -1252,7 +1252,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea, \u05e2\u05e8\u05d9\u05db\u05ea \u05d5\u05e9\u05de\u05d9\u05e8\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05be\u05e2\u05dc Exif \u05dc\u05ea\u05de\u05d5\u05e0\u05d5\u05ea",
-"v": "2.0.15",
+"v": "2.0.16",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
@@ -1307,7 +1307,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05e7\u05d1\u05dc\u05ea \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05de\u05de\u05e1\u05d3 \u05e0\u05ea\u05d5\u05e0\u05d9 GOV",
-"v": "1.0.23",
+"v": "1.0.24",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",
@@ -1598,6 +1598,22 @@
 "a": 1
 },
 {
+"n": "PostgreSQL Enhanced",
+"i": "postgresqlenhanced",
+"t": 12,
+"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"v": "1.5.2",
+"g": "6.0",
+"s": 3,
+"z": "PostgreSQLEnhanced.addon.tgz",
+"rm": [
+"psycopg"
+],
+"re": [],
+"h": "https://github.com/gramps-project/addons-source/wiki/PostgreSQLEnhanced",
+"a": 1
+},
+{
 "n": "SharedPostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
@@ -1744,10 +1760,10 @@
 "h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
-"n": "\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05e9\u05dc \u05de\u05e9\u05e4\u05d7\u05d5\u05ea \u05e9\u05ea\u05d5\u05d0\u05de\u05d5\u05ea \u05dc<\u05de\u05e1\u05e0\u05df \u05de\u05e9\u05e4\u05d7\u05d4>",
+"n": "\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05e9\u05dc \u05de\u05e9\u05e4\u05d7\u05d5\u05ea \u05e9\u05ea\u05d5\u05d0\u05de\u05d5\u05ea \u05dc\u05de\u05e1\u05e0\u05df <\u05de\u05e1\u05e0\u05df \u05de\u05e9\u05e4\u05d7\u05d4>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
-"d": "\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05e9\u05dc \u05de\u05e9\u05e4\u05d7\u05d5\u05ea \u05e9\u05ea\u05d5\u05d0\u05de\u05d5\u05ea \u05dc<\u05de\u05e1\u05e0\u05df \u05de\u05e9\u05e4\u05d7\u05d4>",
+"d": "\u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05e9\u05dc \u05de\u05e9\u05e4\u05d7\u05d5\u05ea \u05e9\u05ea\u05d5\u05d0\u05de\u05d5\u05ea \u05dc\u05de\u05e1\u05e0\u05df <\u05de\u05e1\u05e0\u05df \u05de\u05e9\u05e4\u05d7\u05d4>",
 "v": "1.0.19",
 "g": "6.0",
 "s": 3,
