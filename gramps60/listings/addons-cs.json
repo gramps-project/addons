@@ -1401,11 +1401,11 @@
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplet zobrazuj\u00edc\u00ed podrobnosti o osob\u011b",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "MediaBrowser.addon.tgz",
-"h": "Addon:MediaMerge"
+"h": "Addon:MediaBrowserGramplet"
 },
 {
 "n": "Note Gramplet",

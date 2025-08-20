@@ -1401,11 +1401,11 @@
 "i": "MediaBrowser",
 "t": 10,
 "d": "Gramplet hi\u1ec3n th\u1ecb chi ti\u1ebft m\u1ed9t ng\u01b0\u1eddi ",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "MediaBrowser.addon.tgz",
-"h": "Addon:MediaMerge"
+"h": "Addon:MediaBrowserGramplet"
 },
 {
 "n": "Note Gramplet",

@@ -1401,11 +1401,11 @@
 "i": "MediaBrowser",
 "t": 10,
 "d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05e6\u05d2\u05ea \u05e4\u05e8\u05d8\u05d9 \u05d0\u05d3\u05dd",
-"v": "1.0.38",
+"v": "1.0.39",
 "g": "6.0",
 "s": 3,
 "z": "MediaBrowser.addon.tgz",
-"h": "Addon:MediaMerge"
+"h": "Addon:MediaBrowserGramplet"
 },
 {
 "n": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05d4\u05e2\u05e8\u05d5\u05ea",
