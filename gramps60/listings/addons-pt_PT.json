@@ -361,7 +361,7 @@
 "i": "networkchart",
 "t": 0,
 "d": "Gera um gr\u00e1fico familiar de rede.",
-"v": "0.0.31",
+"v": "0.0.32",
 "g": "6.0",
 "s": 3,
 "z": "NetworkChart.addon.tgz",

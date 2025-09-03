@@ -361,7 +361,7 @@
 "i": "networkchart",
 "t": 0,
 "d": "Generira mre\u017eni dijagram obitelji.",
-"v": "0.0.31",
+"v": "0.0.32",
 "g": "6.0",
 "s": 3,
 "z": "NetworkChart.addon.tgz",

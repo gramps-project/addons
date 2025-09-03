@@ -361,7 +361,7 @@
 "i": "networkchart",
 "t": 0,
 "d": "G\u00e9n\u00e8re un graphique du r\u00e9seau familial.",
-"v": "0.0.31",
+"v": "0.0.32",
 "g": "6.0",
 "s": 3,
 "z": "NetworkChart.addon.tgz",
