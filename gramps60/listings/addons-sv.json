@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Producerar en eller flera rapporter f\u00f6r \u00e4ttlingar baserade p\u00e5 en angiven fr\u00e5ga.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Producerar en eller flera detaljerade rapporter f\u00f6r \u00e4ttlingar baserade p\u00e5 en angiven fr\u00e5ga.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -1598,7 +1598,7 @@
 "a": 1
 },
 {
-"n": "PostgreSQL Enhanced",
+"n": "PostgreSQL enhanced",
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",

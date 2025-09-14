@@ -15,17 +15,17 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Tworzy jeden lub wi\u0119cej raport\u00f3w potomk\u00f3w na podstawie dostarczonego zapytania.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Descendants Lines",
+"n": "Linie potomk\u00f3w",
 "i": "Descendants Lines",
 "t": 0,
-"d": "Produces descendants lines of a person",
+"d": "Generuje linie potomk\u00f3w osoby",
 "v": "1.1.13",
 "g": "6.0",
 "s": 3,
@@ -33,21 +33,21 @@
 "h": "Addon:DescendantsLines"
 },
 {
-"n": "Detailed Descendant Book",
+"n": "Szczeg\u00f3\u0142owa ksi\u0119ga potomk\u00f3w",
 "i": "DetailedDescendantBook",
 "t": 0,
-"d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.33",
+"d": "Tworzy jeden lub wi\u0119cej szczeg\u00f3\u0142owych raport\u00f3w potomk\u00f3w na podstawie dostarczonego zapytania.",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Dynamic Web Report",
+"n": "Raport Dynamicznej Strony Web",
 "i": "DynamicWeb",
 "t": 0,
-"d": "Produces dynamic web pages for the database",
+"d": "Tworzy dynamiczne strony internetowe dla bazy danych",
 "v": "0.0.100",
 "g": "6.0",
 "s": 3,
@@ -58,7 +58,7 @@
 "n": "Family Sheet",
 "i": "FamilySheet",
 "t": 0,
-"d": "Produces a family sheet showing full information about a person and his/her partners and children.",
+"d": "Tworzy arkusz rodziny pokazuj\u0105cy pe\u0142ne informacje o osobie oraz jej partnerach i dzieciach.",
 "v": "3.4.51",
 "g": "6.0",
 "s": 3,
@@ -69,7 +69,7 @@
 "n": "Drzewo genealogiczne",
 "i": "FamilyTree",
 "t": 0,
-"d": "Produces a graphical family tree.",
+"d": "Tworzy graficzne drzewo genealogiczne.",
 "v": "4.2.26",
 "g": "6.0",
 "s": 3,
@@ -220,10 +220,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Ancestral Fan Chart",
+"n": "Wachlarzowy wykres przodk\u00f3w",
 "i": "d3-ancestralfanchart",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
+"d": "Generuje stron\u0119 internetow\u0105 z graficzn\u0105 reprezentacj\u0105 przodk\u00f3w (SVG) w formie wykresu wachlarzowego, wykorzystuj\u0105c bibliotek\u0119 JavaScript D3.js.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -234,7 +234,7 @@
 "n": "Descendant Indented Tree",
 "i": "d3-descendantindentedtree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
+"d": "Generuje stron\u0119 internetow\u0105 z graficzn\u0105 reprezentacj\u0105 potomk\u00f3w (SVG) w formie zwijalnego, wci\u0119ciowego uk\u0142adu drzewa, wykorzystuj\u0105c bibliotek\u0119 JavaScript D3.js.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -242,10 +242,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Descendant_Indented_Tree"
 },
 {
-"n": "Database Differences Report",
+"n": "Raport r\u00f3\u017cnic w bazie danych",
 "i": "database-differences-report",
 "t": 0,
-"d": "Compares an external database with the current one.",
+"d": "Por\u00f3wnuje zewn\u0119trzn\u0105 baz\u0119 danych z bie\u017c\u0105c\u0105.",
 "v": "1.0.28",
 "g": "6.0",
 "s": 3,
@@ -256,7 +256,7 @@
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
-"d": "Generates a web (HTML) page with a graphical representation of ancestors/descendants (SVG) where details about individuals become visible upon mouse-events.",
+"d": "Generuje stron\u0119 WWW (HTML) z graficzn\u0105 reprezentacj\u0105 przodk\u00f3w/potomk\u00f3w (SVG), gdzie szczeg\u00f3\u0142y dotycz\u0105ce os\u00f3b staj\u0105 si\u0119 widoczne przy zdarzeniach myszy.",
 "v": "2.3.50",
 "g": "6.0",
 "s": 3,
@@ -267,7 +267,7 @@
 "n": "Descendant Space Tree",
 "i": "descendantspacetree",
 "t": 0,
-"d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
+"d": "Generuje stron\u0119 internetow\u0105 z interaktywnym grafem potomk\u00f3w przedstawionym jako drzewo przestrzenne do efektywnego przegl\u0105dania, nawet przy wielu potomkach lub pokoleniach.",
 "v": "1.1.2",
 "g": "6.0",
 "s": 3,
@@ -275,10 +275,10 @@
 "h": "Addon:DescendantSpaceTree"
 },
 {
-"n": "Detailed Descendant Report With All Images",
+"n": "Szczeg\u00f3\u0142owy raport potomk\u00f3w ze wszystkimi obrazami",
 "i": "det_descendant_report_i",
 "t": 0,
-"d": "Produces a detailed descendant report with all images and optional todo list.",
+"d": "Tworzy szczeg\u00f3\u0142owy raport potomk\u00f3w ze wszystkimi obrazami i opcjonaln\u0105 list\u0105 zada\u0144 do wykonania.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -286,10 +286,10 @@
 "h": "Addon:Detailed_Descendant_Report_With_All_Images"
 },
 {
-"n": "Double Cousins",
+"n": "Podw\u00f3jni kuzyni",
 "i": "double_cousins",
 "t": 0,
-"d": "A text report listing double cousins.",
+"d": "Raport tekstowy wymieniaj\u0105cy podw\u00f3jnych kuzyn\u00f3w.",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -394,10 +394,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "Wszystkie imiona wszystkich os\u00f3b",
+"n": "Wszystkie nazwy wszystkich os\u00f3b",
 "i": "allnames",
 "t": 1,
-"d": "Wy\u015bwietl wszystkie nazwiska wszystkich os\u00f3b",
+"d": "Wy\u015bwietl wszystkie nazwy wszystkich os\u00f3b",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -405,10 +405,10 @@
 "h": "Addon:All_Names_Quickview"
 },
 {
-"n": "Biography",
+"n": "Biografia",
 "i": "biographyquickview",
 "t": 1,
-"d": "Display a text biography",
+"d": "Wy\u015bwietl biografi\u0119 tekstow\u0105",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -449,10 +449,10 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "Edytor opisu wydarze\u0144",
 "i": "EventDescriptionEditor",
 "t": 2,
-"d": "A tool to find and replace a string in event description of multiple events.",
+"d": "Narz\u0119dzie do wyszukiwania i zast\u0119powania ci\u0105gu znak\u00f3w w opisie wydarze\u0144 w wielu wydarzeniach.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -460,10 +460,10 @@
 "h": "Addon:EventDescriptionEditor"
 },
 {
-"n": "Family Relationship Tool",
+"n": "Narz\u0119dzie relacji rodzinnych",
 "i": "FamilyRelationshipTool",
 "t": 2,
-"d": "Mass-edit the family relationship type for a group of families.",
+"d": "Masowa edycja typu relacji rodzinnych dla grupy rodzin.",
 "v": "1.1.11",
 "g": "6.0",
 "s": 3,
@@ -560,7 +560,7 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Sort Children in Birth order",
+"n": "Sortuj dzieci wed\u0142ug kolejno\u015bci urodzenia",
 "i": "birthorder",
 "t": 2,
 "d": "Przegl\u0105da rodziny, szukaj\u0105c dzieci, kt\u00f3re nie s\u0105 w kolejno\u015bci urodzenia.  U\u017cytkownik mo\u017ce zaakceptowa\u0107 poszczeg\u00f3lne sugestie korekty, edytowa\u0107 kolejno\u015b\u0107 urodzenia r\u0119cznie, zaakceptowa\u0107 wszystkie rodziny, w kt\u00f3rych wszystkie dzieci maj\u0105 prawid\u0142owe daty urodzenia, lub zaakceptowa\u0107 wszystkie.",
@@ -582,10 +582,10 @@
 "h": "Addon:Calculate_Estimated_Dates"
 },
 {
-"n": "Fix Capitalization of Given Names",
+"n": "Popraw pisowni\u0119 imion",
 "i": "chgivenname",
 "t": 2,
-"d": "Searches the entire database and attempts to fix capitalization of the given names.",
+"d": "Przeszukuje ca\u0142\u0105 baz\u0119 danych i pr\u00f3buje poprawi\u0107 pisowni\u0119 imion.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -593,10 +593,10 @@
 "h": "Addon:Fix_Capitalization_of_Given_Names"
 },
 {
-"n": "Command Line Merge",
+"n": "\u0141\u0105czenie z linii polece\u0144",
 "i": "climerge",
 "t": 2,
-"d": "Merge primary objects via the command line.",
+"d": "\u0141\u0105cz obiekty podstawowe przez lini\u0119 polece\u0144.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -605,10 +605,10 @@
 "a": 2
 },
 {
-"n": "Download media files from the internet",
+"n": "Pobierz pliki medialne z internetu",
 "i": "downloadmedia",
 "t": 2,
-"d": "This tool downloads media files from the internet",
+"d": "To narz\u0119dzie pobiera pliki medialne z internetu",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -616,10 +616,10 @@
 "h": "Addon:DownloadMedia"
 },
 {
-"n": "Extract Place Data from a Place Title",
+"n": "Wyodr\u0119bnij dane miejsca z nazwy miejsca",
 "i": "excity",
 "t": 2,
-"d": "Attempts to extract city and state/province from a place title",
+"d": "Pr\u00f3buje wyodr\u0119bni\u0107 miasto i stan/prowincj\u0119 z nazwy miejsca",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -775,10 +775,10 @@
 "h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
-"n": "Prolog Export",
+"n": "Eksport Prolog",
 "i": "Prolog Export",
 "t": 4,
-"d": "Exports data into a Prolog fact format.  Data is in Unicode (utf-8)",
+"d": "Eksportuje dane w formacie fakt\u00f3w Prolog. Dane s\u0105 w kodowaniu Unicode (utf-8)",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -786,10 +786,10 @@
 "h": "Output_formats#Prolog"
 },
 {
-"n": "Raw Export",
+"n": "Eksport surowy",
 "i": "Raw Export",
 "t": 4,
-"d": "This is a raw python object dump",
+"d": "To jest surowy zrzut obiekt\u00f3w Python",
 "v": "1.0.42",
 "g": "6.0",
 "s": 3,
@@ -798,10 +798,10 @@
 "a": 2
 },
 {
-"n": "Person GEXF",
+"n": "Osoba GEXF",
 "i": "ex_person_gexf",
 "t": 4,
-"d": "GEXF is used in many network graph applications.",
+"d": "GEXF jest u\u017cywany w wielu aplikacjach graf\u00f3w sieciowych.",
 "v": "1.0.3",
 "g": "6.0",
 "s": 2,
@@ -822,10 +822,10 @@
 "a": 1
 },
 {
-"n": "DE Web Connect Pack",
+"n": "Pakiet DE Web Connect",
 "i": "DE Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the DE (requires libwebconnect)",
+"d": "Zbi\u00f3r serwis\u00f3w internetowych dla DE (wymaga libwebconnect)",
 "v": "0.0.32",
 "g": "6.0",
 "s": 3,
@@ -833,10 +833,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "FR Web Connect Pack",
+"n": "Pakiet po\u0142\u0105cze\u0144 internetowych FR",
 "i": "FR Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the FR (requires libwebconnect)",
+"d": "Kolekcja stron internetowych dla FR (wymaga libwebconnect)",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -1011,10 +1011,10 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Combined",
+"n": "Po\u0142\u0105czony",
 "i": "combinedview",
 "t": 8,
-"d": "A view showing relationships and events for a person",
+"d": "Widok pokazuj\u0105cy zwi\u0105zki i wydarzenia dla osoby",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1138,7 +1138,7 @@
 "n": "Beta Co dalej",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "Beta Gramplet sugeruj\u0105cy elementy do zbadania",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1147,10 +1147,10 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Urodziny",
 "i": "Birthdays",
 "t": 10,
-"d": "a gramplet that displays the birthdays of the living people",
+"d": "gramplet wy\u015bwietlaj\u0105cy urodziny os\u00f3b \u017cyj\u0105cych",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,
@@ -1161,7 +1161,7 @@
 "n": "Zegar",
 "i": "Clock Gramplet",
 "t": 10,
-"d": "Gramplet for demonstrating Cairo graphics",
+"d": "Gramplet demonstruj\u0105cy grafik\u0119 Cairo",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -1170,10 +1170,10 @@
 "a": 2
 },
 {
-"n": "Collections Clipboard",
+"n": "Schowek kolekcji",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
-"d": "Gramplet for grouping collections of items to aid in data entry.",
+"d": "Gramplet do grupowania kolekcji element\u00f3w u\u0142atwiaj\u0105cy wprowadzanie danych.",
 "v": "1.0.48",
 "g": "6.0",
 "s": 3,
@@ -1181,10 +1181,10 @@
 "h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
-"n": "DNA Matches",
+"n": "Dopasowania DNA",
 "i": "DNAMatches",
 "t": 10,
-"d": "Gramplet to display a list of DNA matches",
+"d": "Gramplet wy\u015bwietlaj\u0105cy list\u0119 dopasowa\u0144 DNA",
 "v": "2.0.4",
 "g": "6.0",
 "s": 3,
@@ -1192,7 +1192,7 @@
 "h": "Addon:DNAMatches"
 },
 {
-"n": "DNA Segment Map",
+"n": "Mapa segment\u00f3w DNA",
 "i": "DNASegmentMap",
 "t": 10,
 "d": "Gramplet wy\u015bwietlaj\u0105cy map\u0119 dopasowanych segment\u00f3w DNA",
@@ -1203,10 +1203,10 @@
 "h": "Addon:DNASegmentMap"
 },
 {
-"n": "Gramplet Wpis danych",
+"n": "Gramplet Wprowadzanie danych",
 "i": "Data Entry Gramplet",
 "t": 10,
-"d": "Gramplet for quick data entry",
+"d": "Gramplet do szybkiego wprowadzania danych",
 "v": "1.0.52",
 "g": "6.0",
 "s": 3,
@@ -1215,10 +1215,10 @@
 "a": 1
 },
 {
-"n": "Date Calculator",
+"n": "Kalkulator dat",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Wykonaj obliczenia dat",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1229,7 +1229,7 @@
 "n": "Gramplet g\u0142\u0119bokich po\u0142\u0105cze\u0144",
 "i": "Deep Connections Gramplet",
 "t": 10,
-"d": "Gramplet showing a deep relationship between active and home people",
+"d": "Gramplet pokazuj\u0105cy g\u0142\u0119bokie powi\u0105zania mi\u0119dzy osob\u0105 aktywn\u0105 a domow\u0105",
 "v": "1.0.47",
 "g": "6.0",
 "s": 3,
@@ -1237,10 +1237,10 @@
 "h": "Deep_Connections_Gramplet"
 },
 {
-"n": "Descendant Count",
+"n": "Liczba potomk\u00f3w",
 "i": "Descendant Count Gramplet",
 "t": 10,
-"d": "Gramplet for showing people and descendant counts",
+"d": "Gramplet do wy\u015bwietlania os\u00f3b i liczby potomk\u00f3w",
 "v": "2.0.16",
 "g": "6.0",
 "s": 3,
@@ -1259,7 +1259,7 @@
 "h": "Edit Image Exif Metadata"
 },
 {
-"n": "Extended Family Attributes",
+"n": "Rozszerzone atrybuty rodziny",
 "i": "Extended Family Attributes",
 "t": 10,
 "d": "Gramplet pokazuj\u0105cy atrybuty rodziny",
@@ -1270,7 +1270,7 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Family_Attributes_Gramplet"
 },
 {
-"n": "Extended Person Attributes",
+"n": "Rozszerzone atrybuty osoby",
 "i": "Extended Person Attributes",
 "t": 10,
 "d": "Gramplet pokazuj\u0105cy atrybuty osoby",

@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Stvara jedan ili vi\u0161e izvje\u0161taja o potomcima, na osnovi dostavljenog upita.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Stvara jedan ili vi\u0161e detaljnih izvje\u0161taja o potomcima, na osnovi dostavljenog upita.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -888,7 +888,7 @@
 "h": "Addon:RestartWhereYouWereLastWorking"
 },
 {
-"n": "SV Web Connect Pack",
+"n": "SV Web Connect zbirka",
 "i": "SV Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for Sweden (requires libwebconnect)",
@@ -1203,7 +1203,7 @@
 "h": "Addon:DNASegmentMap"
 },
 {
-"n": "Unos podataka",
+"n": "Unos podataka \u2013 Gramplet",
 "i": "Data Entry Gramplet",
 "t": 10,
 "d": "Gramplet za brzi unos podataka",
@@ -1598,10 +1598,10 @@
 "a": 1
 },
 {
-"n": "PostgreSQL Enhanced",
+"n": "Pro\u0161ireni PostgreSQL",
 "i": "postgresqlenhanced",
 "t": 12,
-"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"d": "Napredni PostgreSQL pozadinski sustav sa spremanjem u JSONB formatu, podr\u0161kom za dijagram baze podataka (Apache AGE), sli\u010dnost vektora (pgvector) i funkcijama umjetne inteligencije/strojnog u\u010denja. Namijenjeno za napredne korisnike. Zahtijeva PostgreSQL 15+ s pro\u0161irenjima. Kompatibilno s Gramps Web-om.",
 "v": "1.5.2",
 "g": "6.0",
 "s": 3,

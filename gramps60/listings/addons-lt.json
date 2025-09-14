@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Produces one or more descendant reports based on a supplied query.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -405,10 +405,10 @@
 "h": "Addon:All_Names_Quickview"
 },
 {
-"n": "Biography",
+"n": "Biografija",
 "i": "biographyquickview",
 "t": 1,
-"d": "Display a text biography",
+"d": "Rodyti tekstin\u0119 biografij\u0105",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -427,7 +427,7 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Attach Source",
+"n": "Prid\u0117ti \u0161altin\u012f",
 "i": "AttachSource",
 "t": 2,
 "d": "Attaches a shared source to multiple objects.",
@@ -438,10 +438,10 @@
 "h": "Addon:AttachSourceTool"
 },
 {
-"n": "Avatar Generator Tool",
+"n": "Persona\u017eo k\u016brimo \u012frankis",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "A tool to add avatar pictures to your family tree",
+"d": "\u012erankis, skirtas persona\u017eo nuotraukoms prid\u0117ti prie \u0161eimos med\u017eio",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -560,10 +560,10 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Sort Children in Birth order",
+"n": "R\u016b\u0161iuoti vaikus gimimo tvarka",
 "i": "birthorder",
 "t": 2,
-"d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
+"d": "Per\u017ei\u016bri \u0161eimas, ie\u0161kodamas vaik\u0173, kurie n\u0117ra gimimo eil\u0117je. Vartotojas gali priimti asmeninius taisymo pasi\u016blymus, keisti gimimo eili\u0161kum\u0105 rankiniu b\u016bdu, priimti visas \u0161eimas, kuriose visi vaikai turi teisingas gimimo datas, arba priimti visus.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -574,7 +574,7 @@
 "n": "Paskai\u010diuoti \u012fvertinamas datas",
 "i": "calculateestimateddates",
 "t": 2,
-"d": "Apskai\u010diuoja \u012fvertintas  gimimo ir mirties datas.",
+"d": "Apskai\u010diuoja numatomas gimimo ir mirties datas.",
 "v": "0.90.41",
 "g": "6.0",
 "s": 3,
@@ -1135,10 +1135,10 @@
 "h": "AnniversariesGramplet"
 },
 {
-"n": "Beta What's Next",
+"n": "Beta. Kas toliau",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "Beta Grampletas si\u016blo elementus tyrimams",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1147,10 +1147,10 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Gimtadieniai",
 "i": "Birthdays",
 "t": 10,
-"d": "a gramplet that displays the birthdays of the living people",
+"d": "grampletas, rodanti gyv\u0173 \u017emoni\u0173 gimtadienius",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,

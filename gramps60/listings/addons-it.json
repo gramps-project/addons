@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Fornisce uno o pi\u00f9 resoconti dei discendenti basati sulla richiesta indicata.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Produce uno o pi\u00f9 resoconti dettagliati dei discendenti basati sulla richiesta indicata.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -110,10 +110,10 @@
 "h": "Addon:Lines_of_Descendency_Report"
 },
 {
-"n": "Tiny Tafel",
+"n": "Liste Eclair",
 "i": "ListeEclair",
 "t": 0,
-"d": "Generates a tiny tafel",
+"d": "Produit une liste eclair",
 "v": "1.0.30",
 "g": "6.0",
 "s": 3,
@@ -231,7 +231,7 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
-"n": "Descendant Indented Tree",
+"n": "Albero indentato dei discendenti",
 "i": "d3-descendantindentedtree",
 "t": 0,
 "d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
@@ -242,7 +242,7 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Descendant_Indented_Tree"
 },
 {
-"n": "Database Differences Report",
+"n": "Resoconto sulle differenze tra gli archivi",
 "i": "database-differences-report",
 "t": 0,
 "d": "Compares an external database with the current one.",
@@ -264,7 +264,7 @@
 "h": "Addon:DenominoViso"
 },
 {
-"n": "Descendant Space Tree",
+"n": "Albero spaziale dei discendenti",
 "i": "descendantspacetree",
 "t": 0,
 "d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
@@ -275,10 +275,10 @@
 "h": "Addon:DescendantSpaceTree"
 },
 {
-"n": "Detailed Descendant Report With All Images",
+"n": "Resoconto dettagliato dei discendenti con tutte le immagini",
 "i": "det_descendant_report_i",
 "t": 0,
-"d": "Produces a detailed descendant report with all images and optional todo list.",
+"d": "Produce un resoconto dettagliato dei discendenti con tutte le immagini e la lista opzionale delle cose da fare.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -405,10 +405,10 @@
 "h": "Addon:All_Names_Quickview"
 },
 {
-"n": "Biography",
+"n": "Biografia",
 "i": "biographyquickview",
 "t": 1,
-"d": "Display a text biography",
+"d": "Mostra il testo della biografia",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -560,10 +560,10 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Sort Children in Birth order",
+"n": "Ordina i figli in ordine di nascita",
 "i": "birthorder",
 "t": 2,
-"d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
+"d": "Controlla le famiglie cercando i figli che non sono in ordine di nascita. L'utente pu\u00f2 correggere l'ordine accettando i suggerimenti uno alla volta, ordinare manualmente i figli, accettare tutte le famiglie che hanno tutti i figli con date corrette oppure accettare tutto.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -582,10 +582,10 @@
 "h": "Addon:Calculate_Estimated_Dates"
 },
 {
-"n": "Fix Capitalization of Given Names",
+"n": "Correggere le maiuscole dei nomi",
 "i": "chgivenname",
 "t": 2,
-"d": "Searches the entire database and attempts to fix capitalization of the given names.",
+"d": "Cerca in tutto il database e prova a correggere le maiuscole dei nomi.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -902,7 +902,7 @@
 "n": "Preferenze tematiche",
 "i": "ThemesPrefs",
 "t": 6,
-"d": "Un'aggiunta alle preferenze per la semplice correzione di temi e caratteri. Particolarmente utile per gli utenti di Windows.",
+"d": "Un'aggiunta alle preferenze per la semplice correzione di temi e di tipi di carattere. Particolarmente utile per gli utenti di Windows.",
 "v": "0.0.16",
 "g": "6.0",
 "s": 3,
@@ -1011,10 +1011,10 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Combined",
+"n": "Combinato",
 "i": "combinedview",
 "t": 8,
-"d": "A view showing relationships and events for a person",
+"d": "Una vista che mostra le relazioni e gli eventi di una persona",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1147,10 +1147,10 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Compleanni",
 "i": "Birthdays",
 "t": 10,
-"d": "a gramplet that displays the birthdays of the living people",
+"d": "un gramplet che mostra i compleanni delle persone in vita",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,
@@ -1158,10 +1158,10 @@
 "h": "BirthdaysGramplet"
 },
 {
-"n": "Clock",
+"n": "Orologio",
 "i": "Clock Gramplet",
 "t": 10,
-"d": "Gramplet for demonstrating Cairo graphics",
+"d": "Gramplet che dimostra il funzionamento dei grafici basati su Cairo",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -1237,7 +1237,7 @@
 "h": "Deep_Connections_Gramplet"
 },
 {
-"n": "Descendant Count",
+"n": "Totale dei discendenti",
 "i": "Descendant Count Gramplet",
 "t": 10,
 "d": "Gramplet for showing people and descendant counts",
@@ -1586,7 +1586,7 @@
 "n": "PostgreSQL",
 "i": "postgresql",
 "t": 12,
-"d": "PostgreSQL Database",
+"d": "Database PostgreSQL",
 "v": "1.0.20",
 "g": "6.0",
 "s": 3,
@@ -1598,7 +1598,7 @@
 "a": 1
 },
 {
-"n": "PostgreSQL Enhanced",
+"n": "PostgreSQL migliorato",
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
@@ -1628,10 +1628,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "La persona attiva",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "La persona attiva",
 "v": "0.0.14",
 "g": "6.0",
 "s": 3,

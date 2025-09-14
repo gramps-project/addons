@@ -15,7 +15,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Vytv\u00e1ra jednu alebo viac spr\u00e1v o potomkoch na z\u00e1klade dodanej po\u017eiadavky.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -37,7 +37,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Vytv\u00e1ra jednu alebo viac podrobn\u00fdch spr\u00e1v o potomkoch na z\u00e1klade dodanej po\u017eiadavky.",
-"v": "1.1.33",
+"v": "1.1.34",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -80,7 +80,7 @@
 "n": "Heatmapa",
 "i": "Heatmap",
 "t": 0,
-"d": "Create a heatmap web report.",
+"d": "Vytvorte webov\u00fa spr\u00e1vu s teplotnou mapou.",
 "v": "1.2.7",
 "g": "6.0",
 "s": 3,
@@ -88,10 +88,10 @@
 "h": "Addon:HeatmapWebReport"
 },
 {
-"n": "Last Change Report",
+"n": "Spr\u00e1va o posledn\u00fdch zmen\u00e1ch",
 "i": "LastChangeReport",
 "t": 0,
-"d": "Report of the last records that have been changed",
+"d": "Spr\u00e1va o posledn\u00fdch z\u00e1znamoch, ktor\u00e9 boli zmenen\u00e9",
 "v": "0.1.15",
 "g": "6.0",
 "s": 3,
@@ -124,7 +124,7 @@
 "n": "Medi\u00e1lna spr\u00e1va",
 "i": "MediaReport",
 "t": 0,
-"d": "Generates report including images, image data and notes.",
+"d": "Generuje spr\u00e1vu vr\u00e1tane obr\u00e1zkov, \u00fadajov o obr\u00e1zkoch a pozn\u00e1mok.",
 "v": "1.1.15",
 "g": "6.0",
 "s": 3,
@@ -165,7 +165,7 @@
 "h": "Addon:RepositoriesReport#Repositories_Report"
 },
 {
-"n": "Repositories Report Options",
+"n": "Mo\u017enosti spr\u00e1vy o arch\u00edvoch",
 "i": "Repositories Report Options",
 "t": 0,
 "d": "Poskytuje textov\u00fa spr\u00e1vu o arch\u00edvoch",
@@ -375,7 +375,7 @@
 "n": "Po\u010det predkov",
 "i": "NumberOfAncestorsQuickview",
 "t": 1,
-"d": "Shows the number of ancestors of the current person",
+"d": "Zobraz\u00ed po\u010det predkov aktu\u00e1lnej osoby",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -427,7 +427,7 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Pripoji\u0165 zdroj",
+"n": "Pripojenie zdroja",
 "i": "AttachSource",
 "t": 2,
 "d": "Pripoj\u00ed zdie\u013ean\u00fd zdroj k viacer\u00fdm objektom.",
@@ -505,10 +505,10 @@
 "h": "Addon:Place_completion_tool"
 },
 {
-"n": "Add/Remove Tag Tool",
+"n": "N\u00e1stroj na pridanie/odstr\u00e1nenie zna\u010diek",
 "i": "RemoveTagTool",
 "t": 2,
-"d": "Add or remove a tag from groups of people, events, etc.",
+"d": "Pridajte alebo odstr\u00e1\u0148te zna\u010dku zo skup\u00edn \u013eud\u00ed, udalost\u00ed at\u010f.",
 "v": "1.1.12",
 "g": "6.0",
 "s": 3,
@@ -516,10 +516,10 @@
 "h": "Addon:AddRemoveTagTool"
 },
 {
-"n": "Nastavi\u0165 atrib\u00fat",
+"n": "Nastavenie atrib\u00fatu",
 "i": "SetAttribute",
 "t": 2,
-"d": "Set an attribute to a given value.",
+"d": "Nastavte atrib\u00fat k zadanej hodnote.",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -527,10 +527,10 @@
 "h": "Addon:SetAttributeTool"
 },
 {
-"n": "Set Privacy Tool",
+"n": "N\u00e1stroj pre nastavenie s\u00fakromia",
 "i": "SetPrivacyTool",
 "t": 2,
-"d": "Set all objects of the last <number> of years private.",
+"d": "Nastavte v\u0161etky objekty za posledn\u00fdch <number> rokov ako s\u00fakromn\u00e9.",
 "v": "1.0.19",
 "g": "6.0",
 "s": 3,
@@ -549,7 +549,7 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Skontrolova\u0165 \u00fadaje o asoci\u00e1ci\u00e1ch",
+"n": "Kontrola \u00fadajov o asoci\u00e1ci\u00e1ch",
 "i": "associationstool",
 "t": 2,
 "d": "Skontroluje \u00fadaje o asoci\u00e1cii pre osoby.",
@@ -560,7 +560,7 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Zoradi\u0165 deti pod\u013ea poradia narodenia",
+"n": "Zoradenie det\u00ed pod\u013ea poradia narodenia",
 "i": "birthorder",
 "t": 2,
 "d": "Preh\u013ead\u00e1va rodiny a h\u013ead\u00e1 deti, ktor\u00e9 nie s\u00fa v porad\u00ed narodenia.  Pou\u017e\u00edvate\u013e m\u00f4\u017ee prija\u0165 individu\u00e1lne n\u00e1vrhy na opravu, manu\u00e1lne upravi\u0165 poradie narodenia, akceptova\u0165 v\u0161etky rodiny, ktor\u00e9 maj\u00fa v\u0161etky deti s vhodn\u00fdmi d\u00e1tumami narodenia, alebo akceptova\u0165 v\u0161etko.",
@@ -571,7 +571,7 @@
 "h": "Addon:BirthOrderTool"
 },
 {
-"n": "Vypo\u010d\u00edta\u0165 odhadovan\u00e9 d\u00e1tumy",
+"n": "V\u00fdpo\u010det odhadovan\u00fdch d\u00e1tumov",
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Vypo\u010d\u00edta pribli\u017en\u00e9 d\u00e1tumy narodenia a \u00famrtia.",
@@ -582,7 +582,7 @@
 "h": "Addon:Calculate_Estimated_Dates"
 },
 {
-"n": "Opravi\u0165 kapit\u00e1lky v dan\u00fdch (krstn\u00fdch) men\u00e1ch",
+"n": "Oprava kapit\u00e1lok v dan\u00fdch (krstn\u00fdch) men\u00e1ch",
 "i": "chgivenname",
 "t": 2,
 "d": "H\u013ead\u00e1 v celej datab\u00e1ze a sna\u017e\u00ed sa opravi\u0165 ve\u013ek\u00e9 p\u00edsmen\u00e1 v dan\u00fdch (krstn\u00fdch) men\u00e1ch.",
@@ -616,10 +616,10 @@
 "h": "Addon:DownloadMedia"
 },
 {
-"n": "Extrahova\u0165 \u00fadaje o mieste z n\u00e1zvu miesta",
+"n": "Extrakcia \u00fadajov o mieste z n\u00e1zvu miesta",
 "i": "excity",
 "t": 2,
-"d": "Pokusy o extrakciu mesta a \u0161t\u00e1tu/provincie z n\u00e1zvu miesta",
+"d": "Pok\u00fasi sa o extrakciu mesta a \u0161t\u00e1tu/provincie z n\u00e1zvu miesta",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -630,7 +630,7 @@
 "n": "Gramps Web Sync",
 "i": "gramps_web_sync",
 "t": 2,
-"d": "Synchronizes a local database with a Gramps Web instance.",
+"d": "Synchronizuje lok\u00e1lnu datab\u00e1zu s in\u0161tanciou Gramps Web.",
 "v": "1.3.4",
 "g": "6.0",
 "s": 3,
@@ -638,7 +638,7 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
-"n": "Import and Merge tool",
+"n": "N\u00e1stroj na import a zl\u00fa\u010denie",
 "i": "import_merge",
 "t": 2,
 "d": "Compares a Gramps XML database with the current one, and allows merging of the differences.",
@@ -663,7 +663,7 @@
 "n": "Overenie m\u00e9di\u00ed",
 "i": "mediaverify",
 "t": 2,
-"d": "Overi\u0165, \u010di s\u00fa m\u00e9di\u00e1 pr\u00edtomn\u00e9 v spr\u00e1vnej ceste",
+"d": "Overte, \u010di s\u00fa m\u00e9di\u00e1 pr\u00edtomn\u00e9 v spr\u00e1vnej ceste",
 "v": "1.0.31",
 "g": "6.0",
 "s": 3,
@@ -674,7 +674,7 @@
 "n": "\u010cistenie pozn\u00e1mok",
 "i": "notecleanup",
 "t": 2,
-"d": "Vy\u010disti\u0165 pozn\u00e1mky, ktor\u00e9 obsahuj\u00fa HTML zna\u010dky",
+"d": "Vy\u010distite pozn\u00e1mky, ktor\u00e9 obsahuj\u00fa HTML zna\u010dky",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -696,10 +696,10 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
-"n": "Sync Associations",
+"n": "Synchroniz\u00e1cia asoci\u00e1ci\u00ed",
 "i": "syncAssociations",
 "t": 2,
-"d": "Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.",
+"d": "Prech\u00e1dza zoznam os\u00f4b a h\u013ead\u00e1 v\u0161etky obojsmern\u00e9 asoci\u00e1cie a prid\u00e1va tie, ktor\u00e9 ch\u00fdbaj\u00fa, k asociovanej osobe.",
 "v": "0.0.14",
 "g": "6.0",
 "s": 3,
@@ -718,10 +718,10 @@
 "h": "Addon:ThumbnailGenerator"
 },
 {
-"n": "Type Cleanup",
+"n": "\u010cistenie tyoov",
 "i": "typecleanup",
 "t": 2,
-"d": "Clean up (remove) custom types",
+"d": "Vy\u010disti\u0165 (odstr\u00e1ni\u0165) vlastn\u00e9 typy",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -732,7 +732,7 @@
 "n": "Import JSON",
 "i": "JSON Import",
 "t": 3,
-"d": "This is a JSON import",
+"d": "Toto je import vo form\u00e1te JSON",
 "v": "1.0.25",
 "g": "6.0",
 "s": 3,
@@ -847,7 +847,7 @@
 "n": "NL Web Connect Pack",
 "i": "NL Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the Netherlands (requires libwebconnect)",
+"d": "Kolekcia webov\u00fdch str\u00e1nok pre Holandsko (vy\u017eaduje libwebconnect)",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -869,7 +869,7 @@
 "n": "RU Web Connect Pack",
 "i": "RU Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the RU (requires libwebconnect)",
+"d": "Kolekcia webov\u00fdch str\u00e1nok pre RU (vy\u017eaduje libwebconnect)",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -977,10 +977,10 @@
 "h": "Addon:MapService-GoogleEarth"
 },
 {
-"n": "H-Tree Pedigree",
+"n": "Rodokme\u0148 H-Tree",
 "i": "HtreePedigreeView",
 "t": 8,
-"d": "The view shows a space-efficient pedigree with ancestors of the selected person",
+"d": "Poh\u013ead zobraz\u00ed priestorovo \u00fasporn\u00fd rodokme\u0148 s predkami vybranej osoby",
 "v": "0.0.35",
 "g": "6.0",
 "s": 3,
@@ -1077,7 +1077,7 @@
 "n": "Grafick\u00fd poh\u013ead",
 "i": "graphview",
 "t": 8,
-"d": "Dynamic and interactive graph of relations",
+"d": "Dynamick\u00fd a interakt\u00edvny graf vz\u0165ahov",
 "v": "1.0.145",
 "g": "6.0",
 "s": 3,
@@ -1226,7 +1226,7 @@
 "h": "DateCalculator"
 },
 {
-"n": "Gramplet Hlb\u0161ie vz\u0165ahy",
+"n": "Gramplet Hlbok\u00e9 vz\u0165ahy",
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet zobrazuj\u00faci hlbok\u00fd vz\u0165ah medzi akt\u00edvnymi a domovsk\u00fdmi osobami",
@@ -1237,10 +1237,10 @@
 "h": "Deep_Connections_Gramplet"
 },
 {
-"n": "Po\u010d\u00edtanie potomkov",
+"n": "Po\u010dty potomkov",
 "i": "Descendant Count Gramplet",
 "t": 10,
-"d": "Gramplet na zobrazenie \u013eud\u00ed a po\u010dty potomkov",
+"d": "Gramplet na zobrazenie \u013eud\u00ed a po\u010dtov potomkov",
 "v": "2.0.16",
 "g": "6.0",
 "s": 3,
@@ -1248,7 +1248,7 @@
 "h": "Descendant_Count_Gramplet"
 },
 {
-"n": "Upravi\u0165 Exif metad\u00e1ta obr\u00e1zku",
+"n": "\u00daprava Exif metad\u00e1t obr\u00e1zku",
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet na zobrazenie, \u00fapravu a ulo\u017eenie Exif metad\u00e1t obr\u00e1zka",
@@ -1281,10 +1281,10 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
 },
 {
-"n": "Family Overview",
+"n": "Rodinn\u00fd preh\u013ead",
 "i": "Family Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a family",
+"d": "Gramplet zobrazuj\u00faci preh\u013ead udalost\u00ed pre rodinu",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1295,7 +1295,7 @@
 "n": "Gramplet Formul\u00e1r",
 "i": "Form Gramplet",
 "t": 10,
-"d": "Gramplet interface for Forms",
+"d": "Gramplet rozhranie pre formul\u00e1re",
 "v": "2.0.50",
 "g": "6.0",
 "s": 3,
@@ -1341,10 +1341,10 @@
 "h": "Addon:GrampyScript"
 },
 {
-"n": "Novinky",
+"n": "Hlavn\u00e9 spr\u00e1vy",
 "i": "Headline News",
 "t": 10,
-"d": "Gramplet that shows the latest Gramps news",
+"d": "Gramplet, ktor\u00fd zobrazuje najnov\u0161ie spr\u00e1vy Gramps",
 "v": "1.0.49",
 "g": "6.0",
 "s": 3,
@@ -1352,10 +1352,10 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "Historick\u00fd kontext",
 "i": "HistContext",
 "t": 10,
-"d": "Zoznam relevantn\u00fdch historick\u00fdch udalost\u00ed po\u010das \u017eivota osoby",
+"d": "Uv\u00e1dza relevantn\u00e9 historick\u00e9 udalosti po\u010das \u017eivota osoby",
 "v": "0.2.30",
 "g": "6.0",
 "s": 3,
@@ -1363,10 +1363,10 @@
 "h": "Addon:Historical_Context"
 },
 {
-"n": "House Timeline",
+"n": "\u010casov\u00e1 os domu",
 "i": "House Timeline",
 "t": 10,
-"d": "Lists the Residents of an Address by Timeline",
+"d": "Uv\u00e1dza obyvate\u013eov na adrese pod\u013ea \u010dasovej osi",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -1389,7 +1389,7 @@
 "n": "Posledn\u00e1 zmena",
 "i": "LastChangeGramplet",
 "t": 10,
-"d": "List the last ten person records that have been changed",
+"d": "Uv\u00e1dza posledn\u00fdch desa\u0165 z\u00e1znamov os\u00f4b, ktor\u00e9 boli zmenen\u00e9",
 "v": "0.1.15",
 "g": "6.0",
 "s": 3,
@@ -1430,10 +1430,10 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Preh\u013ead osoby",
+"n": "Osobn\u00fd preh\u013ead",
 "i": "Person Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a person",
+"d": "Gramplet zobrazuj\u00faci preh\u013ead udalost\u00ed pre osobu",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1441,10 +1441,10 @@
 "h": "Addon:Person_Overview"
 },
 {
-"n": "Photo Tagging",
+"n": "Ozna\u010dovanie fotografi\u00ed",
 "i": "Photo Tagging",
 "t": 10,
-"d": "Gramplet for tagging people in photos",
+"d": "Gramplet na ozna\u010denie \u013eud\u00ed na fotografi\u00e1ch",
 "v": "1.0.46",
 "g": "6.0",
 "s": 3,
@@ -1480,7 +1480,7 @@
 "h": "Addon:PlaceCleanup"
 },
 {
-"n": "PlaceUpdate",
+"n": "Aktualiz\u00e1cia miesta",
 "i": "PlaceUpdate",
 "t": 10,
 "d": "Gramplet na manipul\u00e1ciu s viacer\u00fdmi miestami",
@@ -1517,7 +1517,7 @@
 "n": "S\u00favisiaci pr\u00edbuzn\u00ed",
 "i": "Related Relatives Gramplet",
 "t": 10,
-"d": "Gramplet showing relatives in a relation",
+"d": "Gramplet zobrazuj\u00faci pr\u00edbuzn\u00fdch vo vz\u0165ahu",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1525,7 +1525,7 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "H\u013eada\u0165",
+"n": "H\u013eadanie",
 "i": "Search Gramplet",
 "t": 10,
 "d": "Gramplet na vyh\u013ead\u00e1vanie objektov v datab\u00e1ze.",
@@ -1537,7 +1537,7 @@
 "a": 1
 },
 {
-"n": "This Day in Family History",
+"n": "Tento de\u0148 v rodinnej hist\u00f3rii",
 "i": "This Day in Family History",
 "t": 10,
 "d": "A configurable program that shows you the connected events from your family tree that match today's day and month.",
@@ -1793,10 +1793,10 @@
 "h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
-"n": "Filter pre viacn\u00e1sobn\u00fdch rodi\u010dov",
+"n": "Filter viacn\u00e1sobn\u00fdch rodi\u010dov",
 "i": "multipleparents",
 "t": 13,
-"d": "Filter pre viacn\u00e1sobn\u00fdch rodi\u010dov",
+"d": "Filter viacn\u00e1sobn\u00fdch rodi\u010dov",
 "v": "0.0.14",
 "g": "6.0",
 "s": 3,
