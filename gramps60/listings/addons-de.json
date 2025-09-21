@@ -81,7 +81,7 @@
 "i": "Heatmap",
 "t": 0,
 "d": "Erstellt einen Heatmap-Webbericht.",
-"v": "1.2.7",
+"v": "1.2.8",
 "g": "6.0",
 "s": 3,
 "z": "Heatmap.addon.tgz",

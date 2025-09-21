@@ -77,11 +77,11 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "L\u00e4mp\u00f6kartta",
+"n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
 "d": "Create a heatmap web report.",
-"v": "1.2.7",
+"v": "1.2.8",
 "g": "6.0",
 "s": 3,
 "z": "Heatmap.addon.tgz",

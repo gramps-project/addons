@@ -77,11 +77,11 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Toplinska karta",
+"n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
 "d": "Stvori web-izvje\u0161taj toplinske karte.",
-"v": "1.2.7",
+"v": "1.2.8",
 "g": "6.0",
 "s": 3,
 "z": "Heatmap.addon.tgz",
