@@ -627,11 +627,11 @@
 "h": "Addon:Extract_Place_Data_from_a_Place_Title"
 },
 {
-"n": "Gramps Web Sync",
+"n": "Gramps Web -synkronointi",
 "i": "gramps_web_sync",
 "t": 2,
-"d": "Synchronizes a local database with a Gramps Web instance.",
-"v": "1.3.4",
+"d": "Synkronoi paikallisen tietokannan Gramps Web -instanssin kanssa.",
+"v": "1.3.5",
 "g": "6.0",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",
