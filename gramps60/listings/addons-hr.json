@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Prika\u017ei srodstvo s po\u010detnom osobom",
+"i": "relationtab",
+"t": 2,
+"d": "Prikazat \u0107e informacije o srodstvu s po\u010detnom osobom",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,

@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Toon relaties en afstanden met de centrale persoon",
+"i": "relationtab",
+"t": 2,
+"d": "Geeft relationele informatie weer met de centrale persoon",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,

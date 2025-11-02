@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Anzeige von Beziehungen und Entfernungen zur Hauptperson",
+"i": "relationtab",
+"t": 2,
+"d": "Zeigt Informationen \u00fcber die Beziehung zur Hauptperson an",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3-Medien-Hochlader",
 "i": "s3uploader",
 "t": 2,

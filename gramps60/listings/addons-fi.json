@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "N\u00e4ytt\u00e4\u00e4 suhdetiedot kotihenkil\u00f6\u00f6n",
+"i": "relationtab",
+"t": 2,
+"d": "N\u00e4yttet\u00e4\u00e4n suhdetiedot kotihenkil\u00f6\u00f6n",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3-median latausohjelma",
 "i": "s3uploader",
 "t": 2,

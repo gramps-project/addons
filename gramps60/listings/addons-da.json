@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Vis sl\u00e6gtskab og afstand til probanden",
+"i": "relationtab",
+"t": 2,
+"d": "Vil vise sl\u00e6gtskabsinformation til probanden",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3 medie overf\u00f8rsel",
 "i": "s3uploader",
 "t": 2,

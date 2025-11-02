@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "\u81ea\u5b85\u306e\u4eba\u3068\u306e\u4eba\u9593\u95a2\u4fc2\u3084\u8ddd\u96e2\u3092\u8868\u793a\u3059\u308b",
+"i": "relationtab",
+"t": 2,
+"d": "\u81ea\u5b85\u306e\u4eba\u3068\u306e\u95a2\u9023\u60c5\u5831\u3092\u8868\u793a\u3057\u307e\u3059",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,

@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Display relations and distances with the home person",
+"i": "relationtab",
+"t": 2,
+"d": "Will display relational informations with the home person",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,

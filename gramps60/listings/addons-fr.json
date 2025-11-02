@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Afficher les relations et distances avec la souche",
+"i": "relationtab",
+"t": 2,
+"d": "Affichera les informations relationnelles avec la souche",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "Chargeur de media S3",
 "i": "s3uploader",
 "t": 2,

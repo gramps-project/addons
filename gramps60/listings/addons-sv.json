@@ -682,6 +682,18 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
+"n": "Visa relationer och avst\u00e5nd till hempersonen",
+"i": "relationtab",
+"t": 2,
+"d": "Kommer att visa relationsinformation till hempersonen",
+"v": "1.1.4",
+"g": "6.0",
+"s": 1,
+"z": "RelID.addon.tgz",
+"h": "Addon:RelID",
+"a": 2
+},
+{
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,
