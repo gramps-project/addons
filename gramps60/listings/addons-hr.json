@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "Toplinska karta",
 "i": "Heatmap",
 "t": 0,
 "d": "Stvori web-izvje\u0161taj toplinske karte.",
@@ -132,10 +132,10 @@
 "h": "Addon:MediaReport"
 },
 {
-"n": "Dijagram predaka",
+"n": "Dijagram porijekla",
 "i": "PedigreeChart",
 "t": 0,
-"d": "Alternativni prikaz uobi\u010dajenog dijagrama predaka.",
+"d": "Alternativni prikaz uobi\u010dajenog dijagrama porijekla.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -187,10 +187,10 @@
 "h": "Addon:SourcesCitationsReport"
 },
 {
-"n": "Timeline Pedigree Report",
+"n": "Izve\u0161taj vremenske crte porijekla",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"d": "Stvara HTML web stranicu koja koristi JavaScript za prikaz blok dijagrama porijekla poredanog okomito po datumu ro\u0111enja",
 "v": "0.0.12",
 "g": "6.0",
 "s": 3,
@@ -419,7 +419,7 @@
 "n": "Kronologija",
 "i": "timelinequickview",
 "t": 1,
-"d": "Prikazuje doga\u0111aje osobe kronolo\u0161ki",
+"d": "Prikazuje doga\u0111aje osobe na vremenskoj crti",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -427,10 +427,10 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Dodaj izvor",
+"n": "Prilo\u017ei izvor",
 "i": "AttachSource",
 "t": 2,
-"d": "Dodaje dijeljeni izvor objektima.",
+"d": "Dodaje dijeljeni izvor vi\u0161estrukim objektima.",
 "v": "0.0.41",
 "g": "6.0",
 "s": 3,
@@ -441,7 +441,7 @@
 "n": "Generator avatara",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "Alat za dodavanje avatara u rodoslov",
+"d": "Alat za dodavanje avatara u tvoj rodoslov",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -563,7 +563,7 @@
 "n": "Svrstaj djecu redoslijedom ro\u0111enja",
 "i": "birthorder",
 "t": 2,
-"d": "U obiteljima tra\u017ei djecu, koja nisu svrstana po datumu ro\u0111enja. Korisnik mo\u017ee ispraviti redoslijed prihva\u0107anjem pojedinih prijedloga, mo\u017ee urediti redoslijed ro\u0111enja ru\u010dno, mo\u017ee prihvatiti sve obitelji s ispravnim redoslijedom datuma ro\u0111enja ili mo\u017ee sve prihvatiti.",
+"d": "U obiteljima tra\u017ei djecu koja nisu svrstana po datumu ro\u0111enja. Korisnik mo\u017ee ispraviti redoslijed prihva\u0107anjem pojedinih prijedloga, mo\u017ee urediti redoslijed ro\u0111enja ru\u010dno, mo\u017ee prihvatiti sve obitelji s ispravnim redoslijedom datuma ro\u0111enja ili mo\u017ee sve prihvatiti.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -593,10 +593,10 @@
 "h": "Addon:Fix_Capitalization_of_Given_Names"
 },
 {
-"n": "Sjedinjavanje pomo\u0107u naredbenog retka",
+"n": "Spajanje pomo\u0107u naredbenog retka",
 "i": "climerge",
 "t": 2,
-"d": "Sjedini primarne objekte upotrebom naredbenog retka.",
+"d": "Spoji primarne objekte upotrebom naredbenog retka.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -638,10 +638,10 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
-"n": "Alat za uvoz i sjedinjavanje",
+"n": "Alat za uvoz i spajanje",
 "i": "import_merge",
 "t": 2,
-"d": "Uspore\u0111uje Gramps XML bazu podataka s trenuta\u010dnom i dozvoljava njihovo sjedinjenje.",
+"d": "Uspore\u0111uje Gramps XML bazu podataka s trenuta\u010dnom i dozvoljava spajanje razlika.",
 "v": "0.0.25",
 "g": "6.0",
 "s": 3,
@@ -649,10 +649,10 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Sjedinjavanje medija",
+"n": "Spoji medija",
 "i": "mediamerge",
 "t": 2,
-"d": "Pretra\u017euje cijelu bazu podataka i sjedinjuje medije koji imaju istu stazu.",
+"d": "Pretra\u017euje cijelu bazu podataka i spaja medije koji imaju istu stazu.",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -745,7 +745,7 @@
 "i": "JSON Import",
 "t": 3,
 "d": "Ovo je JSON uvoz",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -764,10 +764,10 @@
 "a": 1
 },
 {
-"n": "Dodaci za GEDCOM izvoz (GED2)",
+"n": "Izvezi datoteke GEDCOM sufiksa (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,
-"d": "Dodaci za obi\u010dan GEDCOM format.",
+"d": "Sufiks za uobi\u010dajen GEDCOM format.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -780,7 +780,7 @@
 "i": "JSON Export",
 "t": 4,
 "d": "Ovo je JSON izvoz",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -867,7 +867,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Napredni upravlja\u010d za dodatke",
+"n": "Napredni upravlja\u010d za dodatake",
 "i": "PluginManager",
 "t": 6,
 "d": "Upravlja\u010d za dodatke s nekolicinom dodatnih funkcija",
@@ -911,10 +911,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Postavke za dizajn su\u010delja",
+"n": "Postavke teme",
 "i": "ThemesPrefs",
 "t": 6,
-"d": "Dodatak u postavkama za jednostavno pode\u0161avanje dizajna su\u010delja i fontova. Naro\u010dito korisno za korisnike Windows sustava.",
+"d": "Dodatak u postavkama za jednostavno pode\u0161avanje teme i fontova. Naro\u010dito korisno za korisnike Windows sustava.",
 "v": "0.0.16",
 "g": "6.0",
 "s": 3,
@@ -989,10 +989,10 @@
 "h": "Addon:MapService-GoogleEarth"
 },
 {
-"n": "H-stablo predaka",
+"n": "H-stablo porijekla",
 "i": "HtreePedigreeView",
 "t": 8,
-"d": "Prikazuje efikasno zbijen stablasti dijagram predaka odabrane osobe",
+"d": "Prikazuje efikasno zbijen stablasti dijagram porijekla s precima odabrane osobe",
 "v": "0.0.35",
 "g": "6.0",
 "s": 3,
@@ -1012,10 +1012,10 @@
 "a": 1
 },
 {
-"n": "Kronologija predaka",
+"n": "Vremenska crta porijekla",
 "i": "TimelinePedigreeView",
 "t": 8,
-"d": "Prikazuje kronologiju predaka s precima i potomcima odabrane osobe",
+"d": "Prikazuje vremensku crtu porijekla s precima i potomcima odabrane osobe",
 "v": "0.1.66",
 "g": "6.0",
 "s": 3,
@@ -1068,10 +1068,10 @@
 "h": "Addon:AncestorsMap"
 },
 {
-"n": "TimeLines Map",
+"n": "Karta vremenskih crta",
 "i": "geotimelines",
 "t": 8,
-"d": "A view showing all the places visited by a person or persons on various date.",
+"d": "Prikaz svih mjesta koja je jedna ili vi\u0161e osoba posjetila na razli\u010dite datume.",
 "v": "1.0.5",
 "g": "6.0",
 "s": 2,
@@ -1086,7 +1086,7 @@
 "a": 1
 },
 {
-"n": "Dijagram srodstva",
+"n": "Prikaz dijagrama",
 "i": "graphview",
 "t": 8,
 "d": "Dinami\u010dan i interaktivan dijagram srodstva",
@@ -1245,7 +1245,7 @@
 "n": "Kalkulator datuma",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Izvr\u0161i matemati\u010dke izra\u010dune datuma",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1253,7 +1253,7 @@
 "h": "DateCalculator"
 },
 {
-"n": "Duboka veza \u2013 Gramplet",
+"n": "Duboke veze \u2013 Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet prikazuje duboku vezu izme\u0111u aktivne i glavne osobe",
@@ -1319,7 +1319,7 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Gramplet za obrazac",
+"n": "Obrazac \u2013 gramplet",
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet su\u010delje za obrasce",
@@ -1390,10 +1390,10 @@
 "h": "Addon:Historical_Context"
 },
 {
-"n": "Kronologija ku\u0107e",
+"n": "Vremenska crta ku\u0107e",
 "i": "House Timeline",
 "t": 10,
-"d": "Kronolo\u0161ki popis stanovnika na adresi",
+"d": "Izra\u0111uje popis stanovnika jedne adrese na vremenskoj crti",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -1507,10 +1507,10 @@
 "h": "Addon:PlaceCleanup"
 },
 {
-"n": "PlaceUpdate",
+"n": "Aktualiziranje mjesta",
 "i": "PlaceUpdate",
 "t": 10,
-"d": "Gramplet to manipulate multiple places",
+"d": "Gramplet za mijenje vi\u0161e mjesta",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,

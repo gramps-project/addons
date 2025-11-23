@@ -77,10 +77,10 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "L\u00e4mp\u00f6kartta",
 "i": "Heatmap",
 "t": 0,
-"d": "Create a heatmap web report.",
+"d": "Luo l\u00e4mp\u00f6kartan web-raportti.",
 "v": "1.2.8",
 "g": "6.0",
 "s": 3,
@@ -744,8 +744,8 @@
 "n": "JSON-tuonti",
 "i": "JSON Import",
 "t": 3,
-"d": "This is a JSON import",
-"v": "1.0.25",
+"d": "T\u00e4m\u00e4 on JSON-tuonti",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -776,11 +776,11 @@
 "a": 1
 },
 {
-"n": "JSON Export",
+"n": "JSON-vienti",
 "i": "JSON Export",
 "t": 4,
-"d": "This is a JSON export",
-"v": "1.0.25",
+"d": "T\u00e4m\u00e4 on JSON-vienti",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -1054,7 +1054,7 @@
 "n": "Esivanhempien kaavio",
 "i": "geoancestor",
 "t": 8,
-"d": "A view showing ancestors places on the map.",
+"d": "N\u00e4kym\u00e4 esivanhempien paikkoihin kartalla.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1071,7 +1071,7 @@
 "n": "GeoTimeLines-kartta",
 "i": "geotimelines",
 "t": 8,
-"d": "A view showing all the places visited by a person or persons on various date.",
+"d": "N\u00e4ytt\u00e4\u00e4 paikat, joissa henkil\u00f6/henkil\u00f6t on jokus k\u00e4yneet.",
 "v": "1.0.5",
 "g": "6.0",
 "s": 2,
@@ -1319,10 +1319,10 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Form Gramplet",
+"n": "Lomake-Gramplet",
 "i": "Form Gramplet",
 "t": 10,
-"d": "Gramplet interface for Forms",
+"d": "Lomakkeiden Gramplet-k\u00e4ytt\u00f6liittym\u00e4",
 "v": "2.0.50",
 "g": "6.0",
 "s": 3,
@@ -1333,7 +1333,7 @@
 "n": "GetGOV",
 "i": "GetGOV Gramplet",
 "t": 10,
-"d": "Gramplet to get places from the GOV database",
+"d": "Gramplet paikkojen hakuun GOV-tietokannasta",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -1368,10 +1368,10 @@
 "h": "Addon:GrampyScript"
 },
 {
-"n": "Headline News",
+"n": "P\u00e4\u00e4uutiset",
 "i": "Headline News",
 "t": 10,
-"d": "Gramplet that shows the latest Gramps news",
+"d": "Gramplet, joka n\u00e4ytt\u00e4\u00e4 tuoreet Gramps-uutiset",
 "v": "1.0.49",
 "g": "6.0",
 "s": 3,
@@ -1379,10 +1379,10 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "Historiallinen yhteys",
 "i": "HistContext",
 "t": 10,
-"d": "Lists relevant historical events during the lifetime of a Person",
+"d": "N\u00e4yt\u00e4 t\u00e4rke\u00e4t historialliset tapahtumat henkil\u00f6n elinaikana",
 "v": "0.2.30",
 "g": "6.0",
 "s": 3,
@@ -1390,10 +1390,10 @@
 "h": "Addon:Historical_Context"
 },
 {
-"n": "House Timeline",
+"n": "Talon aikajana",
 "i": "House Timeline",
 "t": 10,
-"d": "Lists the Residents of an Address by Timeline",
+"d": "N\u00e4yt\u00e4 osoitteen asukkaat aikajanalla",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -1831,7 +1831,7 @@
 "h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
-"n": "Ihmiset, joilla on <count> <event>-tapahtumaa",
+"n": "Henkil\u00f6t, joilla on <lukum\u00e4\u00e4r\u00e4> <tapahtumaa>",
 "i": "peopleeventscount",
 "t": 13,
 "d": "Henkil\u00f6t, joilla on annetun tyyppisi\u00e4 tapahtumia pyydetty m\u00e4\u00e4r\u00e4.",

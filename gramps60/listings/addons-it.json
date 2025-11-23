@@ -549,10 +549,10 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Check Associations data",
+"n": "Controlla dati delle associazioni",
 "i": "associationstool",
 "t": 2,
-"d": "Will check the data on Association for people.",
+"d": "Verifica i dati delle associazioni per gli individui.",
 "v": "1.1.15",
 "g": "6.0",
 "s": 3,
@@ -745,7 +745,7 @@
 "i": "JSON Import",
 "t": 3,
 "d": "This is a JSON import",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -780,7 +780,7 @@
 "i": "JSON Export",
 "t": 4,
 "d": "This is a JSON export",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -1147,7 +1147,7 @@
 "h": "AnniversariesGramplet"
 },
 {
-"n": "Beta What's Next",
+"n": "Che c'\u00e8 da fare (versione beta)",
 "i": "Beta What's Next",
 "t": 10,
 "d": "Beta Gramplet suggesting items to research",

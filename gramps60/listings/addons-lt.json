@@ -22,10 +22,10 @@
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Descendants Lines",
+"n": "Palikuoni\u0173 linijos",
 "i": "Descendants Lines",
 "t": 0,
-"d": "Produces descendants lines of a person",
+"d": "Sukuria asmens palikuoni\u0173 linijas",
 "v": "1.1.13",
 "g": "6.0",
 "s": 3,
@@ -55,10 +55,10 @@
 "h": "Addon:DynamicWeb_report"
 },
 {
-"n": "Family Sheet",
+"n": "\u0160eimos lapas",
 "i": "FamilySheet",
 "t": 0,
-"d": "Produces a family sheet showing full information about a person and his/her partners and children.",
+"d": "Sudaro \u0161eimos lap\u0105, kuriame pateikiama i\u0161sami informacija apie asmen\u012f, jo partnerius ir vaikus.",
 "v": "3.4.51",
 "g": "6.0",
 "s": 3,
@@ -88,7 +88,7 @@
 "h": "Addon:HeatmapWebReport"
 },
 {
-"n": "Last Change Report",
+"n": "Paskutini\u0173 pakeitim\u0173 ataskaita",
 "i": "LastChangeReport",
 "t": 0,
 "d": "Report of the last records that have been changed",
@@ -154,7 +154,7 @@
 "h": "Addon:PersonEverything_Report"
 },
 {
-"n": "Repositories Report",
+"n": "Saugykl\u0173 ataskaita",
 "i": "Repositories Report",
 "t": 0,
 "d": "Produces a textual repositories report",
@@ -165,7 +165,7 @@
 "h": "Addon:RepositoriesReport#Repositories_Report"
 },
 {
-"n": "Repositories Report Options",
+"n": "Saugykl\u0173 ataskaitos parinktys",
 "i": "Repositories Report Options",
 "t": 0,
 "d": "Produces a textual repositories report",
@@ -220,7 +220,7 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Ancestral Fan Chart",
+"n": "Prot\u0117vi\u0173 v\u0117duoklin\u0117 diagrama",
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
@@ -321,7 +321,7 @@
 "a": 1
 },
 {
-"n": "Grandparent Tree",
+"n": "Seneli\u0173 medis",
 "i": "gt_grandparent",
 "t": 0,
 "d": "Grandparent tree using LaTeX genealogytree",
@@ -383,7 +383,7 @@
 "h": "Addon:NumberOfAncestorsQuickView"
 },
 {
-"n": "Number of descendants",
+"n": "Palikuoni\u0173 skai\u010dius",
 "i": "NumberOfDescendantsQuickview",
 "t": 1,
 "d": "Shows the number of descendants of the current person",
@@ -397,7 +397,7 @@
 "n": "All Names of All People",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Rodyti vis\u0173 \u017emoni\u0173 vardus",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -449,7 +449,7 @@
 "h": "Addon:AvatarGenerator"
 },
 {
-"n": "Event Description Editor",
+"n": "\u012evykio apra\u0161o rengykl\u0117",
 "i": "EventDescriptionEditor",
 "t": 2,
 "d": "A tool to find and replace a string in event description of multiple events.",
@@ -516,7 +516,7 @@
 "h": "Addon:AddRemoveTagTool"
 },
 {
-"n": "Set Attribute",
+"n": "Nustatyti po\u017eym\u012f",
 "i": "SetAttribute",
 "t": 2,
 "d": "Set an attribute to a given value.",
@@ -719,7 +719,7 @@
 "h": "Addon:SyncAssociation"
 },
 {
-"n": "Thumbnail Generator",
+"n": "Miniati\u016br\u0173 k\u016briklis",
 "i": "thumbgen",
 "t": 2,
 "d": "Generates thumbnails for media files",
@@ -745,7 +745,7 @@
 "i": "JSON Import",
 "t": 3,
 "d": "This is a JSON import",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -780,7 +780,7 @@
 "i": "JSON Export",
 "t": 4,
 "d": "This is a JSON export",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -911,7 +911,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Theme preferences",
+"n": "I\u0161vaizdos nustatymai",
 "i": "ThemesPrefs",
 "t": 6,
 "d": "An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.",
@@ -1185,7 +1185,7 @@
 "a": 2
 },
 {
-"n": "Clock",
+"n": "Laikrodis",
 "i": "Clock Gramplet",
 "t": 10,
 "d": "Gramplet for demonstrating Cairo graphics",
@@ -1242,10 +1242,10 @@
 "a": 1
 },
 {
-"n": "Date Calculator",
+"n": "Datos skai\u010diuotuvas",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Atlikite datos matematinius skai\u010diavimus",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1264,7 +1264,7 @@
 "h": "Deep_Connections_Gramplet"
 },
 {
-"n": "Descendant Count",
+"n": "Palikuoni\u0173 skai\u010dius",
 "i": "Descendant Count Gramplet",
 "t": 10,
 "d": "Gramplet for showing people and descendant counts",
@@ -1319,7 +1319,7 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Form Gramplet",
+"n": "Forma Gramplet",
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
@@ -1479,7 +1479,7 @@
 "h": "Addon:Photo_Tagging_Gramplet"
 },
 {
-"n": "Place and Coordinates",
+"n": "Vietov\u0117 ir koordinat\u0117s",
 "i": "Place Coordinates",
 "t": 10,
 "d": "Gramplet that simplifies setting the coordinates of a place",
@@ -1552,7 +1552,7 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Search",
+"n": "Paie\u0161ka",
 "i": "Search Gramplet",
 "t": 10,
 "d": "Gramplet for search objects in database.",
@@ -1655,10 +1655,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "Aktyvus asmuo",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "Aktyvus asmuo",
 "v": "0.0.14",
 "g": "6.0",
 "s": 3,

@@ -77,7 +77,7 @@
 "h": "Addon:Family_Tree"
 },
 {
-"n": "Heatmap",
+"n": "Carte thermique",
 "i": "Heatmap",
 "t": 0,
 "d": "Cr\u00e9er un rapport web de carte thermique.",
@@ -745,7 +745,7 @@
 "i": "JSON Import",
 "t": 3,
 "d": "Ceci est une importation JSON",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -780,7 +780,7 @@
 "i": "JSON Export",
 "t": 4,
 "d": "Ceci est une exportation JSON",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.0",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -1625,7 +1625,7 @@
 "a": 1
 },
 {
-"n": "PostgreSQL Enhanced",
+"n": "PostgreSQL Avanc\u00e9",
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
