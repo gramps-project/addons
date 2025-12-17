@@ -124,10 +124,11 @@
 "i": "PedigreeChart",
 "t": 0,
 "d": "Alternativni prikaz uobi\u010dajenog dijagrama predaka.",
-"v": "1.0.37",
+"v": "1.0.42",
 "g": "5.2",
 "s": 3,
-"z": "PedigreeChart.addon.tgz"
+"z": "PedigreeChart.addon.tgz",
+"h": "Addon:PedigreeChart"
 },
 {
 "n": "Izvje\u0161taj o osobi",

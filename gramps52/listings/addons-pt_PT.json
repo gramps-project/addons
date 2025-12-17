@@ -124,10 +124,11 @@
 "i": "PedigreeChart",
 "t": 0,
 "d": "Vers\u00e3o alternativa da tradicional \u00e1rvore de costados.",
-"v": "1.0.37",
+"v": "1.0.42",
 "g": "5.2",
 "s": 3,
-"z": "PedigreeChart.addon.tgz"
+"z": "PedigreeChart.addon.tgz",
+"h": "Addon:PedigreeChart"
 },
 {
 "n": "Relat\u00f3rio individual",
