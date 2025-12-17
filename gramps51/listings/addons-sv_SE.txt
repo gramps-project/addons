@@ -78,7 +78,7 @@
 {"t":'Report',"i":'LinesOfDescendency',"n":'Rapport för ättlingalinjer',"v":'1.1.34',"g":'5.1',"d":'Skriver ut alla ättlingalinjer från en angiven förfader till en angiven ättling som text.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Snabblista',"v":'1.0.25',"g":'5.1',"d":'Skapar en snabblista',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Mediarapport',"v":'1.1.7',"g":'5.1',"d":'Skapar rapport som inkluderar bilder, bilddata och notiser.',"z":'MediaReport.addon.tgz'}
-{"t":'Report',"i":'PedigreeChart',"n":'Antavla',"v":'1.0.35',"g":'5.1',"d":'Antavlealternativ',"z":'PedigreeChart.addon.tgz'}
+{"t":'Report',"i":'PedigreeChart',"n":'Antavla',"v":'1.0.42',"g":'5.2',"d":'Antavlealternativ',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Allting för person rapport',"v":'1.0.19',"g":'5.1',"d":'Producerar en rapport som innehåller allt om den aktiva personen',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Arkivplatsrapport',"v":'1.1.30',"g":'5.1',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Arkivplatsrapportalternativ',"v":'0.3.30',"g":'5.1',"d":'Skapar en textbaserad rapport över arkivplatser',"z":'RepositoriesReport.addon.tgz'}

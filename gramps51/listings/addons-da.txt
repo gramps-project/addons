@@ -78,7 +78,7 @@
 {"t":'Report',"i":'LinesOfDescendency',"n":'Lines of Descendency Report',"v":'1.1.34',"g":'5.1',"d":'Prints out all descendency lines from a given ancestor to a given descendent in text.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.25',"g":'5.1',"d":'Generates a tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Report',"v":'1.1.7',"g":'5.1',"d":'Generates report including images, image data and notes.',"z":'MediaReport.addon.tgz'}
-{"t":'Report',"i":'PedigreeChart',"n":'Pedigree Chart',"v":'1.0.35',"g":'5.1',"d":'Alternate version of the traditional pedigree chart.',"z":'PedigreeChart.addon.tgz'}
+{"t":'Report',"i":'PedigreeChart',"n":'Anetavle',"v":'1.0.42',"g":'5.2',"d":'Alternativ version af den traditionelle anetavle.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'PersonEverything Report',"v":'1.0.19',"g":'5.1',"d":'Produces a report containing everything about the active person',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Repositories Report',"v":'1.1.30',"g":'5.1',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Repositories Report Options',"v":'0.3.30',"g":'5.1',"d":'Produces a textual repositories report',"z":'RepositoriesReport.addon.tgz'}

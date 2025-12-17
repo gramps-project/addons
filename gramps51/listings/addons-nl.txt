@@ -78,7 +78,7 @@
 {"t":'Report',"i":'LinesOfDescendency',"n":'Afstammelingslijnenverslag',"v":'1.1.34',"g":'5.1',"d":'Print alle afstammingslijnen van een bepaalde voorouder naar een bepaalde afstammeling in tekst uit.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Tiny Tafel',"v":'1.0.25',"g":'5.1',"d":'Produceert een tiny tafel',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Media Rapport',"v":'1.1.7',"g":'5.1',"d":'Genereert rapport inclusief afbeeldingen, afbeeldingsgegevens en notities.',"z":'MediaReport.addon.tgz'}
-{"t":'Report',"i":'PedigreeChart',"n":'Kwartierstaatdiagram',"v":'1.0.35',"g":'5.1',"d":'Alternatieve versie van de traditionele kwartierstaat.',"z":'PedigreeChart.addon.tgz'}
+{"t":'Report',"i":'PedigreeChart',"n":'Kwartierstaatdiagram',"v":'1.0.42',"g":'5.2',"d":'Alternatieve versie van de traditionele kwartierstaat.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Compleet persoonsverslag',"v":'1.0.19',"g":'5.1',"d":'Produceert een verslag met alles over de actieve persoon',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Bibliotheekverslag',"v":'1.1.30',"g":'5.1',"d":'Produceert een tekstueel bibliotheekverslag',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Verslagopties voor bibliotheken',"v":'0.3.30',"g":'5.1',"d":'Produceert een tekstueel bibliotheekverslag',"z":'RepositoriesReport.addon.tgz'}

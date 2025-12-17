@@ -78,7 +78,7 @@
 {"t":'Report',"i":'LinesOfDescendency',"n":'Linhas de descendência',"v":'1.1.34',"g":'5.1',"d":'Imprime todas as linhas de descendência de um dado ascendente até um dado descendente em texto.',"z":'LinesOfDescendency.addon.tgz'}
 {"t":'Report',"i":'ListeEclair',"n":'Lista de correspondências',"v":'1.0.25',"g":'5.1',"d":'Produzir uma lista de correspondências',"z":'ListeEclair.addon.tgz'}
 {"t":'Report',"i":'MediaReport',"n":'Relatório multimédia',"v":'1.1.7',"g":'5.1',"d":'Gera um relatório incluindo imagens, dados das imagens e notas.',"z":'MediaReport.addon.tgz'}
-{"t":'Report',"i":'PedigreeChart',"n":'Árvore de costados',"v":'1.0.35',"g":'5.1',"d":'Versão alternativa da tradicional árvore de costados.',"z":'PedigreeChart.addon.tgz'}
+{"t":'Report',"i":'PedigreeChart',"n":'Árvore de costados',"v":'1.0.42',"g":'5.2',"d":'Versão alternativa da tradicional árvore de costados.',"z":'PedigreeChart.addon.tgz'}
 {"t":'Report',"i":'PersonEverythingReport',"n":'Relatório individual',"v":'1.0.19',"g":'5.1',"d":'Produz um relatório contendo todos os dados sobre o indivíduo activo',"z":'PersonEverything.addon.tgz'}
 {"t":'Report',"i":'Repositories Report',"n":'Relatório de repositórios',"v":'1.1.30',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
 {"t":'Report',"i":'Repositories Report Options',"n":'Opções do relatório de repositórios',"v":'0.3.30',"g":'5.1',"d":'Produz um relatório textual dos repositórios',"z":'RepositoriesReport.addon.tgz'}
