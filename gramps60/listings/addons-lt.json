@@ -1174,15 +1174,15 @@
 "i": "ChatWithTree",
 "t": 10,
 "d": "Chat With Tree with the help of AI Large Language Model, needs litellm module",
-"v": "0.0.26",
+"v": "0.0.27",
 "g": "6.0",
-"s": 1,
+"s": 3,
 "z": "ChatWithTree.addon.tgz",
 "rm": [
 "litellm"
 ],
 "h": "Addon:ChatWithTree",
-"a": 2
+"a": 0
 },
 {
 "n": "Laikrodis",

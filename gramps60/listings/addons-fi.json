@@ -1170,19 +1170,19 @@
 "h": "BirthdaysGramplet"
 },
 {
-"n": "Chat With Tree Interactive Addon",
+"n": "Keskustele Interaktiivinen puu -lis\u00e4osan kanssa",
 "i": "ChatWithTree",
 "t": 10,
-"d": "Chat With Tree with the help of AI Large Language Model, needs litellm module",
-"v": "0.0.26",
+"d": "Keskustele sukupuun kanssa suuren kielimallin teko\u00e4lyn avustamana (vaatii litellm-moduulin)",
+"v": "0.0.27",
 "g": "6.0",
-"s": 1,
+"s": 3,
 "z": "ChatWithTree.addon.tgz",
 "rm": [
 "litellm"
 ],
 "h": "Addon:ChatWithTree",
-"a": 2
+"a": 0
 },
 {
 "n": "Kello",
