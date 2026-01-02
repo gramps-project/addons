@@ -120,11 +120,11 @@
 "z": "MediaReport.addon.tgz"
 },
 {
-"n": "Sukutaulu",
+"n": "Pedigree Chart",
 "i": "PedigreeChart",
 "t": 0,
-"d": "Vaihtoehtoinen versio perinteisest\u00e4 sukutaulukosta.",
-"v": "1.0.42",
+"d": "Alternate version of the traditional pedigree chart.",
+"v": "1.0.43",
 "g": "5.2",
 "s": 3,
 "z": "PedigreeChart.addon.tgz",
