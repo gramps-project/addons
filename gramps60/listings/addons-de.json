@@ -1174,7 +1174,7 @@
 "i": "ChatWithTree",
 "t": 10,
 "d": "Mit dem Baum kommunizieren mithilfe eines gro\u00dfen Sprachmodells der KI, ben\u00f6tigt das Modul litellm",
-"v": "0.0.27",
+"v": "0.0.28",
 "g": "6.0",
 "s": 3,
 "z": "ChatWithTree.addon.tgz",

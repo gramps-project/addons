@@ -1174,7 +1174,7 @@
 "i": "ChatWithTree",
 "t": 10,
 "d": "Chatten met Tree m.b.v. AI Large Language Model, vereist litellm-module",
-"v": "0.0.27",
+"v": "0.0.28",
 "g": "6.0",
 "s": 3,
 "z": "ChatWithTree.addon.tgz",
