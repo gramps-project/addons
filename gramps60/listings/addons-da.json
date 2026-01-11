@@ -279,7 +279,7 @@
 "i": "det_descendant_report_i",
 "t": 0,
 "d": "Danner en detaljeret efterkommerrapport med alle billeder og en valgfri huskeliste.",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "DetDescendantReport-images.addon.tgz",

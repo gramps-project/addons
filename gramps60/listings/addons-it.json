@@ -279,7 +279,7 @@
 "i": "det_descendant_report_i",
 "t": 0,
 "d": "Produce un resoconto dettagliato dei discendenti con tutte le immagini e la lista opzionale delle cose da fare.",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "DetDescendantReport-images.addon.tgz",

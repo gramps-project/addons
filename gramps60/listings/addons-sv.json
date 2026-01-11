@@ -279,7 +279,7 @@
 "i": "det_descendant_report_i",
 "t": 0,
 "d": "Producerar en detaljerad \u00e4ttlingarapport med alla bilder och frivillig att-g\u00f6ra-lista.",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "DetDescendantReport-images.addon.tgz",
