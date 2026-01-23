@@ -631,7 +631,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Synkroniserer en lokal database med em Gramps web instans.",
-"v": "1.3.5",
+"v": "1.3.6",
 "g": "6.0",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",
