@@ -1403,6 +1403,18 @@
 "h": "This Day In Family History"
 },
 {
+"n": "Virtual Keyboard",
+"i": "VirtualKeyboard",
+"t": 10,
+"d": "Touch-friendly on-screen keyboard for clipboarding characters",
+"v": "1.0.2",
+"g": "5.2",
+"s": 1,
+"z": "VirtualKeyboard.addon.tgz",
+"h": "https://gramps.discourse.group/t/python-virtual-keyboard-with-diacritical-marks/3006/10",
+"a": 1
+},
+{
 "n": "\u0412\u0435\u0431-\u043f\u043e\u0448\u0443\u043a",
 "i": "WebSearch",
 "t": 10,
