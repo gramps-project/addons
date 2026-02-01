@@ -1407,7 +1407,7 @@
 "i": "VirtualKeyboard",
 "t": 10,
 "d": "Touch-friendly on-screen keyboard for clipboarding characters",
-"v": "1.0.2",
+"v": "1.1.1",
 "g": "5.2",
 "s": 1,
 "z": "VirtualKeyboard.addon.tgz",
