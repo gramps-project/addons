@@ -1147,6 +1147,17 @@
 "h": "AnniversariesGramplet"
 },
 {
+"n": "Archive Assist",
+"i": "ArchiveAssist",
+"t": 10,
+"d": "Parses strings from Riksarkivet and ArkivDigital to create sources and citations.",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "ArchiveAssist.addon.tgz",
+"h": "https://gramps-project.org/wiki/index.php/Addon:ArchiveAssist"
+},
+{
 "n": "\u05d1\u05d8\u05d0 \u05de\u05d4 \u05d4\u05dc\u05d0\u05d4",
 "i": "Beta What's Next",
 "t": 10,
