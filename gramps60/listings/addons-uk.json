@@ -11,6 +11,16 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
+"n": "Ancestry Table",
+"i": "AncestryTable",
+"t": 0,
+"d": "Produces a table of ancestry about a person",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "AncestryTableReport.addon.tgz"
+},
+{
 "n": "\u041a\u043d\u0438\u0433\u0430 \u043d\u0430\u0449\u0430\u0434\u043a\u0456\u0432",
 "i": "DescendantBook",
 "t": 0,
