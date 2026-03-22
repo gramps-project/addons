@@ -11,11 +11,11 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Ancestry Table",
+"n": "Tableau d'ascendance",
 "i": "AncestryTable",
 "t": 0,
-"d": "Produces a table of ancestry about a person",
-"v": "1.0.1",
+"d": "G\u00e9n\u00e8re le tableau d'ascendance d'un individu",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "AncestryTableReport.addon.tgz"
