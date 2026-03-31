@@ -1589,7 +1589,7 @@
 "i": "This Day in Family History",
 "t": 10,
 "d": "Ett konfigurerbart program som visar kopplade h\u00e4ndelser fr\u00e5n ditt sl\u00e4kttr\u00e4d som matchar dagens dag och m\u00e5nad.",
-"v": "1.0.13",
+"v": "1.0.14",
 "g": "6.0",
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",

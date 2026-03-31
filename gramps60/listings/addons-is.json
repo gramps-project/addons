@@ -1589,7 +1589,7 @@
 "i": "This Day in Family History",
 "t": 10,
 "d": "A configurable program that shows you the connected events from your family tree that match today's day and month.",
-"v": "1.0.13",
+"v": "1.0.14",
 "g": "6.0",
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",

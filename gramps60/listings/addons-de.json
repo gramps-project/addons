@@ -1589,7 +1589,7 @@
 "i": "This Day in Family History",
 "t": 10,
 "d": "Ein konfigurierbares Programm, das dir die verbundenen Ereignisse aus deinem Stammbaum anzeigt, die mit dem heutigen Tag und Monat \u00fcbereinstimmen.",
-"v": "1.0.13",
+"v": "1.0.14",
 "g": "6.0",
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",

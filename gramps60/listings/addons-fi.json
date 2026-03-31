@@ -1589,7 +1589,7 @@
 "i": "This Day in Family History",
 "t": 10,
 "d": "Konfiguroitava ohjelma, joka n\u00e4ytt\u00e4\u00e4 sukupuusi t\u00e4h\u00e4n p\u00e4iv\u00e4\u00e4n ja kuukauteen osuvat tapahtumat.",
-"v": "1.0.13",
+"v": "1.0.14",
 "g": "6.0",
 "s": 3,
 "z": "ThisDayInFamilyHistory.addon.tgz",
