@@ -774,6 +774,20 @@
 "a": 1
 },
 {
+"n": "\u0420\u0435\u0437\u0435\u0440\u0432\u043d\u0430 \u043a\u043e\u043f\u0456\u044f \u043f\u0440\u043e\u0435\u043a\u0442\u0443 TMG",
+"i": "im_sqz",
+"t": 3,
+"d": "\u0406\u043c\u043f\u043e\u0440\u0442\u0443\u0432\u0430\u0442\u0438 \u0444\u0430\u0439\u043b\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0443 TMG",
+"v": "0.1.2",
+"g": "6.0",
+"s": 3,
+"z": "TMGimporter.addon.tgz",
+"rm": [
+"dbf"
+],
+"h": "https://gramps-project.org/wiki/index.php/Addon:TMGimporter"
+},
+{
 "n": "\u0415\u043a\u0441\u043f\u043e\u0440\u0442\u0443\u0432\u0430\u0442\u0438 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f GEDCOM (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,

@@ -774,6 +774,20 @@
 "a": 1
 },
 {
+"n": "TMG-projektin varmuuskopiointi",
+"i": "im_sqz",
+"t": 3,
+"d": "Tuo TMG-projektitiedostoja",
+"v": "0.1.2",
+"g": "6.0",
+"s": 3,
+"z": "TMGimporter.addon.tgz",
+"rm": [
+"dbf"
+],
+"h": "https://gramps-project.org/wiki/index.php/Addon:TMGimporter"
+},
+{
 "n": "Laajennettu GEDCOM vienti (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,

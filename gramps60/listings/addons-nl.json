@@ -774,6 +774,20 @@
 "a": 1
 },
 {
+"n": "TMG-projectback-up",
+"i": "im_sqz",
+"t": 3,
+"d": "Importeer TMG-projectbestanden",
+"v": "0.1.2",
+"g": "6.0",
+"s": 3,
+"z": "TMGimporter.addon.tgz",
+"rm": [
+"dbf"
+],
+"h": "https://gramps-project.org/wiki/index.php/Addon:TMGimporter"
+},
+{
 "n": "GEDCOM-extensies exporteren (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,
