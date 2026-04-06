@@ -404,10 +404,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "T\u1ea5t c\u1ea3 t\u00ean c\u1ee7a m\u1ecdi ng\u01b0\u1eddi",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Hi\u1ec3n th\u1ecb t\u1ea5t c\u1ea3 t\u00ean c\u1ee7a m\u1ecdi ng\u01b0\u1eddi",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -424,6 +424,28 @@
 "s": 3,
 "z": "BiographyQuickview.addon.tgz",
 "h": "Addon:Biography_Quickview"
+},
+{
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
 },
 {
 "n": "\u0110\u01b0\u1eddng th\u1eddi gian ",
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",

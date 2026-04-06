@@ -1,9 +1,9 @@
 [
 {
-"n": "AncestorFill",
+"n": "Fa kit\u00f6lt\u00e9se",
 "i": "AncestorFill",
 "t": 0,
-"d": "Report on the filling of the tree",
+"d": "Besz\u00e1mol\u00f3 a fa kit\u00f6t\u00e9s\u00e9r\u0151l",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -404,10 +404,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "Minden szem\u00e9ly mindegyik neve",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "Minden szem\u00e9ly mindegyik nev\u00e9t mutatja",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -415,15 +415,37 @@
 "h": "Addon:All_Names_Quickview"
 },
 {
-"n": "Biography",
+"n": "\u00c9letrajz",
 "i": "biographyquickview",
 "t": 1,
-"d": "Display a text biography",
+"d": "Sz\u00f6veges \u00e9letrajz megjelen\u00edt\u00e9se",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
 "z": "BiographyQuickview.addon.tgz",
 "h": "Addon:Biography_Quickview"
+},
+{
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
 },
 {
 "n": "Id\u0151vonal",
@@ -437,10 +459,10 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Attach Source",
+"n": "Forr\u00e1s csatol\u00e1sa",
 "i": "AttachSource",
 "t": 2,
-"d": "Attaches a shared source to multiple objects.",
+"d": "Megosztott forr\u00e1st csatol t\u00f6bb objektumhoz.",
 "v": "0.0.41",
 "g": "6.0",
 "s": 3,
@@ -448,10 +470,10 @@
 "h": "Addon:AttachSourceTool"
 },
 {
-"n": "Avatar Generator Tool",
+"n": "Avat\u00e1rt l\u00e9trehoz\u00f3 eszk\u00f6z",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "A tool to add avatar pictures to your family tree",
+"d": "Egy eszk\u00f6z, amellyel avat\u00e1r k\u00e9peket lehet hozz\u00e1adni a csal\u00e1df\u00e1hoz",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -570,10 +592,10 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Sort Children in Birth order",
+"n": "Gyermekek sorrendje sz\u00fclet\u00e9si d\u00e1tum szerint",
 "i": "birthorder",
 "t": 2,
-"d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
+"d": "\u00c1tn\u00e9zi a csal\u00e1dokat, olyan gyermekeket keresve, akik nem sz\u00fclet\u00e9si sorrendben vannak. A felhaszn\u00e1l\u00f3 elfogadjatja az egyedi sorrend javaslatokat a korrig\u00e1l\u00e1shoz, k\u00e9zzel szerkesztheti a sz\u00fclet\u00e9si sorrenden, elfogadhatja a megfelel\u0151 sz\u00fclet\u00e9si d\u00e1tummal rendelkez\u0151 gyermekek csal\u00e1djait, vagy elfogad mindent.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -1182,10 +1204,10 @@
 "h": "https://gramps-project.org/wiki/index.php/Addon:ArchiveAssist"
 },
 {
-"n": "Beta What's Next",
+"n": "Mi k\u00f6vetkezik (b\u00e9ta)",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "A b\u00e9ta verzi\u00f3j\u00f3 Gramplet \u00e1ltal javasolut kutat\u00e1si elemek",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1194,7 +1216,7 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Sz\u00fclet\u00e9snapok",
 "i": "Birthdays",
 "t": 10,
 "d": "a gramplet that displays the birthdays of the living people",
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",

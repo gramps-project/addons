@@ -426,6 +426,28 @@
 "h": "Addon:Biography_Quickview"
 },
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "\u0412\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u0434\u0438\u0430\u0433\u0440\u0430\u043c\u043c\u0430",
 "i": "timelinequickview",
 "t": 1,
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "\u0418\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u0434\u043b\u044f \u0444\u043e\u0440\u043c",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",

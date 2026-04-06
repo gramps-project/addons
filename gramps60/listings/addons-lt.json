@@ -426,6 +426,28 @@
 "h": "Addon:Biography_Quickview"
 },
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "Laiko juosta",
 "i": "timelinequickview",
 "t": 1,
@@ -570,7 +592,7 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "R\u016b\u0161iuoti vaikus gimimo tvarka",
+"n": "Rikiuoti vaikus gimimo tvarka",
 "i": "birthorder",
 "t": 2,
 "d": "Per\u017ei\u016bri \u0161eimas, ie\u0161kodamas vaik\u0173, kurie n\u0117ra gimimo eil\u0117je. Vartotojas gali priimti asmeninius taisymo pasi\u016blymus, keisti gimimo eili\u0161kum\u0105 rankiniu b\u016bdu, priimti visas \u0161eimas, kuriose visi vaikai turi teisingas gimimo datas, arba priimti visus.",
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",

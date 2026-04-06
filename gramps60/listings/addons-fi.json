@@ -426,6 +426,28 @@
 "h": "Addon:Biography_Quickview"
 },
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "Aikajana",
 "i": "timelinequickview",
 "t": 1,
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Lomakkeiden Gramplet-k\u00e4ytt\u00f6liittym\u00e4",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -1814,7 +1836,7 @@
 "n": "Ihmiset, jotka poikkeavat <N>:ll\u00e4 henkil\u00f6st\u00e4 <person>",
 "i": "degreesofseparation",
 "t": 13,
-"d": "Suodatuss\u00e4\u00e4nt\u00f6, joka yhdist\u00e4\u00e4 sukulaiset sukupolvien mukaan",
+"d": "Suodatuss\u00e4\u00e4nt\u00f6, jolla l\u00f6ydet\u00e4\u00e4n sukulaiset sukupolvieron mukaisesti",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,

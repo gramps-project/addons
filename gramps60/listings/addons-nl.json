@@ -426,6 +426,28 @@
 "h": "Addon:Biography_Quickview"
 },
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "Tijdlijn",
 "i": "timelinequickview",
 "t": 1,
@@ -894,7 +916,7 @@
 "n": "Verbeterde uitbreidingenbeheerder",
 "i": "PluginManager",
 "t": 6,
-"d": "Een addon-/uitbreidingenbeheerder met verschillende extra mogelijkheden",
+"d": "Een toevoeging-/uitbreidingenbeheerder met verschillende extra mogelijkheden",
 "v": "1.2.7",
 "g": "6.0",
 "s": 3,
@@ -916,7 +938,7 @@
 "n": "Start opnieuw waar u voor het laatst werkte",
 "i": "RestoreHist",
 "t": 6,
-"d": "Deze add-on zorgt ervoor dat Gramps herstart op dezelfde weergave en hetzelfde object waar Gramps voorheen werd afgesloten. Het voegt geen nieuwe menu's of gramplets toe, maar laat toe om de laatste zes bezochte objecten te vinden via het menu 'Ga naar'.",
+"d": "Deze toevoeging zorgt ervoor dat Gramps herstart op dezelfde weergave en hetzelfde object waar Gramps voorheen werd afgesloten. Het voegt geen nieuwe menu's of gramplets toe, maar laat toe om de laatste zes bezochte objecten te vinden via het menu 'Ga naar'.",
 "v": "0.0.21",
 "g": "6.0",
 "s": 3,
@@ -1205,7 +1227,7 @@
 "h": "BirthdaysGramplet"
 },
 {
-"n": "Chatten met Tree Interactive-uitbreiding",
+"n": "Chatten met Tree Interactive-toevoeging",
 "i": "ChatWithTree",
 "t": 10,
 "d": "Chatten met Tree m.b.v. AI Large Language Model, vereist litellm-module",
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet-interface voor formulieren",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",

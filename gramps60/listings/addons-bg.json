@@ -404,10 +404,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "All Names of All People",
+"n": "\u0412\u0441\u0438\u0447\u043a\u0438 \u0438\u043c\u0435\u043d\u0430 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u0445\u043e\u0440\u0430",
 "i": "allnames",
 "t": 1,
-"d": "Display all names of all people",
+"d": "\u041f\u043e\u043a\u0430\u0436\u0438 \u0432\u0441\u0438\u0447\u043a\u0438 \u0438\u043c\u0435\u043d\u0430 \u043d\u0430 \u0432\u0441\u0438\u0447\u043a\u0438 \u0445\u043e\u0440\u0430",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -426,6 +426,28 @@
 "h": "Addon:Biography_Quickview"
 },
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "\u0425\u0440\u043e\u043d\u043e\u043b\u043e\u0433\u0438\u0447\u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u043a\u0430",
 "i": "timelinequickview",
 "t": 1,
@@ -437,7 +459,7 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Attach Source",
+"n": "\u041f\u0440\u0438\u043a\u0430\u0447\u0438 \u0438\u0437\u0442\u043e\u0447\u043d\u0438\u043a",
 "i": "AttachSource",
 "t": 2,
 "d": "Attaches a shared source to multiple objects.",
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",

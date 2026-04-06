@@ -1,9 +1,9 @@
 [
 {
-"n": "AncestorFill",
+"n": "Preenchimento de Ancestrais",
 "i": "AncestorFill",
 "t": 0,
-"d": "Report on the filling of the tree",
+"d": "Relat\u00f3rio sobre o preenchimento da \u00e1rvore",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -426,6 +426,28 @@
 "h": "Addon:Biography_Quickview"
 },
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "Cronograma",
 "i": "timelinequickview",
 "t": 1,
@@ -437,10 +459,10 @@
 "h": "Addon:Timeline_Quickview"
 },
 {
-"n": "Anexar fonte",
+"n": "Anexar Fonte",
 "i": "AttachSource",
 "t": 2,
-"d": "Anexa uma fonte comum a v\u00e1rios objetos",
+"d": "Anexa uma fonte comum a v\u00e1rios objetos.",
 "v": "0.0.41",
 "g": "6.0",
 "s": 3,
@@ -448,10 +470,10 @@
 "h": "Addon:AttachSourceTool"
 },
 {
-"n": "Avatar Generator Tool",
+"n": "Ferramenta de Gera\u00e7\u00e3o de Avatar",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "A tool to add avatar pictures to your family tree",
+"d": "Uma ferramenta para adicionar fotos de perfil \u00e0 sua \u00e1rvore familiar",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -559,10 +581,10 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Check Associations data",
+"n": "Verificar dados de Associa\u00e7\u00f5es",
 "i": "associationstool",
 "t": 2,
-"d": "Will check the data on Association for people.",
+"d": "Verificar\u00e1 os dados sobre Associa\u00e7\u00e3o para pessoas.",
 "v": "1.1.15",
 "g": "6.0",
 "s": 3,
@@ -1358,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet interface for Forms",
-"v": "2.0.50",
+"v": "2.0.51",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
