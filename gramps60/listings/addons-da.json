@@ -696,7 +696,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "Verific\u00e9r at medier er tilstede p\u00e5 den korrekte filsti",
-"v": "1.0.31",
+"v": "1.0.32",
 "g": "6.0",
 "s": 3,
 "z": "MediaVerify.addon.tgz",

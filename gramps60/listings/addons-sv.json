@@ -696,7 +696,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "Verifiera att media finns i r\u00e4tt s\u00f6kv\u00e4g",
-"v": "1.0.31",
+"v": "1.0.32",
 "g": "6.0",
 "s": 3,
 "z": "MediaVerify.addon.tgz",

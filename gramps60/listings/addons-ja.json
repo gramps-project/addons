@@ -696,7 +696,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "\u30e1\u30c7\u30a3\u30a2\u304c\u6b63\u3057\u3044\u30d1\u30b9\u306b\u5b58\u5728\u3059\u308b\u3053\u3068\u3092\u78ba\u8a8d\u3059\u308b",
-"v": "1.0.31",
+"v": "1.0.32",
 "g": "6.0",
 "s": 3,
 "z": "MediaVerify.addon.tgz",

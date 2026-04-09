@@ -696,7 +696,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "V\u00e9rifier si l'objet medium est pr\u00e9sent avec le bon chemin",
-"v": "1.0.31",
+"v": "1.0.32",
 "g": "6.0",
 "s": 3,
 "z": "MediaVerify.addon.tgz",

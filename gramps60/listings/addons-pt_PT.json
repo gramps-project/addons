@@ -696,7 +696,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "Verifica se a multim\u00e9dia est\u00e1 presente no caminho correcto",
-"v": "1.0.31",
+"v": "1.0.32",
 "g": "6.0",
 "s": 3,
 "z": "MediaVerify.addon.tgz",

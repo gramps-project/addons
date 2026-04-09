@@ -696,7 +696,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "Bekreft at mediefiler er til stede i riktig sti",
-"v": "1.0.31",
+"v": "1.0.32",
 "g": "6.0",
 "s": 3,
 "z": "MediaVerify.addon.tgz",
