@@ -15,7 +15,7 @@
 "i": "AncestryTable",
 "t": 0,
 "d": "Produces a table of ancestry about a person",
-"v": "1.0.2",
+"v": "1.0.3",
 "g": "6.0",
 "s": 3,
 "z": "AncestryTableReport.addon.tgz"
