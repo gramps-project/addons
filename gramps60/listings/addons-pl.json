@@ -674,7 +674,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Por\u00f3wnuje baz\u0119 danych XML Gramps z bie\u017c\u0105c\u0105 i umo\u017cliwia scalanie r\u00f3\u017cnic.",
-"v": "0.0.25",
+"v": "0.0.26",
 "g": "6.0",
 "s": 3,
 "z": "ImportMerge.addon.tgz",

@@ -674,7 +674,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Compara uma base de dados Gramps XML com a actual e permite unir as diferen\u00e7as.",
-"v": "0.0.25",
+"v": "0.0.26",
 "g": "6.0",
 "s": 3,
 "z": "ImportMerge.addon.tgz",
