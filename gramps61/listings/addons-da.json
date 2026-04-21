@@ -674,7 +674,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Sammenligner en Gramps XML database med den nuv\u00e6rende, og giver mulighed for at sammenflette forskellene.",
-"v": "0.0.26",
+"v": "0.0.27",
 "g": "6.1",
 "s": 3,
 "z": "ImportMerge.addon.tgz",
