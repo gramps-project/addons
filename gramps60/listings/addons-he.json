@@ -1291,7 +1291,7 @@
 "i": "Data Entry Gramplet",
 "t": 10,
 "d": "\u05d2\u05e8\u05d0\u05de\u05e4\u05dc\u05d8 \u05dc\u05d4\u05d6\u05e0\u05ea \u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05de\u05d4\u05d9\u05e8\u05d4",
-"v": "1.0.52",
+"v": "1.0.53",
 "g": "6.0",
 "s": 3,
 "z": "DataEntryGramplet.addon.tgz",
