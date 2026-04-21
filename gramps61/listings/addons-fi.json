@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Laskee p\u00e4iv\u00e4m\u00e4\u00e4r\u00e4arviot syntym\u00e4lle ja kuolemalle.",
-"v": "0.90.42",
+"v": "0.90.43",
 "g": "6.1",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

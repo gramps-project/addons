@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Vypo\u010d\u00edta pribli\u017en\u00e9 d\u00e1tumy narodenia a \u00famrtia.",
-"v": "0.90.42",
+"v": "0.90.43",
 "g": "6.1",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

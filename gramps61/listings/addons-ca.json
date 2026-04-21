@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Calcula les dates estimades de naixement i defunci\u00f3.",
-"v": "0.90.42",
+"v": "0.90.43",
 "g": "6.1",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

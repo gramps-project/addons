@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Calcul des dates estim\u00e9es pour les naissances et d\u00e9c\u00e8s.",
-"v": "0.90.42",
+"v": "0.90.43",
 "g": "6.1",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

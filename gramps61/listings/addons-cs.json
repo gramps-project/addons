@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Vypo\u010d\u00edt\u00e1 odhadovan\u00fd datum narozen\u00ed a \u00famrt\u00ed.",
-"v": "0.90.42",
+"v": "0.90.43",
 "g": "6.1",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

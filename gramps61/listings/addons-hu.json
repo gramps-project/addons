@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Becs\u00fclt d\u00e1tumok sz\u00e1m\u00edt\u00e1sa sz\u00fclet\u00e9shez \u00e9s hal\u00e1loz\u00e1shoz.",
-"v": "0.90.42",
+"v": "0.90.43",
 "g": "6.1",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",
