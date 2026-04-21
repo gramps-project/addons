@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "Zobrazenie ukazuje \u010dasov\u00fa os rodokme\u0148a s predkami a potomkami vybranej osoby",
-"v": "0.1.66",
+"v": "0.1.67",
 "g": "6.0",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",
