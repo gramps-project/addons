@@ -1,6 +1,6 @@
 [
 {
-"n": "Vooroudertelling",
+"n": "Afkomsttelling",
 "i": "AncestorFill",
 "t": 0,
 "d": "Verslag van de bezetting van de stamboom",
@@ -11,10 +11,10 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Ancestry Table",
+"n": "Afkomsttabel",
 "i": "AncestryTable",
 "t": 0,
-"d": "Produces a table of ancestry about a person",
+"d": "Produceert een tabel van afkomst over een persoon",
 "v": "1.0.3",
 "g": "6.0",
 "s": 3,
@@ -112,7 +112,7 @@
 "n": "Afstammelingslijnenverslag",
 "i": "LinesOfDescendency",
 "t": 0,
-"d": "Print alle afstammingslijnen van een bepaalde voorouder naar een bepaalde afstammeling in tekst uit.",
+"d": "Drukt alle afstammingslijnen af in tekst van een gegeven voorouder tot een gegeven afstammeling.",
 "v": "1.1.39",
 "g": "6.0",
 "s": 3,
@@ -219,7 +219,7 @@
 "h": "Addon:ToDoReport"
 },
 {
-"n": "Inklapbare voorouderboom",
+"n": "Inklapbare afkomstboom",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
 "d": "Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een inklapbare boomlay-out uit de D3.js JavaScript-bibliotheek.",
@@ -230,7 +230,7 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Cirkeldiagram voorouders",
+"n": "Cirkeldiagram van afkomst",
 "i": "d3-ancestralfanchart",
 "t": 0,
 "d": "Genereert een webpagina met een grafische weergave van voorouders (SVG) weergegeven als een Cirkeldiagram uit de D3.js JavaScript-bibliotheek.",
@@ -266,7 +266,7 @@
 "n": "DenominoViso",
 "i": "denominoviso",
 "t": 0,
-"d": "Genereert een web (HTML) pagina met een grafische weergave van afstammelingen/voorouders (SVG) waar details over individuen zichtbaar worden door muisacties.",
+"d": "Genereert een webpagina (HTML) met een grafische weergave van afstammelingen/voorouders (SVG) waar details over individuen zichtbaar worden door muisacties.",
 "v": "2.3.50",
 "g": "6.0",
 "s": 3,
@@ -310,7 +310,7 @@
 "n": "Voorouderboom",
 "i": "gt_ancestor",
 "t": 0,
-"d": "Voorouderboom opgebouwd met LaTeX genealogieboom",
+"d": "Afkomstboom opgebouwd met LaTeX genealogytree",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -430,7 +430,7 @@
 "i": "censuscheckquickview",
 "t": 1,
 "d": "Check whether any Census events are missing for a person and some of their descendents",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -441,7 +441,7 @@
 "i": "censuscheckupquickview",
 "t": 1,
 "d": "Check whether any Census events are missing for a person and some of their ancestors",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -1097,10 +1097,10 @@
 "h": "Addon:PlaceCoordinatesGramplet#Additional_geography_view_with_a_context_menu"
 },
 {
-"n": "Voorouderskaart",
+"n": "Afkomstkaart",
 "i": "geoancestor",
 "t": 8,
-"d": "Een weergave van de voorouders op de kaart.",
+"d": "Een weergave van de afkomst op de kaart.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1152,7 +1152,7 @@
 "h": "Addon:Graph_View"
 },
 {
-"n": "Levenslijn-voorouderdiagram",
+"n": "Levenslijn-afkomstdiagram",
 "i": "lifelinechartancestorview",
 "t": 8,
 "d": "Personen en hun relatie in een tijdgebaseerde grafiek",
@@ -1380,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet-interface voor formulieren",
-"v": "2.0.51",
+"v": "2.0.52",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -1781,7 +1781,7 @@
 "n": "Matrilineaire stammoeder van <person>",
 "i": "MatrilinealProgenitrix",
 "t": 13,
-"d": "Komt overeen met de vroegst geregistreerde moeder van de matrilineaire voorouder.",
+"d": "Komt overeen met de vroegst geregistreerde moeder van de matrilineaire afkomst.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1792,7 +1792,7 @@
 "n": "Patrilineaire stamvader van <persoon>",
 "i": "PatrilinealProgenitor",
 "t": 13,
-"d": "Komt overeen met de vroegst geregistreerde patrilineaire vooroudervader.",
+"d": "Komt overeen met de vroegst geregistreerde vader in de patrilineaire afkomst.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1910,10 +1910,10 @@
 "h": "Addon:Rule_expansions#People_with_.3Ccount.3E_of_.3Cevent.3E"
 },
 {
-"n": "X-chromosomale voorouders van <persoon>",
+"n": "X-chromosomale afkomst van <persoon>",
 "i": "xchromancestors",
 "t": 13,
-"d": "Komt overeen met voorouders van <persoon> volgens een X-chromosomaal overervingspatroon.",
+"d": "Komt overeen met afkomst van <persoon> volgens een X-chromosomaal overervingspatroon.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,

@@ -11,10 +11,10 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Ancestry Table",
+"n": "Tablica podrijetla",
 "i": "AncestryTable",
 "t": 0,
-"d": "Produces a table of ancestry about a person",
+"d": "Stvara tablicu podrijetla jedne osobe",
 "v": "1.0.3",
 "g": "6.0",
 "s": 3,
@@ -24,7 +24,7 @@
 "n": "Knjiga o potomcima",
 "i": "DescendantBook",
 "t": 0,
-"d": "Stvara jedan ili vi\u0161e izvje\u0161taja o potomcima, na osnovi dostavljenog upita.",
+"d": "Stvara jedan ili vi\u0161e izvje\u0161taja o potomcima na osnovi dostavljenog upita.",
 "v": "1.1.34",
 "g": "6.0",
 "s": 3,
@@ -46,7 +46,7 @@
 "n": "Detaljna knjiga o potomcima",
 "i": "DetailedDescendantBook",
 "t": 0,
-"d": "Stvara jedan ili vi\u0161e detaljnih izvje\u0161taja o potomcima, na osnovi dostavljenog upita.",
+"d": "Stvara jedan ili vi\u0161e detaljnih izvje\u0161taja o potomcima na osnovi dostavljenog upita.",
 "v": "1.1.34",
 "g": "6.0",
 "s": 3,
@@ -189,7 +189,7 @@
 "n": "Izvje\u0161taj o izvorima i citatima",
 "i": "SourcesCitationsReport",
 "t": 0,
-"d": "Stvara izvje\u0161taj o izvorima i citatima, zajedno sa zabilje\u0161kama",
+"d": "Stvara izvje\u0161taj o izvorima i citatima sa zabilje\u0161kama",
 "v": "3.6.15",
 "g": "6.0",
 "s": 3,
@@ -211,7 +211,7 @@
 "n": "Izvje\u0161taj o zadacima",
 "i": "TodoReport",
 "t": 0,
-"d": "Stvara popis svih zabilje\u017eaka sa zadanom oznakom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, doga\u0111aj, itd.",
+"d": "Stvara popis svih zabilje\u0161ki sa zadanom oznakom, zajedno sa zapisima na koje se referenciraju, npr. osobu, obitelj, doga\u0111aj, itd.",
 "v": "1.2.39",
 "g": "6.0",
 "s": 3,
@@ -255,7 +255,7 @@
 "n": "Izvje\u0161taj o razlikama izme\u0111u baza podataka",
 "i": "database-differences-report",
 "t": 0,
-"d": "Uspore\u0111uje vanjsku bazu podataka s trenuta\u010dnom.",
+"d": "Uspore\u0111uje eksternu bazu podataka s trenuta\u010dnom.",
 "v": "1.0.28",
 "g": "6.0",
 "s": 3,
@@ -285,7 +285,7 @@
 "h": "Addon:DescendantSpaceTree"
 },
 {
-"n": "Detaljni izvje\u0161taj o potomcima sa svim slikama",
+"n": "Detaljan izvje\u0161taj o potomcima sa svim slikama",
 "i": "det_descendant_report_i",
 "t": 0,
 "d": "Stvara detaljan izvje\u0161taj o potomcima sa svim slikama, te opcionalno s popisom zadataka.",
@@ -430,7 +430,7 @@
 "i": "censuscheckquickview",
 "t": 1,
 "d": "Check whether any Census events are missing for a person and some of their descendents",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -441,7 +441,7 @@
 "i": "censuscheckupquickview",
 "t": 1,
 "d": "Check whether any Census events are missing for a person and some of their ancestors",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -484,7 +484,7 @@
 "n": "Ure\u0111iva\u010d opisa doga\u0111aja",
 "i": "EventDescriptionEditor",
 "t": 2,
-"d": "Alat za pronala\u017eenje i zamjenu znakovnog niza u opisu doga\u0111aja.",
+"d": "Alat za pronala\u017eenje i zamjenu znakovnog niza u opisu vi\u0161e doga\u0111aja.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -492,7 +492,7 @@
 "h": "Addon:EventDescriptionEditor"
 },
 {
-"n": "Alat za obiteljske veze",
+"n": "Obiteljske veze \u2013 alat",
 "i": "FamilyRelationshipTool",
 "t": 2,
 "d": "Grupno ure\u0111ivanje vrste obiteljske veze za grupu obitelji.",
@@ -537,7 +537,7 @@
 "h": "Addon:Place_completion_tool"
 },
 {
-"n": "Dodaj/Ukloni etikete",
+"n": "Dodaj/Ukloni oznake - alat",
 "i": "RemoveTagTool",
 "t": 2,
 "d": "Dodaj ili ukloni oznaku iz grupa osoba, doga\u0111aja, itd.",
@@ -559,7 +559,7 @@
 "h": "Addon:SetAttributeTool"
 },
 {
-"n": "Postavi privatnost",
+"n": "Postavi privatnost \u2013 alat",
 "i": "SetPrivacyTool",
 "t": 2,
 "d": "Postavi sve objekte zadnjih <number> godina kao privatne.",
@@ -628,7 +628,7 @@
 "n": "Spajanje pomo\u0107u naredbenog retka",
 "i": "climerge",
 "t": 2,
-"d": "Spoji primarne objekte upotrebom naredbenog retka.",
+"d": "Spoji primarne objekte pomo\u0107u naredbenog retka.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -681,7 +681,7 @@
 "h": "Addon:Import_Merge_Tool"
 },
 {
-"n": "Spoji medija",
+"n": "Spoji medije",
 "i": "mediamerge",
 "t": 2,
 "d": "Pretra\u017euje cijelu bazu podataka i spaja medije koji imaju istu stazu.",
@@ -703,10 +703,10 @@
 "h": "Addon:Media_Verify_Tool"
 },
 {
-"n": "\u010ci\u0161\u0107enje zabilje\u017eaka",
+"n": "\u010ci\u0161\u0107enje zabilje\u0161ki",
 "i": "notecleanup",
 "t": 2,
-"d": "Po\u010disti zabilje\u0161ke, koje sadr\u017ee HTML oznake",
+"d": "Po\u010disti zabilje\u0161ke koje sadr\u017ee HTML oznake",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -751,10 +751,10 @@
 "h": "Addon:SyncAssociation"
 },
 {
-"n": "Generator sli\u010dica",
+"n": "Generator minijatura",
 "i": "thumbgen",
 "t": 2,
-"d": "Generira sli\u010dice za medijske datoteke",
+"d": "Generira minijature za medijske datoteke",
 "v": "1.0.31",
 "g": "6.0",
 "s": 3,
@@ -844,10 +844,10 @@
 "h": "Output_formats#Prolog"
 },
 {
-"n": "Raw izvoz",
+"n": "Izvoz neobra\u0111enih podataka",
 "i": "Raw Export",
 "t": 4,
-"d": "Ovo je neobra\u0111eni izvadak python objekata",
+"d": "Ovo je izvadak neobra\u0111enih python objekta",
 "v": "1.0.42",
 "g": "6.0",
 "s": 3,
@@ -913,7 +913,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Napredni upravlja\u010d za dodatake",
+"n": "Upravlja\u010d za dodatake (pro\u0161ireni)",
 "i": "PluginManager",
 "t": 6,
 "d": "Upravlja\u010d za dodatke s nekolicinom dodatnih funkcija",
@@ -935,7 +935,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Pokreni Gramps na istom mjestu",
+"n": "Ponovo pokreni Gramps na istom mjestu",
 "i": "RestoreHist",
 "t": 6,
 "d": "S ovim dodatkom se Gramps pokre\u0107e u istom prikazu i na istom objektu, koji su bili aktivni prilikom zadnjeg zatvaranja Grampsa. Ne dodaje nove izbornike niti Gramplete, ali omogu\u0107uje prikaz zadnjih \u0161est kori\u0161tenih objekata u izborniku \u201eIdi\u201d.",
@@ -1069,7 +1069,7 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Zajedno",
+"n": "Spojeno",
 "i": "combinedview",
 "t": 8,
 "d": "Prikaz srodstva i doga\u0111aja za jednu osobu",
@@ -1080,7 +1080,7 @@
 "h": "Addon:CombinedView"
 },
 {
-"n": "Koordinate mjesta",
+"n": "Prikaz grampleta za koordinate mjesta",
 "i": "geoIDplaceCoordinateGramplet",
 "t": 8,
 "d": "Prikaz grampleta za koordinate mjesta.",
@@ -1254,10 +1254,10 @@
 "a": 2
 },
 {
-"n": "Me\u0111uspremnik zbiraka",
+"n": "Me\u0111uspremnik zbirki",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
-"d": "Gramplet za grupiranje zbiraka elemenata, kao pomo\u0107 prilikom unosa podataka.",
+"d": "Gramplet za grupiranje zbirki elemenata kao pomo\u0107 prilikom unosa podataka.",
 "v": "1.0.48",
 "g": "6.0",
 "s": 3,
@@ -1380,14 +1380,14 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet su\u010delje za obrasce",
-"v": "2.0.51",
+"v": "2.0.52",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
 "h": "Form Gramplet"
 },
 {
-"n": "Dohvati GOV-podatke",
+"n": "GetGOV",
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet za dohva\u0107anje mjesta iz GOV baze podataka",
@@ -1492,10 +1492,10 @@
 "h": "Addon:MediaBrowserGramplet"
 },
 {
-"n": "Zabilje\u0161ke",
+"n": "Zabilje\u0161ke \u2013 Gramplet",
 "i": "Note Gramplet",
 "t": 10,
-"d": "Gramplet za ure\u0111ivanje zabilje\u017eaka aktivne osobe",
+"d": "Gramplet za ure\u0111ivanje zabilje\u0161ki aktivne osobe",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1525,10 +1525,10 @@
 "h": "Addon:Person_Overview"
 },
 {
-"n": "Ozna\u010divanje slika",
+"n": "Ozna\u010davanje slika",
 "i": "Photo Tagging",
 "t": 10,
-"d": "Gramplet za ozna\u010divanje osoba u slikama",
+"d": "Gramplet za ozna\u010davanje osoba u slikama",
 "v": "1.0.46",
 "g": "6.0",
 "s": 3,
@@ -1553,10 +1553,10 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Sre\u0111ivanje mjesta",
+"n": "\u010ci\u0161\u0107enje mjesta",
 "i": "PlaceCleanup",
 "t": 10,
-"d": "Gramplet poma\u017ee sjediniti mjesta, kao i popuniti mjesta uz pomo\u0107 internetske baze podataka GeoNames",
+"d": "Gramplet \u201e\u010ci\u0161\u0107enje mjesta\u201d poma\u017ee spajati mjesta, kao i popuniti mjesta uz pomo\u0107 internetske baze podataka GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1578,7 +1578,7 @@
 "n": "Provjera preduvjeta",
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
-"d": "Gramplet za provjeru preduvjeta",
+"d": "Provjera preduvjeta \u2010 Gramplet",
 "v": "1.2.9",
 "g": "6.0",
 "s": 3,
@@ -1598,10 +1598,10 @@
 "a": 2
 },
 {
-"n": "Srodstva srodnika",
+"n": "Povezani srodnici",
 "i": "Related Relatives Gramplet",
 "t": 10,
-"d": "Gramplet prikazuje vrste srodstva za srodnike",
+"d": "Gramplet za prikaz veza srodnika",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1682,7 +1682,7 @@
 "a": 1
 },
 {
-"n": "Pro\u0161ireni PostgreSQL",
+"n": "PostgreSQL pro\u0161ireno",
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Napredni PostgreSQL pozadinski sustav sa spremanjem u JSONB formatu, podr\u0161kom za dijagram baze podataka (Apache AGE), sli\u010dnost vektora (pgvector) i funkcijama umjetne inteligencije/strojnog u\u010denja. Namijenjeno za napredne korisnike. Zahtijeva PostgreSQL 15+ s pro\u0161irenjima. Kompatibilno s Gramps Web-om.",
@@ -1822,10 +1822,10 @@
 "h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
-"n": "Match associations of <person filter>",
+"n": "Poklopi veze od <filtar osobe>",
 "i": "associationsofpersonmatch",
 "t": 13,
-"d": "Match associations of <person filter>",
+"d": "Poklopi veze od <filtar osobe>",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -1844,10 +1844,10 @@
 "h": "Addon:Rule_expansions#People_Separated_less_than_.3CN.3E_degrees_of_.3Cperson.3E"
 },
 {
-"n": "Obitelji koje odgavaraju <filtru za doga\u0111aje>",
+"n": "Obitelji koje odgavaraju <filtru doga\u0111aja>",
 "i": "familieswitheventfiltermatch",
 "t": 13,
-"d": "Pronalazi obitelji koje odgovaraju filtru za doga\u0111aje",
+"d": "Pronalazi obitelji koje odgovaraju filtru doga\u0111aja",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -1855,10 +1855,10 @@
 "h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
-"n": "Doga\u0111aji obitelji koje odgovaraju <filtru za obitelji>",
+"n": "Doga\u0111aji obitelji koje odgovaraju <filtru obitelji>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
-"d": "Doga\u0111aji obitelji koje odgovaraju <filtru za obitelji>",
+"d": "Doga\u0111aji obitelji koje odgovaraju <filtru obitelji>",
 "v": "1.0.20",
 "g": "6.0",
 "s": 3,
@@ -1902,7 +1902,7 @@
 "n": "Osobe s <brojem> <doga\u0111aja>",
 "i": "peopleeventscount",
 "t": 13,
-"d": "Matches persons which have events of given type and number.",
+"d": "Odgovara osobama koje imaju doga\u0111aje zadane vrste i broja.",
 "v": "1.0.10",
 "g": "6.0",
 "s": 3,

@@ -11,10 +11,10 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Ancestry Table",
+"n": "Tabu\u013eka predkov",
 "i": "AncestryTable",
 "t": 0,
-"d": "Produces a table of ancestry about a person",
+"d": "Vytv\u00e1ra tabu\u013eku predkov danej osoby",
 "v": "1.0.3",
 "g": "6.0",
 "s": 3,
@@ -142,10 +142,10 @@
 "h": "Addon:MediaReport"
 },
 {
-"n": "Pedigree Chart",
+"n": "Diagram rodokme\u0148a",
 "i": "PedigreeChart",
 "t": 0,
-"d": "Alternate version of the traditional pedigree chart.",
+"d": "Alternat\u00edvna verzia tradi\u010dn\u00e9ho diagramu rodokme\u0148a.",
 "v": "1.0.42",
 "g": "6.0",
 "s": 3,
@@ -430,7 +430,7 @@
 "i": "censuscheckquickview",
 "t": 1,
 "d": "Check whether any Census events are missing for a person and some of their descendents",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -441,7 +441,7 @@
 "i": "censuscheckupquickview",
 "t": 1,
 "d": "Check whether any Census events are missing for a person and some of their ancestors",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -762,7 +762,7 @@
 "h": "Addon:ThumbnailGenerator"
 },
 {
-"n": "\u010cistenie tyoov",
+"n": "\u010cistenie typu",
 "i": "typecleanup",
 "t": 2,
 "d": "Vy\u010disti\u0165 (odstr\u00e1ni\u0165) vlastn\u00e9 typy",
@@ -1069,7 +1069,7 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Kombinovan\u00fd",
+"n": "Kombinovan\u00e9",
 "i": "combinedview",
 "t": 8,
 "d": "Poh\u013ead zobrazuj\u00faci vz\u0165ahy a udalosti pre osobu",
@@ -1114,10 +1114,10 @@
 "h": "Addon:AncestorsMap"
 },
 {
-"n": "TimeLines Map",
+"n": "Mapa \u010dasov\u00fdch os\u00ed",
 "i": "geotimelines",
 "t": 8,
-"d": "A view showing all the places visited by a person or persons on various date.",
+"d": "Poh\u013ead zobrazuj\u00faci v\u0161etky miesta, ktor\u00e9 osoba alebo osoby nav\u0161t\u00edvili v r\u00f4znych \u010dasoch.",
 "v": "1.0.5",
 "g": "6.0",
 "s": 2,
@@ -1265,10 +1265,10 @@
 "h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
-"n": "DNA zhody",
+"n": "Zhody DNA",
 "i": "DNAMatches",
 "t": 10,
-"d": "Gramplet na zobrazenie zoznamu DNA zh\u00f4d",
+"d": "Gramplet na zobrazenie zoznamu zh\u00f4d DNA",
 "v": "2.0.4",
 "g": "6.0",
 "s": 3,
@@ -1380,7 +1380,7 @@
 "i": "Form Gramplet",
 "t": 10,
 "d": "Gramplet rozhranie pre formul\u00e1re",
-"v": "2.0.51",
+"v": "2.0.52",
 "g": "6.0",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -1506,7 +1506,7 @@
 "n": "\u00da\u010dastn\u00edci",
 "i": "Participants",
 "t": 10,
-"d": "Gramplet showing the participants in an event",
+"d": "Gramplet zobrazuj\u00faci \u00fa\u010dastn\u00edkov udalosti",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
