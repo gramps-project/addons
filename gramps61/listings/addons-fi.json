@@ -1291,7 +1291,7 @@
 "i": "Data Entry Gramplet",
 "t": 10,
 "d": "Gramplet nopeaan tiedonsy\u00f6tt\u00f6\u00f6n",
-"v": "1.0.53",
+"v": "1.0.54",
 "g": "6.1",
 "s": 3,
 "z": "DataEntryGramplet.addon.tgz",
