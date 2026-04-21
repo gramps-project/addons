@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "N\u00e4kym\u00e4 n\u00e4ytt\u00e4\u00e4 valitun henkil\u00f6n esivanhempien ja j\u00e4lkel\u00e4isten sukupuun aikajanalla",
-"v": "0.1.67",
+"v": "0.1.68",
 "g": "6.1",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",

@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "Mostra uma cronologia de costados com ascendentes e descendentes do indiv\u00edduo seleccionado",
-"v": "0.1.67",
+"v": "0.1.68",
 "g": "6.1",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",

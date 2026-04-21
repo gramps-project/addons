@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "De weergave toont een tijdlijn-kwartierstaat met voorouders en afstammelingen van de geselecteerde persoon",
-"v": "0.1.67",
+"v": "0.1.68",
 "g": "6.1",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",

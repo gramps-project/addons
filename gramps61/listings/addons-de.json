@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "Die Ansicht zeigt einen Zeitstrahl-Stammbaum mit Vorfahren und Nachkommen der ausgew\u00e4hlten Person",
-"v": "0.1.67",
+"v": "0.1.68",
 "g": "6.1",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",

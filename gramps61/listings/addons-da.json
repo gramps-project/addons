@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "Visningen viser en tidslinje med aner og efterkommere af den valgte person",
-"v": "0.1.67",
+"v": "0.1.68",
 "g": "6.1",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",
