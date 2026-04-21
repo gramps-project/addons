@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "\u4e3a\u51fa\u751f\u548c\u6b7b\u4ea1\u7684\u8ba1\u7b97\u4f30\u8ba1\u65e5\u671f.",
-"v": "0.90.41",
+"v": "0.90.42",
 "g": "6.0",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Ber\u00e4kna uppskattningar av datum f\u00f6r f\u00f6delse och d\u00f6d.",
-"v": "0.90.41",
+"v": "0.90.42",
 "g": "6.0",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

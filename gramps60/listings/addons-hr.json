@@ -603,11 +603,11 @@
 "h": "Addon:BirthOrderTool"
 },
 {
-"n": "Procijeni datume",
+"n": "Izra\u010dunaj procijenjene datume",
 "i": "calculateestimateddates",
 "t": 2,
-"d": "Procjenjuje datume ro\u0111enja i smrti.",
-"v": "0.90.41",
+"d": "Izra\u010dunava procijenjene datume ro\u0111enja i smrti.",
+"v": "0.90.42",
 "g": "6.0",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",

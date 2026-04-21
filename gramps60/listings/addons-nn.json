@@ -607,7 +607,7 @@
 "i": "calculateestimateddates",
 "t": 2,
 "d": "Calculates estimated dates for birth and death.",
-"v": "0.90.41",
+"v": "0.90.42",
 "g": "6.0",
 "s": 3,
 "z": "CalculateEstimatedDates.addon.tgz",
