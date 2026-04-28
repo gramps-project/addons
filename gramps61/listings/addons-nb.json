@@ -1336,7 +1336,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet for \u00e5 vise, redigere og lagre Exif-metadata for bilder",
-"v": "2.0.17",
+"v": "2.0.18",
 "g": "6.1",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",

@@ -1336,7 +1336,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet \u0111\u1ec3 xem, ch\u1ec9nh v\u00e0 l\u01b0u metadata Exif c\u1ee7a h\u00ecnh \u1ea3nh ",
-"v": "2.0.17",
+"v": "2.0.18",
 "g": "6.1",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",

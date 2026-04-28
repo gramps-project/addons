@@ -1336,7 +1336,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet pro prohl\u00ed\u017een\u00ed, \u00fapravy a ulo\u017een\u00ed Exif metadata obr\u00e1zku",
-"v": "2.0.17",
+"v": "2.0.18",
 "g": "6.1",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",

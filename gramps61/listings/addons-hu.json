@@ -1336,7 +1336,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "K\u00e9p Exif metaadatokat mutat\u00f3, szerkeszt\u0151 \u00e9s ment\u0151 gramplet",
-"v": "2.0.17",
+"v": "2.0.18",
 "g": "6.1",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
