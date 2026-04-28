@@ -1579,7 +1579,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "Prerequisites Checker Gramplet",
-"v": "1.2.10",
+"v": "1.2.11",
 "g": "6.1",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
