@@ -1391,7 +1391,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet f\u00f6r att h\u00e4mta platser fr\u00e5n GOV-databasen",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.1",
 "s": 3,
 "z": "GetGOV.addon.tgz",
