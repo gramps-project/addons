@@ -961,7 +961,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Ein Zusatz zu den Einstellungen zur einfachen Anpassung von Themen und Schriftarten.  Besonders n\u00fctzlich f\u00fcr Windows-Benutzer.",
-"v": "0.0.17",
+"v": "0.0.18",
 "g": "6.1",
 "s": 3,
 "z": "Themes.addon.tgz",

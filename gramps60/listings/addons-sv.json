@@ -961,7 +961,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Ett till\u00e4gg till Inst\u00e4llningar f\u00f6r enkel inst\u00e4llning av teman och teckensnitt. S\u00e4rskilt anv\u00e4ndbart f\u00f6r Windows-anv\u00e4ndare.",
-"v": "0.0.16",
+"v": "0.0.17",
 "g": "6.0",
 "s": 3,
 "z": "Themes.addon.tgz",

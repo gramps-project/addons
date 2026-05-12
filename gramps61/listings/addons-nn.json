@@ -961,7 +961,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Et tillegg til Innstillinger for enkel justering av tema og skrift. Spesielt nyttig for Windows-brukere.",
-"v": "0.0.17",
+"v": "0.0.18",
 "g": "6.1",
 "s": 3,
 "z": "Themes.addon.tgz",

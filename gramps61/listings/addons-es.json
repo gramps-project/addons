@@ -961,7 +961,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Una adici\u00f3n a las preferencias para el ajuste simple de tema y fuente. Especialmente \u00fatil para usuarios de Windows.",
-"v": "0.0.17",
+"v": "0.0.18",
 "g": "6.1",
 "s": 3,
 "z": "Themes.addon.tgz",
