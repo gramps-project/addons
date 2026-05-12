@@ -1451,7 +1451,7 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Izra\u0111uje popis stanovnika jedne adrese na vremenskoj crti",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",

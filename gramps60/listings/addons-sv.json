@@ -1451,7 +1451,7 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Listar de boende p\u00e5 en adress efter tidslinjen",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",

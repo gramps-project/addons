@@ -1451,7 +1451,7 @@
 "i": "House Timeline",
 "t": 10,
 "d": "N\u00e4yt\u00e4 osoitteen asukkaat aikajanalla",
-"v": "1.0.17",
+"v": "1.0.18",
 "g": "6.1",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",

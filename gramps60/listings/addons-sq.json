@@ -1451,7 +1451,7 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Lists the Residents of an Address by Timeline",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",

@@ -1451,7 +1451,7 @@
 "i": "House Timeline",
 "t": 10,
 "d": "Uv\u00e1dza obyvate\u013eov na adrese pod\u013ea \u010dasovej osi",
-"v": "1.0.16",
+"v": "1.0.17",
 "g": "6.0",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",

@@ -1447,11 +1447,11 @@
 "h": "Addon:Historical_Context"
 },
 {
-"n": "House Timeline",
+"n": "Cronolog\u00eda de Inicio",
 "i": "House Timeline",
 "t": 10,
-"d": "Lists the Residents of an Address by Timeline",
-"v": "1.0.17",
+"d": "Listado de Residentes de una Direcci\u00f3n por Cronolog\u00eda",
+"v": "1.0.18",
 "g": "6.1",
 "s": 3,
 "z": "HouseTimelineGramplet.addon.tgz",
