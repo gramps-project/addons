@@ -32,11 +32,11 @@
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Descendants Lines",
+"n": "L\u00edneas Descendientes",
 "i": "Descendants Lines",
 "t": 0,
-"d": "Produces descendants lines of a person",
-"v": "1.1.14",
+"d": "Produce l\u00edneas descendientes de una persona",
+"v": "1.1.15",
 "g": "6.1",
 "s": 3,
 "z": "DescendantsLines.addon.tgz",
