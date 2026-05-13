@@ -1182,11 +1182,11 @@
 "h": "Addon:Life_Line_Chart_View"
 },
 {
-"n": "Anniversaries",
+"n": "V\u00fdro\u010dia",
 "i": "Anniversaries",
 "t": 10,
-"d": "A gramplet that displays the anniversaries of events",
-"v": "1.0.3",
+"d": "Gramplet, ktor\u00fd zobrazuje v\u00fdro\u010dia udalost\u00ed",
+"v": "1.0.4",
 "g": "6.0",
 "s": 3,
 "z": "AnniversariesGramplet.addon.tgz",

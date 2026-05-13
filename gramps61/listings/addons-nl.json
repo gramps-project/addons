@@ -1182,11 +1182,11 @@
 "h": "Addon:Life_Line_Chart_View"
 },
 {
-"n": "Anniversaries",
+"n": "Herdenkingsdagen",
 "i": "Anniversaries",
 "t": 10,
-"d": "A gramplet that displays the anniversaries of events",
-"v": "1.0.4",
+"d": "Een gramplet die de herdenkingsdagen van gebeurtenissen weergeeft",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "AnniversariesGramplet.addon.tgz",

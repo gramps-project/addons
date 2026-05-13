@@ -1186,7 +1186,7 @@
 "i": "Anniversaries",
 "t": 10,
 "d": "A gramplet that displays the anniversaries of events",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.0",
 "s": 3,
 "z": "AnniversariesGramplet.addon.tgz",
