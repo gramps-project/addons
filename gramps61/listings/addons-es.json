@@ -54,11 +54,11 @@
 "h": "Addon:Descendant_and_Detailed_Descendant_Book_Reports"
 },
 {
-"n": "Dynamic Web Report",
+"n": "Informe web din\u00e1mico",
 "i": "DynamicWeb",
 "t": 0,
-"d": "Produces dynamic web pages for the database",
-"v": "0.0.101",
+"d": "Genera p\u00e1ginas web din\u00e1micas para la base de datos",
+"v": "0.0.102",
 "g": "6.1",
 "s": 3,
 "z": "DynamicWeb.addon.tgz",
