@@ -157,7 +157,7 @@
 "i": "PersonEverythingReport",
 "t": 0,
 "d": "Produces a report containing everything about the active person",
-"v": "1.0.24",
+"v": "1.0.25",
 "g": "6.0",
 "s": 3,
 "z": "PersonEverything.addon.tgz",

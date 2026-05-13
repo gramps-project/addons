@@ -157,7 +157,7 @@
 "i": "PersonEverythingReport",
 "t": 0,
 "d": "Tuottaa raportin kaikista aktiivisen henkil\u00f6n tiedoista",
-"v": "1.0.25",
+"v": "1.0.26",
 "g": "6.1",
 "s": 3,
 "z": "PersonEverything.addon.tgz",

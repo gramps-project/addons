@@ -157,7 +157,7 @@
 "i": "PersonEverythingReport",
 "t": 0,
 "d": "Vytvor\u00ed spr\u00e1vu obsahuj\u00facu v\u0161etko o akt\u00edvnej osobe",
-"v": "1.0.24",
+"v": "1.0.25",
 "g": "6.0",
 "s": 3,
 "z": "PersonEverything.addon.tgz",
