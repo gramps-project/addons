@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Pripoj\u00ed zdie\u013ean\u00fd zdroj k viacer\u00fdm objektom.",
-"v": "0.0.41",
+"v": "0.0.42",
 "g": "6.0",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",

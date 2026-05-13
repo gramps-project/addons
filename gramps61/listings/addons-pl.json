@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Do\u0142\u0105cza wsp\u00f3\u0142dzielone \u017ar\u00f3d\u0142o do wielu obiekt\u00f3w.",
-"v": "0.0.42",
+"v": "0.0.43",
 "g": "6.1",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",

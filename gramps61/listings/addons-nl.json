@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Koppelt een gedeelde bron aan meerdere objecten.",
-"v": "0.0.42",
+"v": "0.0.43",
 "g": "6.1",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",

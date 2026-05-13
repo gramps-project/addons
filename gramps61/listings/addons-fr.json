@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Attache une source partag\u00e9e \u00e0 plusieurs objets.",
-"v": "0.0.42",
+"v": "0.0.43",
 "g": "6.1",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",

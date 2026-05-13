@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Dodaje dijeljeni izvor vi\u0161estrukim objektima.",
-"v": "0.0.41",
+"v": "0.0.42",
 "g": "6.0",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",

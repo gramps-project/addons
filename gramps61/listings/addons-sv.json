@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Kopplar en delad k\u00e4lla till flera objekt.",
-"v": "0.0.42",
+"v": "0.0.43",
 "g": "6.1",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",

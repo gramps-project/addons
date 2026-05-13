@@ -463,7 +463,7 @@
 "i": "AttachSource",
 "t": 2,
 "d": "Megosztott forr\u00e1st csatol t\u00f6bb objektumhoz.",
-"v": "0.0.41",
+"v": "0.0.42",
 "g": "6.0",
 "s": 3,
 "z": "AttachSourceTool.addon.tgz",
