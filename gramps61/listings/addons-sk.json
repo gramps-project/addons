@@ -267,7 +267,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Generuje webov\u00fa (HTML) str\u00e1nku s grafick\u00fdm zn\u00e1zornen\u00edm predkov/potomkov (SVG), kde sa detaily o jednotlivcoch zobrazia pri udalostiach my\u0161i.",
-"v": "2.3.51",
+"v": "2.3.52",
 "g": "6.1",
 "s": 3,
 "z": "DenominoViso.addon.tgz",

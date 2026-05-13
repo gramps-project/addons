@@ -267,7 +267,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Erzeugt eine Web-(HTML)-Seite mit einer grafischen Darstellung von Vorfahren/Nachkommen (SVG), auf der Details zu den Personen bei Mausereignissen sichtbar werden.",
-"v": "2.3.50",
+"v": "2.3.51",
 "g": "6.0",
 "s": 3,
 "z": "DenominoViso.addon.tgz",

@@ -267,7 +267,7 @@
 "i": "denominoviso",
 "t": 0,
 "d": "Generuje stron\u0119 WWW (HTML) z graficzn\u0105 reprezentacj\u0105 przodk\u00f3w/potomk\u00f3w (SVG), gdzie szczeg\u00f3\u0142y dotycz\u0105ce os\u00f3b staj\u0105 si\u0119 widoczne przy zdarzeniach myszy.",
-"v": "2.3.51",
+"v": "2.3.52",
 "g": "6.1",
 "s": 3,
 "z": "DenominoViso.addon.tgz",
