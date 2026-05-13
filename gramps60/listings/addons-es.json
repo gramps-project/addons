@@ -11,21 +11,21 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Ancestry Table",
+"n": "Tabla de Ancestros",
 "i": "AncestryTable",
 "t": 0,
-"d": "Produces a table of ancestry about a person",
+"d": "Produce una tabla de ancestros acerca de una persona",
 "v": "1.0.3",
 "g": "6.0",
 "s": 3,
 "z": "AncestryTableReport.addon.tgz"
 },
 {
-"n": "Descendant Book",
+"n": "Libro Descendiente",
 "i": "DescendantBook",
 "t": 0,
-"d": "Produces one or more descendant reports based on a supplied query.",
-"v": "1.1.34",
+"d": "Genera uno o m\u00e1s informes descendientes a partir de una consulta proporcionada.",
+"v": "1.1.35",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -43,11 +43,11 @@
 "h": "Addon:DescendantsLines"
 },
 {
-"n": "Detailed Descendant Book",
+"n": "Libro Descendente Detallado",
 "i": "DetailedDescendantBook",
 "t": 0,
-"d": "Produces one or more detailed descendant reports based on a supplied query.",
-"v": "1.1.34",
+"d": "Produce uno o m\u00e1s informes descendientes detallados basados en una consulta dada.",
+"v": "1.1.35",
 "g": "6.0",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -65,10 +65,10 @@
 "h": "Addon:DynamicWeb_report"
 },
 {
-"n": "Family Sheet",
+"n": "Hoja Familiar",
 "i": "FamilySheet",
 "t": 0,
-"d": "Produces a family sheet showing full information about a person and his/her partners and children.",
+"d": "Produce una hoja de familia que muestra informaci\u00f3n completa sobre una persona y sus parejas e hijos.",
 "v": "3.4.51",
 "g": "6.0",
 "s": 3,
@@ -90,7 +90,7 @@
 "n": "Heatmap",
 "i": "Heatmap",
 "t": 0,
-"d": "Create a heatmap web report.",
+"d": "Crea un informe de web heatmap.",
 "v": "1.2.8",
 "g": "6.0",
 "s": 3,
@@ -109,10 +109,10 @@
 "h": "Addon:LastChange#Last_Change_Report"
 },
 {
-"n": "Lines of Descendency Report",
+"n": "L\u00edneas de Informe de Descendiente",
 "i": "LinesOfDescendency",
 "t": 0,
-"d": "Prints out all descendency lines from a given ancestor to a given descendent in text.",
+"d": "Declara fuera todas del l\u00edneas descendientes desde un ancestro dado hasta un descendiente dado dentro del texto.",
 "v": "1.1.39",
 "g": "6.0",
 "s": 3,
@@ -120,10 +120,10 @@
 "h": "Addon:Lines_of_Descendency_Report"
 },
 {
-"n": "Tiny Tafel",
+"n": "Lista de rel\u00e1mpago",
 "i": "ListeEclair",
 "t": 0,
-"d": "Generates a tiny tafel",
+"d": "Genera una lista r\u00e1pida",
 "v": "1.0.30",
 "g": "6.0",
 "s": 3,
@@ -131,10 +131,10 @@
 "h": "Addon:TinyTafel"
 },
 {
-"n": "Media Report",
+"n": "Informe del medio",
 "i": "MediaReport",
 "t": 0,
-"d": "Generates report including images, image data and notes.",
+"d": "Genera un informe que incluye im\u00e1genes, datos de imagen y notas.",
 "v": "1.1.15",
 "g": "6.0",
 "s": 3,
@@ -142,10 +142,10 @@
 "h": "Addon:MediaReport"
 },
 {
-"n": "Pedigree Chart",
+"n": "Cuadro Pedigree",
 "i": "PedigreeChart",
 "t": 0,
-"d": "Alternate version of the traditional pedigree chart.",
+"d": "Versi\u00f3n alternativa del cuadro de pedigree adicional.",
 "v": "1.0.42",
 "g": "6.0",
 "s": 3,
@@ -153,10 +153,10 @@
 "h": "Addon:PedigreeChart"
 },
 {
-"n": "PersonEverything Report",
+"n": "Informe de PersonEverything",
 "i": "PersonEverythingReport",
 "t": 0,
-"d": "Produces a report containing everything about the active person",
+"d": "Produce un informe que contiene todo sobre la persona activa",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -164,10 +164,10 @@
 "h": "Addon:PersonEverything_Report"
 },
 {
-"n": "Repositories Report",
+"n": "Informe de Repositorios",
 "i": "Repositories Report",
 "t": 0,
-"d": "Produces a textual repositories report",
+"d": "Produce un informe de repositorios textuales",
 "v": "1.1.35",
 "g": "6.0",
 "s": 3,
@@ -175,10 +175,10 @@
 "h": "Addon:RepositoriesReport#Repositories_Report"
 },
 {
-"n": "Repositories Report Options",
+"n": "Opciones del Informe de Repositorios",
 "i": "Repositories Report Options",
 "t": 0,
-"d": "Produces a textual repositories report",
+"d": "Produce un informe de repositorios textuales",
 "v": "0.3.35",
 "g": "6.0",
 "s": 3,
@@ -186,10 +186,10 @@
 "h": "Addon:RepositoriesReport#Repositories_Report_Options"
 },
 {
-"n": "Sources and Citations Report",
+"n": "Origen e Informes de Citaci\u00f3n",
 "i": "SourcesCitationsReport",
 "t": 0,
-"d": "Provides a source and Citations Report with notes",
+"d": "D\u00e9 una breve descripci\u00f3n de esta imagen",
 "v": "3.6.15",
 "g": "6.0",
 "s": 3,
@@ -197,10 +197,10 @@
 "h": "Addon:SourcesCitationsReport"
 },
 {
-"n": "Timeline Pedigree Report",
+"n": "Informe geneal\u00f3gico de la cronolog\u00eda",
 "i": "TimePedigreeHTML",
 "t": 0,
-"d": "Creates an HTML webpage that uses JavaScript to show a pedigree block diagram arranged vertically by birth date",
+"d": "Crea una p\u00e1gina web HTML que utiliza JavaScript para mostrar un diagrama de bloques geneal\u00f3gico organizado verticalmente por fecha de nacimiento",
 "v": "0.0.12",
 "g": "6.0",
 "s": 3,
@@ -208,10 +208,10 @@
 "h": "Addon:Timeline_Pedigree_Report"
 },
 {
-"n": "Todo Report",
+"n": "Informe por hacer",
 "i": "TodoReport",
 "t": 0,
-"d": "Produces a list of all the notes with a given tag along with the records that it references, the Person, Family, Event, etc.",
+"d": "Produce un listado de todas las notas con una etiqueta determinada junto con los registros que hace referencia, la Persona, Familia, Evento, etc.",
 "v": "1.2.39",
 "g": "6.0",
 "s": 3,
@@ -219,10 +219,10 @@
 "h": "Addon:ToDoReport"
 },
 {
-"n": "Ancestral Collapsible Tree",
+"n": "\u00c1rbol ancestral colapsable",
 "i": "d3-ancestralcollapsibletree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Collapsible Tree Layout from the D3.js JavaScript library.",
+"d": "Genera una p\u00e1gina web con una representaci\u00f3n gr\u00e1fica de ancestros (*.svg) representados como una Distribuci\u00f3n de \u00c1rbol Colapsado desde la biblioteca D3.js JavaScript.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -230,10 +230,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Collapsible_Tree"
 },
 {
-"n": "Ancestral Fan Chart",
+"n": "Cuadro geneal\u00f3gico ancestral",
 "i": "d3-ancestralfanchart",
 "t": 0,
-"d": "Generates a web page with a graphical representation of ancestors (SVG) represented as a Fan Chart from the D3.js JavaScript library.",
+"d": "Genera una p\u00e1gina web con una representaci\u00f3n gr\u00e1fica de los ancestros (SVG) representada como un Cuadro de Abanico a partir de la biblioteca JavaScript D3.js.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -241,10 +241,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Ancestral_Fan_Chart"
 },
 {
-"n": "Descendant Indented Tree",
+"n": "\u00c1rbol sangrado descendente",
 "i": "d3-descendantindentedtree",
 "t": 0,
-"d": "Generates a web page with a graphical representation of descendants (SVG) representedas a Collapsible Indented Tree Layout from the D3.js JavaScript library.",
+"d": "Genera una p\u00e1gina web con una representaci\u00f3n gr\u00e1fica de descendentes (SVG) representa un dise\u00f1o de \u00e1rbol con sangrado plegable de la biblioteca JavaScript D3.js.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -252,10 +252,10 @@
 "h": "Addon:D3_Ancestral_and_Descendant_Charts#Descendant_Indented_Tree"
 },
 {
-"n": "Database Differences Report",
+"n": "Informe de diferencias de la base de datos",
 "i": "database-differences-report",
 "t": 0,
-"d": "Compares an external database with the current one.",
+"d": "Compara una base de datos externa con la actual.",
 "v": "1.0.28",
 "g": "6.0",
 "s": 3,
@@ -274,10 +274,10 @@
 "h": "Addon:DenominoViso"
 },
 {
-"n": "Descendant Space Tree",
+"n": "\u00c1rbol de Espacio Descendiente",
 "i": "descendantspacetree",
 "t": 0,
-"d": "Generates a web page with an interactive graph of descendants represented as a Space Tree for efficient viewing, even with many descendants or generations.",
+"d": "Genera una p\u00e1gina web con un gr\u00e1fico interactivo de descendientes representado como un \u00e1rbol espacial para una visualizaci\u00f3n eficiente, incluso con muchos descendientes o generaciones.",
 "v": "1.1.2",
 "g": "6.0",
 "s": 3,
@@ -285,10 +285,10 @@
 "h": "Addon:DescendantSpaceTree"
 },
 {
-"n": "Detailed Descendant Report With All Images",
+"n": "Informe detallado de descendientes con todas las im\u00e1genes",
 "i": "det_descendant_report_i",
 "t": 0,
-"d": "Produces a detailed descendant report with all images and optional todo list.",
+"d": "Genera un informe detallado de los descendientes con todas las im\u00e1genes y una lista de tareas opcional.",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -296,10 +296,10 @@
 "h": "Addon:Detailed_Descendant_Report_With_All_Images"
 },
 {
-"n": "Double Cousins",
+"n": "Primos dobles",
 "i": "double_cousins",
 "t": 0,
-"d": "A text report listing double cousins.",
+"d": "Un informe de texto que enumera a los primos dobles.",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -310,7 +310,7 @@
 "n": "\u00c1rbol de ascendientes",
 "i": "gt_ancestor",
 "t": 0,
-"d": "Ancestor tree using LaTeX genealogytree",
+"d": "\u00c1rbol de ancestros usando genealogytree de LaTeX",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -322,7 +322,7 @@
 "n": "\u00c1rbol de descendientes",
 "i": "gt_descendant",
 "t": 0,
-"d": "Descendant tree using LaTeX genealogytree",
+"d": "\u00c1rbol descendente usando genealogytree de LaTeX",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -331,10 +331,10 @@
 "a": 1
 },
 {
-"n": "Grandparent Tree",
+"n": "\u00c1rbol del Abuelo",
 "i": "gt_grandparent",
 "t": 0,
-"d": "Grandparent tree using LaTeX genealogytree",
+"d": "\u00c1rbol del abuelo utilizando genealogytree de LaTeX",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -343,10 +343,10 @@
 "a": 1
 },
 {
-"n": "Sandclock Tree",
+"n": "\u00c1rbol del Reloj de Arena",
 "i": "gt_sandclock",
 "t": 0,
-"d": "Sandclock tree using LaTeX genealogytree",
+"d": "\u00c1rbol del reloj de arena usando el \u00e1rbol geneal\u00f3gico en LaTeX",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -355,10 +355,10 @@
 "a": 1
 },
 {
-"n": "Sandclock Tree for a Family",
+"n": "\u00c1rbol del Reloj de Arena para una Familia",
 "i": "gt_sandclock_family",
 "t": 0,
-"d": "Sandclock tree for a family using LaTeX genealogytree",
+"d": "\u00c1rbol del Reloj de Arena para una familia utilizando \u00c1rbol Geneal\u00f3gico de LaTeX",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -367,10 +367,10 @@
 "a": 1
 },
 {
-"n": "Network Chart",
+"n": "Cuadro de Red",
 "i": "networkchart",
 "t": 0,
-"d": "Generates a family network chart.",
+"d": "Genera un cuadro de red de familia.",
 "v": "0.0.33",
 "g": "6.0",
 "s": 3,
@@ -382,10 +382,10 @@
 "a": 1
 },
 {
-"n": "Number of ancestors",
+"n": "N\u00famero de ancestros",
 "i": "NumberOfAncestorsQuickview",
 "t": 1,
-"d": "Shows the number of ancestors of the current person",
+"d": "Muestra el n\u00famero de ancestros de la persona actual",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -393,10 +393,10 @@
 "h": "Addon:NumberOfAncestorsQuickView"
 },
 {
-"n": "Number of descendants",
+"n": "N\u00famero de descendientes",
 "i": "NumberOfDescendantsQuickview",
 "t": 1,
-"d": "Shows the number of descendants of the current person",
+"d": "Muestra el n\u00famero de descendientes de la persona actual",
 "v": "3.4.34",
 "g": "6.0",
 "s": 3,
@@ -404,10 +404,10 @@
 "h": "Addon:Number_of_Descendants_Quickview"
 },
 {
-"n": "Todos los nombres de todas las personas",
+"n": "Todos los Nombres de Toda la Gente",
 "i": "allnames",
 "t": 1,
-"d": "Mostrar todos los nombres de todas las personas",
+"d": "Exhibir todos los nombres de todas las personas",
 "v": "1.0.35",
 "g": "6.0",
 "s": 3,
@@ -418,7 +418,7 @@
 "n": "Biograf\u00eda",
 "i": "biographyquickview",
 "t": 1,
-"d": "Display a text biography",
+"d": "Exhibe una biograf\u00eda en texto",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -451,7 +451,7 @@
 "n": "Cronograma",
 "i": "timelinequickview",
 "t": 1,
-"d": "Display a person's events on a timeline",
+"d": "Exhibe los eventos de una persona en un cron\u00f3metro",
 "v": "1.0.36",
 "g": "6.0",
 "s": 3,
@@ -473,7 +473,7 @@
 "n": "Herramienta de generaci\u00f3n de avatares",
 "i": "AvatarGenerator",
 "t": 2,
-"d": "Una herramienta para a\u00f1adir avatares a su \u00e1rbol geneal\u00f3gico",
+"d": "Una herramienta para agregar avatares a su \u00e1rbol geneal\u00f3gico",
 "v": "1.0.18",
 "g": "6.0",
 "s": 3,
@@ -484,7 +484,7 @@
 "n": "Editor de descripciones de eventos",
 "i": "EventDescriptionEditor",
 "t": 2,
-"d": "A tool to find and replace a string in event description of multiple events.",
+"d": "Una herramienta para encontrar y reemplazar una cadena perteneciente a una descripci\u00f3n del evento de m\u00faltiples eventos.",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -492,10 +492,10 @@
 "h": "Addon:EventDescriptionEditor"
 },
 {
-"n": "Family Relationship Tool",
+"n": "Herramienta Familiar de Relaci\u00f3n",
 "i": "FamilyRelationshipTool",
 "t": 2,
-"d": "Mass-edit the family relationship type for a group of families.",
+"d": "Edita en masa el tipo de la relaci\u00f3n familiar para un grupo de familias.",
 "v": "1.1.11",
 "g": "6.0",
 "s": 3,
@@ -503,10 +503,10 @@
 "h": "Addon:FamilyRelationship"
 },
 {
-"n": "FamilyTree DNA",
+"n": "ADN del \u00c1rbol Familiar",
 "i": "FamilyTree DNA Import Tool",
 "t": 2,
-"d": "Tool to import FamilyFinder DNA data from Family Tree",
+"d": "Herramienta para importar datos del ADN de FamilyFinder desde el \u00c1rbol Familiar",
 "v": "1.0.34",
 "g": "6.0",
 "s": 3,
@@ -518,7 +518,7 @@
 "n": "Corregir coordenadas de lugar",
 "i": "FixCoords",
 "t": 2,
-"d": "Tool to correct the place coordinates for extra spaces or comma characters.",
+"d": "Herramienta para corregir las coordenadas de lugar en caso de espacios adicionales o comas.",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -529,7 +529,7 @@
 "n": "PlaceCompletion",
 "i": "PlaceCompletion",
 "t": 2,
-"d": "Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.",
+"d": "Proporciona un listado explorable de lugares seleccionados, con posiblemente uno de los campos completar/interpretar/establecer del atributo.",
 "v": "0.0.46",
 "g": "6.0",
 "s": 3,
@@ -537,10 +537,10 @@
 "h": "Addon:Place_completion_tool"
 },
 {
-"n": "Add/Remove Tag Tool",
+"n": "Agregar/Retirar Herramienta de Leng\u00fceta",
 "i": "RemoveTagTool",
 "t": 2,
-"d": "Add or remove a tag from groups of people, events, etc.",
+"d": "A\u00f1ade o retira una leng\u00fceta desde grupos de gente, eventos, etc.",
 "v": "1.1.12",
 "g": "6.0",
 "s": 3,
@@ -551,7 +551,7 @@
 "n": "Establecer atributo",
 "i": "SetAttribute",
 "t": 2,
-"d": "Set an attribute to a given value.",
+"d": "Establece un atributo a un valor dado.",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -559,10 +559,10 @@
 "h": "Addon:SetAttributeTool"
 },
 {
-"n": "Set Privacy Tool",
+"n": "Establecer herramienta de privacidad",
 "i": "SetPrivacyTool",
 "t": 2,
-"d": "Set all objects of the last <number> of years private.",
+"d": "Establecer todo los objetos del \u00faltimo <n\u00famero> de a\u00f1os privados.",
 "v": "1.0.19",
 "g": "6.0",
 "s": 3,
@@ -570,10 +570,10 @@
 "h": "Addon:SetPrivacyTool"
 },
 {
-"n": "Interactive Family Tree",
+"n": "\u00c1rbol Familiar Interactivo",
 "i": "Topola",
 "t": 2,
-"d": "Opens an interactive tree in the browser",
+"d": "Abre un \u00e1rbol interactivo en el navegador",
 "v": "1.1.14",
 "g": "6.0",
 "s": 3,
@@ -581,10 +581,10 @@
 "h": "Addon:Interactive_Family_Tree"
 },
 {
-"n": "Check Associations data",
+"n": "Comprobar datos de Asociaciones",
 "i": "associationstool",
 "t": 2,
-"d": "Will check the data on Association for people.",
+"d": "Comprobar datos de la Relaci\u00f3n entre personas.",
 "v": "1.1.15",
 "g": "6.0",
 "s": 3,
@@ -592,10 +592,10 @@
 "h": "Addon:Check_Associations"
 },
 {
-"n": "Sort Children in Birth order",
+"n": "Ordena hijos en orden de nacimiento",
 "i": "birthorder",
 "t": 2,
-"d": "Looks through families, looking for children that are not in birth order.  User can accept individual suggestions to correct, edit the birth order manually, accept all those families that have all children with proper birth dates, or accept all.",
+"d": "Revisa las familias en busca de ni\u00f1os que no est\u00e9n en el orden de nacimiento correcto. El usuario puede aceptar sugerencias individuales para corregir, editar el orden de nacimiento manualmente, aceptar todas las familias que tengan todos los ni\u00f1os con fechas de nacimiento correctas o aceptarlas todas.",
 "v": "0.0.19",
 "g": "6.0",
 "s": 3,
@@ -617,7 +617,7 @@
 "n": "Corregir mayusculaci\u00f3n de nombres de pila",
 "i": "chgivenname",
 "t": 2,
-"d": "Searches the entire database and attempts to fix capitalization of the given names.",
+"d": "Busca la base de datos completa e intente reparar la capitulina de los nombres dados.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -625,10 +625,10 @@
 "h": "Addon:Fix_Capitalization_of_Given_Names"
 },
 {
-"n": "Command Line Merge",
+"n": "Combinaci\u00f3n de l\u00ednea de comandos",
 "i": "climerge",
 "t": 2,
-"d": "Merge primary objects via the command line.",
+"d": "Combinar objetos primarios mediante la l\u00ednea de comandos.",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -637,10 +637,10 @@
 "a": 2
 },
 {
-"n": "Download media files from the internet",
+"n": "Descargar archivos multimedia de Internet",
 "i": "downloadmedia",
 "t": 2,
-"d": "This tool downloads media files from the internet",
+"d": "Esta herramienta descarga archivos multimedia de Internet",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -648,10 +648,10 @@
 "h": "Addon:DownloadMedia"
 },
 {
-"n": "Extract Place Data from a Place Title",
+"n": "Extrae el Sitio de Datos desde un T\u00edtulo de Sitio",
 "i": "excity",
 "t": 2,
-"d": "Attempts to extract city and state/province from a place title",
+"d": "Intentos de extraer ciudad y estado/provincia desde un t\u00edtulo del lugar",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -670,10 +670,10 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
-"n": "Herramienta Importar y fusionar",
+"n": "Herramienta Importar y Fusionar",
 "i": "import_merge",
 "t": 2,
-"d": "Compares a Gramps XML database with the current one, and allows merging of the differences.",
+"d": "Compara una base de datos XML de Gramps con uno actual, y concede fusionar las diferencias.",
 "v": "0.0.26",
 "g": "6.0",
 "s": 3,
@@ -692,10 +692,10 @@
 "h": "Addon:MediaMerge"
 },
 {
-"n": "Media Verify",
+"n": "Verificar Medio",
 "i": "mediaverify",
 "t": 2,
-"d": "Verify that media is present in the correct path",
+"d": "Verificar que los medios est\u00e1n presentes en la ruta correcta",
 "v": "1.0.32",
 "g": "6.0",
 "s": 3,
@@ -703,10 +703,10 @@
 "h": "Addon:Media_Verify_Tool"
 },
 {
-"n": "Note Cleanup",
+"n": "Purga de Nota",
 "i": "notecleanup",
 "t": 2,
-"d": "Clean up Notes that contain HTML markup",
+"d": "Purga las Notas que contengan marcadores de HTML",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -714,10 +714,10 @@
 "h": "Addon:NoteCleanupTool"
 },
 {
-"n": "Display relations and distances with the home person",
+"n": "Exhibe relaciones y distancias con la persona inicial",
 "i": "relationtab",
 "t": 2,
-"d": "Will display relational informations with the home person",
+"d": "Exhibir\u00e1 informaciones relacionales con la persona inicial",
 "v": "1.1.4",
 "g": "6.0",
 "s": 1,
@@ -729,7 +729,7 @@
 "n": "S3 Media Uploader",
 "i": "s3uploader",
 "t": 2,
-"d": "Upload media files to S3 (or compatible) object-based storage via the command line.",
+"d": "Sube archivos multimedia en el almacenamiento basado en objetos S3 (o compatible) a trav\u00e9s de la l\u00ednea de comandos.",
 "v": "0.1.11",
 "g": "6.0",
 "s": 3,
@@ -740,7 +740,7 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
-"n": "Sync Associations",
+"n": "Sincronizar Asociaciones",
 "i": "syncAssociations",
 "t": 2,
 "d": "Traverses the Person list for all Associations that are bi-directional and adds any which are missing to the Associated Person.",
@@ -754,7 +754,7 @@
 "n": "Generador de miniaturas",
 "i": "thumbgen",
 "t": 2,
-"d": "Generates thumbnails for media files",
+"d": "Genera miniaturas para archivos multimedia",
 "v": "1.0.31",
 "g": "6.0",
 "s": 3,
@@ -762,10 +762,10 @@
 "h": "Addon:ThumbnailGenerator"
 },
 {
-"n": "Type Cleanup",
+"n": "Tipo de Purga",
 "i": "typecleanup",
 "t": 2,
-"d": "Clean up (remove) custom types",
+"d": "Purgar (retirar) tipos personales",
 "v": "1.0.14",
 "g": "6.0",
 "s": 3,
@@ -784,7 +784,7 @@
 "h": "Addon:JSON_Export_Import#Import_JSON"
 },
 {
-"n": "SQLite Import",
+"n": "Importar SQLite",
 "i": "im_sqlite",
 "t": 3,
 "d": "SQLite is a common local database format",
@@ -796,7 +796,7 @@
 "a": 1
 },
 {
-"n": "TMG Project Backup",
+"n": "TMG Copia de respaldo del proyecto",
 "i": "im_sqz",
 "t": 3,
 "d": "Import TMG project files",
@@ -810,10 +810,10 @@
 "h": "https://gramps-project.org/wiki/index.php/Addon:TMGimporter"
 },
 {
-"n": "Export GEDCOM Extensions (GED2)",
+"n": "Exportar Extensiones de GEDCOM (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,
-"d": "Extensions to the common GEDCOM format.",
+"d": "Extensiones al formato GEDCOM com\u00fan.",
 "v": "1.0.40",
 "g": "6.0",
 "s": 3,
@@ -833,10 +833,10 @@
 "h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
-"n": "Prolog Export",
+"n": "Exportaci\u00f3n de Prolog",
 "i": "Prolog Export",
 "t": 4,
-"d": "Exports data into a Prolog fact format.  Data is in Unicode (utf-8)",
+"d": "Exporta datos en formato de Prolog de facto.  Los datos est\u00e1n en Unicode (utf-8)",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -844,10 +844,10 @@
 "h": "Output_formats#Prolog"
 },
 {
-"n": "Raw Export",
+"n": "Exportaci\u00f3n en crudo",
 "i": "Raw Export",
 "t": 4,
-"d": "This is a raw python object dump",
+"d": "Esto es un volcado del objeto en crudo de Python",
 "v": "1.0.42",
 "g": "6.0",
 "s": 3,
@@ -856,10 +856,10 @@
 "a": 2
 },
 {
-"n": "Person GEXF",
+"n": "Persona GEXF",
 "i": "ex_person_gexf",
 "t": 4,
-"d": "GEXF is used in many network graph applications.",
+"d": "GEXF es utilizado en muchas aplicaciones de gr\u00e1ficos de red.",
 "v": "1.0.3",
 "g": "6.0",
 "s": 2,
@@ -868,7 +868,7 @@
 "a": 1
 },
 {
-"n": "SQLite Export",
+"n": "Exportar SQLite",
 "i": "ex_sqlite",
 "t": 4,
 "d": "SQLite is a common local database format",
@@ -880,10 +880,10 @@
 "a": 1
 },
 {
-"n": "DE Web Connect Pack",
+"n": "Paquete de conexi\u00f3n web DE",
 "i": "DE Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the DE (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios Web para la DE (requiere libwebconnect)",
 "v": "0.0.32",
 "g": "6.0",
 "s": 3,
@@ -891,10 +891,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "FR Web Connect Pack",
+"n": "Paquete de Conexi\u00f3n de Web FR",
 "i": "FR Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the FR (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios Web para el FR (requiere libwebconnect)",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -905,7 +905,7 @@
 "n": "NL Web Connect Pack",
 "i": "NL Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the Netherlands (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios web para los Pa\u00edses Bajos (requiere libwebcommect)",
 "v": "1.0.9",
 "g": "6.0",
 "s": 3,
@@ -916,7 +916,7 @@
 "n": "Gestor de complementos mejorado",
 "i": "PluginManager",
 "t": 6,
-"d": "An Addon/Plugin Manager with several additional capabilities",
+"d": "Un Gestor de Extensi\u00f3n/Complemento con varias capacidades adicionales",
 "v": "1.2.7",
 "g": "6.0",
 "s": 3,
@@ -924,10 +924,10 @@
 "h": "Addon:Plugin_ManagerV2"
 },
 {
-"n": "RU Web Connect Pack",
+"n": "Paquete de Conexi\u00f3n Web RU",
 "i": "RU Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the RU (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios Web para la RU (requiere libwebconnect)",
 "v": "1.0.8",
 "g": "6.0",
 "s": 3,
@@ -935,7 +935,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "Restart where you were last working",
+"n": "Reiniciar donde estaba el \u00faltimo trabajo",
 "i": "RestoreHist",
 "t": 6,
 "d": "This addon causes Gramps to restart on the same view and object where Gramps was previously closed.  It adds no new menus or Gramplets, but allows the last six objects visited to be found via the 'Go' menu.",
@@ -946,10 +946,10 @@
 "h": "Addon:RestartWhereYouWereLastWorking"
 },
 {
-"n": "SV Web Connect Pack",
+"n": "Paquete de Conexi\u00f3n Web SV",
 "i": "SV Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for Sweden (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios Web para sueco (requiere libwebconnect)",
 "v": "1.0.6",
 "g": "6.0",
 "s": 3,
@@ -968,10 +968,10 @@
 "h": "Addon:ThemePreferences"
 },
 {
-"n": "UA Web Connect Pack",
+"n": "Paquete de Conexi\u00f3n Web en AU",
 "i": "UA Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the UA (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios Web para la AU (requiere libwebconnect)",
 "v": "1.0.1",
 "g": "6.0",
 "s": 3,
@@ -979,7 +979,7 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "UK Web Connect Pack",
+"n": "Paquete de Conexi\u00f3n Web UK",
 "i": "UK Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the UK (requires libwebconnect)",
@@ -990,10 +990,10 @@
 "h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
 },
 {
-"n": "US Web Connect Pack",
+"n": "Paquete de Conexi\u00f3n Web de EUA",
 "i": "US Web Connect Pack",
 "t": 6,
-"d": "Collection of Web sites for the US (requires libwebconnect)",
+"d": "Colecci\u00f3n de sitios Web para los EUA (requiere libwebconnect)",
 "v": "1.0.52",
 "g": "6.0",
 "s": 3,
@@ -1027,7 +1027,7 @@
 "n": "GoogleEarth",
 "i": "GoogleEarth",
 "t": 7,
-"d": "Creates data file for GoogleEarth and opens it",
+"d": "Crea archivo de datos para GoogleEarth y lo abre",
 "v": "1.0.53",
 "g": "6.0",
 "s": 3,
@@ -1035,10 +1035,10 @@
 "h": "Addon:MapService-GoogleEarth"
 },
 {
-"n": "H-Tree Pedigree",
+"n": "A-\u00c1rbol de Pedigree",
 "i": "HtreePedigreeView",
 "t": 8,
-"d": "The view shows a space-efficient pedigree with ancestors of the selected person",
+"d": "La vista muestra en padigree eficiente del espacio con ancestros de la persona seleccionada",
 "v": "0.0.35",
 "g": "6.0",
 "s": 3,
@@ -1046,10 +1046,10 @@
 "h": "Addon:HtreePedigreeView"
 },
 {
-"n": "Quilt Chart",
+"n": "Salir de Mapa",
 "i": "QuiltView",
 "t": 8,
-"d": "The view shows a quilt chart visualisation of a family tree",
+"d": "La vista muestra un mapa acolchado de visualizaci\u00f3n de un \u00e1rbol de familia",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1061,7 +1061,7 @@
 "n": "Timeline Pedigree",
 "i": "TimelinePedigreeView",
 "t": 8,
-"d": "The view shows a timeline pedigree with ancestors and descendants of the selected person",
+"d": "La vista muestra una l\u00ednea de tiempo pedigr\u00ed con antepasados y descendientes de la persona seleccionada",
 "v": "0.1.67",
 "g": "6.0",
 "s": 3,
@@ -1069,10 +1069,10 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
-"n": "Combined",
+"n": "Combinados",
 "i": "combinedview",
 "t": 8,
-"d": "A view showing relationships and events for a person",
+"d": "Una vista que muestra las relaciones y los eventos de una persona",
 "v": "2.0.15",
 "g": "6.0",
 "s": 3,
@@ -1080,10 +1080,10 @@
 "h": "Addon:CombinedView"
 },
 {
-"n": "Place Coordinate Gramplet view",
+"n": "Vista de lugar de coordenadas Gamplet",
 "i": "geoIDplaceCoordinateGramplet",
 "t": 8,
-"d": "View for the place coordinate gramplet.",
+"d": "Vista del lugar de coordenadas gramplet.",
 "v": "1.1.26",
 "g": "6.0",
 "s": 3,
@@ -1097,10 +1097,10 @@
 "h": "Addon:PlaceCoordinatesGramplet#Additional_geography_view_with_a_context_menu"
 },
 {
-"n": "Ancestors map",
+"n": "Mapa de ancestros",
 "i": "geoancestor",
 "t": 8,
-"d": "A view showing ancestors places on the map.",
+"d": "Una lista mostrando lugares de ancestros en el mapa.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1114,10 +1114,10 @@
 "h": "Addon:AncestorsMap"
 },
 {
-"n": "TimeLines Map",
+"n": "Mapa de L\u00edneas de Tiempo",
 "i": "geotimelines",
 "t": 8,
-"d": "A view showing all the places visited by a person or persons on various date.",
+"d": "Una vista que muestra todos los lugares visitados por una persona o personas en varias fechas.",
 "v": "1.0.5",
 "g": "6.0",
 "s": 2,
@@ -1132,10 +1132,10 @@
 "a": 1
 },
 {
-"n": "Graph View",
+"n": "Vista Gr\u00e1fica",
 "i": "graphview",
 "t": 8,
-"d": "Dynamic and interactive graph of relations",
+"d": "Gr\u00e1fico de relaciones din\u00e1mico e interactivo",
 "v": "1.0.145",
 "g": "6.0",
 "s": 3,
@@ -1152,10 +1152,10 @@
 "h": "Addon:Graph_View"
 },
 {
-"n": "Life Line Ancestor Chart",
+"n": "Cuadro de Ancestros de L\u00ednea de Vida",
 "i": "lifelinechartancestorview",
 "t": 8,
-"d": "Persons and their relation in a time based chart",
+"d": "Personas y su relaci\u00f3n en un cuadro basado en el tiempo",
 "v": "1.3.26",
 "g": "6.0",
 "s": 3,
@@ -1167,10 +1167,10 @@
 "h": "Addon:Life_Line_Chart_View"
 },
 {
-"n": "Life Line Descendant Chart",
+"n": "Cuadro descendente de l\u00ednea de vida",
 "i": "lifelinechartdescendantview",
 "t": 8,
-"d": "Persons and their relation in a time based chart",
+"d": "Personas y su relaci\u00f3n en un cuadro basado en el tiempo",
 "v": "1.3.26",
 "g": "6.0",
 "s": 3,
@@ -1204,10 +1204,10 @@
 "h": "https://gramps-project.org/wiki/index.php/Addon:ArchiveAssist"
 },
 {
-"n": "Beta What's Next",
+"n": "Beta Qu\u00e9 es lo siguente",
 "i": "Beta What's Next",
 "t": 10,
-"d": "Beta Gramplet suggesting items to research",
+"d": "Gramplet beta sugiere elementos para investigar",
 "v": "0.1.11",
 "g": "6.0",
 "s": 2,
@@ -1219,7 +1219,7 @@
 "n": "Cumplea\u00f1os",
 "i": "Birthdays",
 "t": 10,
-"d": "a gramplet that displays the birthdays of the living people",
+"d": "un gramplet que exhibe los cumplea\u00f1os de la gente viva",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,
@@ -1227,10 +1227,10 @@
 "h": "BirthdaysGramplet"
 },
 {
-"n": "Chat With Tree Interactive Addon",
+"n": "Charla con extensi\u00f3n de \u00e1rbol interactivo",
 "i": "ChatWithTree",
 "t": 10,
-"d": "Chat With Tree with the help of AI Large Language Model, needs litellm module",
+"d": "Charla con \u00e1rbol con la ayuda de AI Large Language Model, necesita m\u00f3dulo litellm",
 "v": "0.0.28",
 "g": "6.0",
 "s": 3,
@@ -1245,7 +1245,7 @@
 "n": "Reloj",
 "i": "Clock Gramplet",
 "t": 10,
-"d": "Gramplet for demonstrating Cairo graphics",
+"d": "Gramplet para demostrar gr\u00e1ficos de Cairo",
 "v": "0.0.38",
 "g": "6.0",
 "s": 3,
@@ -1257,7 +1257,7 @@
 "n": "Portapapeles de colecciones",
 "i": "Collections Clipboard Gramplet",
 "t": 10,
-"d": "Gramplet for grouping collections of items to aid in data entry.",
+"d": "Gramplet son colecciones agrupando elementos para ayudar en apuntar datos.",
 "v": "1.0.48",
 "g": "6.0",
 "s": 3,
@@ -1265,10 +1265,10 @@
 "h": "Addon:Collections_Clipboard_Gramplet"
 },
 {
-"n": "DNA Matches",
+"n": "ADN Coincidente",
 "i": "DNAMatches",
 "t": 10,
-"d": "Gramplet to display a list of DNA matches",
+"d": "Gramplet para representar un listado de coincidencias de ADN",
 "v": "2.0.4",
 "g": "6.0",
 "s": 3,
@@ -1276,10 +1276,10 @@
 "h": "Addon:DNAMatches"
 },
 {
-"n": "DNA Segment Map",
+"n": "Mapa de Segmentaci\u00f3n ADN",
 "i": "DNASegmentMap",
 "t": 10,
-"d": "Gramplet showing a matching DNA segment map",
+"d": "Gramplet mostrando un segmento de ADN coincidente en el mapa",
 "v": "2.0.13",
 "g": "6.0",
 "s": 3,
@@ -1287,10 +1287,10 @@
 "h": "Addon:DNASegmentMap"
 },
 {
-"n": "Data Entry Gramplet",
+"n": "Apunte de datos Gramplet",
 "i": "Data Entry Gramplet",
 "t": 10,
-"d": "Gramplet for quick data entry",
+"d": "Gramplet para apunte de datos r\u00e1pidos",
 "v": "1.0.53",
 "g": "6.0",
 "s": 3,
@@ -1299,10 +1299,10 @@
 "a": 1
 },
 {
-"n": "Date Calculator",
+"n": "Calculador de Fecha",
 "i": "DateCalculator",
 "t": 10,
-"d": "Perform date math calculations",
+"d": "Realiza c\u00e1lculos matem\u00e1ticos de fecha",
 "v": "0.0.23",
 "g": "6.0",
 "s": 3,
@@ -1310,10 +1310,10 @@
 "h": "DateCalculator"
 },
 {
-"n": "Deep Connections Gramplet",
+"n": "Conexiones profundas de Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,
-"d": "Gramplet showing a deep relationship between active and home people",
+"d": "Gramplet mostrando una relaci\u00f3n profunda entre activo y gente inicial",
 "v": "1.0.47",
 "g": "6.0",
 "s": 3,
@@ -1324,7 +1324,7 @@
 "n": "Recuento de descendientes",
 "i": "Descendant Count Gramplet",
 "t": 10,
-"d": "Gramplet for showing people and descendant counts",
+"d": "Gramplet para mostrar el n\u00famero de personas y descendientes",
 "v": "2.0.16",
 "g": "6.0",
 "s": 3,
@@ -1343,7 +1343,7 @@
 "h": "Edit Image Exif Metadata"
 },
 {
-"n": "Extended Family Attributes",
+"n": "Atributos familiares ampliados",
 "i": "Extended Family Attributes",
 "t": 10,
 "d": "Gramplete que muestra los atributos de una familia",
@@ -1354,7 +1354,7 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Family_Attributes_Gramplet"
 },
 {
-"n": "Extended Person Attributes",
+"n": "Atributos Ampliados de Persona",
 "i": "Extended Person Attributes",
 "t": 10,
 "d": "Gramplete que muestra los atributos de una persona",
@@ -1365,10 +1365,10 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
 },
 {
-"n": "Family Overview",
+"n": "Panorama general de la familia",
 "i": "Family Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a family",
+"d": "Gramplet muestra una visi\u00f3n general de los eventos para una familia",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1376,10 +1376,10 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Form Gramplet",
+"n": "Forma Gramplet",
 "i": "Form Gramplet",
 "t": 10,
-"d": "Gramplet interface for Forms",
+"d": "Interfaz de Gramplet para Formas",
 "v": "2.0.52",
 "g": "6.0",
 "s": 3,
@@ -1390,7 +1390,7 @@
 "n": "GetGOV",
 "i": "GetGOV Gramplet",
 "t": 10,
-"d": "Gramplet to get places from the GOV database",
+"d": "Gramplet para obtener lugares desde la base de datos GOV",
 "v": "1.0.24",
 "g": "6.0",
 "s": 3,
@@ -1425,10 +1425,10 @@
 "h": "Addon:GrampyScript"
 },
 {
-"n": "Headline News",
+"n": "Noticias de L\u00ednea de Cabecera",
 "i": "Headline News",
 "t": 10,
-"d": "Gramplet that shows the latest Gramps news",
+"d": "Gramplet que muestra la \u00faltimas noticias de Gramps",
 "v": "1.0.49",
 "g": "6.0",
 "s": 3,
@@ -1436,10 +1436,10 @@
 "h": "HeadlineNewsGramplet"
 },
 {
-"n": "Historical Context",
+"n": "Contexto Hist\u00f3rico",
 "i": "HistContext",
 "t": 10,
-"d": "Lists relevant historical events during the lifetime of a Person",
+"d": "Listados relevantes de eventos hist\u00f3ricos durante la vida de una Miembro",
 "v": "0.2.30",
 "g": "6.0",
 "s": 3,
@@ -1461,7 +1461,7 @@
 "n": "Importar Texto",
 "i": "Import Gramplet",
 "t": 10,
-"d": "Gramplet for importing text",
+"d": "Gramplete para importar texto",
 "v": "1.0.45",
 "g": "6.0",
 "s": 3,
@@ -1492,10 +1492,10 @@
 "h": "Addon:MediaBrowserGramplet"
 },
 {
-"n": "Note Gramplet",
+"n": "Nota Gramplet",
 "i": "Note Gramplet",
 "t": 10,
-"d": "Gramplet for editing active person's notes",
+"d": "Gramplet para editar notas de personas activas",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1506,7 +1506,7 @@
 "n": "Participantes",
 "i": "Participants",
 "t": 10,
-"d": "Gramplet showing the participants in an event",
+"d": "Gramplet mostrando a los participantes en un evento",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1514,10 +1514,10 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Person Overview",
+"n": "Visi\u00f3n general de persona",
 "i": "Person Overview",
 "t": 10,
-"d": "Gramplet showing an overview of events for a person",
+"d": "Gramplet mostrando una visi\u00f3n general de los eventos para una persona",
 "v": "1.0.21",
 "g": "6.0",
 "s": 3,
@@ -1525,10 +1525,10 @@
 "h": "Addon:Person_Overview"
 },
 {
-"n": "Photo Tagging",
+"n": "Etiquetado fotogr\u00e1fico",
 "i": "Photo Tagging",
 "t": 10,
-"d": "Gramplet for tagging people in photos",
+"d": "Gramplet para etiquetar a la gente en fotos",
 "v": "1.0.46",
 "g": "6.0",
 "s": 3,
@@ -1539,7 +1539,7 @@
 "n": "Lugar y coordenadas",
 "i": "Place Coordinates",
 "t": 10,
-"d": "Gramplet that simplifies setting the coordinates of a place",
+"d": "Gramplet que simplifica ajustar las coordenadas de un lugar",
 "v": "1.1.26",
 "g": "6.0",
 "s": 3,
@@ -1553,10 +1553,10 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Place Cleanup",
+"n": "Purga de Lugar",
 "i": "PlaceCleanup",
 "t": 10,
-"d": "Place Cleanup Gramplet assists in merging places, as well as completing places from the GeoNames web database",
+"d": "Asistencia de Purga de Lugar Gramplet en lugar de fusi\u00f3n, as\u00ed como completar lugares desde la base de datos web de GeoNames",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1567,7 +1567,7 @@
 "n": "PlaceUpdate",
 "i": "PlaceUpdate",
 "t": 10,
-"d": "Gramplet to manipulate multiple places",
+"d": "Gramplet para manipular m\u00faltiples lugares",
 "v": "1.0.12",
 "g": "6.0",
 "s": 3,
@@ -1586,10 +1586,10 @@
 "h": "Addon:Prerequisites_Checker_Gramplet"
 },
 {
-"n": "Python Shell",
+"n": "Int\u00e9rprete de Python",
 "i": "Python Gramplet",
 "t": 10,
-"d": "Interactive Python interpreter",
+"d": "Int\u00e9rprete de Python interactivo",
 "v": "1.0.39",
 "g": "6.0",
 "s": 3,
@@ -1598,10 +1598,10 @@
 "a": 2
 },
 {
-"n": "Related Relatives",
+"n": "Relativas Relacionadas",
 "i": "Related Relatives Gramplet",
 "t": 10,
-"d": "Gramplet showing relatives in a relation",
+"d": "Gramplet mostrando relativas dentro de una relaci\u00f3n",
 "v": "1.0.41",
 "g": "6.0",
 "s": 3,
@@ -1612,7 +1612,7 @@
 "n": "Buscar",
 "i": "Search Gramplet",
 "t": 10,
-"d": "Gramplet for search objects in database.",
+"d": "Gramplet para buscar objetos en la base de datos.",
 "v": "0.0.2",
 "g": "6.0",
 "s": 1,
@@ -1635,7 +1635,7 @@
 "n": "WebSearch",
 "i": "WebSearch",
 "t": 10,
-"d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
+"d": "Consultas personalizadas para servicios en l\u00ednea basadas en el registro activo de Persona, Lugar, Familia u Origen",
 "v": "1.10.9",
 "g": "6.0",
 "s": 3,
@@ -1670,7 +1670,7 @@
 "n": "PostgreSQL",
 "i": "postgresql",
 "t": 12,
-"d": "PostgreSQL Database",
+"d": "Base de datos PostgreSQL",
 "v": "1.0.20",
 "g": "6.0",
 "s": 3,
@@ -1682,10 +1682,10 @@
 "a": 1
 },
 {
-"n": "PostgreSQL Enhanced",
+"n": "PostgreSQL mejorada",
 "i": "postgresqlenhanced",
 "t": 12,
-"d": "Advanced PostgreSQL backend with JSONB storage, graph database support (Apache AGE), vector similarity (pgvector), and AI/ML capabilities. For advanced users. Requires PostgreSQL 15+ with extensions. Gramps Web compatible.",
+"d": "Backend PostgreSQL avanzado con almacenamiento JSONB, admite la base de datos de gr\u00e1ficos (Apache AGE), similitud vectorial (pgvector) y capacidades AI/ML. Para usuarios avanzados. Requiere PostgreSQL 15+ con extensiones. Gramps Web compatible.",
 "v": "1.5.2",
 "g": "6.0",
 "s": 3,
@@ -1701,7 +1701,7 @@
 "n": "SharedPostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
-"d": "Shared PostgreSQL Database",
+"d": "Base de datos compartida de PostgreSQL",
 "v": "0.1.14",
 "g": "6.0",
 "s": 3,
@@ -1712,10 +1712,10 @@
 "h": "https://www.grampsweb.org/install_setup/postgres/"
 },
 {
-"n": "The active Person",
+"n": "La Persona activa",
 "i": "ActivePerson",
 "t": 13,
-"d": "The active Person",
+"d": "La Persona activa",
 "v": "0.0.15",
 "g": "6.0",
 "s": 3,
@@ -1723,10 +1723,10 @@
 "h": "Addon:Rule_expansions#Active_Person"
 },
 {
-"n": "Families with events with a selected role",
+"n": "Familias con eventos con un rol seleccionado",
 "i": "HasFamilyEventRole",
 "t": 13,
-"d": "Matches families with an event with a selected role",
+"d": "Coinciden familias con un evento con un rol seleccionado",
 "v": "0.0.28",
 "g": "6.0",
 "s": 3,
@@ -1734,10 +1734,10 @@
 "h": "Addon:Rule_expansions#Families_with_Events_with_a_selected_role"
 },
 {
-"n": "People with events with a selected role",
+"n": "Personas con eventos con un rol seleccionado",
 "i": "HasPersonEventRole",
 "t": 13,
-"d": "Matches people with an event with a selected role",
+"d": "Personas coinciden con un evento con un rol seleccionado",
 "v": "0.0.28",
 "g": "6.0",
 "s": 3,
@@ -1745,10 +1745,10 @@
 "h": "Addon:Rule_expansions#People_with_events_with_a_selected_role"
 },
 {
-"n": "Source matching parameters",
+"n": "Origen coincide con par\u00e1metros",
 "i": "HasSourceParameter",
 "t": 13,
-"d": "Matches Sources with values containing the chosen parameters",
+"d": "Coincide Or\u00edgenes con valores conteniendo los par\u00e1metros elegidos",
 "v": "0.0.28",
 "g": "6.0",
 "s": 3,
@@ -1756,10 +1756,10 @@
 "h": "Addon:Rule_expansions#Source_matching_parameters"
 },
 {
-"n": "People related to <filter>",
+"n": "Personas relacionadas con <filtro>",
 "i": "IsRelatedWithFilterMatch",
 "t": 13,
-"d": "Matches people who are related to anybody matched by a person filter",
+"d": "Encuentra personas que est\u00e9n relacionadas con cualquier persona que haya sido seleccionada mediante un filtro de personas",
 "v": "1.0.26",
 "g": "6.0",
 "s": 3,
@@ -1778,10 +1778,10 @@
 "h": "Addon:Rule_expansions"
 },
 {
-"n": "Matrilineal progenitrix of <person>",
+"n": "Matrilineal progenitrix de <persona>",
 "i": "MatrilinealProgenitrix",
 "t": 13,
-"d": "Matches the earliest recorded matrilineal ancestor mother.",
+"d": "Coincide con la madre del antepasado matrilineal registrada.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1789,10 +1789,10 @@
 "h": "Addon:Rule_expansions#Matrilineal_progenitrix_of_.3Cperson.3E"
 },
 {
-"n": "Patrilineal progenitor of <person>",
+"n": "Progenitor patrilineal de <persona>",
 "i": "PatrilinealProgenitor",
 "t": 13,
-"d": "Matches the earliest recorded patrilineal ancestor father.",
+"d": "Coincide con el padre ancestro patrilineal registrado m\u00e1s temprano.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1800,10 +1800,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "People who are part of families matching <filter>",
+"n": "Personas que son parte de las familias que coinciden con <filtro>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
-"d": "People who are part of families matching <filter>",
+"d": "Personas que son parte de las familias que coinciden con <filtro>",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -1811,10 +1811,10 @@
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
 },
 {
-"n": "Filter people by their age at death",
+"n": "Filtro de gente por su edad en la defunci\u00f3n",
 "i": "ageatdeath",
 "t": 13,
-"d": "Filter rule that matches people by their age at death",
+"d": "Regla de filtro que coincida gente por su edad en la defunci\u00f3n",
 "v": "1.0.16",
 "g": "6.0",
 "s": 3,
@@ -1822,10 +1822,10 @@
 "h": "Addon:Rule_expansions#Filter_people_by_their_age_at_death"
 },
 {
-"n": "Match associations of <person filter>",
+"n": "Asociaciones coincidente de <filtro de persona>",
 "i": "associationsofpersonmatch",
 "t": 13,
-"d": "Match associations of <person filter>",
+"d": "Asociaciones coincidente de <filtro de persona>",
 "v": "1.0.17",
 "g": "6.0",
 "s": 3,
@@ -1833,10 +1833,10 @@
 "h": "Addon:Rule_expansions#Match_associations_of_.3Cperson_filter.3E"
 },
 {
-"n": "People separated less than <N> degrees of <person>",
+"n": "Persona menos separada que <N> grados de <persona>",
 "i": "degreesofseparation",
 "t": 13,
-"d": "Filter rule that matches relatives by degrees of separation",
+"d": "Regla de filtro que coincide relativas por grados de separaci\u00f3n",
 "v": "1.1.16",
 "g": "6.0",
 "s": 3,
@@ -1844,10 +1844,10 @@
 "h": "Addon:Rule_expansions#People_Separated_less_than_.3CN.3E_degrees_of_.3Cperson.3E"
 },
 {
-"n": "Families matching <event filter>",
+"n": "Familias coincidiendo con <filtro de evento>",
 "i": "familieswitheventfiltermatch",
 "t": 13,
-"d": "Matches families that are matched by an event filter",
+"d": "Familias coinciden eso son coincidentes por un filtro de evento",
 "v": "1.0.23",
 "g": "6.0",
 "s": 3,
@@ -1855,10 +1855,10 @@
 "h": "Addon:Rule_expansions#Families_matching_.3Cevent_filter.3E"
 },
 {
-"n": "Events of families matching a <family filter>",
+"n": "Eventos de familias que coinciden un <filtro familia>",
 "i": "isfamilyfiltermatchevent",
 "t": 13,
-"d": "Events of families matching a <family filter>",
+"d": "Eventos de familias que coinciden un <filtro familia>",
 "v": "1.0.20",
 "g": "6.0",
 "s": 3,
@@ -1866,10 +1866,10 @@
 "h": "Addon:Rule_expansions#Events_of_families_matching_a_.3Cfamily_filter.3E"
 },
 {
-"n": "Mitochondrial inheritance of <person>",
+"n": "Herencia mitocondrial de <persona>",
 "i": "mtinheritance",
 "t": 13,
-"d": "Matches recorded descendants of person following mitochondrial inheritance patterns.",
+"d": "Coincidencias descendientes registrados de personas siguiendo patrones de herencia mitocondrial.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1877,10 +1877,10 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
-"n": "Mitochondrial inheritance of <filter>",
+"n": "Herencia mitocondrial de <filtro>",
 "i": "mtinheritanceoffiltermatch",
 "t": 13,
-"d": "Matches recorded descendants of a filter result following mitochondrial inheritance patterns.",
+"d": "Coincidencias descendientes registrados de un resultado de filtro siguiendo patrones de herencia mitocondrial.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1888,10 +1888,10 @@
 "h": "Addon:Rule_expansions#Mitochondrial_inheritance_of_.3Cfilter.3E"
 },
 {
-"n": "Multiple Parents Filter",
+"n": "Filtro de M\u00faltiples Ancestros",
 "i": "multipleparents",
 "t": 13,
-"d": "Multiple Parents Filter",
+"d": "Filtro de M\u00faltiples Ancestros",
 "v": "0.0.15",
 "g": "6.0",
 "s": 3,
@@ -1899,10 +1899,10 @@
 "h": "Addon:Rule_expansions#People_with_multiple_parent_records"
 },
 {
-"n": "People with <count> of <event>",
+"n": "Persona con <contador> de <evento>",
 "i": "peopleeventscount",
 "t": 13,
-"d": "Matches persons which have events of given type and number.",
+"d": "Coincide con personas las cuales tienen eventos de tipo y n\u00famero dados.",
 "v": "1.0.10",
 "g": "6.0",
 "s": 3,
@@ -1910,10 +1910,10 @@
 "h": "Addon:Rule_expansions#People_with_.3Ccount.3E_of_.3Cevent.3E"
 },
 {
-"n": "X-chromosomal ancestors of <person>",
+"n": "Ancestros con X\u2010cromosoma de <persona>",
 "i": "xchromancestors",
 "t": 13,
-"d": "Matches ancestors of <person> following a X-chromosomal inheritance pattern.",
+"d": "Coincide con los ancestros de la <persona> siguiendo un patr\u00f3n de herencia X cromos\u00f3mica.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1921,10 +1921,10 @@
 "h": "Addon:Rule_expansions#X-chromosomal_ancestors_of_.3Cperson.3E"
 },
 {
-"n": "X-chromosomal descendants of <person>",
+"n": "Descendientes de cromosoma X de <persona>",
 "i": "xchromdescendants",
 "t": 13,
-"d": "Matches descendants of <person> following a X-chromosomal inheritance pattern.",
+"d": "Coincide con descendientes de <persona> seguida de una herencia del patr\u00f3n de cromosoma X.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1932,10 +1932,10 @@
 "h": "Addon:Rule_expansions#X-chromosomal_descendants_of_.3Cperson.3E"
 },
 {
-"n": "Y-chromosomal inheritance of <person>",
+"n": "Cromosoma Y hereda de <persona>",
 "i": "yinheritance",
 "t": 13,
-"d": "Matches recorded descendants of person following Y-chromosomal inheritance patterns.",
+"d": "Coincidencias descendientes registrados de persona siguiendo patrones de herencia cromos\u00f3mica Y.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,
@@ -1943,10 +1943,10 @@
 "h": "Addon:Rule_expansions#Y-chromosomal_inheritance_of_.3Cperson.3E"
 },
 {
-"n": "Y-chromosomal inheritance of <filter>",
+"n": "Herencia de cromosoma Y de <filtro>",
 "i": "yinheritanceoffiltermatch",
 "t": 13,
-"d": "Matches recorded descendants of a filter result following Y-chromosomal inheritance patterns.",
+"d": "Coincidencias registradas descendientes de un resultado de filtro siguiendo patrones de herencia cromos\u00f3mica Y.",
 "v": "1.0.13",
 "g": "6.0",
 "s": 3,

@@ -11,7 +11,7 @@
 "h": "Addon:Ancestor_Fill_Report"
 },
 {
-"n": "Ancestry Table",
+"n": "Sukutaulu",
 "i": "AncestryTable",
 "t": 0,
 "d": "Produces a table of ancestry about a person",
@@ -25,7 +25,7 @@
 "i": "DescendantBook",
 "t": 0,
 "d": "Tuottaa yhden tai useamman j\u00e4lkel\u00e4israportin annetun kyselyn perusteella.",
-"v": "1.1.35",
+"v": "1.1.36",
 "g": "6.1",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
@@ -47,7 +47,7 @@
 "i": "DetailedDescendantBook",
 "t": 0,
 "d": "Tuottaa yhden tai useamman yksityiskohtaisen j\u00e4lkel\u00e4israportin annetun kyselyn perusteella.",
-"v": "1.1.35",
+"v": "1.1.36",
 "g": "6.1",
 "s": 3,
 "z": "DescendantBooks.addon.tgz",
