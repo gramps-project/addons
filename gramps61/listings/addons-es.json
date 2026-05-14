@@ -1062,7 +1062,7 @@
 "i": "TimelinePedigreeView",
 "t": 8,
 "d": "La vista muestra una l\u00ednea de tiempo pedigr\u00ed con antepasados y descendientes de la persona seleccionada",
-"v": "0.1.68",
+"v": "0.1.69",
 "g": "6.1",
 "s": 3,
 "z": "TimelinePedigreeView.addon.tgz",
