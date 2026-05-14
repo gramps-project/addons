@@ -1568,7 +1568,7 @@
 "i": "PlaceUpdate",
 "t": 10,
 "d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05dc\u05ea\u05de\u05e8\u05d5\u05df \u05e8\u05d9\u05d1\u05d5\u05d9 \u05de\u05e7\u05d5\u05de\u05d5\u05ea",
-"v": "1.0.12",
+"v": "1.0.13",
 "g": "6.0",
 "s": 3,
 "z": "PlaceUpdate.addon.tgz",

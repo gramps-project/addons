@@ -1568,7 +1568,7 @@
 "i": "PlaceUpdate",
 "t": 10,
 "d": "Gramplet pour manipuler plusieurs lieux",
-"v": "1.0.12",
+"v": "1.0.13",
 "g": "6.0",
 "s": 3,
 "z": "PlaceUpdate.addon.tgz",
