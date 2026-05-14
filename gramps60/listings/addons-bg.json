@@ -1073,7 +1073,7 @@
 "i": "combinedview",
 "t": 8,
 "d": "A view showing relationships and events for a person",
-"v": "2.0.15",
+"v": "2.0.16",
 "g": "6.0",
 "s": 3,
 "z": "CombinedView.addon.tgz",
