@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Imprime todas as linhas de descend\u00eancia de um dado ascendente at\u00e9 um dado descendente, em texto.",
-"v": "1.1.39",
+"v": "1.1.40",
 "g": "6.0",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

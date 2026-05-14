@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Skriver ut alla \u00e4ttlingalinjer fr\u00e5n en angiven f\u00f6rfader till en angiven \u00e4ttling som text.",
-"v": "1.1.40",
+"v": "1.1.41",
 "g": "6.1",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Affiche toutes les lignes de descendants d'un anc\u00eatre donn\u00e9 \u00e0 un descendant choisi dans un format textuel.",
-"v": "1.1.40",
+"v": "1.1.41",
 "g": "6.1",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

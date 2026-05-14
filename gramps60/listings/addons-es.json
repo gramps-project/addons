@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Declara fuera todas del l\u00edneas descendientes desde un ancestro dado hasta un descendiente dado dentro del texto.",
-"v": "1.1.39",
+"v": "1.1.40",
 "g": "6.0",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

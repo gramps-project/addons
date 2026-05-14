@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Udskriver alle efterkommerlinjer fra en specifik ane til en specifik efterkommer i tekstform.",
-"v": "1.1.40",
+"v": "1.1.41",
 "g": "6.1",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

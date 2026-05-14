@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Vytla\u010d\u00ed v\u0161etky l\u00ednie potomkov od zadan\u00e9ho predka k zadan\u00e9mu potomkovi vo form\u00e1te textu.",
-"v": "1.1.39",
+"v": "1.1.40",
 "g": "6.0",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",
