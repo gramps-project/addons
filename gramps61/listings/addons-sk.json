@@ -1005,7 +1005,7 @@
 "i": "libaccess",
 "t": 6,
 "d": "Poskytuje kni\u017enicu pre v\u0161eobecn\u00fd pr\u00edstup k datab\u00e1ze a gen.kni\u017e.",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.1",
 "s": 3,
 "z": "libaccess.addon.tgz",

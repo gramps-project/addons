@@ -1005,7 +1005,7 @@
 "i": "libaccess",
 "t": 6,
 "d": "Provides a library for generic access to the database and gen.lib.",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.1",
 "s": 3,
 "z": "libaccess.addon.tgz",

@@ -1005,7 +1005,7 @@
 "i": "libaccess",
 "t": 6,
 "d": "Yleiskirjasto tietokannan ja gen.lib-tiedoston k\u00e4ytt\u00e4miseksi.",
-"v": "1.0.36",
+"v": "1.0.37",
 "g": "6.0",
 "s": 3,
 "z": "libaccess.addon.tgz",

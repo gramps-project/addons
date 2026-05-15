@@ -1005,7 +1005,7 @@
 "i": "libaccess",
 "t": 6,
 "d": "Giver et bibliotek for generisk adgang til database og gen.lib.",
-"v": "1.0.37",
+"v": "1.0.38",
 "g": "6.1",
 "s": 3,
 "z": "libaccess.addon.tgz",

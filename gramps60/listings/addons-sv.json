@@ -1005,7 +1005,7 @@
 "i": "libaccess",
 "t": 6,
 "d": "Tillhandah\u00e5ller ett bibliotek f\u00f6r allm\u00e4n tillg\u00e5ng till databasen och gen.lib.",
-"v": "1.0.36",
+"v": "1.0.37",
 "g": "6.0",
 "s": 3,
 "z": "libaccess.addon.tgz",
