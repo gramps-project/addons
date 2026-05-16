@@ -1336,10 +1336,19 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet om Exif-metagegevens van afbeeldingen weer te geven, te bewerken en op te slaan",
-"v": "2.0.16",
+"v": "2.0.17",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
+"rm": [
+"PIL"
+],
+"rg": [
+[
+"GExiv2",
+"0.10"
+]
+],
 "h": "Edit Image Exif Metadata"
 },
 {

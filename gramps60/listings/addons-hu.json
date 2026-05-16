@@ -1336,10 +1336,19 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "K\u00e9p Exif metaadatokat mutat\u00f3, szerkeszt\u0151 \u00e9s ment\u0151 gramplet",
-"v": "2.0.16",
+"v": "2.0.17",
 "g": "6.0",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
+"rm": [
+"PIL"
+],
+"rg": [
+[
+"GExiv2",
+"0.10"
+]
+],
 "h": "Edit Image Exif Metadata"
 },
 {
