@@ -1336,7 +1336,7 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet do podgl\u0105du, edycji oraz zapisu metadanych Exif",
-"v": "2.0.20",
+"v": "2.0.21",
 "g": "6.1",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
