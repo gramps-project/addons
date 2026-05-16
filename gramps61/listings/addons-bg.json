@@ -1336,10 +1336,13 @@
 "i": "Edit Image Exif Metadata",
 "t": 10,
 "d": "Gramplet to view, edit, and save image Exif metadata",
-"v": "2.0.19",
+"v": "2.0.20",
 "g": "6.1",
 "s": 3,
 "z": "EditExifMetadata.addon.tgz",
+"rm": [
+"PIL"
+],
 "h": "Edit Image Exif Metadata"
 },
 {
