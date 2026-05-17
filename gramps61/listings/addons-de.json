@@ -718,7 +718,7 @@
 "i": "relationtab",
 "t": 2,
 "d": "Zeigt Informationen \u00fcber die Beziehung zur Hauptperson an",
-"v": "1.1.5",
+"v": "1.1.6",
 "g": "6.1",
 "s": 1,
 "z": "RelID.addon.tgz",

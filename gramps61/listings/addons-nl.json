@@ -718,7 +718,7 @@
 "i": "relationtab",
 "t": 2,
 "d": "Geeft relationele informatie weer met de centrale persoon",
-"v": "1.1.5",
+"v": "1.1.6",
 "g": "6.1",
 "s": 1,
 "z": "RelID.addon.tgz",
