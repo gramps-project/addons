@@ -1050,7 +1050,7 @@
 "i": "QuiltView",
 "t": 8,
 "d": "La vue montre une visualisation en patchwork de l'arbre g\u00e9n\u00e9alogique",
-"v": "1.0.27",
+"v": "1.0.28",
 "g": "6.1",
 "s": 3,
 "z": "QuiltView.addon.tgz",

@@ -1050,7 +1050,7 @@
 "i": "QuiltView",
 "t": 8,
 "d": "\u3053\u306e\u30d3\u30e5\u30fc\u306b\u306f\u3001\u5bb6\u7cfb\u56f3\u306e\u30ad\u30eb\u30c8\u30c1\u30e3\u30fc\u30c8\u306e\u8996\u899a\u5316\u304c\u8868\u793a\u3055\u308c\u307e\u3059",
-"v": "1.0.26",
+"v": "1.0.27",
 "g": "6.0",
 "s": 3,
 "z": "QuiltView.addon.tgz",

@@ -1050,7 +1050,7 @@
 "i": "QuiltView",
 "t": 8,
 "d": "Tento poh\u013ead zobrazuje vizualiz\u00e1ciu rodinn\u00e9ho stromu vo forme quilt chart (pre\u0161\u00edvan\u00e1 prikr\u00fdvka)",
-"v": "1.0.26",
+"v": "1.0.27",
 "g": "6.0",
 "s": 3,
 "z": "QuiltView.addon.tgz",
