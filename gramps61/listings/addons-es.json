@@ -1532,7 +1532,7 @@
 "i": "Photo Tagging",
 "t": 10,
 "d": "Gramplet para etiquetar a la gente en fotos",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.1",
 "s": 3,
 "z": "PhotoTaggingGramplet.addon.tgz",

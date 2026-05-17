@@ -1532,7 +1532,7 @@
 "i": "Photo Tagging",
 "t": 10,
 "d": "Gramplet na ozna\u010dovanie os\u00f4b na fotografi\u00e1ch",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.1",
 "s": 3,
 "z": "PhotoTaggingGramplet.addon.tgz",
