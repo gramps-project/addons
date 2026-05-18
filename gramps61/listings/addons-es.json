@@ -1689,7 +1689,7 @@
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Backend PostgreSQL avanzado con almacenamiento JSONB, admite la base de datos de gr\u00e1ficos (Apache AGE), similitud vectorial (pgvector) y capacidades AI/ML. Para usuarios avanzados. Requiere PostgreSQL 15+ con extensiones. Gramps Web compatible.",
-"v": "1.5.3",
+"v": "1.5.4",
 "g": "6.1",
 "s": 3,
 "z": "PostgreSQLEnhanced.addon.tgz",

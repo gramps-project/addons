@@ -1701,7 +1701,7 @@
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Motor Advanced PostgreSQL com armazenamento JSONB, suporte a base de dados gr\u00e1fica (Apache AGE), similaridade de vector (pgvector), e capacidade AI/ML. Para utilizadores avan\u00e7ados. Requer PostgreSQL 15+ com extens\u00f5es. Compat\u00edvel com Gramps Web.",
-"v": "1.5.2",
+"v": "1.5.3",
 "g": "6.0",
 "s": 3,
 "z": "PostgreSQLEnhanced.addon.tgz",

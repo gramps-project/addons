@@ -1689,7 +1689,7 @@
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Geavanceerde PostgreSQL-backend met JSONB-opslag, ondersteuning voor grafiekdatabases (Apache AGE), vectorovereenkomst (pgvector) en AI/ML-mogelijkheden. Voor gevorderde gebruikers. Vereist PostgreSQL 15+ met extensies. Compatibel met Gramps Web.",
-"v": "1.5.3",
+"v": "1.5.4",
 "g": "6.1",
 "s": 3,
 "z": "PostgreSQLEnhanced.addon.tgz",

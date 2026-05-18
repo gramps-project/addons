@@ -1701,7 +1701,7 @@
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Edistynyt PostgreSQL-taustaj\u00e4rjestelm\u00e4 JSONB-tallennuksella, graafitietokannan tuella (Apache AGE), vektorien samankaltaisuudella (pgvector) ja teko\u00e4ly-/koneoppimisominaisuuksilla. Edistyneille k\u00e4ytt\u00e4jille. Vaatii PostgreSQL 15+ laajennuksen. Gramps Web -yhteensopiva.",
-"v": "1.5.2",
+"v": "1.5.3",
 "g": "6.0",
 "s": 3,
 "z": "PostgreSQLEnhanced.addon.tgz",

@@ -1689,7 +1689,7 @@
 "i": "postgresqlenhanced",
 "t": 12,
 "d": "Napredni PostgreSQL pozadinski sustav sa spremanjem u JSONB formatu, podr\u0161kom za dijagram baze podataka (Apache AGE), sli\u010dnost vektora (pgvector) i funkcijama umjetne inteligencije/strojnog u\u010denja. Namijenjeno za napredne korisnike. Zahtijeva PostgreSQL 15+ s pro\u0161irenjima. Kompatibilno s Gramps Web-om.",
-"v": "1.5.3",
+"v": "1.5.4",
 "g": "6.1",
 "s": 3,
 "z": "PostgreSQLEnhanced.addon.tgz",
