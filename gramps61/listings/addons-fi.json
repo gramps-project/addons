@@ -1421,7 +1421,7 @@
 "i": "Grampy Script",
 "t": 10,
 "d": "Run a special Gramps Python script",
-"v": "0.0.3",
+"v": "0.0.4",
 "g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
