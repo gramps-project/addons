@@ -659,6 +659,22 @@
 "h": "Addon:Extract_Place_Data_from_a_Place_Title"
 },
 {
+"n": "Generate PDF Forms",
+"i": "generate_pdf_forms",
+"t": 2,
+"d": "Generate blank fillable PDF forms: census/event forms or Ahnentafel pedigree charts.",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "PDFForms.addon.tgz",
+"rm": [
+"reportlab"
+],
+"do": [
+"Form Gramplet"
+]
+},
+{
 "n": "Gramps Web sinkronizacija",
 "i": "gramps_web_sync",
 "t": 2,
@@ -810,6 +826,22 @@
 "h": "https://gramps-project.org/wiki/index.php/Addon:TMGimporter"
 },
 {
+"n": "Import Fillable PDF Forms",
+"i": "import_pdf",
+"t": 3,
+"d": "Import genealogy data from a PDF form. Send the PDF template to others to fill out and return.",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "PDFForms.addon.tgz",
+"rm": [
+"pypdf"
+],
+"do": [
+"Form Gramplet"
+]
+},
+{
 "n": "Izvezi datoteke GEDCOM sufiksa (GED2)",
 "i": "Export GEDCOM Extensions",
 "t": 4,
@@ -888,7 +920,10 @@
 "g": "6.1",
 "s": 3,
 "z": "DEWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "FR Web Connect zbirka",
@@ -899,7 +934,10 @@
 "g": "6.1",
 "s": 3,
 "z": "FRWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "NL Web Connect Pack",
@@ -910,7 +948,10 @@
 "g": "6.1",
 "s": 3,
 "z": "NLWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "Upravlja\u010d za dodatake (pro\u0161ireni)",
@@ -932,7 +973,10 @@
 "g": "6.1",
 "s": 3,
 "z": "RUWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "Ponovo pokreni Gramps na istom mjestu",
@@ -954,7 +998,10 @@
 "g": "6.1",
 "s": 3,
 "z": "SVWebconnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "Postavke teme",
@@ -976,7 +1023,10 @@
 "g": "6.1",
 "s": 3,
 "z": "UAWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "UK Web Connect zbirka",
@@ -987,7 +1037,10 @@
 "g": "6.1",
 "s": 3,
 "z": "UKWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "SAD Web Connect zbirka",
@@ -998,7 +1051,10 @@
 "g": "6.1",
 "s": 3,
 "z": "USWebConnectPack.addon.tgz",
-"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs"
+"h": "Addon:Web_Connect_Pack#Available_Web_connect_Packs",
+"do": [
+"libwebconnect"
+]
 },
 {
 "n": "Generic DB Access lib",
@@ -1698,7 +1754,8 @@
 ],
 "re": [],
 "h": "https://github.com/gramps-project/addons-source/wiki/PostgreSQLEnhanced",
-"a": 1
+"a": 1,
+"do": []
 },
 {
 "n": "Dijeljeni PostgreSQL",
