@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Drukt alle afstammingslijnen af in tekst van een gegeven voorouder tot een gegeven afstammeling.",
-"v": "1.1.41",
+"v": "1.1.42",
 "g": "6.1",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

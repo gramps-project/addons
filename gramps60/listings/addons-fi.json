@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Tulostaa kaikki j\u00e4lkel\u00e4islinjat tietyst\u00e4 esi-is\u00e4st\u00e4 tiettyyn j\u00e4lkel\u00e4iseen tekstin\u00e4.",
-"v": "1.1.40",
+"v": "1.1.41",
 "g": "6.0",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

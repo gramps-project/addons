@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Wypisuje wszystkie linie potomstwa od wybranego przodka do wybranego potomka w formie tekstowej.",
-"v": "1.1.41",
+"v": "1.1.42",
 "g": "6.1",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",

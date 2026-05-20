@@ -113,7 +113,7 @@
 "i": "LinesOfDescendency",
 "t": 0,
 "d": "Prints out all descendency lines from a given ancestor to a given descendent in text.",
-"v": "1.1.41",
+"v": "1.1.42",
 "g": "6.1",
 "s": 3,
 "z": "LinesOfDescendency.addon.tgz",
