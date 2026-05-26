@@ -1695,7 +1695,7 @@
 "i": "WebSearch",
 "t": 10,
 "d": "Benutzerdefinierte Abfragen f\u00fcr Online-Dienste auf der Grundlage des aktiven Personen-, Orts-, Familien- oder Quellendatensatzes",
-"v": "1.10.9",
+"v": "1.10.18",
 "g": "6.1",
 "s": 3,
 "z": "WebSearch.addon.tgz",

@@ -1651,7 +1651,7 @@
 "i": "WebSearch",
 "t": 10,
 "d": "Customized queries for online services based on the active Person, Place, Family, or Source record",
-"v": "1.10.9",
+"v": "1.10.18",
 "g": "6.0",
 "s": 3,
 "z": "WebSearch.addon.tgz",

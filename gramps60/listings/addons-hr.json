@@ -1651,7 +1651,7 @@
 "i": "WebSearch",
 "t": 10,
 "d": "Prilago\u0111eni upiti za internetske usluge na osnovi zapisa aktivne osobe, mjesta, obitelji ili izvora",
-"v": "1.10.9",
+"v": "1.10.18",
 "g": "6.0",
 "s": 3,
 "z": "WebSearch.addon.tgz",
