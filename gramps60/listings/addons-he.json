@@ -1738,6 +1738,36 @@
 "h": "Addon:Rule_expansions#Active_Person"
 },
 {
+"n": "Citations with a tag containing <substring>",
+"i": "CitationHasTagSubstr",
+"t": 13,
+"d": "Matches citations with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Events with a tag containing <substring>",
+"i": "EventHasTagSubstr",
+"t": 13,
+"d": "Matches events with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Families with a tag containing <substring>",
+"i": "FamilyHasTagSubstr",
+"t": 13,
+"d": "Matches families with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
 "n": "Families with events with a selected role",
 "i": "HasFamilyEventRole",
 "t": 13,
@@ -1804,6 +1834,26 @@
 "h": "Addon:Rule_expansions#Matrilineal_progenitrix_of_.3Cperson.3E"
 },
 {
+"n": "Media objects with a tag containing <substring>",
+"i": "MediaHasTagSubstr",
+"t": 13,
+"d": "Matches media objects with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Notes with a tag containing <substring>",
+"i": "NoteHasTagSubstr",
+"t": 13,
+"d": "Matches notes with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
 "n": "Patrilineal progenitor of <person>",
 "i": "PatrilinealProgenitor",
 "t": 13,
@@ -1815,6 +1865,16 @@
 "h": "Addon:Rule_expansions#Patrilineal_progenitor_of_.3Cperson.3E"
 },
 {
+"n": "People with a tag containing <substring>",
+"i": "PersonHasTagSubstr",
+"t": 13,
+"d": "Matches people with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
 "n": "People who are part of families matching <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
@@ -1824,6 +1884,36 @@
 "s": 3,
 "z": "FilterRules.addon.tgz",
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
+},
+{
+"n": "Places with a tag containing <substring>",
+"i": "PlaceHasTagSubstr",
+"t": 13,
+"d": "Matches places with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Repositories with a tag containing <substring>",
+"i": "RepositoryHasTagSubstr",
+"t": 13,
+"d": "Matches repositories with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Sources with a tag containing <substring>",
+"i": "SourceHasTagSubstr",
+"t": 13,
+"d": "Matches sources with a tag whose name contains the given substring",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "HasTagSubstr.addon.tgz"
 },
 {
 "n": "\u05e1\u05d9\u05e0\u05d5\u05df \u05d0\u05e0\u05e9\u05d9\u05dd \u05dc\u05e4\u05d9 \u05d2\u05d9\u05dc\u05dd \u05d1\u05e4\u05d8\u05d9\u05e8\u05ea\u05dd",
