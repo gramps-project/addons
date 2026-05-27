@@ -895,7 +895,7 @@
 "i": "FR Web Connect Pack",
 "t": 6,
 "d": "Samling av webbplatser f\u00f6r FR (kr\u00e4ver libwebconnect)",
-"v": "1.0.39",
+"v": "1.0.40",
 "g": "6.0",
 "s": 3,
 "z": "FRWebConnectPack.addon.tgz",

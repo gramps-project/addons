@@ -930,7 +930,7 @@
 "i": "FR Web Connect Pack",
 "t": 6,
 "d": "Collection of Web sites for the FR (requires libwebconnect)",
-"v": "1.0.40",
+"v": "1.0.41",
 "g": "6.1",
 "s": 3,
 "z": "FRWebConnectPack.addon.tgz",
