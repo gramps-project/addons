@@ -917,7 +917,7 @@
 "i": "PluginManager",
 "t": 6,
 "d": "Un Gestor de Extensi\u00f3n/Complemento con varias capacidades adicionales",
-"v": "1.2.7",
+"v": "1.2.8",
 "g": "6.0",
 "s": 3,
 "z": "PluginManager.addon.tgz",

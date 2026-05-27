@@ -958,7 +958,7 @@
 "i": "PluginManager",
 "t": 6,
 "d": "Lis\u00e4osien ja laajennusten hallinta, jolla on useita lis\u00e4ominaisuuksia",
-"v": "1.2.8",
+"v": "1.2.9",
 "g": "6.1",
 "s": 3,
 "z": "PluginManager.addon.tgz",
