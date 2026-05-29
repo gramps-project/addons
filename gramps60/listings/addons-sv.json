@@ -1471,7 +1471,7 @@
 "i": "Import Gramplet",
 "t": 10,
 "d": "Gramplet f\u00f6r att importera text",
-"v": "1.0.45",
+"v": "1.0.46",
 "g": "6.0",
 "s": 3,
 "z": "ImportGramplet.addon.tgz",
