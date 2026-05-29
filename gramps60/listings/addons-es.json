@@ -1231,7 +1231,7 @@
 "i": "ChatWithTree",
 "t": 10,
 "d": "Charla con \u00e1rbol con la ayuda de AI Large Language Model, necesita m\u00f3dulo litellm",
-"v": "0.0.28",
+"v": "0.0.29",
 "g": "6.0",
 "s": 3,
 "z": "ChatWithTree.addon.tgz",

@@ -1231,7 +1231,7 @@
 "i": "ChatWithTree",
 "t": 10,
 "d": "Chatujte so stromom pomocou AI Large Language Model, potrebujete modul Litellm",
-"v": "0.0.28",
+"v": "0.0.29",
 "g": "6.0",
 "s": 3,
 "z": "ChatWithTree.addon.tgz",
