@@ -1400,7 +1400,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet na z\u00edskanie miest z datab\u00e1zy GOV",
-"v": "1.0.24",
+"v": "1.0.25",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",

@@ -1450,7 +1450,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "Gramplet paikkojen hakuun GOV-tietokannasta",
-"v": "1.0.27",
+"v": "1.0.28",
 "g": "6.1",
 "s": 3,
 "z": "GetGOV.addon.tgz",

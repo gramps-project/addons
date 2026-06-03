@@ -1400,7 +1400,7 @@
 "i": "GetGOV Gramplet",
 "t": 10,
 "d": "GOV\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u304b\u3089\u5834\u6240\u3092\u53d6\u5f97\u3059\u308b\u305f\u3081\u306eGramplet",
-"v": "1.0.24",
+"v": "1.0.25",
 "g": "6.0",
 "s": 3,
 "z": "GetGOV.addon.tgz",
