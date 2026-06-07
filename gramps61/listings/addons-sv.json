@@ -1695,7 +1695,7 @@
 "i": "WebSearch",
 "t": 10,
 "d": "Anpassade fr\u00e5gor f\u00f6r onlinetj\u00e4nster baserade p\u00e5 den aktiva personen, platsen, familjen eller k\u00e4llposten",
-"v": "1.10.19",
+"v": "1.10.20",
 "g": "6.1",
 "s": 3,
 "z": "WebSearch.addon.tgz",

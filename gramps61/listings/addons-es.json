@@ -1695,7 +1695,7 @@
 "i": "WebSearch",
 "t": 10,
 "d": "Consultas personalizadas para servicios en l\u00ednea basadas en el registro activo de Persona, Lugar, Familia u Origen",
-"v": "1.10.19",
+"v": "1.10.20",
 "g": "6.1",
 "s": 3,
 "z": "WebSearch.addon.tgz",
