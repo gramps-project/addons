@@ -1730,7 +1730,7 @@
 "i": "postgresql",
 "t": 12,
 "d": "PostgreSQL Datenbank",
-"v": "1.0.22",
+"v": "1.0.23",
 "g": "6.1",
 "s": 3,
 "z": "PostgreSQL.addon.tgz",
