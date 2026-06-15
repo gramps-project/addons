@@ -1314,7 +1314,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet pokazuj\u0105cy g\u0142\u0119bokie powi\u0105zania mi\u0119dzy osob\u0105 aktywn\u0105 a domow\u0105",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

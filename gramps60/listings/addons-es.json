@@ -1314,7 +1314,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet mostrando una relaci\u00f3n profunda entre activo y gente inicial",
-"v": "1.0.47",
+"v": "1.0.48",
 "g": "6.0",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",
