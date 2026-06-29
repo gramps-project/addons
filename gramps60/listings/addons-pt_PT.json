@@ -1197,7 +1197,7 @@
 "i": "ArchiveAssist",
 "t": 10,
 "d": "Analisa cadeias de caracteres do Riksarkivet e do ArkivDigital para criar fontes e refer\u00eancias.",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "ArchiveAssist.addon.tgz",

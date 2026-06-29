@@ -1253,7 +1253,7 @@
 "i": "ArchiveAssist",
 "t": 10,
 "d": "Parsar str\u00e4ngar fr\u00e5n Riksarkivet och ArkivDigital f\u00f6r att skapa k\u00e4llor och citeringar.",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.1",
 "s": 3,
 "z": "ArchiveAssist.addon.tgz",

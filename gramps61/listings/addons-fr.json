@@ -1253,7 +1253,7 @@
 "i": "ArchiveAssist",
 "t": 10,
 "d": "Analyse les cha\u00eenes de Riksarkivet et ArkivDigital afin de cr\u00e9er des sources et des citations.",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.1",
 "s": 3,
 "z": "ArchiveAssist.addon.tgz",

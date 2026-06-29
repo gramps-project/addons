@@ -1253,7 +1253,7 @@
 "i": "ArchiveAssist",
 "t": 10,
 "d": "Analizira nizove znakova iz Riksarkivet i ArkivDigital arhiva za stvaranje izvora i citata.",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.1",
 "s": 3,
 "z": "ArchiveAssist.addon.tgz",

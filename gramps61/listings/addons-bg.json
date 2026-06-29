@@ -1253,7 +1253,7 @@
 "i": "ArchiveAssist",
 "t": 10,
 "d": "Parses strings from Riksarkivet and ArkivDigital to create sources and citations.",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.1",
 "s": 3,
 "z": "ArchiveAssist.addon.tgz",

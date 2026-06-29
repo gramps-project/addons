@@ -1197,7 +1197,7 @@
 "i": "ArchiveAssist",
 "t": 10,
 "d": "Analysiert Zeichenfolgen aus Riksarkivet und ArkivDigital, um Quellen und Quellenangaben zu erstellen.",
-"v": "1.0.1",
+"v": "1.0.2",
 "g": "6.0",
 "s": 3,
 "z": "ArchiveAssist.addon.tgz",
