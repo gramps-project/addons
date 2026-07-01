@@ -36,7 +36,7 @@
 "i": "Descendants Lines",
 "t": 0,
 "d": "Produz linhas de descendentes de um indiv\u00edduo",
-"v": "1.1.16",
+"v": "1.1.17",
 "g": "6.1",
 "s": 3,
 "z": "DescendantsLines.addon.tgz",
