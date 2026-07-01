@@ -1370,7 +1370,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet que mostra uma rela\u00e7\u00e3o detalhada entre a pessoa ativa e a inicial",
-"v": "1.0.50",
+"v": "1.0.51",
 "g": "6.1",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",
