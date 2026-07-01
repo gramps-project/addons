@@ -1477,7 +1477,7 @@
 "i": "Grampy Script",
 "t": 10,
 "d": "Spustite \u0161peci\u00e1lny skript programu Python pre Gramps",
-"v": "0.0.5",
+"v": "0.0.7",
 "g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
