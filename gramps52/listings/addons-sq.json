@@ -498,11 +498,12 @@
 "n": "Check Associations data",
 "i": "associationstool",
 "t": 2,
-"d": "Will check the data on Association for people.",
-"v": "1.1.12",
+"d": "Display all person Associations in a sortable, hotlinked table",
+"v": "1.2.2",
 "g": "5.2",
 "s": 3,
-"z": "AssociationsTool.addon.tgz"
+"z": "AssociationsTool.addon.tgz",
+"h": "Addon:Check_Associations"
 },
 {
 "n": "Sort Children in Birth order",

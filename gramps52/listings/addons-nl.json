@@ -498,11 +498,12 @@
 "n": "Controleer associatiegegevens",
 "i": "associationstool",
 "t": 2,
-"d": "Controleert de associatiegegevens voor mensen.",
-"v": "1.1.12",
+"d": "Display all person Associations in a sortable, hotlinked table",
+"v": "1.2.2",
 "g": "5.2",
 "s": 3,
-"z": "AssociationsTool.addon.tgz"
+"z": "AssociationsTool.addon.tgz",
+"h": "Addon:Check_Associations"
 },
 {
 "n": "Sorteer kinderen op volgorde van geboorte",
