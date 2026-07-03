@@ -719,6 +719,17 @@
 "h": "Addon:Media_Verify_Tool"
 },
 {
+"n": "Audit Given and Patronymic Names",
+"i": "name_standardization_tool",
+"t": 2,
+"d": "Tools to rename given name, audit and infer patronymic (East Slavic) names.",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "NameSuite.addon.tgz",
+"h": "Addon:NameSuite"
+},
+{
 "n": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05d4\u05e2\u05e8\u05d5\u05ea",
 "i": "notecleanup",
 "t": 2,
@@ -1724,6 +1735,17 @@
 "z": "lxml.addon.tgz",
 "h": "https://gramps-project.org/wiki/index.php/Addon:Lxml_Gramplet",
 "a": 2
+},
+{
+"n": "Patronymic Suggestion",
+"i": "patronymic_suggestion_gramplet",
+"t": 10,
+"d": "Suggests (East Slavic) patronymic names in real-time as you navigate.",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "NameSuite.addon.tgz",
+"h": "Addon:NameSuite"
 },
 {
 "n": "PostgreSQL",
