@@ -686,6 +686,19 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
+"n": "Gramps Assistant",
+"i": "grampsassistant",
+"t": 2,
+"d": "AI assistant for querying your Gramps family tree",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GrampsAssistant.addon.tgz",
+"do": [
+"Grampy Script"
+]
+},
+{
 "n": "Tuo ja yhdist\u00e4 ty\u00f6kalu",
 "i": "import_merge",
 "t": 2,

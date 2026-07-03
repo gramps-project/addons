@@ -686,6 +686,19 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
+"n": "Gramps Assistant",
+"i": "grampsassistant",
+"t": 2,
+"d": "AI assistant for querying your Gramps family tree",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GrampsAssistant.addon.tgz",
+"do": [
+"Grampy Script"
+]
+},
+{
 "n": "\u0418\u043c\u043f\u043e\u0440\u0442 \u0438 \u0441\u043b\u0438\u044f\u043d\u0438\u0435",
 "i": "import_merge",
 "t": 2,
