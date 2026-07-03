@@ -58,7 +58,7 @@
 "i": "DynamicWeb",
 "t": 0,
 "d": "Skapar dynamiska webbidor f\u00f6r databasen",
-"v": "0.0.104",
+"v": "0.0.105",
 "g": "6.1",
 "s": 3,
 "z": "DynamicWeb.addon.tgz",

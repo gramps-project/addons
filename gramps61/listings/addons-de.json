@@ -58,7 +58,7 @@
 "i": "DynamicWeb",
 "t": 0,
 "d": "Erzeugt dynamische Webseiten f\u00fcr die Datenbank",
-"v": "0.0.104",
+"v": "0.0.105",
 "g": "6.1",
 "s": 3,
 "z": "DynamicWeb.addon.tgz",
