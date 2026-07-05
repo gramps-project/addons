@@ -1780,6 +1780,16 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "People reachable from <Person>, stopping at <Filter> matches",
+"i": "ExcludeSubtree",
+"t": 13,
+"d": "Matches people who are reachable starting from <Person> (walking all parents and children of attached families, recursively) stopping at persons in <Filter>.",
+"v": "0.6.1",
+"g": "6.0",
+"s": 2,
+"z": "ExcludeSubtreeFilter.addon.tgz"
+},
+{
 "n": "Families with a tag containing <substring>",
 "i": "FamilyHasTagSubstr",
 "t": 13,
