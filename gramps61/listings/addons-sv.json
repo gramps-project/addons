@@ -1497,12 +1497,12 @@
 "a": 2
 },
 {
-"n": "Gram.py-skript",
+"n": "Gram.py Script",
 "i": "Grampy Script",
 "t": 10,
-"d": "K\u00f6r ett speciellt Gramps Python-skript",
-"v": "0.0.7",
-"g": "6.1",
+"d": "Run a special Gramps Python script",
+"v": "0.0.5",
+"g": "6.0",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
 "h": "Addon:GrampyScript"

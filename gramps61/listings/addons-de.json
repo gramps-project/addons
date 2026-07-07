@@ -1501,8 +1501,8 @@
 "i": "Grampy Script",
 "t": 10,
 "d": "Ein spezielles Gramps-Python-Skript ausf\u00fchren",
-"v": "0.0.7",
-"g": "6.1",
+"v": "0.0.5",
+"g": "6.0",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
 "h": "Addon:GrampyScript"
