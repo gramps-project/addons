@@ -824,11 +824,11 @@
 "h": "Addon:JSON_Export_Import#Import_JSON"
 },
 {
-"n": "SQLite Import",
+"n": "Importa SQLite",
 "i": "im_sqlite",
 "t": 3,
-"d": "SQLite is a common local database format",
-"v": "1.1.15",
+"d": "SQLite \u00e8 un formato di database locale molto diffuso",
+"v": "1.1.16",
 "g": "6.1",
 "s": 3,
 "z": "Sqlite.addon.tgz",
@@ -924,11 +924,11 @@
 "a": 1
 },
 {
-"n": "SQLite Export",
+"n": "Esporta SQLite",
 "i": "ex_sqlite",
 "t": 4,
-"d": "SQLite is a common local database format",
-"v": "1.1.15",
+"d": "SQLite \u00e8 un formato di database locale molto diffuso",
+"v": "1.1.16",
 "g": "6.1",
 "s": 3,
 "z": "Sqlite.addon.tgz",
