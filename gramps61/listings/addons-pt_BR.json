@@ -1296,11 +1296,11 @@
 "a": 0
 },
 {
-"n": "Birthdays",
+"n": "Anivers\u00e1rios",
 "i": "Birthdays",
 "t": 10,
 "d": "Gramplet que mostra os anivers\u00e1rios das pessoas vivas",
-"v": "1.1.18",
+"v": "1.1.20",
 "g": "6.1",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",

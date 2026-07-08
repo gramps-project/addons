@@ -1300,7 +1300,7 @@
 "i": "Birthdays",
 "t": 10,
 "d": "um gramplet que mostra os anivers\u00e1rios de indiv\u00edduos vivos",
-"v": "1.1.18",
+"v": "1.1.20",
 "g": "6.1",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",

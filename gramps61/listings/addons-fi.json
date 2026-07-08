@@ -1300,7 +1300,7 @@
 "i": "Birthdays",
 "t": 10,
 "d": "Gramplet, joka n\u00e4ytt\u00e4\u00e4 el\u00e4vien ihmisten syntym\u00e4 p\u00e4iv\u00e4t ja i\u00e4t",
-"v": "1.1.18",
+"v": "1.1.20",
 "g": "6.1",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",

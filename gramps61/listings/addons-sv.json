@@ -1300,7 +1300,7 @@
 "i": "Birthdays",
 "t": 10,
 "d": "en Gramplet, som visar f\u00f6delsedagarna f\u00f6r levande personer",
-"v": "1.1.18",
+"v": "1.1.20",
 "g": "6.1",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
