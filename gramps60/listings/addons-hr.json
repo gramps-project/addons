@@ -1231,11 +1231,11 @@
 "i": "Birthdays",
 "t": 10,
 "d": "gramplet prikazuje ro\u0111endane \u017eivih osoba",
-"v": "1.1.16",
+"v": "1.1.21",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
-"h": "BirthdaysGramplet"
+"h": "Addon:BirthdaysGramplet"
 },
 {
 "n": "Chat s rodoslovom - interaktivni dodatak",

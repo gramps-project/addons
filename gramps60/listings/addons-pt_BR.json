@@ -1231,11 +1231,11 @@
 "i": "Birthdays",
 "t": 10,
 "d": "Gramplet que mostra os anivers\u00e1rios das pessoas vivas",
-"v": "1.1.16",
+"v": "1.1.21",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
-"h": "BirthdaysGramplet"
+"h": "Addon:BirthdaysGramplet"
 },
 {
 "n": "Chat With Tree Interactive Addon",

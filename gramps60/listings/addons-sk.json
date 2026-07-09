@@ -1231,11 +1231,11 @@
 "i": "Birthdays",
 "t": 10,
 "d": "Gramplet, ktor\u00fd zobrazuje narodeniny \u017eij\u00facich \u013eud\u00ed",
-"v": "1.1.16",
+"v": "1.1.21",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
-"h": "BirthdaysGramplet"
+"h": "Addon:BirthdaysGramplet"
 },
 {
 "n": "Chatujte s doplnkom Tree Interactive",

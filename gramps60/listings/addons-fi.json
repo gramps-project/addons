@@ -1231,11 +1231,11 @@
 "i": "Birthdays",
 "t": 10,
 "d": "Gramplet, joka n\u00e4ytt\u00e4\u00e4 el\u00e4vien ihmisten syntym\u00e4 p\u00e4iv\u00e4t ja i\u00e4t",
-"v": "1.1.16",
+"v": "1.1.21",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
-"h": "BirthdaysGramplet"
+"h": "Addon:BirthdaysGramplet"
 },
 {
 "n": "Keskustele Interaktiivinen puu -lis\u00e4osan kanssa",

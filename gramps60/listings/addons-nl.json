@@ -1231,11 +1231,11 @@
 "i": "Birthdays",
 "t": 10,
 "d": "een gramplet dat de verjaardagen van de nog in leven zijnde personen toont",
-"v": "1.1.16",
+"v": "1.1.21",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
-"h": "BirthdaysGramplet"
+"h": "Addon:BirthdaysGramplet"
 },
 {
 "n": "Chatten met Tree Interactive-toevoeging",

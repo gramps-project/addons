@@ -1231,11 +1231,11 @@
 "i": "Birthdays",
 "t": 10,
 "d": "en Gramplet, som visar f\u00f6delsedagarna f\u00f6r levande personer",
-"v": "1.1.16",
+"v": "1.1.21",
 "g": "6.0",
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
-"h": "BirthdaysGramplet"
+"h": "Addon:BirthdaysGramplet"
 },
 {
 "n": "Chatta med Tree Interactive-till\u00e4gget",
