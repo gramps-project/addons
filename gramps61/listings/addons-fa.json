@@ -1,5 +1,19 @@
 [
 {
+"n": "Gramps Assistant",
+"i": "grampsassistant",
+"t": 2,
+"d": "AI assistant for querying your Gramps family tree",
+"v": "1.0.2",
+"g": "6.1",
+"s": 3,
+"z": "GrampsAssistant.addon.tgz",
+"h": "Addon:GrampsAssistant",
+"do": [
+"Grampy Script"
+]
+},
+{
 "n": "\u062a\u0648\u0644\u062f\u0647\u0627",
 "i": "Birthdays",
 "t": 10,
