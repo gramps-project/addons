@@ -1501,10 +1501,13 @@
 "i": "Grampy Script",
 "t": 10,
 "d": "Executar um escrito Gramps Python especial",
-"v": "0.0.5",
-"g": "6.0",
+"v": "0.0.8",
+"g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
+"rm": [
+"jedi"
+],
 "h": "Addon:GrampyScript"
 },
 {

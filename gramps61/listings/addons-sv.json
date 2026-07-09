@@ -1497,14 +1497,17 @@
 "a": 2
 },
 {
-"n": "Gram.py Script",
+"n": "Gram.py-skript",
 "i": "Grampy Script",
 "t": 10,
-"d": "Run a special Gramps Python script",
-"v": "0.0.5",
-"g": "6.0",
+"d": "K\u00f6r ett speciellt Gramps Python-skript",
+"v": "0.0.8",
+"g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
+"rm": [
+"jedi"
+],
 "h": "Addon:GrampyScript"
 },
 {

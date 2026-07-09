@@ -1497,14 +1497,17 @@
 "a": 2
 },
 {
-"n": "Gram.py Script",
+"n": "Gram.py Beti\u011fi",
 "i": "Grampy Script",
 "t": 10,
-"d": "Run a special Gramps Python script",
-"v": "0.0.5",
-"g": "6.0",
+"d": "Gramps'e \u00f6zel bir Python beti\u011fi \u00e7al\u0131\u015ft\u0131r\u0131n",
+"v": "0.0.8",
+"g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
+"rm": [
+"jedi"
+],
 "h": "Addon:GrampyScript"
 },
 {

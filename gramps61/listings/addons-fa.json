@@ -9,5 +9,19 @@
 "s": 3,
 "z": "BirthdaysGramplet.addon.tgz",
 "h": "BirthdaysGramplet"
+},
+{
+"n": "Gram.py Script",
+"i": "Grampy Script",
+"t": 10,
+"d": "Run a special Gramps Python script",
+"v": "0.0.8",
+"g": "6.1",
+"s": 3,
+"z": "GrampyScript.addon.tgz",
+"rm": [
+"jedi"
+],
+"h": "Addon:GrampyScript"
 }
 ]
