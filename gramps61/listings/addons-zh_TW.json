@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "Date of Death",
+"i": "DateOfDeath",
+"t": 10,
+"d": "a gramplet that displays death dates in sorted order",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Deep Connections Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,

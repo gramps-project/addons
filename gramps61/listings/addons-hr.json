@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "Datum smrti",
+"i": "DateOfDeath",
+"t": 10,
+"d": "gramplet koji prikazuje datume smrti poredane",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Duboke veze \u2013 Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,

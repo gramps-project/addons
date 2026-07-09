@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "Hal\u00e1loz\u00e1si d\u00e1tum",
+"i": "DateOfDeath",
+"t": 10,
+"d": "egy gramplet amely a hal\u00e1loz\u00e1si d\u00e1tumokat rendezve jelen\u00edti megegy gramplet amely a hal\u00e1loz\u00e1si d\u00e1tumokat jelen\u00edti meg h\u00f3nap \u00e9s nap szerint rendezve",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Deep Connections Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,

@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "D\u00f6dsdatum",
+"i": "DateOfDeath",
+"t": 10,
+"d": "en gramplet som visar d\u00f6dsdatum sorterade",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Gramplet f\u00f6r l\u00e5nga sl\u00e4ktskap",
 "i": "Deep Connections Gramplet",
 "t": 10,

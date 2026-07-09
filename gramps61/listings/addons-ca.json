@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "Data de defunci\u00f3",
+"i": "DateOfDeath",
+"t": 10,
+"d": "un gramplet que mostra les dates de defunci\u00f3 ordenades",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Gramplet de Connexions Profundes",
 "i": "Deep Connections Gramplet",
 "t": 10,

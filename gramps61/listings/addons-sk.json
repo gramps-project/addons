@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "D\u00e1tum \u00famrtia",
+"i": "DateOfDeath",
+"t": 10,
+"d": "gramplet zobrazuj\u00faci d\u00e1tumy \u00famrtia v zoradenom porad\u00ed",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Gramplet Hlbok\u00e9 vz\u0165ahy",
 "i": "Deep Connections Gramplet",
 "t": 10,

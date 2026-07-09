@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "Kuolinp\u00e4iv\u00e4",
+"i": "DateOfDeath",
+"t": 10,
+"d": "gramplet joka n\u00e4ytt\u00e4\u00e4 kuolinp\u00e4iv\u00e4t j\u00e4rjestettyn\u00e4gramplet joka n\u00e4ytt\u00e4\u00e4 kuolinp\u00e4iv\u00e4t j\u00e4rjestettyn\u00e4 kuukauden ja p\u00e4iv\u00e4n mukaan",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Syv\u00e4suhteet Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,

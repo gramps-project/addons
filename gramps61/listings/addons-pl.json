@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "Data \u015bmierci",
+"i": "DateOfDeath",
+"t": 10,
+"d": "gramplet wy\u015bwietlaj\u0105cy daty \u015bmierci w posortowanej kolejno\u015bci",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Gramplet g\u0142\u0119bokich po\u0142\u0105cze\u0144",
 "i": "Deep Connections Gramplet",
 "t": 10,

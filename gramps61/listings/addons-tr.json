@@ -1391,6 +1391,17 @@
 "h": "DateCalculator"
 },
 {
+"n": "\u00d6l\u00fcm tarihi",
+"i": "DateOfDeath",
+"t": 10,
+"d": "\u00f6l\u00fcm tarihlerini s\u0131ral\u0131 d\u00fczende g\u00f6steren bir gramplet",
+"v": "1.1.1",
+"g": "6.1",
+"s": 3,
+"z": "DateOfDeathGramplet.addon.tgz",
+"h": "Addon:DateOfDeathGramplet"
+},
+{
 "n": "Deep Connections Gramplet",
 "i": "Deep Connections Gramplet",
 "t": 10,
