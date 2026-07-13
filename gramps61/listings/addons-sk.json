@@ -663,13 +663,14 @@
 "i": "generate_pdf_forms",
 "t": 2,
 "d": "Generujte pr\u00e1zdne vyplnite\u013en\u00e9 formul\u00e1re PDF: formul\u00e1re s\u010d\u00edtania \u013eudu/udalost\u00ed alebo diagramy rodokme\u0148a typu Ahnentafel.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "reportlab"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]
@@ -855,13 +856,14 @@
 "i": "import_pdf",
 "t": 3,
 "d": "Importujte genealogick\u00e9 \u00fadaje z formul\u00e1ra PDF. Odo\u0161lite \u0161abl\u00f3nu PDF in\u00fdm osob\u00e1m na vyplnenie a vr\u00e1tenie.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "pypdf"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]

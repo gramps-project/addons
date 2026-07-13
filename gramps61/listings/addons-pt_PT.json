@@ -663,13 +663,14 @@
 "i": "generate_pdf_forms",
 "t": 2,
 "d": "Criar formul\u00e1rios PDF em branco para preenchimento: recenseamento/eventos ou tabelas geneal\u00f3gicas (Ahnentafel).",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "reportlab"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]
@@ -855,13 +856,14 @@
 "i": "import_pdf",
 "t": 3,
 "d": "Importar dados geneal\u00f3gicos a partir de um formul\u00e1rio em PDF. Enviar o modelo em PDF a outras pessoas para que o preencham e o devolvam.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "pypdf"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]

@@ -1,5 +1,22 @@
 [
 {
+"n": "Generate PDF Forms",
+"i": "generate_pdf_forms",
+"t": 2,
+"d": "Generate blank fillable PDF forms: census/event forms or Ahnentafel pedigree charts.",
+"v": "1.0.5",
+"g": "6.1",
+"s": 3,
+"z": "PDFForms.addon.tgz",
+"rm": [
+"reportlab"
+],
+"h": "Addon:PDFForms",
+"do": [
+"Form Gramplet"
+]
+},
+{
 "n": "Gramps Assistant",
 "i": "grampsassistant",
 "t": 2,
@@ -11,6 +28,23 @@
 "h": "Addon:GrampsAssistant",
 "do": [
 "Grampy Script"
+]
+},
+{
+"n": "Import Fillable PDF Forms",
+"i": "import_pdf",
+"t": 3,
+"d": "Import genealogy data from a PDF form. Send the PDF template to others to fill out and return.",
+"v": "1.0.5",
+"g": "6.1",
+"s": 3,
+"z": "PDFForms.addon.tgz",
+"rm": [
+"pypdf"
+],
+"h": "Addon:PDFForms",
+"do": [
+"Form Gramplet"
 ]
 },
 {

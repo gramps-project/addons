@@ -663,13 +663,14 @@
 "i": "generate_pdf_forms",
 "t": 2,
 "d": "Lege invulbare PDF-formulieren aanmaken: volkstelling-/evenementformulieren of Ahnentafel-stamboomkaarten.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "reportlab"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]
@@ -855,13 +856,14 @@
 "i": "import_pdf",
 "t": 3,
 "d": "Genealogische gegevens uit een PDF-formulier importeren. Stuur anderen het PDF-formulier om in te vullen en terug te sturen.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "pypdf"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]

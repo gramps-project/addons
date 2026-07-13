@@ -663,13 +663,14 @@
 "i": "generate_pdf_forms",
 "t": 2,
 "d": "Erstellt leere, ausf\u00fcllbare PDF-Formulare: Volksz\u00e4hlungs-/Ereignisseformulare oder Ahnentafeln.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "reportlab"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]
@@ -855,13 +856,14 @@
 "i": "import_pdf",
 "t": 3,
 "d": "Importe von Genealogie-Daten aus einem PDF-Formular. Sende die PDF-Vorlage an andere, damit diese sie ausf\u00fcllen und zur\u00fccksenden k\u00f6nnen.",
-"v": "1.0.4",
+"v": "1.0.5",
 "g": "6.1",
 "s": 3,
 "z": "PDFForms.addon.tgz",
 "rm": [
 "pypdf"
 ],
+"h": "Addon:PDFForms",
 "do": [
 "Form Gramplet"
 ]
