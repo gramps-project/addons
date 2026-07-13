@@ -1515,7 +1515,7 @@
 "i": "Grampy Script",
 "t": 10,
 "d": "\u05d4\u05e8\u05e6\u05ea \u05ea\u05e1\u05e8\u05d9\u05d8 \u05e4\u05d9\u05ea\u05d5\u05df \u05de\u05d9\u05d5\u05d7\u05d3 \u05e9\u05dc \u05d2\u05e8\u05de\u05e4\u05e1",
-"v": "0.0.8",
+"v": "0.0.9",
 "g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
