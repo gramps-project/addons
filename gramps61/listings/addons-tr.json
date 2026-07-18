@@ -426,22 +426,22 @@
 "h": "Addon:Biography_Quickview"
 },
 {
-"n": "CensusCheck",
+"n": "N\u00fcfus Say\u0131m\u0131 Kontrol\u00fc",
 "i": "censuscheckquickview",
 "t": 1,
-"d": "Check whether any Census events are missing for a person and some of their descendents",
-"v": "1.0.7",
+"d": "Bir ki\u015fi ve onun baz\u0131 soyundan gelenler i\u00e7in herhangi bir N\u00fcfus Say\u0131m\u0131 olay\u0131n\u0131n eksik olup olmad\u0131\u011f\u0131n\u0131 kontrol edin",
+"v": "1.0.8",
 "g": "6.1",
 "s": 3,
 "z": "Form.addon.tgz",
 "h": "Addon:Census_Check"
 },
 {
-"n": "CensusCheckUp",
+"n": "N\u00fcfus Say\u0131m\u0131 Kontrol\u00fc",
 "i": "censuscheckupquickview",
 "t": 1,
-"d": "Check whether any Census events are missing for a person and some of their ancestors",
-"v": "1.0.7",
+"d": "Bir ki\u015fi ve atalar\u0131ndan baz\u0131lar\u0131 i\u00e7in n\u00fcfus say\u0131m\u0131nda herhangi bir kayd\u0131n eksik olup olmad\u0131\u011f\u0131n\u0131 kontrol edin",
+"v": "1.0.8",
 "g": "6.1",
 "s": 3,
 "z": "Form.addon.tgz",
@@ -1473,11 +1473,11 @@
 "h": "Addon:Family_Overview"
 },
 {
-"n": "Form Gramplet",
+"n": "Gramplet Formu",
 "i": "Form Gramplet",
 "t": 10,
-"d": "Gramplet interface for Forms",
-"v": "2.0.57",
+"d": "Formlar i\u00e7in Gramplet aray\u00fcz\u00fc",
+"v": "2.0.58",
 "g": "6.1",
 "s": 3,
 "z": "Form.addon.tgz",

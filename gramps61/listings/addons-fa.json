@@ -1,5 +1,27 @@
 [
 {
+"n": "CensusCheck",
+"i": "censuscheckquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their descendents",
+"v": "1.0.8",
+"g": "6.1",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
+"n": "CensusCheckUp",
+"i": "censuscheckupquickview",
+"t": 1,
+"d": "Check whether any Census events are missing for a person and some of their ancestors",
+"v": "1.0.8",
+"g": "6.1",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Addon:Census_Check"
+},
+{
 "n": "Generate PDF Forms",
 "i": "generate_pdf_forms",
 "t": 2,
@@ -79,6 +101,17 @@
 "s": 3,
 "z": "DateOfDeathGramplet.addon.tgz",
 "h": "Addon:DateOfDeathGramplet"
+},
+{
+"n": "Form Gramplet",
+"i": "Form Gramplet",
+"t": 10,
+"d": "Gramplet interface for Forms",
+"v": "2.0.58",
+"g": "6.1",
+"s": 3,
+"z": "Form.addon.tgz",
+"h": "Form Gramplet"
 },
 {
 "n": "Gram.py Script",
