@@ -1035,7 +1035,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.",
-"v": "0.0.20",
+"v": "0.0.21",
 "g": "6.1",
 "s": 3,
 "z": "Themes.addon.tgz",

@@ -48,6 +48,17 @@
 ]
 },
 {
+"n": "Theme preferences",
+"i": "ThemesPrefs",
+"t": 6,
+"d": "An addition to Preferences for simple Theme and Font adjustment.  Especially useful for Windows users.",
+"v": "0.0.21",
+"g": "6.1",
+"s": 3,
+"z": "Themes.addon.tgz",
+"h": "Addon:ThemePreferences"
+},
+{
 "n": "\u062a\u0648\u0644\u062f\u0647\u0627",
 "i": "Birthdays",
 "t": 10,

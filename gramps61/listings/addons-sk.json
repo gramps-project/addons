@@ -1035,7 +1035,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Pr\u00eddavok k predvo\u013eb\u00e1m pre jednoduch\u00e9 \u00fapravy t\u00e9my a p\u00edsma.   Obzvl\u00e1\u0161\u0165 u\u017eito\u010dn\u00e9 pre pou\u017e\u00edvate\u013eov syst\u00e9mu Windows.",
-"v": "0.0.20",
+"v": "0.0.21",
 "g": "6.1",
 "s": 3,
 "z": "Themes.addon.tgz",

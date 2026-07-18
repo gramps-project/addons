@@ -1035,7 +1035,7 @@
 "i": "ThemesPrefs",
 "t": 6,
 "d": "Un'aggiunta alle preferenze per la semplice correzione di temi e di tipi di carattere. Particolarmente utile per gli utenti di Windows.",
-"v": "0.0.20",
+"v": "0.0.21",
 "g": "6.1",
 "s": 3,
 "z": "Themes.addon.tgz",
