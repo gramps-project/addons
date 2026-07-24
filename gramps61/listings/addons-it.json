@@ -723,11 +723,11 @@
 "h": "Addon:MediaMerge"
 },
 {
-"n": "Media Verify",
+"n": "Verifica oggetti multimediali",
 "i": "mediaverify",
 "t": 2,
-"d": "Verify that media is present in the correct path",
-"v": "1.0.34",
+"d": "Verifica che l'oggetto multimediale sia presente nel percorso corretto",
+"v": "1.0.35",
 "g": "6.1",
 "s": 3,
 "z": "MediaVerify.addon.tgz",

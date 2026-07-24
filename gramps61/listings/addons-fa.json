@@ -53,6 +53,17 @@
 ]
 },
 {
+"n": "Media Verify",
+"i": "mediaverify",
+"t": 2,
+"d": "Verify that media is present in the correct path",
+"v": "1.0.35",
+"g": "6.1",
+"s": 3,
+"z": "MediaVerify.addon.tgz",
+"h": "Addon:Media_Verify_Tool"
+},
+{
 "n": "Import Fillable PDF Forms",
 "i": "import_pdf",
 "t": 3,

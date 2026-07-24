@@ -727,7 +727,7 @@
 "i": "mediaverify",
 "t": 2,
 "d": "Verificar que los medios est\u00e1n presentes en la ruta correcta",
-"v": "1.0.34",
+"v": "1.0.35",
 "g": "6.1",
 "s": 3,
 "z": "MediaVerify.addon.tgz",
