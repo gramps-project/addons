@@ -1545,6 +1545,17 @@
 "h": "Addon:Person_Overview"
 },
 {
+"n": "Person Relationship Filter",
+"i": "Person Relationship Filter",
+"t": 10,
+"d": "Gramplet providing a person filter on relationships",
+"v": "1.0.1",
+"g": "6.0",
+"s": 3,
+"z": "PersonRelationshipFilter.addon.tgz",
+"h": "Addon:PersonRelationshipFilter"
+},
+{
 "n": "\u0420\u0430\u0437\u043c\u0435\u0442\u043a\u0430 \u0444\u043e\u0442\u043e\u0433\u0440\u0430\u0444\u0438\u0439",
 "i": "Photo Tagging",
 "t": 10,

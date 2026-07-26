@@ -52,6 +52,17 @@
 "h": "Addon:House_Timeline_Gramplet"
 },
 {
+"n": "Person Relationship Filter",
+"i": "Person Relationship Filter",
+"t": 10,
+"d": "Gramplet providing a person filter on relationships",
+"v": "1.0.1",
+"g": "5.2",
+"s": 3,
+"z": "PersonRelationshipFilter.addon.tgz",
+"h": "Addon:PersonRelationshipFilter"
+},
+{
 "n": "Virtual Keyboard",
 "i": "VirtualKeyboard",
 "t": 10,
