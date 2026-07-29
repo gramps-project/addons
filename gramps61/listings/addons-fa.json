@@ -125,6 +125,17 @@
 "h": "Form Gramplet"
 },
 {
+"n": "Given Name Word Cloud",
+"i": "Given Name Word Cloud",
+"t": 10,
+"d": "Gramplet showing all given names as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
+},
+{
 "n": "Gram.py Script",
 "i": "Grampy Script",
 "t": 10,
@@ -148,6 +159,28 @@
 "s": 3,
 "z": "PersonRelationshipFilter.addon.tgz",
 "h": "Addon:PersonRelationshipFilter"
+},
+{
+"n": "Place Word Cloud",
+"i": "Place Word Cloud",
+"t": 10,
+"d": "Gramplet showing all places as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
+},
+{
+"n": "Surname Word Cloud",
+"i": "Surname Word Cloud",
+"t": 10,
+"d": "Gramplet showing all surnames as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
 },
 {
 "n": "etree",

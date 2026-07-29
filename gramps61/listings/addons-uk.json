@@ -1496,6 +1496,17 @@
 "a": 1
 },
 {
+"n": "Given Name Word Cloud",
+"i": "Given Name Word Cloud",
+"t": 10,
+"d": "Gramplet showing all given names as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
+},
+{
 "n": "GrampsChat",
 "i": "GrampsChat",
 "t": 10,
@@ -1664,6 +1675,17 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
+"n": "Place Word Cloud",
+"i": "Place Word Cloud",
+"t": 10,
+"d": "Gramplet showing all places as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
+},
+{
 "n": "\u041e\u0447\u0438\u0449\u0435\u043d\u043d\u044f \u043c\u0456\u0441\u0446\u044c",
 "i": "PlaceCleanup",
 "t": 10,
@@ -1730,6 +1752,17 @@
 "z": "SearchGramplet.addon.tgz",
 "h": "https://github.com/gramps-project/addons-source/pull/541",
 "a": 1
+},
+{
+"n": "Surname Word Cloud",
+"i": "Surname Word Cloud",
+"t": 10,
+"d": "Gramplet showing all surnames as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
 },
 {
 "n": "\u0426\u0435\u0439 \u0434\u0435\u043d\u044c \u0432 \u0456\u0441\u0442\u043e\u0440\u0456\u0457 \u0440\u043e\u0434\u0438\u043d\u0438",

@@ -1496,6 +1496,17 @@
 "a": 1
 },
 {
+"n": "Given Name Word Cloud",
+"i": "Given Name Word Cloud",
+"t": 10,
+"d": "Gramplet showing all given names as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
+},
+{
 "n": "GrampsChat",
 "i": "GrampsChat",
 "t": 10,
@@ -1664,6 +1675,17 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
+"n": "Place Word Cloud",
+"i": "Place Word Cloud",
+"t": 10,
+"d": "Gramplet showing all places as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
+},
+{
 "n": "Ortsbereinigung",
 "i": "PlaceCleanup",
 "t": 10,
@@ -1730,6 +1752,17 @@
 "z": "SearchGramplet.addon.tgz",
 "h": "https://github.com/gramps-project/addons-source/pull/541",
 "a": 1
+},
+{
+"n": "Surname Word Cloud",
+"i": "Surname Word Cloud",
+"t": 10,
+"d": "Gramplet showing all surnames as a word cloud",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "WordClouds.addon.tgz",
+"h": "WordClouds"
 },
 {
 "n": "Dieser Tag in der Familiengeschichte",
