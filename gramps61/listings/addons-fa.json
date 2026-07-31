@@ -39,6 +39,17 @@
 ]
 },
 {
+"n": "Gramps Web Sync",
+"i": "gramps_web_sync",
+"t": 2,
+"d": "Synchronizes a local database with a Gramps Web instance.",
+"v": "1.3.14",
+"g": "6.1",
+"s": 3,
+"z": "GrampsWebSync.addon.tgz",
+"h": "Addon:Gramps_Web_Sync"
+},
+{
 "n": "Gramps Assistant",
 "i": "grampsassistant",
 "t": 2,
