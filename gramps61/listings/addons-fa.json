@@ -218,6 +218,20 @@
 "a": 2
 },
 {
+"n": "SharedPostgreSQL",
+"i": "sharedpostgresql",
+"t": 12,
+"d": "Shared PostgreSQL Database",
+"v": "0.1.17",
+"g": "6.1",
+"s": 3,
+"z": "SharedPostgreSQL.addon.tgz",
+"rm": [
+"psycopg2"
+],
+"h": "https://www.grampsweb.org/install_setup/postgres/"
+},
+{
 "n": "The active Person",
 "i": "ActivePerson",
 "t": 13,
