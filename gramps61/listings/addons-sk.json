@@ -1712,7 +1712,7 @@
 "i": "Prerequisites Checker Gramplet",
 "t": 10,
 "d": "Gramplet Kontrola n\u00e1le\u017eitost\u00ed",
-"v": "1.2.14",
+"v": "1.2.15",
 "g": "6.1",
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",

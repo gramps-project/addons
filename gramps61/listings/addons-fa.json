@@ -183,6 +183,17 @@
 "h": "WordClouds"
 },
 {
+"n": "Prerequisites Checker",
+"i": "Prerequisites Checker Gramplet",
+"t": 10,
+"d": "Prerequisites Checker Gramplet",
+"v": "1.2.15",
+"g": "6.1",
+"s": 3,
+"z": "PrerequisitesCheckerGramplet.addon.tgz",
+"h": "Addon:Prerequisites_Checker_Gramplet"
+},
+{
 "n": "Surname Word Cloud",
 "i": "Surname Word Cloud",
 "t": 10,
