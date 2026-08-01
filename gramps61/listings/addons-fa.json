@@ -229,6 +229,21 @@
 "a": 2
 },
 {
+"n": "PostgreSQL",
+"i": "postgresql",
+"t": 12,
+"d": "PostgreSQL Database",
+"v": "1.0.24",
+"g": "6.1",
+"s": 3,
+"z": "PostgreSQL.addon.tgz",
+"rm": [
+"psycopg2"
+],
+"h": "Addon:PostgreSQL",
+"a": 1
+},
+{
 "n": "SharedPostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
