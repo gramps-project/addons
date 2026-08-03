@@ -1858,7 +1858,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "\u05de\u05e1\u05d3\u05be\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd PostgreSQL \u05de\u05e9\u05d5\u05ea\u05e3",
-"v": "0.1.17",
+"v": "0.1.18",
 "g": "6.1",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

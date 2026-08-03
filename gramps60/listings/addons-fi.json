@@ -1750,7 +1750,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Shared PostgreSQL tietokanta",
-"v": "0.1.15",
+"v": "0.1.16",
 "g": "6.0",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
