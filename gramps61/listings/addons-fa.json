@@ -114,6 +114,20 @@
 "h": "BirthdaysGramplet"
 },
 {
+"n": "Citation GOQL Filter",
+"i": "Citation GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language citation filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u062a\u0627\u0631\u06cc\u062e \u0641\u0648\u062a",
 "i": "DateOfDeath",
 "t": 10,
@@ -123,6 +137,34 @@
 "s": 3,
 "z": "DateOfDeathGramplet.addon.tgz",
 "h": "Addon:DateOfDeathGramplet"
+},
+{
+"n": "Event GOQL Filter",
+"i": "Event GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language event filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Family GOQL Filter",
+"i": "Family GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language family filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Form Gramplet",
@@ -161,6 +203,48 @@
 "h": "Addon:GrampyScript"
 },
 {
+"n": "Media GOQL Filter",
+"i": "Media GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language media filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Note GOQL Filter",
+"i": "Note GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language note filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Person GOQL Filter",
+"i": "Person GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language person filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Person Relationship Filter",
 "i": "Person Relationship Filter",
 "t": 10,
@@ -170,6 +254,20 @@
 "s": 3,
 "z": "PersonRelationshipFilter.addon.tgz",
 "h": "Addon:PersonRelationshipFilter"
+},
+{
+"n": "Place GOQL Filter",
+"i": "Place GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language place filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Place Word Cloud",
@@ -192,6 +290,34 @@
 "s": 3,
 "z": "PrerequisitesCheckerGramplet.addon.tgz",
 "h": "Addon:Prerequisites_Checker_Gramplet"
+},
+{
+"n": "Repository GOQL Filter",
+"i": "Repository GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language repository filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Source GOQL Filter",
+"i": "Source GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language source filter",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Surname Word Cloud",
@@ -267,6 +393,48 @@
 "s": 3,
 "z": "FilterRules.addon.tgz",
 "h": "Addon:Rule_expansions#Active_Person"
+},
+{
+"n": "Citations matching the <GOQL expression>",
+"i": "CitationMatchesExpression",
+"t": 13,
+"d": "Matches citations for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Events matching the <GOQL expression>",
+"i": "EventMatchesExpression",
+"t": 13,
+"d": "Matches events for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Families matching the <GOQL expression>",
+"i": "FamilyMatchesExpression",
+"t": 13,
+"d": "Matches families for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Families with events with a selected role",
@@ -346,6 +514,48 @@
 "h": "Addon:Rule_expansions"
 },
 {
+"n": "Media matching the <GOQL expression>",
+"i": "MediaMatchesExpression",
+"t": 13,
+"d": "Matches media for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Notes matching the <GOQL expression>",
+"i": "NoteMatchesExpression",
+"t": 13,
+"d": "Matches notes for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "People matching the <GOQL expression>",
+"i": "PersonMatchesExpression",
+"t": 13,
+"d": "Matches people for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "People who are part of families matching <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
@@ -355,6 +565,48 @@
 "s": 3,
 "z": "FilterRules.addon.tgz",
 "h": "Addon:Rule_expansions#People_who_are_part_of_families_matching_.3Cfilter.3E"
+},
+{
+"n": "Places matching the <GOQL expression>",
+"i": "PlaceMatchesExpression",
+"t": 13,
+"d": "Matches places for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Repositories matching the <GOQL expression>",
+"i": "RepositoryMatchesExpression",
+"t": 13,
+"d": "Matches repositories for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
+"n": "Sources matching the <GOQL expression>",
+"i": "SourceMatchesExpression",
+"t": 13,
+"d": "Matches sources for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"rm": [
+"gramps_object_query_language"
+],
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Filter people by their age at death",
