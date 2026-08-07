@@ -1715,6 +1715,17 @@
 "h": "Addon:NameSuite"
 },
 {
+"n": "GrampsWebApiDb",
+"i": "grampswebapidb",
+"t": 12,
+"d": "Use a Gramps Web API server (e.g. gramps-connect or Gramps Web) as a live database, mirrored locally for speed.",
+"v": "0.1.1",
+"g": "6.0",
+"s": 2,
+"z": "GrampsWebApiDb.addon.tgz",
+"h": "Addon:GrampsWebApiDb"
+},
+{
 "n": "PostgreSQL",
 "i": "postgresql",
 "t": 12,
