@@ -659,11 +659,11 @@
 "h": "Addon:Extract_Place_Data_from_a_Place_Title"
 },
 {
-"n": "Sincronizzazione Web di Gramps",
+"n": "Gramps Web Sync",
 "i": "gramps_web_sync",
 "t": 2,
-"d": "Sincronizza un database locale con un'istanza web di Gramps.",
-"v": "1.4.1",
+"d": "Synchronizes a local database with a Gramps Web instance.",
+"v": "1.5.1",
 "g": "6.0",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",

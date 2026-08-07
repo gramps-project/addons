@@ -680,7 +680,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Sincroniza una base de datos local con una instancia de la Web de Gramps.",
-"v": "1.4.1",
+"v": "1.5.1",
 "g": "6.1",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",
