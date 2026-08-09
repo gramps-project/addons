@@ -22,6 +22,17 @@
 "h": "Addon:Census_Check"
 },
 {
+"n": "Generate Gramps Web API key",
+"i": "MintApiKeyTool",
+"t": 2,
+"d": "Turn a Gramps Web API server URL, username, and password into a GRAMPS_WEB_API_KEY value for GrampsWebApiDb, and optionally create a matching, correctly-named GrampsWebApiDb Family Tree for it.",
+"v": "0.1.1",
+"g": "6.1",
+"s": 2,
+"z": "GrampsWebApiDb.addon.tgz",
+"h": "Addon:GrampsWebApiDb"
+},
+{
 "n": "Generate PDF Forms",
 "i": "generate_pdf_forms",
 "t": 2,
@@ -359,7 +370,7 @@
 "i": "grampswebapidb",
 "t": 12,
 "d": "Use a Gramps Web API server (e.g. gramps-connect or Gramps Web) as a live database, mirrored locally for speed.",
-"v": "0.1.1",
+"v": "0.1.2",
 "g": "6.1",
 "s": 2,
 "z": "GrampsWebApiDb.addon.tgz",
