@@ -826,11 +826,11 @@
 "h": "Addon:Types_Cleanup_Tool"
 },
 {
-"n": "JSON Import",
+"n": "JSON \u0130\u00e7e Aktarma",
 "i": "JSON Import",
 "t": 3,
-"d": "This is a JSON import",
-"v": "1.0.29",
+"d": "Bu bir JSON i\u00e7e aktarmad\u0131r",
+"v": "1.0.30",
 "g": "6.1",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -892,11 +892,11 @@
 "a": 1
 },
 {
-"n": "JSON Export",
+"n": "JSON D\u0131\u015fa Aktarma",
 "i": "JSON Export",
 "t": 4,
-"d": "This is a JSON export",
-"v": "1.0.29",
+"d": "Bu bir JSON d\u0131\u015fa aktar\u0131m\u0131d\u0131r",
+"v": "1.0.30",
 "g": "6.1",
 "s": 3,
 "z": "JSON.addon.tgz",

@@ -86,6 +86,17 @@
 "h": "Addon:Media_Verify_Tool"
 },
 {
+"n": "JSON Import",
+"i": "JSON Import",
+"t": 3,
+"d": "This is a JSON import",
+"v": "1.0.30",
+"g": "6.1",
+"s": 3,
+"z": "JSON.addon.tgz",
+"h": "Addon:JSON_Export_Import#Import_JSON"
+},
+{
 "n": "Import Fillable PDF Forms",
 "i": "import_pdf",
 "t": 3,
@@ -101,6 +112,17 @@
 "do": [
 "Form Gramplet"
 ]
+},
+{
+"n": "JSON Export",
+"i": "JSON Export",
+"t": 4,
+"d": "This is a JSON export",
+"v": "1.0.30",
+"g": "6.1",
+"s": 3,
+"z": "JSON.addon.tgz",
+"h": "Addon:JSON_Export_Import#Export_JSON"
 },
 {
 "n": "Theme preferences",

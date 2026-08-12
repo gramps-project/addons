@@ -826,11 +826,11 @@
 "h": "Addon:Types_Cleanup_Tool"
 },
 {
-"n": "JSON Import",
+"n": "Importazione JSON",
 "i": "JSON Import",
 "t": 3,
-"d": "This is a JSON import",
-"v": "1.0.29",
+"d": "\u00c8 un'importazione JSON",
+"v": "1.0.30",
 "g": "6.1",
 "s": 3,
 "z": "JSON.addon.tgz",
@@ -892,11 +892,11 @@
 "a": 1
 },
 {
-"n": "JSON Export",
+"n": "Esportazione JSON",
 "i": "JSON Export",
 "t": 4,
-"d": "This is a JSON export",
-"v": "1.0.29",
+"d": "\u00c8 un'esportazione JSON",
+"v": "1.0.30",
 "g": "6.1",
 "s": 3,
 "z": "JSON.addon.tgz",
