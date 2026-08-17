@@ -691,7 +691,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Yerel bir veritaban\u0131n\u0131 bir Gramps Web \u00f6rne\u011fiyle senkronize eder.",
-"v": "1.5.1",
+"v": "1.5.2",
 "g": "6.1",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",

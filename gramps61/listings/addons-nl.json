@@ -691,7 +691,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "Synchroniseert een lokaal gegevensbestand met een Gramps Web-instantie.",
-"v": "1.5.1",
+"v": "1.5.2",
 "g": "6.1",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",
