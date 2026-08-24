@@ -537,11 +537,11 @@
 "h": "Addon:GrampsWebApiDb"
 },
 {
-"n": "PlaceCompletion",
+"n": "Yer Tamamlama",
 "i": "PlaceCompletion",
 "t": 2,
-"d": "Provides a browsable list of selected places, with possibility to complete/parse/set the attribute fields.",
-"v": "0.0.48",
+"d": "Se\u00e7ilen yerlerin g\u00f6z at\u0131labilir bir listesini sa\u011flar ve \u00f6znitelik alanlar\u0131n\u0131 tamamlama/ayr\u0131\u015ft\u0131r/ayarlama olana\u011f\u0131 sunar.",
+"v": "0.0.49",
 "g": "6.1",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",

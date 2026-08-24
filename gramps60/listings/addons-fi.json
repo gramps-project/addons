@@ -541,7 +541,7 @@
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Tarjoaa selattavan luettelon valituista paikoista sek\u00e4 mahdollisuuden t\u00e4ytt\u00e4\u00e4/j\u00e4sent\u00e4\u00e4/asettaa ominaisuuskentti\u00e4.",
-"v": "0.0.46",
+"v": "0.0.47",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",

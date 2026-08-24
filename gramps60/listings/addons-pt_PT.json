@@ -541,7 +541,7 @@
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Fornece uma lista naveg\u00e1vel de locais seleccionados, com a possibilidade de concluir/analisar/definir os atributos.",
-"v": "0.0.46",
+"v": "0.0.47",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",

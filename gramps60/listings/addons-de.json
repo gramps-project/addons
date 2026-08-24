@@ -541,7 +541,7 @@
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Bietet eine durchsuchbare Liste ausgew\u00e4hlter Orte mit der M\u00f6glichkeit, die Attributfelder zu vervollst\u00e4ndigen/zu analysieren/festzulegen.",
-"v": "0.0.46",
+"v": "0.0.47",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",

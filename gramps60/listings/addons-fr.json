@@ -541,7 +541,7 @@
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Fournit une liste consultable des lieux s\u00e9lectionn\u00e9s, avec la possibilit\u00e9 de compl\u00e9ter/analyser/d\u00e9finir les champs d'attributs.",
-"v": "0.0.46",
+"v": "0.0.47",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",

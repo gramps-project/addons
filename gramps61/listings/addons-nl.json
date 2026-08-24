@@ -541,7 +541,7 @@
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Biedt een doorzoekbare lijst van geselecteerde plaatsen, met de mogelijkheid om de kenmerkvelden in te vullen / te ontleden / in te stellen.",
-"v": "0.0.48",
+"v": "0.0.49",
 "g": "6.1",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",

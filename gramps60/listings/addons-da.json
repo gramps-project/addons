@@ -541,7 +541,7 @@
 "i": "PlaceCompletion",
 "t": 2,
 "d": "Giver en liste over udvalgte steder, med mulighed for at komplettere/fortolke/s\u00e6tte sttributfelterne.",
-"v": "0.0.46",
+"v": "0.0.47",
 "g": "6.0",
 "s": 3,
 "z": "PlaceCompletion.addon.tgz",
