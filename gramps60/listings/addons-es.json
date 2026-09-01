@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produce un listado de todas las notas con una etiqueta determinada junto con los registros que hace referencia, la Persona, Familia, Evento, etc.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",

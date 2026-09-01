@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Tuottaa luettelon kaikista tietyn tunnisteen sis\u00e4lt\u00e4vist\u00e4 muistiinpanoista sek\u00e4 niihin viittaavista kohteista, kuten henkil\u00f6st\u00e4, perheest\u00e4, tapahtumasta jne.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",

@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Erstellt eine Liste aller Notizen mit einem bestimmten Etikett zusammen mit den Datens\u00e4tzen, auf die sie sich beziehen, also Person, Familie, Ereignis usw.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",

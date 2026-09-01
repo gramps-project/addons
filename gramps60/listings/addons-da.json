@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Danner en liste med alle de noter med et bestemt m\u00e6rkat sammen med alle poster de henviser til, personen, familien, h\u00e6ndeser o.s.v.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",

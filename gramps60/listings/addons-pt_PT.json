@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produz uma lista de todas as notas com uma dada etiqueta, com os registos referenciados, indiv\u00edduo, fam\u00edlia, evento, etc.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",

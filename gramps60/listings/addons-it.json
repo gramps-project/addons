@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Produce un elenco di tutte le note con una data etichetta insieme alle informazioni di registro a cui fa riferimento, la persona, la famiglia, l'evento, ecc.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",

@@ -212,7 +212,7 @@
 "i": "TodoReport",
 "t": 0,
 "d": "Lager en liste over alle notater med en bestemt etikett, sammen med oppf\u00f8ringene de refererer til, for eksempel person, familie, hendelse osv.",
-"v": "1.2.39",
+"v": "1.2.40",
 "g": "6.0",
 "s": 3,
 "z": "ToDoReport.addon.tgz",
