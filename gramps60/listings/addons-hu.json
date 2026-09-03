@@ -1264,6 +1264,17 @@
 "a": 0
 },
 {
+"n": "Citation GOQL Filter",
+"i": "Citation GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language citation filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Clock",
 "i": "Clock Gramplet",
 "t": 10,
@@ -1374,6 +1385,17 @@
 "h": "Edit Image Exif Metadata"
 },
 {
+"n": "Event GOQL Filter",
+"i": "Event GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language event filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
@@ -1394,6 +1416,17 @@
 "s": 3,
 "z": "ExtendedAttributes.addon.tgz",
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
+},
+{
+"n": "Family GOQL Filter",
+"i": "Family GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language family filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Family Overview",
@@ -1512,6 +1545,17 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
+"n": "Media GOQL Filter",
+"i": "Media GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language media filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Media Browser",
 "i": "MediaBrowser",
 "t": 10,
@@ -1521,6 +1565,17 @@
 "s": 3,
 "z": "MediaBrowser.addon.tgz",
 "h": "Addon:MediaBrowserGramplet"
+},
+{
+"n": "Note GOQL Filter",
+"i": "Note GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language note filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Note Gramplet",
@@ -1543,6 +1598,17 @@
 "s": 3,
 "z": "Participants.addon.tgz",
 "h": "Addon:ParticipantsGramplet"
+},
+{
+"n": "Person GOQL Filter",
+"i": "Person GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language person filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Person Overview",
@@ -1601,6 +1667,17 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
+"n": "Place GOQL Filter",
+"i": "Place GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language place filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Place Cleanup",
 "i": "PlaceCleanup",
 "t": 10,
@@ -1657,6 +1734,17 @@
 "h": "RelatedRelativesGramplet"
 },
 {
+"n": "Repository GOQL Filter",
+"i": "Repository GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language repository filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Keres\u00e9s",
 "i": "Search Gramplet",
 "t": 10,
@@ -1667,6 +1755,17 @@
 "z": "SearchGramplet.addon.tgz",
 "h": "https://github.com/gramps-project/addons-source/pull/541",
 "a": 1
+},
+{
+"n": "Source GOQL Filter",
+"i": "Source GOQL Filter",
+"t": 10,
+"d": "Gramplet providing a gramps-object-query-language source filter",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "This Day in Family History",
@@ -1803,6 +1902,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Citations matching the <GOQL expression>",
+"i": "CitationMatchesExpression",
+"t": 13,
+"d": "Matches citations for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Events with a tag containing <substring>",
 "i": "EventHasTagSubstr",
 "t": 13,
@@ -1811,6 +1921,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Events matching the <GOQL expression>",
+"i": "EventMatchesExpression",
+"t": 13,
+"d": "Matches events for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "People reachable from <Person>, stopping at <Filter> matches",
@@ -1831,6 +1952,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Families matching the <GOQL expression>",
+"i": "FamilyMatchesExpression",
+"t": 13,
+"d": "Matches families for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Families with events with a selected role",
@@ -1931,6 +2063,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Media matching the <GOQL expression>",
+"i": "MediaMatchesExpression",
+"t": 13,
+"d": "Matches media for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Notes with a tag containing <substring>",
 "i": "NoteHasTagSubstr",
 "t": 13,
@@ -1939,6 +2082,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Notes matching the <GOQL expression>",
+"i": "NoteMatchesExpression",
+"t": 13,
+"d": "Matches notes for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Patrilineal progenitor of <person>",
@@ -1962,6 +2116,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "People matching the <GOQL expression>",
+"i": "PersonMatchesExpression",
+"t": 13,
+"d": "Matches people for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "People who are part of families matching <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
@@ -1983,6 +2148,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Places matching the <GOQL expression>",
+"i": "PlaceMatchesExpression",
+"t": 13,
+"d": "Matches places for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Repositories with a tag containing <substring>",
 "i": "RepositoryHasTagSubstr",
 "t": 13,
@@ -1993,6 +2169,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Repositories matching the <GOQL expression>",
+"i": "RepositoryMatchesExpression",
+"t": 13,
+"d": "Matches repositories for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Sources with a tag containing <substring>",
 "i": "SourceHasTagSubstr",
 "t": 13,
@@ -2001,6 +2188,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Sources matching the <GOQL expression>",
+"i": "SourceMatchesExpression",
+"t": 13,
+"d": "Matches sources for which the given gramps-object-query-language where-expression evaluates to true",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Filter people by their age at death",

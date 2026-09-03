@@ -1264,6 +1264,17 @@
 "a": 0
 },
 {
+"n": "Filter GOQL pre cit\u00e1cie",
+"i": "Citation GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter cit\u00e1ci\u00ed v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Hodiny",
 "i": "Clock Gramplet",
 "t": 10,
@@ -1374,6 +1385,17 @@
 "h": "Edit Image Exif Metadata"
 },
 {
+"n": "Filter GOQL pre udalosti",
+"i": "Event GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter udalost\u00ed v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Roz\u0161\u00edren\u00e9 atrib\u00faty rodiny",
 "i": "Extended Family Attributes",
 "t": 10,
@@ -1394,6 +1416,17 @@
 "s": 3,
 "z": "ExtendedAttributes.addon.tgz",
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
+},
+{
+"n": "Filter GOQL pre rodiny",
+"i": "Family GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter rod\u00edn v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Rodinn\u00fd preh\u013ead",
@@ -1512,6 +1545,17 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
+"n": "Filter GOQL pre m\u00e9di\u00e1",
+"i": "Media GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter m\u00e9di\u00ed v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Prehliada\u010d m\u00e9di\u00ed",
 "i": "MediaBrowser",
 "t": 10,
@@ -1521,6 +1565,17 @@
 "s": 3,
 "z": "MediaBrowser.addon.tgz",
 "h": "Addon:MediaBrowserGramplet"
+},
+{
+"n": "Filter GOQL pre pozn\u00e1mky",
+"i": "Note GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter pozn\u00e1mok v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Gramplet pozn\u00e1mka",
@@ -1543,6 +1598,17 @@
 "s": 3,
 "z": "Participants.addon.tgz",
 "h": "Addon:ParticipantsGramplet"
+},
+{
+"n": "Filter GOQL pre osoby",
+"i": "Person GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter os\u00f4b v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Osobn\u00fd preh\u013ead",
@@ -1601,6 +1667,17 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
+"n": "Filter GOQL pre miesta",
+"i": "Place GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter miest v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u00dadr\u017eba miest",
 "i": "PlaceCleanup",
 "t": 10,
@@ -1657,6 +1734,17 @@
 "h": "RelatedRelativesGramplet"
 },
 {
+"n": "Filter GOQL pre repozit\u00e1re",
+"i": "Repository GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter repozit\u00e1rov v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "H\u013eadanie",
 "i": "Search Gramplet",
 "t": 10,
@@ -1667,6 +1755,17 @@
 "z": "SearchGramplet.addon.tgz",
 "h": "https://github.com/gramps-project/addons-source/pull/541",
 "a": 1
+},
+{
+"n": "Filter GOQL pre zdroje",
+"i": "Source GOQL Filter",
+"t": 10,
+"d": "Gramplet poskytuj\u00faci filter zdrojov v Gramps Object Query Language",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Tento de\u0148 v rodinnej hist\u00f3rii",
@@ -1803,6 +1902,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Cit\u00e1cie zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "CitationMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 cit\u00e1ci\u00e1m, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Events with a tag containing <substring>",
 "i": "EventHasTagSubstr",
 "t": 13,
@@ -1811,6 +1921,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Udalosti zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "EventMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 udalostiam, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "People reachable from <Person>, stopping at <Filter> matches",
@@ -1831,6 +1952,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Rodiny zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "FamilyMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 rodin\u00e1m, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Rodiny s udalos\u0165ami s vybranou rolou",
@@ -1931,6 +2063,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "M\u00e9di\u00e1 zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "MediaMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 m\u00e9di\u00e1m, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Notes with a tag containing <substring>",
 "i": "NoteHasTagSubstr",
 "t": 13,
@@ -1939,6 +2082,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Pozn\u00e1mky zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "NoteMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 pozn\u00e1mkam, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Patriline\u00e1rny predok osoby <person>",
@@ -1962,6 +2116,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "\u013dudia zodpovedaj\u00faci <v\u00fdrazu GOQL>",
+"i": "PersonMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 osob\u00e1m, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u013dudia, ktor\u00ed s\u00fa s\u00fa\u010das\u0165ou rod\u00edn, ktor\u00e9 vyhovuj\u00fa filtru <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
@@ -1983,6 +2148,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Miesta zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "PlaceMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 miestam, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Repositories with a tag containing <substring>",
 "i": "RepositoryHasTagSubstr",
 "t": 13,
@@ -1993,6 +2169,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Repozit\u00e1re zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "RepositoryMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 repozit\u00e1rom, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Sources with a tag containing <substring>",
 "i": "SourceHasTagSubstr",
 "t": 13,
@@ -2001,6 +2188,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Zdroje zodpovedaj\u00face <v\u00fdrazu GOQL>",
+"i": "SourceMatchesExpression",
+"t": 13,
+"d": "Zodpoved\u00e1 zdrojom, pre ktor\u00e9 sa dan\u00fd v\u00fdraz WHERE v Gramps Object Query Language vyhodnot\u00ed ako pravdiv\u00fd",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Filtrova\u0165 \u013eud\u00ed pod\u013ea ich veku v \u010dase \u00famrtia",

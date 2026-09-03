@@ -1264,6 +1264,17 @@
 "a": 0
 },
 {
+"n": "\u05de\u05e1\u05e0\u05df \u05de\u05d5\u05d1\u05d0\u05d4 GOQL",
+"i": "Citation GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05de\u05d5\u05d1\u05d0\u05d5\u05ea \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u05e9\u05e2\u05d5\u05df",
 "i": "Clock Gramplet",
 "t": 10,
@@ -1374,6 +1385,17 @@
 "h": "Edit Image Exif Metadata"
 },
 {
+"n": "\u05de\u05e1\u05e0\u05df GOQL \u05dc\u05d0\u05d9\u05e8\u05d5\u05e2",
+"i": "Event GOQL Filter",
+"t": 10,
+"d": "\u05d1\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e8 \u05de\u05e1\u05e0\u05df \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Extended Family Attributes",
 "i": "Extended Family Attributes",
 "t": 10,
@@ -1394,6 +1416,17 @@
 "s": 3,
 "z": "ExtendedAttributes.addon.tgz",
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
+},
+{
+"n": "\u05de\u05e1\u05e0\u05df GOQL \u05dc\u05de\u05e9\u05e4\u05d7\u05d4",
+"i": "Family GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05de\u05e9\u05e4\u05d7\u05d4 \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Family Overview",
@@ -1512,6 +1545,17 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
+"n": "\u05de\u05e1\u05e0\u05df \u05de\u05d3\u05d9\u05d4 GOQL",
+"i": "Media GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05de\u05d3\u05d9\u05d4 \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u05d3\u05e4\u05d3\u05e4\u05df \u05de\u05d3\u05d9\u05d4",
 "i": "MediaBrowser",
 "t": 10,
@@ -1521,6 +1565,17 @@
 "s": 3,
 "z": "MediaBrowser.addon.tgz",
 "h": "Addon:MediaBrowserGramplet"
+},
+{
+"n": "\u05de\u05e1\u05e0\u05df \u05d4\u05e2\u05e8\u05d4 GOQL",
+"i": "Note GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05d4\u05e2\u05e8\u05d5\u05ea \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05d4\u05e2\u05e8\u05d5\u05ea",
@@ -1543,6 +1598,17 @@
 "s": 3,
 "z": "Participants.addon.tgz",
 "h": "Addon:ParticipantsGramplet"
+},
+{
+"n": "\u05de\u05e1\u05e0\u05df GOQL \u05dc\u05d0\u05d3\u05dd",
+"i": "Person GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05d0\u05d3\u05dd \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Person Overview",
@@ -1601,6 +1667,17 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
+"n": "\u05de\u05e1\u05e0\u05df \u05de\u05e7\u05d5\u05de\u05d5\u05ea GOQL",
+"i": "Place GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u05e0\u05d9\u05e7\u05d5\u05d9 \u05de\u05e7\u05d5\u05de\u05d5\u05ea",
 "i": "PlaceCleanup",
 "t": 10,
@@ -1657,6 +1734,17 @@
 "h": "RelatedRelativesGramplet"
 },
 {
+"n": "\u05de\u05e1\u05e0\u05df \u05de\u05d0\u05d2\u05e8\u05d9\u05dd GOQL",
+"i": "Repository GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05de\u05d0\u05d2\u05e8\u05d9\u05dd \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "\u05d7\u05d9\u05e4\u05d5\u05e9",
 "i": "Search Gramplet",
 "t": 10,
@@ -1667,6 +1755,17 @@
 "z": "SearchGramplet.addon.tgz",
 "h": "https://github.com/gramps-project/addons-source/pull/541",
 "a": 1
+},
+{
+"n": "\u05de\u05e1\u05e0\u05df \u05de\u05e7\u05d5\u05e8 GOQL",
+"i": "Source GOQL Filter",
+"t": 10,
+"d": "\u05d2\u05e8\u05de\u05e4\u05dc\u05d8 \u05e9\u05de\u05e1\u05e4\u05e7 \u05de\u05e1\u05e0\u05df \u05de\u05e7\u05d5\u05e8\u05d5\u05ea \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL)",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "This Day in Family History",
@@ -1803,6 +1902,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Citations matching the <GOQL expression>",
+"i": "CitationMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05de\u05d5\u05d1\u05d0\u05d5\u05ea \u05e9\u05d1\u05d4\u05df \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Events with a tag containing <substring>",
 "i": "EventHasTagSubstr",
 "t": 13,
@@ -1811,6 +1921,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Events matching the <GOQL expression>",
+"i": "EventMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05d0\u05d9\u05e8\u05d5\u05e2\u05d9\u05dd \u05e9\u05d1\u05d4\u05dd \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "People reachable from <Person>, stopping at <Filter> matches",
@@ -1831,6 +1952,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Families matching the <GOQL expression>",
+"i": "FamilyMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05de\u05e9\u05e4\u05d7\u05d5\u05ea \u05e9\u05d1\u05d4\u05df \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Families with events with a selected role",
@@ -1931,6 +2063,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Media matching the <GOQL expression>",
+"i": "MediaMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05de\u05d3\u05d9\u05d4 \u05e9\u05d1\u05d4\u05df \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Notes with a tag containing <substring>",
 "i": "NoteHasTagSubstr",
 "t": 13,
@@ -1939,6 +2082,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Notes matching the <GOQL expression>",
+"i": "NoteMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05d4\u05e2\u05e8\u05d5\u05ea \u05e9\u05d1\u05d4\u05df \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "Patrilineal progenitor of <person>",
@@ -1962,6 +2116,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "People matching the <GOQL expression>",
+"i": "PersonMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05d0\u05e0\u05e9\u05d9\u05dd \u05e9\u05d1\u05d4\u05dd \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "People who are part of families matching <filter>",
 "i": "PersonsInFamilyFilterMatch",
 "t": 13,
@@ -1983,6 +2148,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Places matching the <GOQL expression>",
+"i": "PlaceMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05de\u05e7\u05d5\u05de\u05d5\u05ea \u05e9\u05d1\u05d4\u05dd \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Repositories with a tag containing <substring>",
 "i": "RepositoryHasTagSubstr",
 "t": 13,
@@ -1993,6 +2169,17 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
+"n": "Repositories matching the <GOQL expression>",
+"i": "RepositoryMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05d0\u05d2\u05e8\u05d9\u05dd \u05e9\u05d1\u05d4\u05dd \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
+},
+{
 "n": "Sources with a tag containing <substring>",
 "i": "SourceHasTagSubstr",
 "t": 13,
@@ -2001,6 +2188,17 @@
 "g": "6.0",
 "s": 3,
 "z": "HasTagSubstr.addon.tgz"
+},
+{
+"n": "Sources matching the <GOQL expression>",
+"i": "SourceMatchesExpression",
+"t": 13,
+"d": "\u05d4\u05ea\u05d0\u05de\u05ea \u05de\u05e7\u05d5\u05e8\u05d5\u05ea \u05e9\u05d1\u05d4\u05dd \u05d1\u05d9\u05d8\u05d5\u05d9 where \u05d1\u05e9\u05e4\u05ea\u05be\u05e9\u05d0\u05d9\u05dc\u05ea\u05d5\u05ea\u05be\u05e2\u05e6\u05de\u05d9\u05be\u05d2\u05e8\u05de\u05e4\u05e1 (GOQL), \u05d4\u05d5\u05d0 'true'",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "GOQLFilter.addon.tgz",
+"h": "Addon:GrampsObjectQueryLanguage"
 },
 {
 "n": "\u05e1\u05d9\u05e0\u05d5\u05df \u05d0\u05e0\u05e9\u05d9\u05dd \u05dc\u05e4\u05d9 \u05d2\u05d9\u05dc\u05dd \u05d1\u05e4\u05d8\u05d9\u05e8\u05ea\u05dd",
