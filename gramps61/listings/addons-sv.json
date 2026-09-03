@@ -65,6 +65,17 @@
 "h": "Addon:DynamicWeb_report"
 },
 {
+"n": "Ancestor Tree Expanded",
+"i": "ExpandedAncestorTree",
+"t": 0,
+"d": "Expanded Ancestor Graph showing direct ancestors, siblings, cousins and spouses.",
+"v": "1.0.4",
+"g": "6.1",
+"s": 3,
+"z": "ExpandedAncestorTree.addon.tgz",
+"h": "https://gramps.discourse.group/t/9891"
+},
+{
 "n": "Familjeark",
 "i": "FamilySheet",
 "t": 0,
