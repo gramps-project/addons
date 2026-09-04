@@ -702,7 +702,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "\u05de\u05e1\u05e0\u05db\u05e8\u05df \u05de\u05e1\u05d3\u05be\u05e0\u05ea\u05d5\u05e0\u05d9\u05dd \u05de\u05e7\u05d5\u05de\u05d9 \u05e2\u05dd \u05de\u05d5\u05e4\u05e2 \u05de\u05e8\u05e9\u05ea\u05ea \u05d2\u05e8\u05de\u05e4\u05e1.",
-"v": "1.5.2",
+"v": "1.5.3",
 "g": "6.1",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",
