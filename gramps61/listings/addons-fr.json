@@ -2017,7 +2017,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Base de donn\u00e9es PostgreSQL partag\u00e9e",
-"v": "0.1.19",
+"v": "0.1.20",
 "g": "6.1",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
