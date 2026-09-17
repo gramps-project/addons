@@ -1878,11 +1878,11 @@
 "a": 1
 },
 {
-"n": "Payla\u015f\u0131lan PostgreSQL",
+"n": "SharedPostgreSQL",
 "i": "sharedpostgresql",
 "t": 12,
-"d": "Payla\u015f\u0131lan PostgreSQL Veritaban\u0131",
-"v": "0.1.18",
+"d": "Shared PostgreSQL Database",
+"v": "0.1.19",
 "g": "6.0",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
