@@ -1113,6 +1113,18 @@
 "h": "Addon:CombinedView"
 },
 {
+"n": "Context",
+"i": "contextview",
+"t": 8,
+"d": "A chart placing a person in the context of their immediate family: the couple in the centre, each partner's parents above them, their children below, and each partner's siblings in a column to their own side, eldest at the top. Click any box to re-centre the chart on that person; the name in bold marks the way back to the home person.",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "ContextView.addon.tgz",
+"h": "Addon:Context_View",
+"a": 0
+},
+{
 "n": "Ortskoordinaten Gramplet Ansicht",
 "i": "geoIDplaceCoordinateGramplet",
 "t": 8,
