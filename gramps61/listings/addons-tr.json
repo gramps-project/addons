@@ -2029,7 +2029,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "Payla\u015f\u0131lan PostgreSQL Veritaban\u0131",
-"v": "0.1.21",
+"v": "0.1.22",
 "g": "6.1",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",

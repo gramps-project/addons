@@ -2029,7 +2029,7 @@
 "i": "sharedpostgresql",
 "t": 12,
 "d": "\u5171\u7528 PostgreSQL \u8cc7\u6599\u5eab",
-"v": "0.1.21",
+"v": "0.1.22",
 "g": "6.1",
 "s": 3,
 "z": "SharedPostgreSQL.addon.tgz",
