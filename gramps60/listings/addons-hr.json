@@ -1863,7 +1863,7 @@
 "i": "postgresql",
 "t": 12,
 "d": "PostgreSQL baza podataka",
-"v": "1.0.21",
+"v": "1.0.22",
 "g": "6.0",
 "s": 3,
 "z": "PostgreSQL.addon.tgz",
