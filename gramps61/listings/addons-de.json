@@ -727,7 +727,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Vergleicht eine Gramps-XML-Datenbank mit der aktuellen und erm\u00f6glicht das Zusammenf\u00fchren der Unterschiede.",
-"v": "0.0.29",
+"v": "0.0.30",
 "g": "6.1",
 "s": 3,
 "z": "ImportMerge.addon.tgz",

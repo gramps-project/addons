@@ -727,7 +727,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Porovn\u00e1va datab\u00e1zu Gramps vo form\u00e1te XML s aktu\u00e1lnou datab\u00e1zou a umo\u017e\u0148uje zl\u00fa\u010denie rozdielov.",
-"v": "0.0.29",
+"v": "0.0.30",
 "g": "6.1",
 "s": 3,
 "z": "ImportMerge.addon.tgz",

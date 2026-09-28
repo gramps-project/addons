@@ -727,7 +727,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "Bir Gramps XML veritaban\u0131n\u0131 mevcut veritaban\u0131yla kar\u015f\u0131la\u015ft\u0131r\u0131r ve farkl\u0131l\u0131klar\u0131n birle\u015ftirilmesine olanak tan\u0131r.",
-"v": "0.0.29",
+"v": "0.0.30",
 "g": "6.1",
 "s": 3,
 "z": "ImportMerge.addon.tgz",

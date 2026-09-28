@@ -727,7 +727,7 @@
 "i": "import_merge",
 "t": 2,
 "d": "\u6bd4\u5c0d Gramps XML \u8cc7\u6599\u5eab\u8207\u76ee\u524d\u7684\u8cc7\u6599\u5eab\uff0c\u4e26\u53ef\u5408\u4f75\u5dee\u7570\u3002",
-"v": "0.0.29",
+"v": "0.0.30",
 "g": "6.1",
 "s": 3,
 "z": "ImportMerge.addon.tgz",
