@@ -702,7 +702,7 @@
 "i": "gramps_web_sync",
 "t": 2,
 "d": "\u30ed\u30fc\u30ab\u30eb\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3092Gramps Web\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9\u3068\u540c\u671f\u3057\u307e\u3059\u3002",
-"v": "1.5.7",
+"v": "1.5.8",
 "g": "6.1",
 "s": 3,
 "z": "GrampsWebSync.addon.tgz",
