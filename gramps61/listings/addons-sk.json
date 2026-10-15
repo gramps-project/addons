@@ -713,7 +713,7 @@
 "i": "grampsassistant",
 "t": 2,
 "d": "AI assistant for querying your Gramps family tree",
-"v": "1.0.3",
+"v": "1.0.4",
 "g": "6.1",
 "s": 3,
 "z": "GrampsAssistant.addon.tgz",
