@@ -1602,12 +1602,13 @@
 "i": "Grampy Script",
 "t": 10,
 "d": "\u7279\u5225\u306aGramps Python\u30b9\u30af\u30ea\u30d7\u30c8\u3092\u5b9f\u884c",
-"v": "0.0.10",
+"v": "0.0.11",
 "g": "6.1",
 "s": 3,
 "z": "GrampyScript.addon.tgz",
 "rm": [
-"jedi"
+"jedi",
+"gramps_object_query_language"
 ],
 "h": "Addon:GrampyScript"
 },
