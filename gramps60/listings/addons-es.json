@@ -692,6 +692,18 @@
 "h": "Addon:Gramps_Web_Sync"
 },
 {
+"n": "GWizard File Merge",
+"i": "gwizardmerge",
+"t": 2,
+"d": "Family Tree Processing Tool to compare another genealogy file (GEDCOM, Gramps XML, ...) side-by-side with the open Family Tree and merge selected differences person by person.",
+"v": "0.0.2",
+"g": "6.0",
+"s": 1,
+"z": "GWizardFileMerge.addon.tgz",
+"h": "https://gramps-project.org/wiki/index.php/Addon:GWizardFileMerge_Tool",
+"a": 1
+},
+{
 "n": "Herramienta Importar y Fusionar",
 "i": "import_merge",
 "t": 2,
