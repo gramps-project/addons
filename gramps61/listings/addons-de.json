@@ -1197,11 +1197,11 @@
 "h": "Addon:CombinedView"
 },
 {
-"n": "Context",
+"n": "Kontext",
 "i": "contextview",
 "t": 8,
-"d": "A chart placing a person in the context of their immediate family: the couple in the centre, each partner's parents above them, their children below, and each partner's siblings in a column to their own side, eldest at the top. Click any box to re-centre the chart on that person; the name in bold marks the way back to the home person.",
-"v": "1.0.2",
+"d": "Ein Diagramm, das eine Person in den Kontext ihrer unmittelbaren Familie einordnet: Das Paar steht in der Mitte, dar\u00fcber die Eltern der jeweiligen Partner, darunter die Kinder und in einer Spalte an der jeweiligen Seite die Geschwister der Partner, wobei der \u00c4lteste ganz oben steht. Klick auf ein beliebiges Feld, um das Diagramm auf diese Person zu zentrieren; der fettgedruckte Name markiert den Weg zur\u00fcck zur Ausgangsperson.",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "ContextView.addon.tgz",
