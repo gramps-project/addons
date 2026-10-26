@@ -816,6 +816,16 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
+"n": "Generate Story",
+"i": "storyexport",
+"t": 2,
+"d": "Generates the story of a person or a family (.story.zip): a slideshow of their events with dates, places and photos, for the Gramps Connect Story Viewer",
+"v": "1.0.1",
+"g": "6.1",
+"s": 3,
+"z": "StoryExport.addon.tgz"
+},
+{
 "n": "\u05e1\u05d9\u05e0\u05db\u05e8\u05d5\u05df \u05ea\u05e1\u05de\u05d9\u05db\u05d9\u05dd",
 "i": "syncAssociations",
 "t": 2,
