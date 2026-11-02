@@ -1478,7 +1478,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Aktif ve evde ya\u015fayan ki\u015filer aras\u0131ndaki derin ili\u015fkiyi g\u00f6steren Gramplet",
-"v": "1.0.52",
+"v": "1.0.53",
 "g": "6.1",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

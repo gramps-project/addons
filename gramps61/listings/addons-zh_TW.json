@@ -1478,7 +1478,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "\u986f\u793a\u76ee\u524d\u4eba\u7269\u8207\u9996\u9801\u4eba\u7269\u4e4b\u9593\u6df1\u5c64\u95dc\u4fc2\u7684 Gramplet",
-"v": "1.0.52",
+"v": "1.0.53",
 "g": "6.1",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",

@@ -1478,7 +1478,7 @@
 "i": "Deep Connections Gramplet",
 "t": 10,
 "d": "Gramplet affichant les relations \u00e9troites entre la souche et les autres individus",
-"v": "1.0.52",
+"v": "1.0.53",
 "g": "6.1",
 "s": 3,
 "z": "DeepConnectionsGramplet.addon.tgz",
