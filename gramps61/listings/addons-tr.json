@@ -1650,7 +1650,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Bir ki\u015finin ya\u015fam\u0131 boyunca meydana gelen ilgili tarihsel olaylar\u0131 listeler",
-"v": "0.2.33",
+"v": "0.2.34",
 "g": "6.1",
 "s": 3,
 "z": "HistContext.addon.tgz",

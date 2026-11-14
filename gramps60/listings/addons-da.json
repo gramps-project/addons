@@ -1549,7 +1549,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Viser relevante historiske h\u00e6ndelser igennem en persons levetid",
-"v": "0.2.30",
+"v": "0.2.31",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",

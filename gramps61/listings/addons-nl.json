@@ -1650,7 +1650,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Geeft een overzicht van relevante historische gebeurtenissen gedurende het leven van een persoon",
-"v": "0.2.33",
+"v": "0.2.34",
 "g": "6.1",
 "s": 3,
 "z": "HistContext.addon.tgz",

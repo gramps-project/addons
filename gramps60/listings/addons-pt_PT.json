@@ -1549,7 +1549,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Lista eventos hist\u00f3ricos relevantes durante a vida do indiv\u00edduo",
-"v": "0.2.30",
+"v": "0.2.31",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",

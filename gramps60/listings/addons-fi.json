@@ -1549,7 +1549,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "N\u00e4yt\u00e4 t\u00e4rke\u00e4t historialliset tapahtumat henkil\u00f6n elinaikana",
-"v": "0.2.30",
+"v": "0.2.31",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",

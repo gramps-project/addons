@@ -1650,7 +1650,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Uv\u00e1dza relevantn\u00e9 historick\u00e9 udalosti po\u010das \u010dasu \u017eivota osoby",
-"v": "0.2.33",
+"v": "0.2.34",
 "g": "6.1",
 "s": 3,
 "z": "HistContext.addon.tgz",

@@ -1549,7 +1549,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Liste les \u00e9v\u00e8nements historiques pertinents pendant la vie d'un individu",
-"v": "0.2.30",
+"v": "0.2.31",
 "g": "6.0",
 "s": 3,
 "z": "HistContext.addon.tgz",

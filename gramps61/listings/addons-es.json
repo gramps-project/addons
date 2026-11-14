@@ -1650,7 +1650,7 @@
 "i": "HistContext",
 "t": 10,
 "d": "Listados relevantes de eventos hist\u00f3ricos durante la vida de una Miembro",
-"v": "0.2.33",
+"v": "0.2.34",
 "g": "6.1",
 "s": 3,
 "z": "HistContext.addon.tgz",
