@@ -681,6 +681,17 @@
 "h": "Addon:Extract_Place_Data_from_a_Place_Title"
 },
 {
+"n": "Prepare for Familio export",
+"i": "familiopreptool",
+"t": 2,
+"d": "Adds a missing _UID attribute to persons (without overwriting existing ones) and adds missing 'Marriage' events to families, so that GEDCOM export produces the tags Familio expects.",
+"v": "1.0.2",
+"g": "6.0",
+"s": 3,
+"z": "FamilioPrepTool.addon.tgz",
+"h": "Addon:FamilioPrepTool"
+},
+{
 "n": "\u0412\u0435\u0431-\u0441\u0438\u043d\u0445\u0440\u043e\u043d\u0456\u0437\u0430\u0446\u0456\u044f Gramps",
 "i": "gramps_web_sync",
 "t": 2,
