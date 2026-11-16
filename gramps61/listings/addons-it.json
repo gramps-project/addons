@@ -1207,6 +1207,17 @@
 "h": "Addon:TimelinePedigreeView"
 },
 {
+"n": "Circle Tree View",
+"i": "circletreeview",
+"t": 8,
+"d": "Descendant tree with circular nodes, spouse infinity mark, auto generation depth (max 6), SVG/PNG export",
+"v": "1.4.2",
+"g": "6.1",
+"s": 3,
+"z": "CircleTreeView.addon.tgz",
+"h": "Addon:CircleTreeView"
+},
+{
 "n": "Combinato",
 "i": "combinedview",
 "t": 8,
