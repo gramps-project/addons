@@ -827,11 +827,11 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
-"n": "Generate Story",
+"n": "Generovanie pr\u00edbehu",
 "i": "storyexport",
 "t": 2,
-"d": "Generates the story of a person or a family (.story.zip): a slideshow of their events with dates, places and photos, for the Gramps Connect Story Viewer",
-"v": "1.0.1",
+"d": "Vygeneruje pr\u00edbeh osoby alebo rodiny (.story.zip): prezent\u00e1ciu ich udalost\u00ed s d\u00e1tumami, miestami a fotografiami pre Gramps Connect Story Viewer",
+"v": "1.0.2",
 "g": "6.1",
 "s": 3,
 "z": "StoryExport.addon.tgz"

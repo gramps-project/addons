@@ -827,11 +827,11 @@
 "h": "https://www.grampsweb.org/install_setup/s3/"
 },
 {
-"n": "Generate Story",
+"n": "Geschichte Erstellen",
 "i": "storyexport",
 "t": 2,
-"d": "Generates the story of a person or a family (.story.zip): a slideshow of their events with dates, places and photos, for the Gramps Connect Story Viewer",
-"v": "1.0.1",
+"d": "Erstellt die Geschichte einer Person oder einer Familie (.story.zip): eine Diashow ihrer Ereignisse mit Daten, Orten und Fotos f\u00fcr den Gramps Connect Story Viewer",
+"v": "1.0.2",
 "g": "6.1",
 "s": 3,
 "z": "StoryExport.addon.tgz"
