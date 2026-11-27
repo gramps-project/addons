@@ -1403,11 +1403,11 @@
 "a": 0
 },
 {
-"n": "Citation GOQL Filter",
+"n": "GOQL citeringsfilter",
 "i": "Citation GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language citation filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett citeringsfilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1532,11 +1532,11 @@
 "h": "Edit Image Exif Metadata"
 },
 {
-"n": "Event GOQL Filter",
+"n": "H\u00e4ndelse-GOQL-filter",
 "i": "Event GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language event filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett h\u00e4ndelsefilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1568,11 +1568,11 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
 },
 {
-"n": "Family GOQL Filter",
+"n": "GOQL-filter f\u00f6r familj",
 "i": "Family GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language family filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett familjefilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1713,11 +1713,11 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media GOQL Filter",
+"n": "GOQL mediafilter",
 "i": "Media GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language media filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett mediafilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1738,11 +1738,11 @@
 "h": "Addon:MediaBrowserGramplet"
 },
 {
-"n": "Note GOQL Filter",
+"n": "GOQL notisfilter",
 "i": "Note GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language note filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett notisfilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1774,11 +1774,11 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Person GOQL Filter",
+"n": "GOQL-filter f\u00f6r person",
 "i": "Person GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language person filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett personfilter f\u00f6r gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1838,11 +1838,11 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Place GOQL Filter",
+"n": "Placera GOQL-filter",
 "i": "Place GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language place filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett platsfilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1919,11 +1919,11 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Repository GOQL Filter",
+"n": "GOQL arkivfilter",
 "i": "Repository GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language repository filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett arkivfilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1945,11 +1945,11 @@
 "a": 1
 },
 {
-"n": "Source GOQL Filter",
+"n": "GOQL k\u00e4llfilter",
 "i": "Source GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language source filter",
-"v": "1.0.2",
+"d": "Gramplet som tillhandah\u00e5ller ett k\u00e4llfilter baserat p\u00e5 Gramps objektfr\u00e5gespr\u00e5k",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2105,11 +2105,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Citations matching the <GOQL expression>",
+"n": "Citeringar som matchar <GOQL-uttrycket>",
 "i": "CitationMatchesExpression",
 "t": 13,
-"d": "Matches citations for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar citeringar f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2129,11 +2129,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Events matching the <GOQL expression>",
+"n": "H\u00e4ndelser som matchar <GOQL-uttrycket>",
 "i": "EventMatchesExpression",
 "t": 13,
-"d": "Matches events for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar h\u00e4ndelser f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2163,11 +2163,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Families matching the <GOQL expression>",
+"n": "Familjer som matchar <GOQL-uttrycket>",
 "i": "FamilyMatchesExpression",
 "t": 13,
-"d": "Matches families for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar familjer f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2275,11 +2275,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Media matching the <GOQL expression>",
+"n": "Media som matchar <GOQL-uttrycket>",
 "i": "MediaMatchesExpression",
 "t": 13,
-"d": "Matches media for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar media f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2299,11 +2299,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Notes matching the <GOQL expression>",
+"n": "Anteckningar som matchar <GOQL-uttrycket>",
 "i": "NoteMatchesExpression",
 "t": 13,
-"d": "Matches notes for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar anteckningar f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2334,11 +2334,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "People matching the <GOQL expression>",
+"n": "Personer som matchar <GOQL-uttrycket>",
 "i": "PersonMatchesExpression",
 "t": 13,
-"d": "Matches people for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar personer f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2369,11 +2369,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Places matching the <GOQL expression>",
+"n": "Platser som matchar <GOQL-uttrycket>",
 "i": "PlaceMatchesExpression",
 "t": 13,
-"d": "Matches places for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar platser f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2393,11 +2393,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Repositories matching the <GOQL expression>",
+"n": "Arkivplatser som matchar <GOQL-uttrycket>",
 "i": "RepositoryMatchesExpression",
 "t": 13,
-"d": "Matches repositories for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar arkivplatser f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2417,11 +2417,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Sources matching the <GOQL expression>",
+"n": "K\u00e4llor som matchar <GOQL-uttrycket>",
 "i": "SourceMatchesExpression",
 "t": 13,
-"d": "Matches sources for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Matchar k\u00e4llor f\u00f6r vilka det givna gramps-object-query-language where-expression utv\u00e4rderas till sant",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",

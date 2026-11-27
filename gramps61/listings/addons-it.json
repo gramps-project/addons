@@ -1403,11 +1403,11 @@
 "a": 0
 },
 {
-"n": "Citation GOQL Filter",
+"n": "Filtro GOQL citazioni",
 "i": "Citation GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language citation filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro citazioni in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1532,11 +1532,11 @@
 "h": "Edit Image Exif Metadata"
 },
 {
-"n": "Event GOQL Filter",
+"n": "Filtro GOQL eventi",
 "i": "Event GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language event filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro eventi in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1568,11 +1568,11 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
 },
 {
-"n": "Family GOQL Filter",
+"n": "Filtro GOQL famiglie",
 "i": "Family GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language family filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro famiglie in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1713,11 +1713,11 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media GOQL Filter",
+"n": "Filtro GOQL media",
 "i": "Media GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language media filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro media in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1738,11 +1738,11 @@
 "h": "Addon:MediaBrowserGramplet"
 },
 {
-"n": "Note GOQL Filter",
+"n": "Filtro GOQL note",
 "i": "Note GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language note filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro note in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1774,11 +1774,11 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Person GOQL Filter",
+"n": "Filtro GOQL persone",
 "i": "Person GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language person filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro persone in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1838,11 +1838,11 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Place GOQL Filter",
+"n": "Filtro GOQL luoghi",
 "i": "Place GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language place filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro luoghi in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1919,11 +1919,11 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Repository GOQL Filter",
+"n": "Filtro GOQL depositi",
 "i": "Repository GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language repository filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro depositi in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1945,11 +1945,11 @@
 "a": 1
 },
 {
-"n": "Source GOQL Filter",
+"n": "Filtro GOQL fonti",
 "i": "Source GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language source filter",
-"v": "1.0.2",
+"d": "Gramplet che fornisce un filtro fonti in gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2105,11 +2105,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Citations matching the <GOQL expression>",
+"n": "Citazioni che corrispondono all'<espressione GOQL>",
 "i": "CitationMatchesExpression",
 "t": 13,
-"d": "Matches citations for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina le citazioni per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2129,11 +2129,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Events matching the <GOQL expression>",
+"n": "Eventi che corrispondono all'<espressione GOQL>",
 "i": "EventMatchesExpression",
 "t": 13,
-"d": "Matches events for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina gli eventi per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2163,11 +2163,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Families matching the <GOQL expression>",
+"n": "Famiglie che corrispondono all'<espressione GOQL>",
 "i": "FamilyMatchesExpression",
 "t": 13,
-"d": "Matches families for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina le famiglie per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2275,11 +2275,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Media matching the <GOQL expression>",
+"n": "Media che corrispondono all'<espressione GOQL>",
 "i": "MediaMatchesExpression",
 "t": 13,
-"d": "Matches media for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina i media per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2299,11 +2299,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Notes matching the <GOQL expression>",
+"n": "Note che corrispondono all'<espressione GOQL>",
 "i": "NoteMatchesExpression",
 "t": 13,
-"d": "Matches notes for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina le note per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2334,11 +2334,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "People matching the <GOQL expression>",
+"n": "Persone che corrispondono all'<espressione GOQL>",
 "i": "PersonMatchesExpression",
 "t": 13,
-"d": "Matches people for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina le persone per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2369,11 +2369,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Places matching the <GOQL expression>",
+"n": "Luoghi che corrispondono all'<espressione GOQL>",
 "i": "PlaceMatchesExpression",
 "t": 13,
-"d": "Matches places for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina i luoghi per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2393,11 +2393,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Repositories matching the <GOQL expression>",
+"n": "Depositi che corrispondono all'<espressione GOQL>",
 "i": "RepositoryMatchesExpression",
 "t": 13,
-"d": "Matches repositories for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina i depositi per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2417,11 +2417,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Sources matching the <GOQL expression>",
+"n": "Fonti che corrispondono all'<espressione GOQL>",
 "i": "SourceMatchesExpression",
 "t": 13,
-"d": "Matches sources for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Abbina le fonti per cui l'espressione where in gramps-object-query-language indicata risulta vera",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",

@@ -1403,11 +1403,11 @@
 "a": 0
 },
 {
-"n": "Citation GOQL Filter",
+"n": "Filtr GOQL pro citace",
 "i": "Citation GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language citation filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr citac\u00ed v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1532,11 +1532,11 @@
 "h": "Edit Image Exif Metadata"
 },
 {
-"n": "Event GOQL Filter",
+"n": "Filtr ud\u00e1lost\u00ed GOQL",
 "i": "Event GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language event filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr ud\u00e1lost\u00ed v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1568,11 +1568,11 @@
 "h": "Addon:ExtendedAttributesGramplet#Extended_Person_Attributes_Gramplet"
 },
 {
-"n": "Family GOQL Filter",
+"n": "Filtr GOQL pro rodiny",
 "i": "Family GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language family filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr rodin v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1713,11 +1713,11 @@
 "h": "Addon:LastChange#Latest_Changes_Gramplet"
 },
 {
-"n": "Media GOQL Filter",
+"n": "Filtr GOQL pro m\u00e9dia",
 "i": "Media GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language media filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr m\u00e9di\u00ed v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1738,11 +1738,11 @@
 "h": "Addon:MediaBrowserGramplet"
 },
 {
-"n": "Note GOQL Filter",
+"n": "Filtr GOQL pro pozn\u00e1mky",
 "i": "Note GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language note filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr pozn\u00e1mek v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1774,11 +1774,11 @@
 "h": "Addon:ParticipantsGramplet"
 },
 {
-"n": "Person GOQL Filter",
+"n": "Filtr GOQL pro osoby",
 "i": "Person GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language person filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr osob v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1838,11 +1838,11 @@
 "h": "Addon:PlaceCoordinatesGramplet"
 },
 {
-"n": "Place GOQL Filter",
+"n": "Filtr GOQL pro m\u00edsta",
 "i": "Place GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language place filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr m\u00edst v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1919,11 +1919,11 @@
 "h": "RelatedRelativesGramplet"
 },
 {
-"n": "Repository GOQL Filter",
+"n": "Filtr GOQL pro archivy",
 "i": "Repository GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language repository filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr archiv\u016f v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -1945,11 +1945,11 @@
 "a": 1
 },
 {
-"n": "Source GOQL Filter",
+"n": "Filtr GOQL pro prameny",
 "i": "Source GOQL Filter",
 "t": 10,
-"d": "Gramplet providing a gramps-object-query-language source filter",
-"v": "1.0.2",
+"d": "Gramplet poskytuj\u00edc\u00ed filtr pramen\u016f v jazyce gramps-object-query-language",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2105,11 +2105,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Citations matching the <GOQL expression>",
+"n": "Citace odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "CitationMatchesExpression",
 "t": 13,
-"d": "Matches citations for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere citace, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2129,11 +2129,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Events matching the <GOQL expression>",
+"n": "Ud\u00e1losti odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "EventMatchesExpression",
 "t": 13,
-"d": "Matches events for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere ud\u00e1losti, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2163,11 +2163,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Families matching the <GOQL expression>",
+"n": "Rodiny odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "FamilyMatchesExpression",
 "t": 13,
-"d": "Matches families for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere rodiny, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2275,11 +2275,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Media matching the <GOQL expression>",
+"n": "M\u00e9dia odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "MediaMatchesExpression",
 "t": 13,
-"d": "Matches media for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere m\u00e9dia, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2299,11 +2299,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Notes matching the <GOQL expression>",
+"n": "Pozn\u00e1mky odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "NoteMatchesExpression",
 "t": 13,
-"d": "Matches notes for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere pozn\u00e1mky, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2334,11 +2334,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "People matching the <GOQL expression>",
+"n": "Osoby odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "PersonMatchesExpression",
 "t": 13,
-"d": "Matches people for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere osoby, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2369,11 +2369,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Places matching the <GOQL expression>",
+"n": "M\u00edsta odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "PlaceMatchesExpression",
 "t": 13,
-"d": "Matches places for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere m\u00edsta, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2393,11 +2393,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Repositories matching the <GOQL expression>",
+"n": "Archivy odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "RepositoryMatchesExpression",
 "t": 13,
-"d": "Matches repositories for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere archivy, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
@@ -2417,11 +2417,11 @@
 "z": "HasTagSubstr.addon.tgz"
 },
 {
-"n": "Sources matching the <GOQL expression>",
+"n": "Prameny odpov\u00eddaj\u00edc\u00ed <v\u00fdrazu GOQL>",
 "i": "SourceMatchesExpression",
 "t": 13,
-"d": "Matches sources for which the given gramps-object-query-language where-expression evaluates to true",
-"v": "1.0.2",
+"d": "Vybere prameny, pro kter\u00e9 se zadan\u00fd podm\u00ednkov\u00fd v\u00fdraz jazyka gramps-object-query-language vyhodnot\u00ed jako pravdiv\u00fd",
+"v": "1.0.3",
 "g": "6.1",
 "s": 3,
 "z": "GOQLFilter.addon.tgz",
